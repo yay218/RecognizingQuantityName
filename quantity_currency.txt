@@ -1,0 +1,931 @@
+178e4b36-1518-4f58-be91-a3e2a39ce9ca;a1201553-1ec4-432d-9d28-7eb3a88534a1;COMPARABLE RENTAL 1  Est. Gross Income
+178e4b36-1518-4f58-be91-a3e2a39ce9ca;a1201553-1ec4-432d-9d28-7eb3a88534a1;COMPARABLE RENTAL 2  Est. Gross Income
+848b5681-21e0-4d92-b0b5-6f4c297b6631;b5d4546d-b271-4534-ace3-604c7e7db27e;State Cost
+907c7636-2a9c-49a2-9205-2db03cde7cbb;021cb72f-b62a-4d98-811e-05d17ff6774a;Total Amount Reimbursed
+907c7636-2a9c-49a2-9205-2db03cde7cbb;021cb72f-b62a-4d98-811e-05d17ff6774a;Medicaid Amount Reimbursed
+907c7636-2a9c-49a2-9205-2db03cde7cbb;021cb72f-b62a-4d98-811e-05d17ff6774a;Non Medicaid Amount Reimbursed
+6b1fdf96-062c-4a38-826b-38bcaa1c4187;a4712663-0183-4823-a046-349b89817cfb;MANHATTAN – COOPERATIVES COMPARABLE PROPERTIES – Est. Gross Income
+6b1fdf96-062c-4a38-826b-38bcaa1c4187;a4712663-0183-4823-a046-349b89817cfb;COMPARABLE RENTAL – 1 –Est. Gross Income
+6b1fdf96-062c-4a38-826b-38bcaa1c4187;a4712663-0183-4823-a046-349b89817cfb;COMPARABLE RENTAL – 2 –Est. Gross Income
+a6da4918-cfa6-42a0-af1d-aba4c13f16a8;948392e3-6713-417a-8268-11cb8388ddc0;FeeAmount
+a6da4918-cfa6-42a0-af1d-aba4c13f16a8;948392e3-6713-417a-8268-11cb8388ddc0;ExtraFeeAmount
+a6da4918-cfa6-42a0-af1d-aba4c13f16a8;948392e3-6713-417a-8268-11cb8388ddc0;NetAmount
+d1338004-9142-4e86-a654-807b474ec224;e70988a5-713b-4cb4-8103-b6d5294665c2;Lease Annual Rent Amount
+e1492810-eb22-482d-814c-15d2cd65b2fa;d9266e11-73fa-4e26-8f4e-cbe96d7958b4;Payment Amount
+57a56820-bfa2-477c-954f-27c7cdc3c8a9;c1469757-5fc7-4095-823e-5f9104c97221;BROOKLYN CONDOMINIUM PROPERTY Est. Gross Income
+57a56820-bfa2-477c-954f-27c7cdc3c8a9;c1469757-5fc7-4095-823e-5f9104c97221;COMPARABLE RENTAL 1  Est. Gross Income
+57a56820-bfa2-477c-954f-27c7cdc3c8a9;c1469757-5fc7-4095-823e-5f9104c97221;COMPARABLE RENTAL 2  Est. Gross Income
+346f6e64-ee34-4143-b31a-2f903816b333;2f70c279-1fd9-48bf-bd26-44ef47b2996d;Federal Entitlement Amount
+66440eb1-1c25-4197-9af2-d201800d8142;62ceafd0-8186-47c6-bec5-fce526f42503;Receipts - Individual Income Tax Withholding
+66440eb1-1c25-4197-9af2-d201800d8142;62ceafd0-8186-47c6-bec5-fce526f42503;Receipts - Individual Income Tax Estimate Payments
+66440eb1-1c25-4197-9af2-d201800d8142;62ceafd0-8186-47c6-bec5-fce526f42503;Receipts - Individual Income Tax Returns
+66440eb1-1c25-4197-9af2-d201800d8142;62ceafd0-8186-47c6-bec5-fce526f42503;Receipts - Corporation Income tax
+66440eb1-1c25-4197-9af2-d201800d8142;62ceafd0-8186-47c6-bec5-fce526f42503;Refunds - Individual Income Tax
+66440eb1-1c25-4197-9af2-d201800d8142;62ceafd0-8186-47c6-bec5-fce526f42503;Refunds - Corporation Income Tax
+53f8e615-3297-4912-bf02-2185757b0eb7;b31f2ef3-cec5-4a63-aeb6-bc261b73f627;CaseMgmt_InsuranceCost
+53f8e615-3297-4912-bf02-2185757b0eb7;b31f2ef3-cec5-4a63-aeb6-bc261b73f627;ClinicServicesCost
+53f8e615-3297-4912-bf02-2185757b0eb7;b31f2ef3-cec5-4a63-aeb6-bc261b73f627;DentalServicesCost
+53f8e615-3297-4912-bf02-2185757b0eb7;b31f2ef3-cec5-4a63-aeb6-bc261b73f627;EPSDTCost
+53f8e615-3297-4912-bf02-2185757b0eb7;b31f2ef3-cec5-4a63-aeb6-bc261b73f627;ERCost
+53f8e615-3297-4912-bf02-2185757b0eb7;b31f2ef3-cec5-4a63-aeb6-bc261b73f627;HCBSCost
+53f8e615-3297-4912-bf02-2185757b0eb7;b31f2ef3-cec5-4a63-aeb6-bc261b73f627;HomeHealthCost
+53f8e615-3297-4912-bf02-2185757b0eb7;b31f2ef3-cec5-4a63-aeb6-bc261b73f627;HospiceCost
+53f8e615-3297-4912-bf02-2185757b0eb7;b31f2ef3-cec5-4a63-aeb6-bc261b73f627;ICFMRCost
+53f8e615-3297-4912-bf02-2185757b0eb7;b31f2ef3-cec5-4a63-aeb6-bc261b73f627;InpatientCareCost
+53f8e615-3297-4912-bf02-2185757b0eb7;b31f2ef3-cec5-4a63-aeb6-bc261b73f627;LabRadiologyCost
+53f8e615-3297-4912-bf02-2185757b0eb7;b31f2ef3-cec5-4a63-aeb6-bc261b73f627;NursingFacilityCost
+53f8e615-3297-4912-bf02-2185757b0eb7;b31f2ef3-cec5-4a63-aeb6-bc261b73f627;OtherServicesCost
+53f8e615-3297-4912-bf02-2185757b0eb7;b31f2ef3-cec5-4a63-aeb6-bc261b73f627;OutPatientCost
+53f8e615-3297-4912-bf02-2185757b0eb7;b31f2ef3-cec5-4a63-aeb6-bc261b73f627;PDDCost
+53f8e615-3297-4912-bf02-2185757b0eb7;b31f2ef3-cec5-4a63-aeb6-bc261b73f627;PrescDRUGsCost
+53f8e615-3297-4912-bf02-2185757b0eb7;b31f2ef3-cec5-4a63-aeb6-bc261b73f627;RehabCost
+53f8e615-3297-4912-bf02-2185757b0eb7;b31f2ef3-cec5-4a63-aeb6-bc261b73f627;SchoolBasedCost
+53f8e615-3297-4912-bf02-2185757b0eb7;b31f2ef3-cec5-4a63-aeb6-bc261b73f627;TherapyCost
+53f8e615-3297-4912-bf02-2185757b0eb7;b31f2ef3-cec5-4a63-aeb6-bc261b73f627;TotalCost
+fab7a301-8117-4db3-bfb5-26c3f38e6b2a;1caec02a-0f77-464a-808f-5fa99d4c749b;cost to Start a Business
+fab7a301-8117-4db3-bfb5-26c3f38e6b2a;1caec02a-0f77-464a-808f-5fa99d4c749b;cost to Register a Property
+eb04f6ac-9e2c-430c-af03-241a85458f91;b81409a5-e54d-462a-a38c-eac3d9f611fd;Contract Amount
+827f2f02-dae6-4a23-898e-b06034d6e14a;329c2c1d-b520-47f5-90ca-1f4d8529bc88;Total_Cost
+8cc79470-8dea-4ed9-a35a-c79e6a5c6c6c;311bd89c-8741-4735-b5fd-5144c18f97ef;Amount (In Dollars)
+7514c88f-c53c-4d8c-9c5c-41413b8ba3d2;f9f10e47-b387-4592-a53b-e919ebea2484;OMOAwardAmount
+27e1a524-0266-4384-ae1c-c70ecebc7e43;7e65d48e-00bf-4e15-9903-5fb927c6de1a;Total Financial Plan Amount
+27e1a524-0266-4384-ae1c-c70ecebc7e43;7e65d48e-00bf-4e15-9903-5fb927c6de1a;Total Adopted Budget Amount
+27e1a524-0266-4384-ae1c-c70ecebc7e43;7e65d48e-00bf-4e15-9903-5fb927c6de1a;Total Current Budget Amount
+27e1a524-0266-4384-ae1c-c70ecebc7e43;7e65d48e-00bf-4e15-9903-5fb927c6de1a;Federal Funds Financial Plan Amount
+27e1a524-0266-4384-ae1c-c70ecebc7e43;7e65d48e-00bf-4e15-9903-5fb927c6de1a;Federal Funds Adopted Budget Amount
+27e1a524-0266-4384-ae1c-c70ecebc7e43;7e65d48e-00bf-4e15-9903-5fb927c6de1a;Federal Funds Current Budget Amount
+27e1a524-0266-4384-ae1c-c70ecebc7e43;7e65d48e-00bf-4e15-9903-5fb927c6de1a;State  Funds Financial Plan Amount
+27e1a524-0266-4384-ae1c-c70ecebc7e43;7e65d48e-00bf-4e15-9903-5fb927c6de1a;State Funds Adopted Budget Amount
+27e1a524-0266-4384-ae1c-c70ecebc7e43;7e65d48e-00bf-4e15-9903-5fb927c6de1a;State Funds Current Budget Amount
+27e1a524-0266-4384-ae1c-c70ecebc7e43;7e65d48e-00bf-4e15-9903-5fb927c6de1a;Inter-Fund Agreement Funds Financial Plan Amount
+27e1a524-0266-4384-ae1c-c70ecebc7e43;7e65d48e-00bf-4e15-9903-5fb927c6de1a;Inter-Fund Agreement Funds Adopted Budget Amount
+27e1a524-0266-4384-ae1c-c70ecebc7e43;7e65d48e-00bf-4e15-9903-5fb927c6de1a;Inter-Fund Agreement Funds Current Budget Amount
+27e1a524-0266-4384-ae1c-c70ecebc7e43;7e65d48e-00bf-4e15-9903-5fb927c6de1a;Intra-City Sales Funds Financial Plan Amount
+27e1a524-0266-4384-ae1c-c70ecebc7e43;7e65d48e-00bf-4e15-9903-5fb927c6de1a;Intra-City Sales Funds Adopted Budget Amount
+27e1a524-0266-4384-ae1c-c70ecebc7e43;7e65d48e-00bf-4e15-9903-5fb927c6de1a;Intra-City Sales Funds Current Budget Amount
+27e1a524-0266-4384-ae1c-c70ecebc7e43;7e65d48e-00bf-4e15-9903-5fb927c6de1a;Other Categorical Funds Financial Plan Amount
+27e1a524-0266-4384-ae1c-c70ecebc7e43;7e65d48e-00bf-4e15-9903-5fb927c6de1a;Other Categorical Funds Adopted Budget Amount
+27e1a524-0266-4384-ae1c-c70ecebc7e43;7e65d48e-00bf-4e15-9903-5fb927c6de1a;Other Categorical Funds Current Budget Amount
+27e1a524-0266-4384-ae1c-c70ecebc7e43;7e65d48e-00bf-4e15-9903-5fb927c6de1a;Community Development Funds Financial Plan Amount
+27e1a524-0266-4384-ae1c-c70ecebc7e43;7e65d48e-00bf-4e15-9903-5fb927c6de1a;Community Development Funds Adopted Budget Amount
+27e1a524-0266-4384-ae1c-c70ecebc7e43;7e65d48e-00bf-4e15-9903-5fb927c6de1a;Community Development Funds Current Budget Amount
+27e1a524-0266-4384-ae1c-c70ecebc7e43;7e65d48e-00bf-4e15-9903-5fb927c6de1a;City Funds Financial Plan Amount
+27e1a524-0266-4384-ae1c-c70ecebc7e43;7e65d48e-00bf-4e15-9903-5fb927c6de1a;City Funds Adopted Budget Amount
+27e1a524-0266-4384-ae1c-c70ecebc7e43;7e65d48e-00bf-4e15-9903-5fb927c6de1a;City Funds Current Budget Amount
+2b63e091-09bb-4adc-872b-0957cf1ea9fe;cff95bd8-45f4-44d5-a43f-ebe5fe26e0f3;Cost to Start a Business
+2b63e091-09bb-4adc-872b-0957cf1ea9fe;cff95bd8-45f4-44d5-a43f-ebe5fe26e0f3;Cost to Register a Property
+2b63e091-09bb-4adc-872b-0957cf1ea9fe;83e45fec-1388-4dfa-b84d-524f8b422c41; BusStartUpCostMin
+2b63e091-09bb-4adc-872b-0957cf1ea9fe;83e45fec-1388-4dfa-b84d-524f8b422c41; BusStartUpCostMax
+11bf06ec-dbd2-4dda-a230-016b656163ac;9c04c6f6-18d7-49ef-a06d-12266dc58e5a;cost
+8c634512-f447-4234-af95-1b910488d697;ddae4613-e93d-474a-b376-6691a115200d;LOW INCOME HOUSING  TAX CREDIT UNITS
+2160be6b-1dd9-47b3-b9dc-7f9d91231195;43220f43-ae84-4560-8bf7-0841ac13d2a1;Total Amount Reimbursed
+2160be6b-1dd9-47b3-b9dc-7f9d91231195;43220f43-ae84-4560-8bf7-0841ac13d2a1;Medicaid Amount Reimbursed
+2160be6b-1dd9-47b3-b9dc-7f9d91231195;43220f43-ae84-4560-8bf7-0841ac13d2a1;Non Medicaid Amount Reimbursed
+6eeb4234-8251-451c-9e61-0ca841471d94;c7456ff6-ff17-4486-831c-4752f766c813;Total Amount Reimbursed
+6eeb4234-8251-451c-9e61-0ca841471d94;c7456ff6-ff17-4486-831c-4752f766c813;Medicaid Amount Reimbursed
+6eeb4234-8251-451c-9e61-0ca841471d94;c7456ff6-ff17-4486-831c-4752f766c813;Non Medicaid Amount Reimbursed
+399d1e78-c5ba-4fe5-b92c-9ade3bc783c2;d74b056c-e47f-4034-a698-cc6f45278738;Amount of Credit
+399d1e78-c5ba-4fe5-b92c-9ade3bc783c2;d74b056c-e47f-4034-a698-cc6f45278738;Median Amount of Credit
+399d1e78-c5ba-4fe5-b92c-9ade3bc783c2;d74b056c-e47f-4034-a698-cc6f45278738;Mean Amount of Credit
+87438fbb-a2d5-4e90-bb00-bdc2b5086db7;7a565ca7-e06a-4e37-9695-6dad3928a35d;Adopted Budget Amount
+87438fbb-a2d5-4e90-bb00-bdc2b5086db7;7a565ca7-e06a-4e37-9695-6dad3928a35d;Current Modified Budget Amount
+87438fbb-a2d5-4e90-bb00-bdc2b5086db7;7a565ca7-e06a-4e37-9695-6dad3928a35d;Year 1 Revenue Amount
+87438fbb-a2d5-4e90-bb00-bdc2b5086db7;7a565ca7-e06a-4e37-9695-6dad3928a35d;Year 2 Revenue Amount
+87438fbb-a2d5-4e90-bb00-bdc2b5086db7;7a565ca7-e06a-4e37-9695-6dad3928a35d;Year 3 Revenue Amount
+87438fbb-a2d5-4e90-bb00-bdc2b5086db7;7a565ca7-e06a-4e37-9695-6dad3928a35d;Year 4 Revenue Amount
+87438fbb-a2d5-4e90-bb00-bdc2b5086db7;7a565ca7-e06a-4e37-9695-6dad3928a35d;Year 5 Revenue Amount
+66488e75-65c0-4663-86ed-307437f21ebc;a013e9b6-8cff-4e06-b157-75d201616a93;Months High Cost
+b6e3478d-91b9-479f-992e-fe129db3efab;849ce3c5-11d9-4d32-82b8-882c73b25c86;Invoice Amount
+b6e3478d-91b9-479f-992e-fe129db3efab;849ce3c5-11d9-4d32-82b8-882c73b25c86;Penalty Amount
+b6e3478d-91b9-479f-992e-fe129db3efab;849ce3c5-11d9-4d32-82b8-882c73b25c86;Interest Amount
+b6e3478d-91b9-479f-992e-fe129db3efab;849ce3c5-11d9-4d32-82b8-882c73b25c86;Paid Amount
+db9bb4f3-38c2-4173-bfe4-51cb3f450f4f;cab7b7d0-2ae3-47cf-9c7e-48bd13148818;Total Amount Reimbursed
+db9bb4f3-38c2-4173-bfe4-51cb3f450f4f;cab7b7d0-2ae3-47cf-9c7e-48bd13148818;Medicaid Amount Reimbursed
+db9bb4f3-38c2-4173-bfe4-51cb3f450f4f;cab7b7d0-2ae3-47cf-9c7e-48bd13148818;Non Medicaid Amount Reimbursed
+d7dc83b6-a64d-4f2b-8fcd-b01bfe4788d6;772900d3-dab2-42f5-83fd-96eb0f42e796;$
+2a7f994c-6195-452e-97cf-0cb6864146cf;4dea3ca3-8546-4641-b819-1224336a35ff;BRONX – COOPERATIVES COMPARABLE PROPERTIES – Est. Gross Income
+2a7f994c-6195-452e-97cf-0cb6864146cf;4dea3ca3-8546-4641-b819-1224336a35ff;COMPARABLE RENTAL – 1 –Est. Gross Income
+2a7f994c-6195-452e-97cf-0cb6864146cf;4dea3ca3-8546-4641-b819-1224336a35ff;COMPARABLE RENTAL – 2 –Est. Gross Income
+b65fa29a-6d46-474a-a56c-8dce2675b299;c5ffd86a-6708-43e4-b517-7ecff92465ac;BRONX – COOPERATIVES COMPARABLE PROPERTIES – Est. Gross Income
+b65fa29a-6d46-474a-a56c-8dce2675b299;c5ffd86a-6708-43e4-b517-7ecff92465ac;COMPARABLE RENTAL – 1 –Est. Gross Income
+b65fa29a-6d46-474a-a56c-8dce2675b299;c5ffd86a-6708-43e4-b517-7ecff92465ac;COMPARABLE RENTAL – 2 –Est. Gross Income
+279d9a47-e2e3-4e44-a9cc-0c9ad66188d1;4234c7a9-cd26-4c2a-8ad8-c3a7d13ab14d;Cost
+1829a276-f316-46ee-b8ee-dcf70c89b8fa;e72d03e1-94ce-462a-be77-d0d7138523e2;MAINT_DOLLARS
+e36f8624-1989-4eec-83f1-d27dffd9ea76;d4b58c8a-17b6-4121-af48-fd05cfbb3fd9; Site Preparation Component Costs
+e36f8624-1989-4eec-83f1-d27dffd9ea76;d4b58c8a-17b6-4121-af48-fd05cfbb3fd9; Tangible Property Component Costs
+e36f8624-1989-4eec-83f1-d27dffd9ea76;d4b58c8a-17b6-4121-af48-fd05cfbb3fd9; OnSite Groundwater Remediation Costs
+e36f8624-1989-4eec-83f1-d27dffd9ea76;d4b58c8a-17b6-4121-af48-fd05cfbb3fd9; Total Costs
+423e7097-1e10-4fc1-b430-084102df55ef;fdf011bd-0fa8-45bc-a34a-028184bad540;Payment Amount
+90fd470c-4d51-4cbf-9f3d-82b61b6df448;6bd7177e-25a3-4322-9f1c-149cc08549a1;Total Amount Reimbursed
+90fd470c-4d51-4cbf-9f3d-82b61b6df448;6bd7177e-25a3-4322-9f1c-149cc08549a1;Medicaid Amount Reimbursed
+90fd470c-4d51-4cbf-9f3d-82b61b6df448;6bd7177e-25a3-4322-9f1c-149cc08549a1;Non Medicaid Amount Reimbursed
+f93d2c68-688d-4e34-b08c-57d51f3b677f;54950369-bdd5-434f-bfa5-21e49a1825d7; Bond Series Par Amount
+a911d068-09b2-4aa5-8419-bbaef036e0fd;bd3f65fc-0142-4fb0-92d6-70ebd5cfc9f9;Revenue ($ million)
+8680eae2-b356-41b7-acf6-efa3e539ac88;201ba90b-7c62-4335-9602-45554036be75;Cost to Start a Business
+8680eae2-b356-41b7-acf6-efa3e539ac88;201ba90b-7c62-4335-9602-45554036be75;Cost to Register a Property
+8680eae2-b356-41b7-acf6-efa3e539ac88;3c4628a0-f329-4e07-bff4-616f504a226c; LRAIFCCostMin
+8680eae2-b356-41b7-acf6-efa3e539ac88;3c4628a0-f329-4e07-bff4-616f504a226c; LRAIFCCostMax
+c376fb7c-fc7b-4cd2-b8bb-5cc0efdc79dd;52f6a2a4-ed7a-4200-9079-94902f1f1fc2;SMALL PS COST
+c376fb7c-fc7b-4cd2-b8bb-5cc0efdc79dd;52f6a2a4-ed7a-4200-9079-94902f1f1fc2;PS/IS COST
+c376fb7c-fc7b-4cd2-b8bb-5cc0efdc79dd;52f6a2a4-ed7a-4200-9079-94902f1f1fc2;IS/HS COST
+c376fb7c-fc7b-4cd2-b8bb-5cc0efdc79dd;52f6a2a4-ed7a-4200-9079-94902f1f1fc2;TOTAL COST
+dadb3c1c-b3db-4666-9592-3ec0e67f22b9;d1c020cc-be37-417d-9876-5f02cd7ca5ab;CaseMgmt_InsuranceCost
+dadb3c1c-b3db-4666-9592-3ec0e67f22b9;d1c020cc-be37-417d-9876-5f02cd7ca5ab;ClinicServicesCost
+dadb3c1c-b3db-4666-9592-3ec0e67f22b9;d1c020cc-be37-417d-9876-5f02cd7ca5ab;DentalServicesCost
+dadb3c1c-b3db-4666-9592-3ec0e67f22b9;d1c020cc-be37-417d-9876-5f02cd7ca5ab;EPSDTCost
+dadb3c1c-b3db-4666-9592-3ec0e67f22b9;d1c020cc-be37-417d-9876-5f02cd7ca5ab;ERCost
+dadb3c1c-b3db-4666-9592-3ec0e67f22b9;d1c020cc-be37-417d-9876-5f02cd7ca5ab;HCBSCost
+dadb3c1c-b3db-4666-9592-3ec0e67f22b9;d1c020cc-be37-417d-9876-5f02cd7ca5ab;HomeHealthCost
+dadb3c1c-b3db-4666-9592-3ec0e67f22b9;d1c020cc-be37-417d-9876-5f02cd7ca5ab;HospiceCost
+dadb3c1c-b3db-4666-9592-3ec0e67f22b9;d1c020cc-be37-417d-9876-5f02cd7ca5ab;ICFMRCost
+dadb3c1c-b3db-4666-9592-3ec0e67f22b9;d1c020cc-be37-417d-9876-5f02cd7ca5ab;InpatientCareCost
+dadb3c1c-b3db-4666-9592-3ec0e67f22b9;d1c020cc-be37-417d-9876-5f02cd7ca5ab;LabRadiologyCost
+dadb3c1c-b3db-4666-9592-3ec0e67f22b9;d1c020cc-be37-417d-9876-5f02cd7ca5ab;NursingFacilityCost
+dadb3c1c-b3db-4666-9592-3ec0e67f22b9;d1c020cc-be37-417d-9876-5f02cd7ca5ab;OtherServicesCost
+dadb3c1c-b3db-4666-9592-3ec0e67f22b9;d1c020cc-be37-417d-9876-5f02cd7ca5ab;OutPatientCost
+dadb3c1c-b3db-4666-9592-3ec0e67f22b9;d1c020cc-be37-417d-9876-5f02cd7ca5ab;PDDCost
+dadb3c1c-b3db-4666-9592-3ec0e67f22b9;d1c020cc-be37-417d-9876-5f02cd7ca5ab;PrescDRUGsCost
+dadb3c1c-b3db-4666-9592-3ec0e67f22b9;d1c020cc-be37-417d-9876-5f02cd7ca5ab;RehabCost
+dadb3c1c-b3db-4666-9592-3ec0e67f22b9;d1c020cc-be37-417d-9876-5f02cd7ca5ab;SchoolBasedCost
+dadb3c1c-b3db-4666-9592-3ec0e67f22b9;d1c020cc-be37-417d-9876-5f02cd7ca5ab;TherapyCost
+dadb3c1c-b3db-4666-9592-3ec0e67f22b9;d1c020cc-be37-417d-9876-5f02cd7ca5ab;TotalCost
+8dd7f38a-9781-4666-8791-3bc05ffc1d23;29344f65-60f0-4c92-bbf0-d2b92eaf83aa;Total Tourism-related sales tax revenues ($ millions)
+8dd7f38a-9781-4666-8791-3bc05ffc1d23;29344f65-60f0-4c92-bbf0-d2b92eaf83aa;Dollar amount of total project costs (capital investment) anticipated for projects settled ($ millions)
+8dd7f38a-9781-4666-8791-3bc05ffc1d23;29344f65-60f0-4c92-bbf0-d2b92eaf83aa;Private sector dollars leveraged on financial incentives (figures are ratios, for example 23 is 23 to 1)
+2cf6e68f-8457-454a-a1ea-dfae024a11b8;0c1104ce-2cd8-4724-bf68-3d802820a842;FeeAmount
+c23cd02f-b3ee-4e2e-980c-6333373db680;bcef9128-bed0-42d1-9ae8-bbe74cf6eb29;TOTALCOST
+ff273b67-bb67-4f35-bf84-bb22428473f2;edce04df-6ddc-482c-9cdd-39f9d3b24f3d;QUEENS â CONDOMINIUMS COMPARABLE PROPERTIES â Estimated Gross Income
+ff273b67-bb67-4f35-bf84-bb22428473f2;edce04df-6ddc-482c-9cdd-39f9d3b24f3d;QUEENS â CONDOMINIUMS COMPARABLE PROPERTIES â Net Operating Income
+ff273b67-bb67-4f35-bf84-bb22428473f2;edce04df-6ddc-482c-9cdd-39f9d3b24f3d;COMPARABLE RENTAL â 1 â Estimated Gross Income
+ff273b67-bb67-4f35-bf84-bb22428473f2;edce04df-6ddc-482c-9cdd-39f9d3b24f3d;COMPARABLE RENTAL â 1 â Net Operating Income
+ff273b67-bb67-4f35-bf84-bb22428473f2;edce04df-6ddc-482c-9cdd-39f9d3b24f3d;COMPARABLE RENTAL â 2 â Estimated Gross Income
+ff273b67-bb67-4f35-bf84-bb22428473f2;edce04df-6ddc-482c-9cdd-39f9d3b24f3d;COMPARABLE RENTAL â 2 â Net Operating Income
+dac5d4a9-f696-4a7e-ac77-40b7dfad687b;df3971cc-0e38-4239-ad01-f98e98e46e1d;Revenue Amount
+77b09b42-5fe3-4f26-84ef-a9908fd11f0a;452a06de-42d8-444e-a55c-3d88904202f9;STATEN ISLAND – COOPERATIVES COMPARABLE PROPERTIES – Est. Gross Income
+77b09b42-5fe3-4f26-84ef-a9908fd11f0a;452a06de-42d8-444e-a55c-3d88904202f9;COMPARABLE RENTAL – 1 –Est. Gross Income
+77b09b42-5fe3-4f26-84ef-a9908fd11f0a;452a06de-42d8-444e-a55c-3d88904202f9;COMPARABLE RENTAL – 2 –Est. Gross Income
+8909142f-b1d6-48fd-812f-29ebc8e06c74;01e59c35-ee00-4a0e-8837-c6064a21a631;ADMIN COSTS
+c2f9e109-78bc-41e9-a83b-8bd339b79f19;0645e260-23d0-4798-9068-5f77525c4387;MANHATTAN CONDOMINIUM PROPERTY Est. Gross Income
+c2f9e109-78bc-41e9-a83b-8bd339b79f19;0645e260-23d0-4798-9068-5f77525c4387;COMPARABLE RENTAL 1  Est. Gross Income
+c2f9e109-78bc-41e9-a83b-8bd339b79f19;0645e260-23d0-4798-9068-5f77525c4387;COMPARABLE RENTAL 2  Est. Gross Income
+82c9579a-d434-4c88-97a2-e33ff5c3b189;7cca29f6-bee2-4a6f-b9a1-ac89867e83e8;ESTCOST
+6a739d75-2391-49fb-b019-746a8e4b9d5f;b88062ab-73f9-4170-a5c3-3142dc3b3acb;Total Amount Reimbursed
+6a739d75-2391-49fb-b019-746a8e4b9d5f;b88062ab-73f9-4170-a5c3-3142dc3b3acb;Medicaid Amount Reimbursed
+6a739d75-2391-49fb-b019-746a8e4b9d5f;b88062ab-73f9-4170-a5c3-3142dc3b3acb;Non Medicaid Amount Reimbursed
+70e73640-d375-4808-a0a9-e16b7eb62222;ba6efe0a-58ee-4f43-a385-a599e1fd9460;Amendment Amount
+60b3a7b1-8d4c-4821-94ca-88071378a67d;89fa580c-4142-4f4c-b979-6e90bb22f7b7;Recommended Amount
+60b3a7b1-8d4c-4821-94ca-88071378a67d;89fa580c-4142-4f4c-b979-6e90bb22f7b7;Approved Amount
+2575d1dd-2164-46b0-adfc-e5c787ade6a2;5377cdc8-0b97-4a4f-8304-39580f1441dc;ASC Per Capita Standardized Costs
+2575d1dd-2164-46b0-adfc-e5c787ade6a2;5377cdc8-0b97-4a4f-8304-39580f1441dc;ASC Per User Standardized Costs
+92025bc2-4293-4b98-b8f7-c407804474ef;f781e3cf-9950-4a38-bbc3-87856a5a8bfc;TOTALCOST
+d54cddc4-b019-4adc-b328-23588f1f7d94;bf2fab37-ced6-4c03-913f-9e7887a58523;Credit Amount Claimed, Total ($000)
+d54cddc4-b019-4adc-b328-23588f1f7d94;bf2fab37-ced6-4c03-913f-9e7887a58523;Credit Amount Claimed, One Qualifying Person ($000)
+d54cddc4-b019-4adc-b328-23588f1f7d94;bf2fab37-ced6-4c03-913f-9e7887a58523;Credit Amount Claimed, Two or More Qualifying Persons ($000)
+d54cddc4-b019-4adc-b328-23588f1f7d94;bf2fab37-ced6-4c03-913f-9e7887a58523;Credit Amount Claimed, Single Filing Status ($000)
+d54cddc4-b019-4adc-b328-23588f1f7d94;bf2fab37-ced6-4c03-913f-9e7887a58523;Credit Amount Claimed, MFJ & QW Filing Status ($000) *
+d54cddc4-b019-4adc-b328-23588f1f7d94;bf2fab37-ced6-4c03-913f-9e7887a58523;Credit Amount Claimed, Head of Household Filing Status ($000)
+88e921d8-096c-4640-b5ce-07bd9035dea8;56f5f6cd-461b-454c-9ecb-e0ce0db63817;BROOKLYN CONDOMINIUM PROPERTY Est. Gross Income
+88e921d8-096c-4640-b5ce-07bd9035dea8;56f5f6cd-461b-454c-9ecb-e0ce0db63817;COMPARABLE RENTAL 1  Est. Gross Income
+88e921d8-096c-4640-b5ce-07bd9035dea8;56f5f6cd-461b-454c-9ecb-e0ce0db63817;COMPARABLE RENTAL 2  Est. Gross Income
+3aa4588b-cf86-44b5-980b-446fe4dd9e15;eae6559a-f10c-46dc-abee-91e8ef5756a5;P_SM_INCOME_TOTAL
+3aa4588b-cf86-44b5-980b-446fe4dd9e15;eae6559a-f10c-46dc-abee-91e8ef5756a5;P_HOUSEHOLD_INCOME
+c6e45d5a-f07f-4d7e-b128-66551ab9b6ec;64ca4194-952b-4f1b-bc91-766ee4b8c043;Interest Income Included in Warrant
+050dd5ed-5565-43f5-a94f-131a298ba0b6;40729c85-18fc-4b73-8e7c-1015e4a0cf2f;Amount of Credit
+050dd5ed-5565-43f5-a94f-131a298ba0b6;40729c85-18fc-4b73-8e7c-1015e4a0cf2f;Median Amount of Credit
+050dd5ed-5565-43f5-a94f-131a298ba0b6;40729c85-18fc-4b73-8e7c-1015e4a0cf2f;Mean Amount of Credit
+3cfa8d5d-31ed-4034-85f6-a0c660f653ff;daa9a231-783e-49d2-b5b6-40cde2d9122a;CostParts
+3cfa8d5d-31ed-4034-85f6-a0c660f653ff;daa9a231-783e-49d2-b5b6-40cde2d9122a;CostLabor
+3cfa8d5d-31ed-4034-85f6-a0c660f653ff;daa9a231-783e-49d2-b5b6-40cde2d9122a;CostTotal
+67f0d25d-58b8-4162-b944-e4cdfe7bebcb;0af44712-2c35-4bdf-947a-0aeb4ff2860a;Credit Amount Claimed ($000)
+e37ca40d-9c39-4ecf-8bc3-0f166cb24f3e;9a834d93-6c1e-4587-a7d7-539f2f00da09;Adopted Budget Amount
+e37ca40d-9c39-4ecf-8bc3-0f166cb24f3e;9a834d93-6c1e-4587-a7d7-539f2f00da09;Current Modified Budget Amount
+e37ca40d-9c39-4ecf-8bc3-0f166cb24f3e;9a834d93-6c1e-4587-a7d7-539f2f00da09;Financial Plan Amount
+d6c95e0a-7111-4289-b98f-574c80ee6089;9c5174f0-d8bb-460f-bce1-399cca4ab37d;Total Project Claim Amount
+d6c95e0a-7111-4289-b98f-574c80ee6089;9c5174f0-d8bb-460f-bce1-399cca4ab37d;Farmer Amount
+0e223999-f2a4-4cc8-98a4-3519cb1ae2e7;23de2f9d-d9d2-4ca3-9960-a6221ade9d29;SED APPROVED FINAL COST
+cff8fec9-ff4a-499d-b84e-a2b217b0609d;e56706b3-9eb0-4256-a421-27a6605aff75;COST
+0d5a98e9-2d12-4464-8717-109ded0bb731;7dae2749-1bcb-4030-97bc-73790d896441;Fine amount
+b3b108fe-ac8b-44a4-8f3d-23fe14d2c2de;639acf19-567f-4fff-9983-9dcc1bb69f08;Total Amount
+02fe005d-35b2-40e9-9430-081960c54f40;2c17501c-74d3-49e1-a536-b42bbc5fd1a6;bpwamount
+303e71b1-9764-46d9-aa82-a67b62cd056b;ae8f8730-419e-41c0-b8f9-29dc32d23d5c;Interest Income Included in Warrant
+9a570e82-ae16-4cc0-80a6-49efc9fb7924;726f6481-767f-4ca4-9b63-98ff456f2069;Transfer Amount
+68c96161-9d28-4dcd-a6ac-985fef7e0255;f700212c-cf81-4a42-aa5b-25f2fe141d81;General Fund Amount of Change
+68c96161-9d28-4dcd-a6ac-985fef7e0255;f700212c-cf81-4a42-aa5b-25f2fe141d81;Non-General Fund Amount of Change
+10ca7055-8f7a-40c6-994d-330e084ff661;a60614d7-e793-4b9b-beaa-60e7c65f10b1;Credit_Amount
+3c9f6bb7-f888-4ef6-9136-8588bc51f2ab;629ae303-be88-41d4-82d6-509660d1a04a;Comparable Item 3 Cost
+1bdd9b3d-40b2-4f7e-b35c-e94df1573617;3e129323-1f4f-4b20-84a9-427cfb9d5306;SaleAmount
+8566f34a-541a-4042-96ff-43d2f8c37994;82e0b073-3290-446d-b0de-89e1d37fe824;PREVIOUSDEMAND
+8566f34a-541a-4042-96ff-43d2f8c37994;82e0b073-3290-446d-b0de-89e1d37fe824;PCTBASEAMOUNT
+8566f34a-541a-4042-96ff-43d2f8c37994;82e0b073-3290-446d-b0de-89e1d37fe824;PCTFUELADJUSTMENTAMOUNT
+8566f34a-541a-4042-96ff-43d2f8c37994;82e0b073-3290-446d-b0de-89e1d37fe824;PCTSALESTAXAMOUNT
+8566f34a-541a-4042-96ff-43d2f8c37994;82e0b073-3290-446d-b0de-89e1d37fe824;PCTTOTALAMOUNT
+8ebebcd2-4c4e-4c6b-8f83-57cb38b880fc;3709cb25-d2a0-4b95-999e-2d37a15fc74f;Sum Of Amount
+ff5f78d0-d566-468b-a298-b25999891e94;91d4626f-9f32-4726-abd8-cb40957ff737;Grant Amount
+f4b05c50-33ac-4e4e-8e1f-df59817cf0e1;fa8829b3-d2ca-4fb9-873e-b68a9f3a6644;Very Low Income
+c1c74437-fa07-4e2c-bd4f-cf17a49be8b5;655b0339-adf1-4304-bb59-30d229f2709e;Award Amount
+532ffaf1-6339-4dbe-a4c7-06c68b4ce775;bf6bd837-ffa3-46b1-8495-21da2b7c6c9f;AwardAmount
+1f024cda-75e7-4c2a-9286-c9dbc0e496f9;a938af65-9352-4ceb-a913-54fd485f1b17;Face Amount
+ef7a1d63-8041-47e6-8377-66f827f8ceee;2f6a268a-0929-4a35-9ea4-7a33f9b0c6ed;PROJECTCOSTS
+cd5ec8bb-d7c5-4d18-bb7a-ea121b60f7fc;df4acb59-b5b7-4651-aa04-4233ffb467c9;BROOKLYN â CONDOMINIUMS COMPARABLE PROPERTIES â Estimated Gross Income
+cd5ec8bb-d7c5-4d18-bb7a-ea121b60f7fc;df4acb59-b5b7-4651-aa04-4233ffb467c9;BROOKLYN â CONDOMINIUMS COMPARABLE PROPERTIES â Net Operating Income
+cd5ec8bb-d7c5-4d18-bb7a-ea121b60f7fc;df4acb59-b5b7-4651-aa04-4233ffb467c9;COMPARABLE RENTAL â 1 â Estimated Gross Income
+cd5ec8bb-d7c5-4d18-bb7a-ea121b60f7fc;df4acb59-b5b7-4651-aa04-4233ffb467c9;COMPARABLE RENTAL â 1 â Net Operating Income
+cd5ec8bb-d7c5-4d18-bb7a-ea121b60f7fc;df4acb59-b5b7-4651-aa04-4233ffb467c9;COMPARABLE RENTAL â 2 â Estimated Gross Income
+cd5ec8bb-d7c5-4d18-bb7a-ea121b60f7fc;df4acb59-b5b7-4651-aa04-4233ffb467c9;COMPARABLE RENTAL â 2 â Net Operating Income
+8e26acb3-a210-480f-a2ab-aa4d01845255;bb54ccf5-5125-4a23-a989-9ba619d0a154;Value ($) of food checks redeemed by clients served by the agency
+8e26acb3-a210-480f-a2ab-aa4d01845255;bb54ccf5-5125-4a23-a989-9ba619d0a154;Value ($) of fruit and vegetable checks redeemed by clients served by the agency
+67a92ba6-4dde-493a-bd5b-e23c368b0993;d1df022f-e764-4c5e-bcd9-c88019df7d7b;Contract Amount
+da7c0c19-77fa-4128-8616-6add293ab8fe;be559bfe-4924-41f1-bd60-01d02183938a;QUEENS – COOPERATIVES COMPARABLE PROPERTIES – Est. Gross Income
+da7c0c19-77fa-4128-8616-6add293ab8fe;be559bfe-4924-41f1-bd60-01d02183938a;COMPARABLE RENTAL – 1 –Est. Gross Income
+da7c0c19-77fa-4128-8616-6add293ab8fe;be559bfe-4924-41f1-bd60-01d02183938a;COMPARABLE RENTAL – 2 –Est. Gross Income
+da923249-e1b5-40e4-996e-a1903d015fe1;f1047572-fcac-4805-8684-895d4e41debf;STATEN ISLAND – COOPERATIVES COMPARABLE PROPERTIES – Est. Gross Income
+da923249-e1b5-40e4-996e-a1903d015fe1;f1047572-fcac-4805-8684-895d4e41debf;COMPARABLE RENTAL – 1 –Est. Gross Income
+da923249-e1b5-40e4-996e-a1903d015fe1;f1047572-fcac-4805-8684-895d4e41debf;COMPARABLE RENTAL – 2 –Est. Gross Income
+14e5e9a7-a687-483c-b0a7-71808d84035c;3579f182-5d38-4937-9977-11cdfb01b324;CaseMgmt_InsuranceCost
+14e5e9a7-a687-483c-b0a7-71808d84035c;3579f182-5d38-4937-9977-11cdfb01b324;ClinicServicesCost
+14e5e9a7-a687-483c-b0a7-71808d84035c;3579f182-5d38-4937-9977-11cdfb01b324;DentalServicesCost
+14e5e9a7-a687-483c-b0a7-71808d84035c;3579f182-5d38-4937-9977-11cdfb01b324;EPSDTCost
+14e5e9a7-a687-483c-b0a7-71808d84035c;3579f182-5d38-4937-9977-11cdfb01b324;ERCost
+14e5e9a7-a687-483c-b0a7-71808d84035c;3579f182-5d38-4937-9977-11cdfb01b324;HCBSCost
+14e5e9a7-a687-483c-b0a7-71808d84035c;3579f182-5d38-4937-9977-11cdfb01b324;HomeHealthCost
+14e5e9a7-a687-483c-b0a7-71808d84035c;3579f182-5d38-4937-9977-11cdfb01b324;HospiceCost
+14e5e9a7-a687-483c-b0a7-71808d84035c;3579f182-5d38-4937-9977-11cdfb01b324;ICFMRCost
+14e5e9a7-a687-483c-b0a7-71808d84035c;3579f182-5d38-4937-9977-11cdfb01b324;InpatientCareCost
+14e5e9a7-a687-483c-b0a7-71808d84035c;3579f182-5d38-4937-9977-11cdfb01b324;LabRadiologyCost
+14e5e9a7-a687-483c-b0a7-71808d84035c;3579f182-5d38-4937-9977-11cdfb01b324;NursingFacilityCost
+14e5e9a7-a687-483c-b0a7-71808d84035c;3579f182-5d38-4937-9977-11cdfb01b324;OtherServicesCost
+14e5e9a7-a687-483c-b0a7-71808d84035c;3579f182-5d38-4937-9977-11cdfb01b324;OutPatientCost
+14e5e9a7-a687-483c-b0a7-71808d84035c;3579f182-5d38-4937-9977-11cdfb01b324;PDDCost
+14e5e9a7-a687-483c-b0a7-71808d84035c;3579f182-5d38-4937-9977-11cdfb01b324;PrescDRUGsCost
+14e5e9a7-a687-483c-b0a7-71808d84035c;3579f182-5d38-4937-9977-11cdfb01b324;RehabCost
+14e5e9a7-a687-483c-b0a7-71808d84035c;3579f182-5d38-4937-9977-11cdfb01b324;SchoolBasedCost
+14e5e9a7-a687-483c-b0a7-71808d84035c;3579f182-5d38-4937-9977-11cdfb01b324;TherapyCost
+14e5e9a7-a687-483c-b0a7-71808d84035c;3579f182-5d38-4937-9977-11cdfb01b324;TotalCost
+e942b54f-4ca8-4461-adf8-238f0b249625;97853e52-3f0b-49ee-ae32-c14bcceafd01;cost_rev
+e942b54f-4ca8-4461-adf8-238f0b249625;97853e52-3f0b-49ee-ae32-c14bcceafd01;cost_ben_analy
+e942b54f-4ca8-4461-adf8-238f0b249625;97853e52-3f0b-49ee-ae32-c14bcceafd01;build_cost
+463b6037-6626-4c62-b03b-b1346d001818;9304c7b0-3e5f-4893-aa30-66e6083990a5;Passenger Boarding Bridge: Annual Cost
+a93e89b1-27d4-4b3c-a2d9-52517f7d18c4;22ffa275-459b-4fbd-a9d1-c1f9768c330c;Q41. How much money does a typical patron spend in your establishment (in dollars)?
+611a0643-c432-43de-8ea1-f07aed31f58a;3d988218-cdc7-4395-bee0-1b4e7d5e06a2;Grant Amount
+83b5ba02-10a3-426d-8d79-b0bd97bf1d4e;e1141d64-876d-4629-9e22-6b8455f246e9;COST
+6bf41c96-a499-4ffd-9a0b-4bfd42934a4c;7259e374-bb11-4d85-b554-9ebc12d231ff;YTD AMOUNT
+3102b059-11c4-4b7b-bb1c-31f24d70b265;f7a73894-d0a2-41e6-92a1-1dfe5546c777;Total Amount Reimbursed
+3102b059-11c4-4b7b-bb1c-31f24d70b265;f7a73894-d0a2-41e6-92a1-1dfe5546c777;Medicaid Amount Reimbursed
+3102b059-11c4-4b7b-bb1c-31f24d70b265;f7a73894-d0a2-41e6-92a1-1dfe5546c777;Non Medicaid Amount Reimbursed
+5075ae9f-32dc-463b-b4be-0826936f5e18;c1d607fc-27d7-42db-ae52-5e02961b348b;STATEN ISLAND CONDOMINIUM PROPERTY Est. Gross Income
+5075ae9f-32dc-463b-b4be-0826936f5e18;c1d607fc-27d7-42db-ae52-5e02961b348b;COMPARABLE RENTAL 1  Est. Gross Income
+5075ae9f-32dc-463b-b4be-0826936f5e18;c1d607fc-27d7-42db-ae52-5e02961b348b;COMPARABLE RENTAL 2  Est. Gross Income
+78d336a7-d6db-478a-b4ef-e5006ec3f168;f9a4e5d6-6f01-4190-a23b-661ee64136ce;Per Capita Income
+da377ddc-ea92-4faa-92ed-4aebc926aed6;50ff777e-e07a-4015-bbaa-cb36be1cce11;nsp_budgetusd_cu5
+da377ddc-ea92-4faa-92ed-4aebc926aed6;50ff777e-e07a-4015-bbaa-cb36be1cce11;nsp_budgetusd_cu4
+da377ddc-ea92-4faa-92ed-4aebc926aed6;50ff777e-e07a-4015-bbaa-cb36be1cce11;nsp_budgetusd_cu3
+da377ddc-ea92-4faa-92ed-4aebc926aed6;50ff777e-e07a-4015-bbaa-cb36be1cce11;nsp_budgetusd_cu2
+da377ddc-ea92-4faa-92ed-4aebc926aed6;50ff777e-e07a-4015-bbaa-cb36be1cce11;nsp_budgetusd_cu1
+da377ddc-ea92-4faa-92ed-4aebc926aed6;50ff777e-e07a-4015-bbaa-cb36be1cce11;nsp_budgetusd_og5
+da377ddc-ea92-4faa-92ed-4aebc926aed6;50ff777e-e07a-4015-bbaa-cb36be1cce11;nsp_budgetusd_og4
+da377ddc-ea92-4faa-92ed-4aebc926aed6;50ff777e-e07a-4015-bbaa-cb36be1cce11;nsp_budgetusd_og3
+da377ddc-ea92-4faa-92ed-4aebc926aed6;50ff777e-e07a-4015-bbaa-cb36be1cce11;nsp_budgetusd_og2
+da377ddc-ea92-4faa-92ed-4aebc926aed6;50ff777e-e07a-4015-bbaa-cb36be1cce11;nsp_budgetusd_og1
+84a0e8e8-c9a1-49d1-af08-8ab6ed33d92c;5a2925b8-48b2-4598-822f-98d438853347;Cost 5
+84a0e8e8-c9a1-49d1-af08-8ab6ed33d92c;5a2925b8-48b2-4598-822f-98d438853347;Cost 6
+84a0e8e8-c9a1-49d1-af08-8ab6ed33d92c;5a2925b8-48b2-4598-822f-98d438853347;Cost 7
+84a0e8e8-c9a1-49d1-af08-8ab6ed33d92c;5a2925b8-48b2-4598-822f-98d438853347;Cost 8
+84a0e8e8-c9a1-49d1-af08-8ab6ed33d92c;5a2925b8-48b2-4598-822f-98d438853347;Cost 9
+84a0e8e8-c9a1-49d1-af08-8ab6ed33d92c;5a2925b8-48b2-4598-822f-98d438853347;Cost 12
+84a0e8e8-c9a1-49d1-af08-8ab6ed33d92c;5a2925b8-48b2-4598-822f-98d438853347;Cost 13
+84a0e8e8-c9a1-49d1-af08-8ab6ed33d92c;5a2925b8-48b2-4598-822f-98d438853347;Cost 14
+84a0e8e8-c9a1-49d1-af08-8ab6ed33d92c;5a2925b8-48b2-4598-822f-98d438853347;Cost 15
+84a0e8e8-c9a1-49d1-af08-8ab6ed33d92c;5a2925b8-48b2-4598-822f-98d438853347;Cost 16
+84a0e8e8-c9a1-49d1-af08-8ab6ed33d92c;5a2925b8-48b2-4598-822f-98d438853347;Cost 17
+84a0e8e8-c9a1-49d1-af08-8ab6ed33d92c;5a2925b8-48b2-4598-822f-98d438853347;Cost 18
+84a0e8e8-c9a1-49d1-af08-8ab6ed33d92c;5a2925b8-48b2-4598-822f-98d438853347;Cost 19
+84a0e8e8-c9a1-49d1-af08-8ab6ed33d92c;5a2925b8-48b2-4598-822f-98d438853347;Cost 20
+84a0e8e8-c9a1-49d1-af08-8ab6ed33d92c;5a2925b8-48b2-4598-822f-98d438853347;Cost 21
+84a0e8e8-c9a1-49d1-af08-8ab6ed33d92c;5a2925b8-48b2-4598-822f-98d438853347;Cost 22
+84a0e8e8-c9a1-49d1-af08-8ab6ed33d92c;5a2925b8-48b2-4598-822f-98d438853347;Cost 23
+84a0e8e8-c9a1-49d1-af08-8ab6ed33d92c;5a2925b8-48b2-4598-822f-98d438853347;Cost 24
+84a0e8e8-c9a1-49d1-af08-8ab6ed33d92c;5a2925b8-48b2-4598-822f-98d438853347;Cost 25
+84a0e8e8-c9a1-49d1-af08-8ab6ed33d92c;5a2925b8-48b2-4598-822f-98d438853347;Cost 26
+84a0e8e8-c9a1-49d1-af08-8ab6ed33d92c;5a2925b8-48b2-4598-822f-98d438853347;Cost 27
+84a0e8e8-c9a1-49d1-af08-8ab6ed33d92c;5a2925b8-48b2-4598-822f-98d438853347;Cost 28
+84a0e8e8-c9a1-49d1-af08-8ab6ed33d92c;5a2925b8-48b2-4598-822f-98d438853347;Cost 29
+84a0e8e8-c9a1-49d1-af08-8ab6ed33d92c;5a2925b8-48b2-4598-822f-98d438853347;Cost 30
+84a0e8e8-c9a1-49d1-af08-8ab6ed33d92c;5a2925b8-48b2-4598-822f-98d438853347;Cost 31
+84a0e8e8-c9a1-49d1-af08-8ab6ed33d92c;5a2925b8-48b2-4598-822f-98d438853347;Cost 32
+84a0e8e8-c9a1-49d1-af08-8ab6ed33d92c;5a2925b8-48b2-4598-822f-98d438853347;Cost 33
+84a0e8e8-c9a1-49d1-af08-8ab6ed33d92c;5a2925b8-48b2-4598-822f-98d438853347;Cost 34
+84a0e8e8-c9a1-49d1-af08-8ab6ed33d92c;5a2925b8-48b2-4598-822f-98d438853347;Cost 35
+84a0e8e8-c9a1-49d1-af08-8ab6ed33d92c;5a2925b8-48b2-4598-822f-98d438853347;Cost 36
+84a0e8e8-c9a1-49d1-af08-8ab6ed33d92c;5a2925b8-48b2-4598-822f-98d438853347;Cost 37
+482eaff1-c248-43d5-be36-8681dee3db38;9d266537-3f5a-4d61-adf5-75ff93a6a59c;MANHATTAN – COOPERATIVES COMPARABLE PROPERTIES – Est. Gross Income
+482eaff1-c248-43d5-be36-8681dee3db38;9d266537-3f5a-4d61-adf5-75ff93a6a59c;COMPARABLE RENTAL – 1 –Est. Gross Income
+482eaff1-c248-43d5-be36-8681dee3db38;9d266537-3f5a-4d61-adf5-75ff93a6a59c;COMPARABLE RENTAL – 2 –Est. Gross Income
+5f5832e2-3ab9-4cef-9efb-ee2726e96b39;bf1ee76d-c0cc-4a69-98db-f0f395331986;Settlement_Amount
+1367ddb9-8f72-43f2-81d4-ee2179bfbb63;c8ee3f35-7d8b-416d-85fb-5e83936c2442;ConstructionCost
+59461e60-4969-4b48-94e6-5e26e0bb610d;0cab0cf6-0eed-4406-a2c3-d2c98815ca00;Restricted Amount
+59461e60-4969-4b48-94e6-5e26e0bb610d;0cab0cf6-0eed-4406-a2c3-d2c98815ca00;Released Amount
+52475f76-dc0e-4f4d-a184-eb6988f4760e;f299e88d-9922-4941-b028-d63421fd0ca6;Taxable Income of All Returns (in thousands)
+52475f76-dc0e-4f4d-a184-eb6988f4760e;f299e88d-9922-4941-b028-d63421fd0ca6;Income Class Sort Order
+c4efe183-168e-4de4-9c41-1a575731b14e;cd4d8383-d738-4bee-b8ec-dffdeb1a54b9;SumOfAmount
+a66c0620-df90-4310-ad05-9249fbefc7dd;2402d368-db9a-439d-9df6-ccc4a44bebac;Total EITC (dollars in millions)
+a261c2b7-25af-46a8-8e86-41fbb0c454c1;a3472f19-2658-4887-a90e-4caa681a8f53;dollar
+31190468-a7d5-4548-ae5a-477d9ce27dd0;f8545810-9971-4b0a-a670-9372796a005e;HWOApprovedAmount
+31190468-a7d5-4548-ae5a-477d9ce27dd0;f8545810-9971-4b0a-a670-9372796a005e;ChargeAmount
+ed52e333-7fd6-4563-acb1-600e6a60fc82;919ac23e-4f09-4fd2-8914-448245a25ccb;Ratio of GTOPs to Program Cost
+7f5b0f07-7cc4-49d9-9627-de269a1ca920;50184cf1-fd10-41f1-854a-cc2d2a7c3974;CaseMgmt_InsuranceCost
+7f5b0f07-7cc4-49d9-9627-de269a1ca920;50184cf1-fd10-41f1-854a-cc2d2a7c3974;ClinicServicesCost
+7f5b0f07-7cc4-49d9-9627-de269a1ca920;50184cf1-fd10-41f1-854a-cc2d2a7c3974;DentalServicesCost
+7f5b0f07-7cc4-49d9-9627-de269a1ca920;50184cf1-fd10-41f1-854a-cc2d2a7c3974;EPSDTCost
+7f5b0f07-7cc4-49d9-9627-de269a1ca920;50184cf1-fd10-41f1-854a-cc2d2a7c3974;ERCost
+7f5b0f07-7cc4-49d9-9627-de269a1ca920;50184cf1-fd10-41f1-854a-cc2d2a7c3974;HCBSCost
+7f5b0f07-7cc4-49d9-9627-de269a1ca920;50184cf1-fd10-41f1-854a-cc2d2a7c3974;HomeHealthCost
+7f5b0f07-7cc4-49d9-9627-de269a1ca920;50184cf1-fd10-41f1-854a-cc2d2a7c3974;HospiceCost
+7f5b0f07-7cc4-49d9-9627-de269a1ca920;50184cf1-fd10-41f1-854a-cc2d2a7c3974;ICFMRCost
+7f5b0f07-7cc4-49d9-9627-de269a1ca920;50184cf1-fd10-41f1-854a-cc2d2a7c3974;InpatientCareCost
+7f5b0f07-7cc4-49d9-9627-de269a1ca920;50184cf1-fd10-41f1-854a-cc2d2a7c3974;LabRadiologyCost
+7f5b0f07-7cc4-49d9-9627-de269a1ca920;50184cf1-fd10-41f1-854a-cc2d2a7c3974;NursingFacilityCost
+7f5b0f07-7cc4-49d9-9627-de269a1ca920;50184cf1-fd10-41f1-854a-cc2d2a7c3974;OtherServicesCost
+7f5b0f07-7cc4-49d9-9627-de269a1ca920;50184cf1-fd10-41f1-854a-cc2d2a7c3974;OutPatientCost
+7f5b0f07-7cc4-49d9-9627-de269a1ca920;50184cf1-fd10-41f1-854a-cc2d2a7c3974;PDDCost
+7f5b0f07-7cc4-49d9-9627-de269a1ca920;50184cf1-fd10-41f1-854a-cc2d2a7c3974;PrescDRUGsCost
+7f5b0f07-7cc4-49d9-9627-de269a1ca920;50184cf1-fd10-41f1-854a-cc2d2a7c3974;RehabCost
+7f5b0f07-7cc4-49d9-9627-de269a1ca920;50184cf1-fd10-41f1-854a-cc2d2a7c3974;SchoolBasedCost
+7f5b0f07-7cc4-49d9-9627-de269a1ca920;50184cf1-fd10-41f1-854a-cc2d2a7c3974;TherapyCost
+7f5b0f07-7cc4-49d9-9627-de269a1ca920;50184cf1-fd10-41f1-854a-cc2d2a7c3974;TotalCost
+acf705d4-46bc-4193-b4da-ee4ef2d6ae0d;511788cf-b027-4a04-b140-c6b812674260;ESTCOST
+1889ad79-bfbb-4667-bb7d-0f24e1f1f47d;0e636815-db59-4f6a-9d4f-dbcf86c58d18;budgeted_amount
+bab292d9-6965-4449-a4af-a2aae2a19dd0;ec3d483a-979c-4876-900f-352869f3858c;GROSS_OUTLAY_AMOUNT_BY_AWA_FYB
+bab292d9-6965-4449-a4af-a2aae2a19dd0;ec3d483a-979c-4876-900f-352869f3858c;GROSS_OUTLAY_AMOUNT_BY_AWA_CPE
+0c3a4e64-0292-44cc-b91d-d99fae15accd;bf946b5b-d8d5-4934-92fd-fddd66cfa985;Total Amount Reimbursed
+0c3a4e64-0292-44cc-b91d-d99fae15accd;bf946b5b-d8d5-4934-92fd-fddd66cfa985;Medicaid Amount Reimbursed
+0c3a4e64-0292-44cc-b91d-d99fae15accd;bf946b5b-d8d5-4934-92fd-fddd66cfa985;Non Medicaid Amount Reimbursed
+0b22e9f2-72a7-4ed7-859c-6d71cd81171f;2a5669e1-415f-454e-bc8e-53e1af10f40f;Total Amount Reimbursed
+0b22e9f2-72a7-4ed7-859c-6d71cd81171f;2a5669e1-415f-454e-bc8e-53e1af10f40f;Medicaid Amount Reimbursed
+0b22e9f2-72a7-4ed7-859c-6d71cd81171f;2a5669e1-415f-454e-bc8e-53e1af10f40f;Non Medicaid Amount Reimbursed
+657ee088-6e86-453a-baca-b84aa9393c95;a941fb5e-2013-4e1e-b6ec-a94dc08df424;STATEN ISLAND CONDOMINIUM PROPERTY Est. Gross Income
+657ee088-6e86-453a-baca-b84aa9393c95;a941fb5e-2013-4e1e-b6ec-a94dc08df424;COMPARABLE RENTAL 1  Est. Gross Income
+657ee088-6e86-453a-baca-b84aa9393c95;a941fb5e-2013-4e1e-b6ec-a94dc08df424;COMPARABLE RENTAL 2  Est. Gross Income
+37cc794d-1967-483e-bb6f-101a35f99d6d;99c70c95-df15-4da5-975d-a2ecff58f21f;a_line_item_amount
+f897d340-48ac-4b39-baac-10ed59c656bf;0c614627-5e0f-4ccb-b6e8-017b28bcc78a;Total Amount Reimbursed
+f897d340-48ac-4b39-baac-10ed59c656bf;0c614627-5e0f-4ccb-b6e8-017b28bcc78a;Medicaid Amount Reimbursed
+f897d340-48ac-4b39-baac-10ed59c656bf;0c614627-5e0f-4ccb-b6e8-017b28bcc78a;Non Medicaid Amount Reimbursed
+9b93810d-325b-42ec-a264-3913dc46a58d;3fa6b5cf-91b9-409d-8066-9baefd653cec;Interest Income Included in Warrant
+63bae3ea-fcae-484e-b3e8-659f55a28534;89d3bdb4-07b7-471c-ab80-e6753b7521c3;Grant Amount
+70026d4f-17d7-4410-b8cf-a49f075a6096;81aae393-f696-4b8f-9ae3-af4f703f85c5;Family Size 1 Monthly Income
+70026d4f-17d7-4410-b8cf-a49f075a6096;81aae393-f696-4b8f-9ae3-af4f703f85c5;Family Size 1 Annual Income
+70026d4f-17d7-4410-b8cf-a49f075a6096;81aae393-f696-4b8f-9ae3-af4f703f85c5;Family Size 2 Monthly Income
+70026d4f-17d7-4410-b8cf-a49f075a6096;81aae393-f696-4b8f-9ae3-af4f703f85c5;Family Size 2  Annual Income
+6c173cdd-8294-4653-97e6-1bd80409f8c5;4f4acde2-ab4c-4cf0-98a4-80053f7d2d31;Line Item Insurance (USD)
+7dad8986-c577-4a95-893d-263f45bc6003;f48b49c5-f010-4134-a508-c1afb50746f8;MAINT_DOLLARS
+78ddd7b2-da4b-4035-a6bb-f41b5de7c064;dbcfb71e-a419-4e0a-ae0b-c04ab54d2ff0;QUEENS CONDOMINIUM PROPERTY Est. Gross Income
+78ddd7b2-da4b-4035-a6bb-f41b5de7c064;dbcfb71e-a419-4e0a-ae0b-c04ab54d2ff0;COMPARABLE RENTAL 1  Est. Gross Income
+78ddd7b2-da4b-4035-a6bb-f41b5de7c064;dbcfb71e-a419-4e0a-ae0b-c04ab54d2ff0;COMPARABLE RENTAL 2  Est. Gross Income
+281c538f-b3a4-429a-816f-4acbb1b382da;8e9e939f-caaa-4117-b9b6-6221026e89b0;Amount of Basic Reimbursement
+281c538f-b3a4-429a-816f-4acbb1b382da;8e9e939f-caaa-4117-b9b6-6221026e89b0;Amount of  Enhanced Reimbursement
+281c538f-b3a4-429a-816f-4acbb1b382da;8e9e939f-caaa-4117-b9b6-6221026e89b0;Total Amount of Reimbursement
+d2dd613d-31ba-4764-952b-81f260b87d88;c8e5a14f-9e1d-403f-84ff-620fcb804910;BROOKLYN – COOPERATIVES COMPARABLE PROPERTIES – Estimated Gross Income
+d2dd613d-31ba-4764-952b-81f260b87d88;c8e5a14f-9e1d-403f-84ff-620fcb804910;BROOKLYN – COOPERATIVES COMPARABLE PROPERTIES – Net Operating Income
+d2dd613d-31ba-4764-952b-81f260b87d88;c8e5a14f-9e1d-403f-84ff-620fcb804910;COMPARABLE RENTAL – 1 – Estimated Gross Income
+d2dd613d-31ba-4764-952b-81f260b87d88;c8e5a14f-9e1d-403f-84ff-620fcb804910;COMPARABLE RENTAL – 1 – Net Operating Income
+d2dd613d-31ba-4764-952b-81f260b87d88;c8e5a14f-9e1d-403f-84ff-620fcb804910;COMPARABLE RENTAL – 2 – Estimated Gross Income
+d2dd613d-31ba-4764-952b-81f260b87d88;c8e5a14f-9e1d-403f-84ff-620fcb804910;COMPARABLE RENTAL – 2 – Net Operating Income
+85353f84-564c-40de-a159-9a168b36d0bb;16a8082c-10cc-4d44-9e2e-b0da38dbe69b;MANHATTAN CONDOMINIUM PROPERTY Est. Gross Income
+85353f84-564c-40de-a159-9a168b36d0bb;16a8082c-10cc-4d44-9e2e-b0da38dbe69b;COMPARABLE RENTAL 1  Est. Gross Income
+85353f84-564c-40de-a159-9a168b36d0bb;16a8082c-10cc-4d44-9e2e-b0da38dbe69b;COMPARABLE RENTAL 2  Est. Gross Income
+271ef094-444c-4c2f-8f49-2ed3f90f40c8;77d5f4bd-50ce-4384-912d-ebd87df14e03;How.would.you.rate.the.following..The.cost.of.housing.
+22f09177-ccad-490b-913e-8fbc6c55a48c;afee8197-598d-4bf7-97e5-9f1e6d374897;STATEN ISLAND – COOPERATIVES COMPARABLE PROPERTIES – Estimated Gross Income
+22f09177-ccad-490b-913e-8fbc6c55a48c;afee8197-598d-4bf7-97e5-9f1e6d374897;STATEN ISLAND – COOPERATIVES COMPARABLE PROPERTIES – Net Operating Income
+22f09177-ccad-490b-913e-8fbc6c55a48c;afee8197-598d-4bf7-97e5-9f1e6d374897;COMPARABLE RENTAL – 1 – Estimated Gross Income
+22f09177-ccad-490b-913e-8fbc6c55a48c;afee8197-598d-4bf7-97e5-9f1e6d374897;COMPARABLE RENTAL – 1 – Net Operating Income
+22f09177-ccad-490b-913e-8fbc6c55a48c;afee8197-598d-4bf7-97e5-9f1e6d374897;COMPARABLE RENTAL – 2 – Estimated Gross Income
+22f09177-ccad-490b-913e-8fbc6c55a48c;afee8197-598d-4bf7-97e5-9f1e6d374897;COMPARABLE RENTAL – 2 – Net Operating Income
+63c50a36-0f2d-4085-bcab-db6b193caf8f;f8d2564d-f0ab-4d70-87b0-9265c3b19748;EUC - Dollars Paid in Benefits (in millions $$$)
+63c50a36-0f2d-4085-bcab-db6b193caf8f;f8d2564d-f0ab-4d70-87b0-9265c3b19748;Dollars Paid in Benefits (in millions $$$)
+63c50a36-0f2d-4085-bcab-db6b193caf8f;f8d2564d-f0ab-4d70-87b0-9265c3b19748;Trust Fund Balance (in millions $$$)
+c5874dec-6768-4941-8f46-ea1a84ca7829;624a1824-143b-4210-bb8f-b5d9b9859f34;Contract Amount
+0f66bbb9-e271-4f1e-8996-fcd899f509af;a811b88d-ebc5-4a24-a30b-720ac1aba5ff;AWARD AMOUNT
+0f66bbb9-e271-4f1e-8996-fcd899f509af;a811b88d-ebc5-4a24-a30b-720ac1aba5ff;AMOUNT EXPENDED
+52e0c58c-5269-4f46-a08e-442415b54f0c;a87fd2e9-94be-48ff-89ce-20df0856bfbd;permitCostEstimateAmt
+35293232-605e-477e-becc-850a97e282cd;1b000fca-8712-44cc-ad36-829f442e5a20;Total Amount Reimbursed
+35293232-605e-477e-becc-850a97e282cd;1b000fca-8712-44cc-ad36-829f442e5a20;Medicaid Amount Reimbursed
+35293232-605e-477e-becc-850a97e282cd;1b000fca-8712-44cc-ad36-829f442e5a20;Non Medicaid Amount Reimbursed
+8a6f70f1-3cd3-4212-8fff-25de6f81bfe1;0c86eff4-d708-456b-bd38-d001a0f5051e;Approved Amount
+52e64c5c-497d-4682-aa79-0fda20ce2a54;f26fbaec-8497-45c9-9c91-486be7b0a31d;Project Cost
+52e64c5c-497d-4682-aa79-0fda20ce2a54;f26fbaec-8497-45c9-9c91-486be7b0a31d;Incentive, Dollars
+d2a9484a-ad9b-45f8-abeb-6f18cd40fe6c;db282e39-a3f1-439d-b7aa-217a1d1c7f5a;Cost Per Adult
+7aa8fa1d-54ef-42c5-8b55-2bdad8b261ea;53115253-1f6a-4a61-821c-c7a2b525a86b;System annual average production cost (cents per kWh)
+4e2eca04-f3fe-496c-9542-30674416361a;5d783338-6877-4c4e-95ca-ab5b68505772;TotalCost
+045ff000-0017-4c5e-b94e-b47c8c0d8eff;071316fb-d37b-4418-b539-a7c741908d5f;Yearly Income ($)
+045ff000-0017-4c5e-b94e-b47c8c0d8eff;071316fb-d37b-4418-b539-a7c741908d5f;Monthly Income ($)
+045ff000-0017-4c5e-b94e-b47c8c0d8eff;071316fb-d37b-4418-b539-a7c741908d5f;Weekly Income ($)
+a3f708db-1372-4272-9430-e24ba5f975f7;aeb23682-a3b3-4ed8-b321-9916b8d35e53;Average Weekly Wage, Total ($ Dollars)
+703bb38e-c1ed-4c52-9178-7dee58793114;8d450226-a808-4364-b7c9-454cc887dd3b;BROOKLYN CONDOMINIUM PROPERTY Est. Gross Income
+703bb38e-c1ed-4c52-9178-7dee58793114;8d450226-a808-4364-b7c9-454cc887dd3b;COMPARABLE RENTAL 1  Est. Gross Income
+703bb38e-c1ed-4c52-9178-7dee58793114;8d450226-a808-4364-b7c9-454cc887dd3b;COMPARABLE RENTAL 2  Est. Gross Income
+0f59882d-dbb9-4798-b4c3-ae0921084fbb;82890f27-c1e6-4047-a1bc-f9673dc8b284;ACTUAL_AMOUNT
+ea62ae58-afac-4e91-b256-94fee7989cf1;9786af5e-1e14-47b2-8b9f-ec25356fc3dc;current_amount
+ea62ae58-afac-4e91-b256-94fee7989cf1;9786af5e-1e14-47b2-8b9f-ec25356fc3dc;constant_amount
+f9d34f6c-7312-4b41-ae56-9c98e208b6db;3a902e3c-f370-4718-8294-bd040531d022;Billed_Amount
+f9d34f6c-7312-4b41-ae56-9c98e208b6db;3a902e3c-f370-4718-8294-bd040531d022;Paid_Amount
+b7e62358-8d6e-4538-a4a9-3a1be42a6a3d;b90b605a-9e7f-4c59-95fd-0b929e61a10c;PenaltyAmount
+57a09b8a-405f-4b81-8b5a-63de2d81fdee;45de2811-5d9d-4456-b73f-bc90c6349751;Family Size (1 ind.) Monthly Income
+57a09b8a-405f-4b81-8b5a-63de2d81fdee;45de2811-5d9d-4456-b73f-bc90c6349751;Family Size (2 nos.) Monthly Income
+57a09b8a-405f-4b81-8b5a-63de2d81fdee;45de2811-5d9d-4456-b73f-bc90c6349751;Family Size (3 nos.) Monthly Income
+57a09b8a-405f-4b81-8b5a-63de2d81fdee;45de2811-5d9d-4456-b73f-bc90c6349751;Family Size (4 nos.) Monthly Income
+57a09b8a-405f-4b81-8b5a-63de2d81fdee;45de2811-5d9d-4456-b73f-bc90c6349751;Family Size (5 nos.) Monthly Income
+a8256d4e-7aa2-41ad-9c9b-c50f20f0e51b;85f20c96-4d70-4b89-8f82-1df3485bb4af;InvoiceBillAmount
+a8256d4e-7aa2-41ad-9c9b-c50f20f0e51b;85f20c96-4d70-4b89-8f82-1df3485bb4af;InvoicePayAmount
+a8256d4e-7aa2-41ad-9c9b-c50f20f0e51b;85f20c96-4d70-4b89-8f82-1df3485bb4af;ChargeAmount
+5078e89b-412e-4544-832b-8bc39765fd9b;759eb589-7905-44e3-ac88-c064569f6334;Fuel cost
+a99404c9-9940-4e55-96a5-edc09c1c9ab6;b95ebe83-a935-450f-a626-630564394ff8;Interest Income Included in Warrant
+f587ce48-561b-49cf-9e3b-51a7f050066b;6174cd6c-7886-4a94-919c-076c3f7de173;Fund Amount Allocated - Fiscal Year 2019
+f587ce48-561b-49cf-9e3b-51a7f050066b;6174cd6c-7886-4a94-919c-076c3f7de173;Fund Amount Allocated - Fiscal Year 2020
+f587ce48-561b-49cf-9e3b-51a7f050066b;6174cd6c-7886-4a94-919c-076c3f7de173;Fund Amount Allocated - Fiscal Year 2021
+f6b4bc51-c141-48d9-9625-f9c687146cc1;30f84629-0244-4025-ac70-c2014f69bdf0;Total Amount Reimbursed
+f6b4bc51-c141-48d9-9625-f9c687146cc1;30f84629-0244-4025-ac70-c2014f69bdf0;Medicaid Amount Reimbursed
+f6b4bc51-c141-48d9-9625-f9c687146cc1;30f84629-0244-4025-ac70-c2014f69bdf0;Non Medicaid Amount Reimbursed
+116bef7f-c1e3-4b98-a27f-c88637e9859a;d4e45215-fbb0-4645-b743-fb1f2f1ecf66;MAINT_DOLLARS
+5a3a90a9-c5a4-4a98-ac93-e5de91f050b7;16a0a966-fe6c-4d3c-b8bc-c959cf8762e6;Total Amount Reimbursed
+5a3a90a9-c5a4-4a98-ac93-e5de91f050b7;16a0a966-fe6c-4d3c-b8bc-c959cf8762e6;Medicaid Amount Reimbursed
+5a3a90a9-c5a4-4a98-ac93-e5de91f050b7;16a0a966-fe6c-4d3c-b8bc-c959cf8762e6;Non Medicaid Amount Reimbursed
+9bbfa936-c80e-4d79-89ec-2ad47c758be9;274a6c2a-421c-4c0e-ba1f-70596cc6f1a1;COST
+f08edfd0-ddca-4671-a77a-cc3af4210725;1e3ff655-30ac-42fc-a2ca-1658180fd0e8;COST
+d43a2dd7-4c3e-4a37-8024-462d9c29472d;c3eb0038-47a0-49ca-a4af-5dc318593f27;income
+b630a729-4f09-4c43-9b79-7a15ca3f0c44;377308ba-2145-48a6-93dc-dd7319787efb;STATEN ISLAND â CONDOMINIUMS COMPARABLE PROPERTIES â Estimated Gross Income
+b630a729-4f09-4c43-9b79-7a15ca3f0c44;377308ba-2145-48a6-93dc-dd7319787efb;STATEN ISLAND â CONDOMINIUMS COMPARABLE PROPERTIES â Net Operating Income
+b630a729-4f09-4c43-9b79-7a15ca3f0c44;377308ba-2145-48a6-93dc-dd7319787efb;COMPARABLE RENTAL â 1 â Estimated Gross Income
+b630a729-4f09-4c43-9b79-7a15ca3f0c44;377308ba-2145-48a6-93dc-dd7319787efb;COMPARABLE RENTAL â 1 â Net Operating Income
+b630a729-4f09-4c43-9b79-7a15ca3f0c44;377308ba-2145-48a6-93dc-dd7319787efb;COMPARABLE RENTAL â 2 â Estimated Gross Income
+b630a729-4f09-4c43-9b79-7a15ca3f0c44;377308ba-2145-48a6-93dc-dd7319787efb;COMPARABLE RENTAL â 2 â Net Operating Income
+b290e2ae-541f-469c-bb0d-80239d1bc95d;f456708a-caf4-4227-a645-ead7d2fa607e;Amount (USD)
+72a9bd80-8500-4744-83d9-a210ae11fdd1;1fc5126f-612a-4a74-8c83-aab3461b8f71;Total Amount Reimbursed
+72a9bd80-8500-4744-83d9-a210ae11fdd1;1fc5126f-612a-4a74-8c83-aab3461b8f71;Medicaid Amount Reimbursed
+72a9bd80-8500-4744-83d9-a210ae11fdd1;1fc5126f-612a-4a74-8c83-aab3461b8f71;Non Medicaid Amount Reimbursed
+824f95dd-5e6c-4e59-ad80-22c33b76f0ea;b695d51a-74be-48e9-b96c-08fed507d108;Cost of Electricity
+27cab6f5-c084-4c2b-ac0c-b0bb043e70b0;024bcf41-2c7a-456f-a26b-d7f14fa3e07b;BridgeImprovementCost
+27cab6f5-c084-4c2b-ac0c-b0bb043e70b0;024bcf41-2c7a-456f-a26b-d7f14fa3e07b;ImprovementCostYear
+27cab6f5-c084-4c2b-ac0c-b0bb043e70b0;024bcf41-2c7a-456f-a26b-d7f14fa3e07b;RoadwayImprovementCost
+27cab6f5-c084-4c2b-ac0c-b0bb043e70b0;024bcf41-2c7a-456f-a26b-d7f14fa3e07b;TotalProjectCost
+e2430c9b-2fe2-40c8-b08e-238eef975992;e474d059-1975-4a11-ad05-5d309ce7c6a8;Over_30_Percent_Income_Count
+e2430c9b-2fe2-40c8-b08e-238eef975992;e474d059-1975-4a11-ad05-5d309ce7c6a8;No_Income_Tenants_Count
+e2430c9b-2fe2-40c8-b08e-238eef975992;e474d059-1975-4a11-ad05-5d309ce7c6a8;Annual_Income_Average
+e2430c9b-2fe2-40c8-b08e-238eef975992;e474d059-1975-4a11-ad05-5d309ce7c6a8;Other_Income_Average
+e2430c9b-2fe2-40c8-b08e-238eef975992;e474d059-1975-4a11-ad05-5d309ce7c6a8;Public_Assistant_Income_Average
+e2430c9b-2fe2-40c8-b08e-238eef975992;e474d059-1975-4a11-ad05-5d309ce7c6a8;Social_Security_Income_Average
+1e7b5480-b6dd-4a0f-92cd-30e074c04399;da826917-c46c-41ba-ad30-4aba89a37ac4;BROOKLYN – COOPERATIVES COMPARABLE PROPERTIES – Est. Gross Income
+1e7b5480-b6dd-4a0f-92cd-30e074c04399;da826917-c46c-41ba-ad30-4aba89a37ac4;COMPARABLE RENTAL – 1 –Est. Gross Income
+1e7b5480-b6dd-4a0f-92cd-30e074c04399;da826917-c46c-41ba-ad30-4aba89a37ac4;COMPARABLE RENTAL – 2 –Est. Gross Income
+78ac82a0-081f-4740-9449-fe509a414b0f;7935a005-9146-4e53-ad48-7574f3fc9944;Received Amount
+78ac82a0-081f-4740-9449-fe509a414b0f;7935a005-9146-4e53-ad48-7574f3fc9944;Transfer Amount
+041365ee-3f46-4c98-b7da-9d87f8b7abf1;985445aa-56ee-4891-a464-52f86d10bda6;Awarded Amount
+041365ee-3f46-4c98-b7da-9d87f8b7abf1;985445aa-56ee-4891-a464-52f86d10bda6;Pledged Match Amount
+c122cc52-9242-41ff-8632-c80bbd4026e1;896a0443-611b-4c5a-90c9-2b8741631d22;Total Amount Reimbursed
+c122cc52-9242-41ff-8632-c80bbd4026e1;896a0443-611b-4c5a-90c9-2b8741631d22;Medicaid Amount Reimbursed
+c122cc52-9242-41ff-8632-c80bbd4026e1;896a0443-611b-4c5a-90c9-2b8741631d22;Non Medicaid Amount Reimbursed
+0c1b8d27-a967-4b77-bca2-754dc5be431f;c30daa32-68f3-4136-bd06-37503731c090;Wages and Saleries (dollars in millions)
+0c1b8d27-a967-4b77-bca2-754dc5be431f;c30daa32-68f3-4136-bd06-37503731c090;Dividends and Interest (Dollars in millions)
+0c1b8d27-a967-4b77-bca2-754dc5be431f;c30daa32-68f3-4136-bd06-37503731c090;Business Income
+cd117e07-5178-48b4-bbd5-8fc18a0ecf5f;4816759b-3e78-48d5-9a08-d691c4346165;Yearly Income ($)
+cd117e07-5178-48b4-bbd5-8fc18a0ecf5f;4816759b-3e78-48d5-9a08-d691c4346165;Monthly Income ($)
+cd117e07-5178-48b4-bbd5-8fc18a0ecf5f;4816759b-3e78-48d5-9a08-d691c4346165;Weekly Income ($)
+cd117e07-5178-48b4-bbd5-8fc18a0ecf5f;4816759b-3e78-48d5-9a08-d691c4346165;Resource Level ($)
+5c29ef11-6e15-4678-b27f-74f5e25c87fd;3e3a4b82-7269-4c47-8d95-d738aafe9351;Total Est. Cost
+bfd9bf64-6334-4e78-8e35-de9b95f72d71;570c7e95-b707-4999-bb76-b6e24162c12b;Interest Income Included in Warrant
+22dc3896-dc96-43bd-903c-0e974a960173;59eddaa7-5351-41db-abe1-4fc389ce3821;Interest Income Included in Warrant
+2a406452-b7be-4fa5-ac2e-7a1d04bcf26f;21454eb1-2361-49be-a03c-6ca91bc364cd;Fiscal Year 1 $ amount
+2a406452-b7be-4fa5-ac2e-7a1d04bcf26f;21454eb1-2361-49be-a03c-6ca91bc364cd;Fiscal Year 2 $ amount
+2a406452-b7be-4fa5-ac2e-7a1d04bcf26f;21454eb1-2361-49be-a03c-6ca91bc364cd;Fiscal Year 3 $ amount
+2a406452-b7be-4fa5-ac2e-7a1d04bcf26f;21454eb1-2361-49be-a03c-6ca91bc364cd;Fiscal Year 4 $ amount
+7b4ab458-a4e0-4594-affa-1f8fd9f0b83e;bbf3cc12-5b1d-4988-9f74-546c2244487a;How.would.you.rate.the.following..The.cost.of.housing
+b5cdc37f-43cb-48ac-8b21-613cdc02fe09;f46065ec-7a25-484c-8232-a190dbc11f81;BRONX CONDOMINIUM PROPERTY Est. Gross Income
+b5cdc37f-43cb-48ac-8b21-613cdc02fe09;f46065ec-7a25-484c-8232-a190dbc11f81;COMPARABLE RENTAL 1  Est. Gross Income
+b5cdc37f-43cb-48ac-8b21-613cdc02fe09;f46065ec-7a25-484c-8232-a190dbc11f81;COMPARABLE RENTAL 2  Est. Gross Income
+e61d9545-9485-40a3-87d9-cc44641b29b3;f6a52bb9-5cb6-4460-ab1b-42c81fd9e7e8;GDP (current), $million
+e61d9545-9485-40a3-87d9-cc44641b29b3;f6a52bb9-5cb6-4460-ab1b-42c81fd9e7e8;Per capita GDP (current), $
+814eae3e-66de-452b-898d-08dee9da2ea1;d1fab75c-ff76-473c-8ff9-e9ea15acb992;GrossOutlayAmountByProgramObjectClass_FYB
+814eae3e-66de-452b-898d-08dee9da2ea1;d1fab75c-ff76-473c-8ff9-e9ea15acb992;GrossOutlayAmountByProgramObjectClass_CPE
+6af77d25-65ba-4891-b662-62e92d8bc683;d9e63715-416b-4163-a68d-df771f409e9e;Over_30_Percent_Income_Count
+6af77d25-65ba-4891-b662-62e92d8bc683;d9e63715-416b-4163-a68d-df771f409e9e;No_Income_Tenants_Count
+6af77d25-65ba-4891-b662-62e92d8bc683;d9e63715-416b-4163-a68d-df771f409e9e;Annual_Income_Average
+6af77d25-65ba-4891-b662-62e92d8bc683;d9e63715-416b-4163-a68d-df771f409e9e;Other_Income_Average
+6af77d25-65ba-4891-b662-62e92d8bc683;d9e63715-416b-4163-a68d-df771f409e9e;Public_Assistant_Income_Average
+6af77d25-65ba-4891-b662-62e92d8bc683;d9e63715-416b-4163-a68d-df771f409e9e;Social_Security_Income_Average
+e90aeb6d-a159-4030-a01c-ff4fc64247fe;d612c029-c3e7-4ef1-843d-45ce91bc4de3;Grant Amount
+4bc08731-8117-4388-af9d-91740137b4fa;d6812530-b2fc-413d-9a18-e76e505e67bf;Interest Income Included in Warrant
+671823bb-ba1f-4df4-b032-7729c530c1cc;123f3e31-bdea-47d6-9ddc-6147c2d6be1d;Initial Cost
+379171e7-4733-455b-a8c5-82f31b41b8c4;f81ebaf1-fc06-4e0b-87d8-17d1e155689c;Per $ Spent
+10e99769-d2d7-4d93-80bf-c02e9aa8c535;a2354766-04d5-446e-b7db-30fc5a585010;CaseMgmt_InsuranceCost
+10e99769-d2d7-4d93-80bf-c02e9aa8c535;a2354766-04d5-446e-b7db-30fc5a585010;ClinicServicesCost
+10e99769-d2d7-4d93-80bf-c02e9aa8c535;a2354766-04d5-446e-b7db-30fc5a585010;DentalServicesCost
+10e99769-d2d7-4d93-80bf-c02e9aa8c535;a2354766-04d5-446e-b7db-30fc5a585010;EPSDTCost
+10e99769-d2d7-4d93-80bf-c02e9aa8c535;a2354766-04d5-446e-b7db-30fc5a585010;ERCost
+10e99769-d2d7-4d93-80bf-c02e9aa8c535;a2354766-04d5-446e-b7db-30fc5a585010;HCBSCost
+10e99769-d2d7-4d93-80bf-c02e9aa8c535;a2354766-04d5-446e-b7db-30fc5a585010;HomeHealthCost
+10e99769-d2d7-4d93-80bf-c02e9aa8c535;a2354766-04d5-446e-b7db-30fc5a585010;HospiceCost
+10e99769-d2d7-4d93-80bf-c02e9aa8c535;a2354766-04d5-446e-b7db-30fc5a585010;ICFMRCost
+10e99769-d2d7-4d93-80bf-c02e9aa8c535;a2354766-04d5-446e-b7db-30fc5a585010;InpatientCareCost
+10e99769-d2d7-4d93-80bf-c02e9aa8c535;a2354766-04d5-446e-b7db-30fc5a585010;LabRadiologyCost
+10e99769-d2d7-4d93-80bf-c02e9aa8c535;a2354766-04d5-446e-b7db-30fc5a585010;NursingFacilityCost
+10e99769-d2d7-4d93-80bf-c02e9aa8c535;a2354766-04d5-446e-b7db-30fc5a585010;OtherServicesCost
+10e99769-d2d7-4d93-80bf-c02e9aa8c535;a2354766-04d5-446e-b7db-30fc5a585010;OutPatientCost
+10e99769-d2d7-4d93-80bf-c02e9aa8c535;a2354766-04d5-446e-b7db-30fc5a585010;PDDCost
+10e99769-d2d7-4d93-80bf-c02e9aa8c535;a2354766-04d5-446e-b7db-30fc5a585010;PrescDRUGsCost
+10e99769-d2d7-4d93-80bf-c02e9aa8c535;a2354766-04d5-446e-b7db-30fc5a585010;RehabCost
+10e99769-d2d7-4d93-80bf-c02e9aa8c535;a2354766-04d5-446e-b7db-30fc5a585010;SchoolBasedCost
+10e99769-d2d7-4d93-80bf-c02e9aa8c535;a2354766-04d5-446e-b7db-30fc5a585010;TherapyCost
+10e99769-d2d7-4d93-80bf-c02e9aa8c535;a2354766-04d5-446e-b7db-30fc5a585010;TotalCost
+c4a32d24-83b3-4444-9d58-7134cc5817a5;3763fa35-1a4e-48de-b5eb-8e56acd2b114;Construction Costs
+a0ae56d1-f467-489b-a99c-5dd39bb931d5;2a78ec9a-2ab5-484a-94b6-6242534d7edc; Amount of Credits ($000)
+e3c512cb-8f3c-4464-8904-08986130273a;b1d9b4fd-b017-4eb6-92ca-27d265fa5aa4;INCOME_AMT
+7fa59d4c-dfae-4a61-9f23-ad30531ff612;4c7d3c26-1a9b-47bd-b5dc-0289e268eedd;Interest Income Included in Warrant
+0cb1a387-b455-4b56-a360-50a2d82e63f7;d74bc81d-e6df-44fa-8ea8-b620b56a50dd;Fiscal Year 2 $ amount
+0cb1a387-b455-4b56-a360-50a2d82e63f7;d74bc81d-e6df-44fa-8ea8-b620b56a50dd;Fiscal Year 3 $ amount
+0cb1a387-b455-4b56-a360-50a2d82e63f7;d74bc81d-e6df-44fa-8ea8-b620b56a50dd;Fiscal Year 4 $ amount
+0cb1a387-b455-4b56-a360-50a2d82e63f7;d74bc81d-e6df-44fa-8ea8-b620b56a50dd;Fiscal Year 5 $ amount
+8f2bc31f-06b3-4862-92df-562ac1feba0a;3e0edc10-241e-4bbf-a476-0d373eebd4c0;Total Amount Reimbursed
+8f2bc31f-06b3-4862-92df-562ac1feba0a;3e0edc10-241e-4bbf-a476-0d373eebd4c0;Medicaid Amount Reimbursed
+8f2bc31f-06b3-4862-92df-562ac1feba0a;3e0edc10-241e-4bbf-a476-0d373eebd4c0;Non Medicaid Amount Reimbursed
+baa7d063-a914-4468-9d47-15d7f6b6ec19;6dc3681a-bb1f-4368-b0ee-c8a922618f24;RECOMMENDED_AMOUNT
+baa7d063-a914-4468-9d47-15d7f6b6ec19;6dc3681a-bb1f-4368-b0ee-c8a922618f24;ACTUAL_AMOUNT
+f4359b68-938f-433e-8810-3ac6552d9499;75d3ae70-3aea-404d-a03f-cc1567edb5ae;STATEN ISLAND – COOPERATIVES COMPARABLE PROPERTIES – Est. Gross Income
+f4359b68-938f-433e-8810-3ac6552d9499;75d3ae70-3aea-404d-a03f-cc1567edb5ae;COMPARABLE RENTAL – 1 –Est. Gross Income
+f4359b68-938f-433e-8810-3ac6552d9499;75d3ae70-3aea-404d-a03f-cc1567edb5ae;COMPARABLE RENTAL – 2 –Est. Gross Income
+d3d9dc11-db2c-490c-b626-aa366bbcb9da;5d9cdc28-6863-4147-801a-f1392a40f6fb;EARN INCOME RETURNS
+eeef27dc-2c1f-4a39-8f74-4ee147ded1d2;a42f3627-984e-4ab5-ac51-c42d1dbbb6d2;System annual average fuel cost (cents/kWh)
+a1753345-b7d6-4169-a225-6f2c2d582c87;6fe7bae8-ed85-4831-99eb-15276f2f7747;Rebate Amount ($)
+1d07a902-3eb5-4a78-928b-987d1e8c0561;46d52514-e32a-4a0c-8833-569c848325bb;awardamount
+27f21f86-72f0-4e32-bfe6-c9fe150e9d5e;6790de0c-ad48-4106-bb1c-462a561ccc7f;COST
+d24c2f3e-b8e1-4222-900b-0cbb047b02ce;57b13ae9-d1f2-4222-aafd-be901f7bfa41;Grant Amount
+b884229d-b1de-4c4f-bcc7-0d2f01328082;e166355f-0303-4bb4-ae86-35c93a982aa2;Total State Gross Domestic Product (indexed to 2000 dollars) Millions of dollars
+f3a0a5cf-eec8-48c3-8a7a-850f85030a91;faf53cf1-f225-4190-877b-3b4f28ea6163;Initial Cost
+abb7ec05-fc14-41a3-b3f3-820a2c1bfcbc;23399442-771b-4840-aef9-fefdf820fa06;EstProjectCost
+699504aa-d902-4994-8265-98295c53f4d7;c450f4cd-2b29-44d3-8d1b-04f4b5df78e9;Amount Paid
+e4231098-001e-47e7-bf96-dc50b913a5c6;9b4c471f-fe54-49de-8c10-f637a4f4421b;Total Amount Reimbursed
+e4231098-001e-47e7-bf96-dc50b913a5c6;9b4c471f-fe54-49de-8c10-f637a4f4421b;Medicaid Amount Reimbursed
+e4231098-001e-47e7-bf96-dc50b913a5c6;9b4c471f-fe54-49de-8c10-f637a4f4421b;Non Medicaid Amount Reimbursed
+6b0342f2-2bd9-4e5c-8802-5316b2976716;766472e7-7dca-4ae6-aeeb-e2114c9ecdfe;totalCost
+a5596992-00a7-4de3-bd8e-e5da126eac76;a0c4d99c-ee0f-419b-aa48-4cd2ae7d3811;Medicaid Low-Income Adults (LIA) CASES
+a5596992-00a7-4de3-bd8e-e5da126eac76;a0c4d99c-ee0f-419b-aa48-4cd2ae7d3811;Medicaid Low-Income Adults (LIA) RECIP.
+101ec53e-5e9e-4090-aa7b-9043f94545f1;be818d46-cd9a-4756-8136-decfa4a69448;PER CAPITA INCOME
+caced886-e4b5-4ba4-ba88-26d4c2314d78;ff9bc3f5-347e-4c04-99d9-ddfec9ac4c5c;COST
+f5827ea9-0881-4ad3-bffb-47bb0ad12749;213ed46e-69dc-4531-8a0d-fa7a368a0d2f;BROOKLYN – COOPERATIVES COMPARABLE PROPERTIES – Est. Gross Income
+f5827ea9-0881-4ad3-bffb-47bb0ad12749;213ed46e-69dc-4531-8a0d-fa7a368a0d2f;COMPARABLE RENTAL – 1 –Est. Gross Income
+f5827ea9-0881-4ad3-bffb-47bb0ad12749;213ed46e-69dc-4531-8a0d-fa7a368a0d2f;COMPARABLE RENTAL – 2 –Est. Gross Income
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;input_income_in_bank
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;input_income_in_bank_no_use_explanation
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;used_costs
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;used_opv_seed_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;used_hybrid_seed_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;used_improved_seed_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;used_fertilizer_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;used_manure_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;used_pesticides_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;used_diesel_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;used_petrol_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;used_electricity_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;used_interest_on_agr_loans_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;animals_leased_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;laborers_m_season_1_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;laborers_m_season_2_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;laborers_m_season_3_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;laborers_f_season_1_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;laborers_f_season_2_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;laborers_f_season_3_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;laborers_c_season_1_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;laborers_c_season_2_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;laborers_c_season_3_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;own_two_wheeled_tractor_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;own_four_wheeled_tractor_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;own_machine_plow_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;own_ox_plow_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;own_hand_pump_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;own_diesel_water_pump_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;own_electrical_water_pump_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;own_thresher_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;own_rice_winnower_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;own_motorized_insecticide_pump_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;own_ox_cart_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;own_groundnut_decorticator_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;own_duster_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;own_sprinkler_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;own_grinding_mill_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;own_maize_mill_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;own_rice_mill_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;own_radio_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;own_tv_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;own_refrigerator_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;own_bicycle_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;own_motorbike_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;own_car_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;own_cell_phone_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;own_charcoal_iron_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;own_electric_iron_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;own_electric_fan_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;own_sewing_machine_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;own_water_boiler_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;own_jerry_can_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;own_bed_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;own_cupboard_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;own_glassware_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;own_shoes_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;own_blanket_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;own_mosquito_net_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;own_jewellery_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;own_thermo-bottle_cost
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;business_1_costs
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;business_2_costs
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;business_3_costs
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;business_4_costs
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;business_5_costs
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;business_6_costs
+45811b22-31ca-4eb5-b366-d7c4c42e86d1;ac5de121-7c3b-45a4-b9cd-a2e7cabe2db3;Credit Amount Claimed, Zero Qualifying Children ($000)
+45811b22-31ca-4eb5-b366-d7c4c42e86d1;ac5de121-7c3b-45a4-b9cd-a2e7cabe2db3;Credit Amount Claimed, One Qualifying Child ($000)
+45811b22-31ca-4eb5-b366-d7c4c42e86d1;ac5de121-7c3b-45a4-b9cd-a2e7cabe2db3;Credit Amount Claimed, More than One Qualifying Child ($000) *
+45811b22-31ca-4eb5-b366-d7c4c42e86d1;ac5de121-7c3b-45a4-b9cd-a2e7cabe2db3;Credit Amount Claimed, Two Qualifying Children ($000) **
+45811b22-31ca-4eb5-b366-d7c4c42e86d1;ac5de121-7c3b-45a4-b9cd-a2e7cabe2db3;Credit Amount Claimed, More than Two Qualifying Children ($000) **
+45811b22-31ca-4eb5-b366-d7c4c42e86d1;ac5de121-7c3b-45a4-b9cd-a2e7cabe2db3;Credit Amount Claimed, Total ($000)
+45811b22-31ca-4eb5-b366-d7c4c42e86d1;ac5de121-7c3b-45a4-b9cd-a2e7cabe2db3;Earned Income Sort Order
+9a4031de-0b94-4c3c-86c8-59e808e3500a;0fd798ff-1693-4a45-9540-8d217147a4c8;MEDIAN HOUSEHOLD INCOME
+c5298b10-5b4d-4117-85ff-45adaf5fa679;7c524c2b-ab96-4926-8c66-78e550959356;Year1 Amount
+a5b4ff1c-207d-4838-8036-1c1521d69dc7;b8d32621-3424-4596-bda3-9d6bbbde82f2;Consideration Amount
+b26577e0-7ac4-457e-b81b-8e402e15faf8;023e6852-00cd-425e-a7a3-3f3a4eb54b38;Amount Wagered
+c6958660-5f93-4046-9509-220011608488;203bc7c2-ce5c-44bb-8313-fb33e6346e88;TOTAL_AMOUNT_PAID
+63dc3df9-13e4-4166-bcba-65a8a635e889;52a3c9f1-8c84-4011-998e-5a7312bb5def;RECEIVED AMOUNT
+48fe127f-0693-4f84-be54-c91782eae999;d1c31424-1edd-4d3b-a227-12691c0a0f35;Award Amount
+9aa3ec0d-3604-4aad-9366-ec98eeede1b6;da23ab8c-3df1-4f6f-929f-22747ee75110;Approved_Amount
+4ad1d44f-95f7-446f-892b-7015693c60e7;788c7614-29e8-424b-9cd3-7917fd8165cd;House_Hold_Income_81_Percent_or_more
+4ad1d44f-95f7-446f-892b-7015693c60e7;788c7614-29e8-424b-9cd3-7917fd8165cd;Purchase_Price_Total_Dev_Cost
+15b3e9e3-ed53-4d5b-9bfc-21d6723e4f27;3eff2373-49e8-4dab-9df4-e25703fc0926;PROJECTCOSTS
+55e33799-6a67-4a12-87e7-a541b86f6af9;d1b90c73-5e12-45e6-9550-fc5541ef3e14;AR_DOM_ConsolidatedTaxRates_CO.RuralSumOfLevyAmount
+55e33799-6a67-4a12-87e7-a541b86f6af9;d1b90c73-5e12-45e6-9550-fc5541ef3e14;AR_DOM_ConsolidatedTaxRates_CO.UrbanSumOfLevyAmount
+55e33799-6a67-4a12-87e7-a541b86f6af9;d1b90c73-5e12-45e6-9550-fc5541ef3e14;AR_DOM_ConsolidatedTaxRates_CO.TotalSumOfLevyAmount
+55e33799-6a67-4a12-87e7-a541b86f6af9;d1b90c73-5e12-45e6-9550-fc5541ef3e14;AR_DOM_ConsolidatedTaxRates_CO.RuralSumOfLevyAmount14
+55e33799-6a67-4a12-87e7-a541b86f6af9;d1b90c73-5e12-45e6-9550-fc5541ef3e14;AR_DOM_ConsolidatedTaxRates_CO.UrbanSumOfLevyAmount14
+55e33799-6a67-4a12-87e7-a541b86f6af9;d1b90c73-5e12-45e6-9550-fc5541ef3e14;AR_DOM_ConsolidatedTaxRates_CO.TotalSumOfLevyAmount14
+55e33799-6a67-4a12-87e7-a541b86f6af9;d1b90c73-5e12-45e6-9550-fc5541ef3e14;AR_DOM_ConsolidatedTaxRates_CO.TotalSumOfLevyAmount15
+55e33799-6a67-4a12-87e7-a541b86f6af9;d1b90c73-5e12-45e6-9550-fc5541ef3e14;AR_DOM_ConsolidatedTaxRates_CO.UrbanSumOfLevyAmount15
+55e33799-6a67-4a12-87e7-a541b86f6af9;d1b90c73-5e12-45e6-9550-fc5541ef3e14;AR_DOM_ConsolidatedTaxRates_CO.RuralSumOfLevyAmount15
+b79993f9-748d-4079-97a9-28b14f6032ff;45dcfa2c-4bb8-43b7-89ec-c8ac8042cad3;Amount of Credit
+b79993f9-748d-4079-97a9-28b14f6032ff;45dcfa2c-4bb8-43b7-89ec-c8ac8042cad3;Median Amount of Credit
+b79993f9-748d-4079-97a9-28b14f6032ff;45dcfa2c-4bb8-43b7-89ec-c8ac8042cad3;Mean Amount of Credit
+9db7ec54-aefe-433d-b7e2-a94f592626ee;40e2ef6d-aa86-4c8d-beab-8bca463df3e6;AMOUNT_DOLLARS
+e4c9df56-bb9a-40b6-abe0-09516b8ff42c;6091178d-d39d-458a-87a8-61176486d2bf;RETROFITINVOICEDCOST
+e4c9df56-bb9a-40b6-abe0-09516b8ff42c;6091178d-d39d-458a-87a8-61176486d2bf;LOANAMOUNT
+e4c9df56-bb9a-40b6-abe0-09516b8ff42c;6091178d-d39d-458a-87a8-61176486d2bf;ANNUALCOSTSAVINGS
+e4c9df56-bb9a-40b6-abe0-09516b8ff42c;6091178d-d39d-458a-87a8-61176486d2bf;AUDITINVOICEDCOST
+263c8a14-7ab0-4f54-8178-f3ded042aa4f;7b8368f5-fd13-4f43-95c5-8f7cfd173e57;Initial Cost
+8aae5a7f-eae3-4ffb-b9dd-6cece0d446ef;97a6e48f-1c5a-4cb7-89af-cf50af3bde64;Cost Does Not Include
+b1ade5ec-6c33-48bd-9c92-4507a08843c6;c7d0f83a-f27a-499e-951b-40be46efb5a8;Total Amount Reimbursed
+b1ade5ec-6c33-48bd-9c92-4507a08843c6;c7d0f83a-f27a-499e-951b-40be46efb5a8;Medicaid Amount Reimbursed
+b1ade5ec-6c33-48bd-9c92-4507a08843c6;c7d0f83a-f27a-499e-951b-40be46efb5a8;Non Medicaid Amount Reimbursed
+3a930c63-23b1-44c4-9b3e-a692ad3d7a2d;12931f9e-ffc8-4fd8-8716-2dc10f11e8c6;Sum Of Amount
+8e17c9bb-db10-4909-ad25-3881729a1d39;e6518c45-7530-41c1-be74-19978eeac2ee;Q20_INCOME
+bc9a61f6-21f2-4582-8ad2-32bae57a7139;c2224573-713f-4777-8a8b-f486f16e963b;Family Size (1 ind.) Monthly Income
+bc9a61f6-21f2-4582-8ad2-32bae57a7139;c2224573-713f-4777-8a8b-f486f16e963b;Family Size (2 nos.) Monthly Income
+bc9a61f6-21f2-4582-8ad2-32bae57a7139;c2224573-713f-4777-8a8b-f486f16e963b;Family Size (3 nos.) Monthly Income
+bc9a61f6-21f2-4582-8ad2-32bae57a7139;c2224573-713f-4777-8a8b-f486f16e963b;Family Size (4 nos.) Monthly Income
+bc9a61f6-21f2-4582-8ad2-32bae57a7139;c2224573-713f-4777-8a8b-f486f16e963b;Family Size (5 nos.) Monthly Income
+b940eda6-9632-470a-a5b0-e2b0a43789c2;5c24e372-3eee-461a-806d-5434bafc9430;MANHATTAN CONDOMINIUM PROPERTY Est. Gross Income
+b940eda6-9632-470a-a5b0-e2b0a43789c2;5c24e372-3eee-461a-806d-5434bafc9430;COMPARABLE RENTAL 1  Est. Gross Income
+b940eda6-9632-470a-a5b0-e2b0a43789c2;5c24e372-3eee-461a-806d-5434bafc9430;COMPARABLE RENTAL 2  Est. Gross Income
+8ca6e6d3-cef8-4054-afa6-23c78b4a41c9;e9608e36-e248-407a-b26f-cbb42c3f6bc4;PenaltyAmount
+91cfbd04-cec7-46cd-909c-f294d98351d9;9561bd6f-fb1a-49b6-9a8c-52a1b02b05a4;Total Project Cost (USD)
+91cfbd04-cec7-46cd-909c-f294d98351d9;9561bd6f-fb1a-49b6-9a8c-52a1b02b05a4;Total Incentives (USD)
+91cfbd04-cec7-46cd-909c-f294d98351d9;9561bd6f-fb1a-49b6-9a8c-52a1b02b05a4;Amount Financed Through Program (USD)
+91cfbd04-cec7-46cd-909c-f294d98351d9;9561bd6f-fb1a-49b6-9a8c-52a1b02b05a4;First Year Energy Savings $ Estimate (USD)
+25480bdb-a998-4755-96c2-e676918c9f3b;484d0642-c080-4d06-9163-fcb87dfd4407;Total_Cost
+54416059-daa0-4610-b04a-c4ba92779b8e;ccec8a5d-2822-44fd-8b94-ef770c54efc5;TANF Cases with Earned Income
+54416059-daa0-4610-b04a-c4ba92779b8e;ccec8a5d-2822-44fd-8b94-ef770c54efc5;SNA MOE Cases with Earned Income
+54416059-daa0-4610-b04a-c4ba92779b8e;ccec8a5d-2822-44fd-8b94-ef770c54efc5;SNA Non-MOE Cases with Earned Income
+ac23e6c8-8a68-410d-916f-e7e4074f9274;b50ad3bc-4b36-482c-858c-cad924de5d8f;Payment Amount
+318cbc56-8547-49aa-a4b7-0a2d23149d74;c3b208d8-4001-415c-9f73-f6466c01904d;BRONX â CONDOMINIUMS COMPARABLE PROPERTIES â Estimated Gross Income
+318cbc56-8547-49aa-a4b7-0a2d23149d74;c3b208d8-4001-415c-9f73-f6466c01904d;BRONX â CONDOMINIUMS COMPARABLE PROPERTIES â Net Operating Income
+318cbc56-8547-49aa-a4b7-0a2d23149d74;c3b208d8-4001-415c-9f73-f6466c01904d;COMPARABLE RENTAL â 1 â Estimated Gross Income
+318cbc56-8547-49aa-a4b7-0a2d23149d74;c3b208d8-4001-415c-9f73-f6466c01904d;COMPARABLE RENTAL â 1 â Net Operating Income
+318cbc56-8547-49aa-a4b7-0a2d23149d74;c3b208d8-4001-415c-9f73-f6466c01904d;COMPARABLE RENTAL â 2 â Estimated Gross Income
+318cbc56-8547-49aa-a4b7-0a2d23149d74;c3b208d8-4001-415c-9f73-f6466c01904d;COMPARABLE RENTAL â 2 â Net Operating Income
+17f0d3a8-91cd-4673-b17d-47eb61a952d0;31c846d5-8f28-4ca1-a1bb-2492eb114c2f;AR_DOM_TaxRates_TWP.TotalDollarsSUM
+5aba1b23-af78-4df9-9978-f129aaf63745;e8fff72f-559d-4ec6-bb65-7e4678d29603;Recommended Amount
+5aba1b23-af78-4df9-9978-f129aaf63745;e8fff72f-559d-4ec6-bb65-7e4678d29603;Approved Amount
+d1cc27ea-f055-4a57-ba35-f937e59b0b1c;02f98276-776b-4dd1-bda1-853c585832ce;Total income (dollars in millions)
+d1cc27ea-f055-4a57-ba35-f937e59b0b1c;02f98276-776b-4dd1-bda1-853c585832ce;Avergae Income Per Filer
+97c01313-47ee-403f-a3af-af2d9c68824f;a4a16fbe-e723-4e18-8574-9ec1641f240e;BRONX CONDOMINIUM PROPERTY Est. Gross Income
+97c01313-47ee-403f-a3af-af2d9c68824f;a4a16fbe-e723-4e18-8574-9ec1641f240e;COMPARABLE RENTAL 1  Est. Gross Income
+97c01313-47ee-403f-a3af-af2d9c68824f;a4a16fbe-e723-4e18-8574-9ec1641f240e;COMPARABLE RENTAL 2  Est. Gross Income
+a4f254ee-e861-4aa0-ac02-1ccf8a4b9246;7c7b2c6e-564a-49ab-8a2f-fdcfdc84772c;MANHATTAN â CONDOMINIUMS COMPARABLE PROPERTIES â Estimated Gross Income
+a4f254ee-e861-4aa0-ac02-1ccf8a4b9246;7c7b2c6e-564a-49ab-8a2f-fdcfdc84772c;MANHATTAN â CONDOMINIUMS COMPARABLE PROPERTIES â Net Operating Income
+a4f254ee-e861-4aa0-ac02-1ccf8a4b9246;7c7b2c6e-564a-49ab-8a2f-fdcfdc84772c;COMPARABLE RENTAL â 1 â Estimated Gross Income
+a4f254ee-e861-4aa0-ac02-1ccf8a4b9246;7c7b2c6e-564a-49ab-8a2f-fdcfdc84772c;COMPARABLE RENTAL â 1 â Net Operating Income
+a4f254ee-e861-4aa0-ac02-1ccf8a4b9246;7c7b2c6e-564a-49ab-8a2f-fdcfdc84772c;COMPARABLE RENTAL â 2 â Estimated Gross Income
+a4f254ee-e861-4aa0-ac02-1ccf8a4b9246;7c7b2c6e-564a-49ab-8a2f-fdcfdc84772c;COMPARABLE RENTAL â 2 â Net Operating Income
+9fb8899f-e024-4582-af54-5698de492ab8;eb5d107d-a741-42b1-986d-67b187b15f40;Total Amount Reimbursed
+9fb8899f-e024-4582-af54-5698de492ab8;eb5d107d-a741-42b1-986d-67b187b15f40;Medicaid Amount Reimbursed
+9fb8899f-e024-4582-af54-5698de492ab8;eb5d107d-a741-42b1-986d-67b187b15f40;Non Medicaid Amount Reimbursed
+abf5605e-6562-47f9-8096-e9b66185a87f;b6330b80-d7a8-4f87-b85c-315c4be7a886;Total Amount
+cc9b18f1-c0c9-4adf-9595-dd9a9dd8c182;4c0f447a-dfec-481e-85f9-10291c01cf3d;INCOMECD
+c5fd0e12-a422-4ed3-8f25-37a97de66cea;42f4472d-9905-4b6c-abcd-930b19728631;CT Income Tax
+c5fd0e12-a422-4ed3-8f25-37a97de66cea;42f4472d-9905-4b6c-abcd-930b19728631;Amount of EITC Claimed
+7332a8d0-358f-4c78-8633-4d883e47de3b;845624b7-3389-4208-9dc2-208b529f8fb2;Household Income Generated
+7e30768d-0d0d-454d-b8ea-89ae8dcc437e;9b158a36-605b-4117-ad87-fa6a4f9a6de0;BOND AMOUNT
+85f901d7-c162-4ccb-be15-c1f7cc1027c6;d60c1733-86e4-431c-88b5-1ba77987ce15;Costs
+a1315d71-9557-4cbc-88e6-825374beb48b;25b0b388-0c2a-4ea1-bb3a-7ebb173f6aee;Cost of Living Index
+8147138e-01ae-4a3f-8bc2-16296ae9ba2c;5873ab1c-e790-4422-8845-fa0fc1da46d7;Amount of Credit
+8147138e-01ae-4a3f-8bc2-16296ae9ba2c;5873ab1c-e790-4422-8845-fa0fc1da46d7;Median Amount of Credit
+8147138e-01ae-4a3f-8bc2-16296ae9ba2c;5873ab1c-e790-4422-8845-fa0fc1da46d7;Mean Amount of Credit
+e62adc61-2ec9-40b1-b192-c53d618c712a;4641d997-c946-43af-9dfa-93218ac549a2;QUEENS – COOPERATIVES COMPARABLE PROPERTIES – Est. Gross Income
+e62adc61-2ec9-40b1-b192-c53d618c712a;4641d997-c946-43af-9dfa-93218ac549a2;COMPARABLE RENTAL – 1 –Est. Gross Income
+e62adc61-2ec9-40b1-b192-c53d618c712a;4641d997-c946-43af-9dfa-93218ac549a2;COMPARABLE RENTAL – 2 –Est. Gross Income
+204ff662-4c6d-4e61-9dfa-3d7dc4b36a9a;4abca8ec-5990-40b0-9aed-05518637b689;Performance Measure Amount
+baae966e-60bd-4ae2-9051-f38219afaf46;de73d43f-7d9c-4c1a-82c3-84eb81f05d00;Total_Development_Cost
+baae966e-60bd-4ae2-9051-f38219afaf46;de73d43f-7d9c-4c1a-82c3-84eb81f05d00;Loan_to_Cost
+baae966e-60bd-4ae2-9051-f38219afaf46;de73d43f-7d9c-4c1a-82c3-84eb81f05d00;Median_Household_Income_Obligation
+aaa1aa65-fdf6-4dd1-bbed-548f5843e68b;913454b3-b438-45fa-a3a4-39d7869f74ed;Total Amount Reimbursed
+aaa1aa65-fdf6-4dd1-bbed-548f5843e68b;913454b3-b438-45fa-a3a4-39d7869f74ed;Medicaid Amount Reimbursed
+aaa1aa65-fdf6-4dd1-bbed-548f5843e68b;913454b3-b438-45fa-a3a4-39d7869f74ed;Non Medicaid Amount Reimbursed
+2e50c1fe-8bbd-4933-82a1-12664419a1de;3498d3fc-f9d2-4a9c-8fa6-f115378b7e74;Formula for Manufacturing Sector Recurrent Hazardous Waste Pounds per Manufacturing Sector GDP Dollar
+2e50c1fe-8bbd-4933-82a1-12664419a1de;3498d3fc-f9d2-4a9c-8fa6-f115378b7e74;Calulation of Manufacturing Sector Recurrent Hazardous Waste Pounds per Manufacturing Sector GDP Dollar
+8d86888d-0ca4-455b-92cc-bc3a37a062eb;abeb8fed-c60c-41c6-ac96-f669c08f2d18;Consideration Amount
+58fc6d81-d7a6-42e0-a736-180ec27f26e4;1645447a-ae39-4a7f-95af-4448e4187b20;Certified Amount of Material
+50dc732f-e4dc-49c8-a997-258750b43794;20f7fc33-e952-4ebc-a121-f5e22731f579;Supplemental Security Income - Medical Assistance
+e7c68b41-5174-496e-a9e7-79645762d7cb;9f2e300d-37da-428a-807d-b05d5a605277;ASSET_LABOR_COST
+e7c68b41-5174-496e-a9e7-79645762d7cb;9f2e300d-37da-428a-807d-b05d5a605277;ASSET_EQUIP_COST
+e7c68b41-5174-496e-a9e7-79645762d7cb;9f2e300d-37da-428a-807d-b05d5a605277;ASSET_MATERIAL_COST
+e7c68b41-5174-496e-a9e7-79645762d7cb;9f2e300d-37da-428a-807d-b05d5a605277;ASSET_TOTAL_COST
+e7c68b41-5174-496e-a9e7-79645762d7cb;9f2e300d-37da-428a-807d-b05d5a605277;LABOR_TOTAL_COST
+e7c68b41-5174-496e-a9e7-79645762d7cb;9f2e300d-37da-428a-807d-b05d5a605277;EQUIP_TOTAL_COST
+e7c68b41-5174-496e-a9e7-79645762d7cb;9f2e300d-37da-428a-807d-b05d5a605277;MATL_TOTAL_COST
+e7c68b41-5174-496e-a9e7-79645762d7cb;9f2e300d-37da-428a-807d-b05d5a605277;TOTAL_COST
+b4a8b7e4-0e1e-4be7-afdd-eb7cc7813c44;d918240b-3ccc-4d41-8f96-2687c5c60754;C_TOTSERCOST2003_PUB
+5758f0e1-e5bf-4685-b975-0649c90d8273;23ac08d1-d6a6-47ab-88b8-1d47145b7c8b;QUEENS CONDOMINIUM PROPERTY Est. Gross Income
+5758f0e1-e5bf-4685-b975-0649c90d8273;23ac08d1-d6a6-47ab-88b8-1d47145b7c8b;COMPARABLE RENTAL 1  Est. Gross Income
+5758f0e1-e5bf-4685-b975-0649c90d8273;23ac08d1-d6a6-47ab-88b8-1d47145b7c8b;COMPARABLE RENTAL 2  Est. Gross Income
+d050cc3e-1058-443e-b6f2-8bd2c8b38872;7c9ab7b4-85d8-4d0b-94d1-444089476e7d;Total Project Costs
+d050cc3e-1058-443e-b6f2-8bd2c8b38872;7c9ab7b4-85d8-4d0b-94d1-444089476e7d;Total Amount of State New Market Tax Allocation
+d050cc3e-1058-443e-b6f2-8bd2c8b38872;7c9ab7b4-85d8-4d0b-94d1-444089476e7d;Total Amount of Federal New Market Tax Allocation
+d050cc3e-1058-443e-b6f2-8bd2c8b38872;7c9ab7b4-85d8-4d0b-94d1-444089476e7d;Maximum Amount of Tax Credit Made Available to Quality Equity Investor in Current Tax Year
+eda5270d-7162-4e4b-87e8-a18621f078e9;b0d1975a-a6d5-4e93-8c4a-14f70df4c01d;COST
+b462cea9-e70a-40a0-84ad-e8b398d2d651;b3da3a50-215c-48cf-bb80-96ea0901d331;Amount Spent
+133fb4a0-74f7-4a2b-b40e-9eb886d90c26;d55ac0f9-4114-46f5-b6ef-41c85e54a4a9;Benefit Amount
+3a089fda-c2fd-4fe4-b49d-a6d17bed6a2b;eb667a03-278f-4f7c-bf85-3786c2713f5f;Annual Allocation Amount
+649a8830-348e-422c-9322-67fdf63a37b3;3a594ef0-c533-4e46-b805-096b1b892704;SNAP_All_csv_1999_Median_Income
+649a8830-348e-422c-9322-67fdf63a37b3;3a594ef0-c533-4e46-b805-096b1b892704;SNAP_All_csv_2009_Median_Income
+6f6c43e0-4800-4eb6-94bf-6cfb07d05ae4;130fb11f-fad5-459c-a77e-b20392275b84;Amount of Basic Reimbursement
+6f6c43e0-4800-4eb6-94bf-6cfb07d05ae4;130fb11f-fad5-459c-a77e-b20392275b84;Amount of Enhanced Reimbursement
+6f6c43e0-4800-4eb6-94bf-6cfb07d05ae4;130fb11f-fad5-459c-a77e-b20392275b84;Total Amount of Reimbursement
+d38be60f-9e34-49b7-98d9-bc0819107413;0ba6a886-78f4-46cb-adc4-4f97ead5a7c8;Disposal Cost
+d38be60f-9e34-49b7-98d9-bc0819107413;0ba6a886-78f4-46cb-adc4-4f97ead5a7c8;     Total Cost of Unleaded
+d38be60f-9e34-49b7-98d9-bc0819107413;0ba6a886-78f4-46cb-adc4-4f97ead5a7c8;     Total Cost of Diesel
+be8efb98-7d24-49b2-b9f8-52b91b60cd8b;96414f4a-5946-4a23-b0c6-9d92aa4ff953;CaseMgmt_InsuranceCost
+be8efb98-7d24-49b2-b9f8-52b91b60cd8b;96414f4a-5946-4a23-b0c6-9d92aa4ff953;ClinicServicesCost
+be8efb98-7d24-49b2-b9f8-52b91b60cd8b;96414f4a-5946-4a23-b0c6-9d92aa4ff953;DentalServicesCost
+be8efb98-7d24-49b2-b9f8-52b91b60cd8b;96414f4a-5946-4a23-b0c6-9d92aa4ff953;EPSDTCost
+be8efb98-7d24-49b2-b9f8-52b91b60cd8b;96414f4a-5946-4a23-b0c6-9d92aa4ff953;ERCost
+be8efb98-7d24-49b2-b9f8-52b91b60cd8b;96414f4a-5946-4a23-b0c6-9d92aa4ff953;HCBSCost
+be8efb98-7d24-49b2-b9f8-52b91b60cd8b;96414f4a-5946-4a23-b0c6-9d92aa4ff953;HomeHealthCost
+be8efb98-7d24-49b2-b9f8-52b91b60cd8b;96414f4a-5946-4a23-b0c6-9d92aa4ff953;HospiceCost
+be8efb98-7d24-49b2-b9f8-52b91b60cd8b;96414f4a-5946-4a23-b0c6-9d92aa4ff953;ICFMRCost
+be8efb98-7d24-49b2-b9f8-52b91b60cd8b;96414f4a-5946-4a23-b0c6-9d92aa4ff953;InpatientCareCost
+be8efb98-7d24-49b2-b9f8-52b91b60cd8b;96414f4a-5946-4a23-b0c6-9d92aa4ff953;LabRadiologyCost
+be8efb98-7d24-49b2-b9f8-52b91b60cd8b;96414f4a-5946-4a23-b0c6-9d92aa4ff953;NursingFacilityCost
+be8efb98-7d24-49b2-b9f8-52b91b60cd8b;96414f4a-5946-4a23-b0c6-9d92aa4ff953;OtherServicesCost
+be8efb98-7d24-49b2-b9f8-52b91b60cd8b;96414f4a-5946-4a23-b0c6-9d92aa4ff953;OutPatientCost
+be8efb98-7d24-49b2-b9f8-52b91b60cd8b;96414f4a-5946-4a23-b0c6-9d92aa4ff953;PDDCost
+be8efb98-7d24-49b2-b9f8-52b91b60cd8b;96414f4a-5946-4a23-b0c6-9d92aa4ff953;PrescDRUGsCost
+be8efb98-7d24-49b2-b9f8-52b91b60cd8b;96414f4a-5946-4a23-b0c6-9d92aa4ff953;RehabCost
+be8efb98-7d24-49b2-b9f8-52b91b60cd8b;96414f4a-5946-4a23-b0c6-9d92aa4ff953;SchoolBasedCost
+be8efb98-7d24-49b2-b9f8-52b91b60cd8b;96414f4a-5946-4a23-b0c6-9d92aa4ff953;TherapyCost
+be8efb98-7d24-49b2-b9f8-52b91b60cd8b;96414f4a-5946-4a23-b0c6-9d92aa4ff953;TotalCost
+9f2baf85-cb6f-4388-970d-4ee6cc49ab0f;f93e2ef2-f88d-4702-885a-0bba6befa388;EARN INCOME RETURNS
+3ba04e01-7826-4a11-a0c5-8383d1350559;10fd8aed-93f4-413e-a308-dc77af3dc88b;Total Declared Value ($)
+994146ee-4d67-4090-9328-eb91dceac687;90e7e86a-a5a2-4263-b442-a058525e3d1c;MANHATTAN – COOPERATIVES COMPARABLE PROPERTIES – Est. Gross Income
+994146ee-4d67-4090-9328-eb91dceac687;90e7e86a-a5a2-4263-b442-a058525e3d1c;COMPARABLE RENTAL – 1 –Est. Gross Income
+994146ee-4d67-4090-9328-eb91dceac687;90e7e86a-a5a2-4263-b442-a058525e3d1c;COMPARABLE RENTAL – 2 –Est. Gross Income
+78287932-96c1-491e-addb-5b4d47a81ab5;14962b1e-03ce-4f51-8e40-ad17c7e971cf;Adopted Budget Amount
+78287932-96c1-491e-addb-5b4d47a81ab5;14962b1e-03ce-4f51-8e40-ad17c7e971cf;Current Modified Budget Amount
+78287932-96c1-491e-addb-5b4d47a81ab5;14962b1e-03ce-4f51-8e40-ad17c7e971cf;Year 1 Revenue Amount
+78287932-96c1-491e-addb-5b4d47a81ab5;14962b1e-03ce-4f51-8e40-ad17c7e971cf;Year 2 Revenue Amount
+78287932-96c1-491e-addb-5b4d47a81ab5;14962b1e-03ce-4f51-8e40-ad17c7e971cf;Year 3 Revenue Amount
+78287932-96c1-491e-addb-5b4d47a81ab5;14962b1e-03ce-4f51-8e40-ad17c7e971cf;Year 4 Revenue Amount
+fdb2a540-55d8-439a-bfe3-b9575b14706e;7de6cf53-b5d6-46e1-92b0-170e1b2ba5bd;Total Exempt Amount
+fdb2a540-55d8-439a-bfe3-b9575b14706e;7de6cf53-b5d6-46e1-92b0-170e1b2ba5bd;Estimated Total Full Value of Exempt Amount
+e868645a-2472-402d-ac0a-d23773d7ecd9;e909ccbc-30a0-4f75-9d34-bc1c80613f6d;Fine Amount
+e868645a-2472-402d-ac0a-d23773d7ecd9;e909ccbc-30a0-4f75-9d34-bc1c80613f6d;Amount Due
+67c9e8be-7357-42f4-a3a7-efc279a39153;746c3bee-7927-4c18-b3d1-807a0348f632;District Cost for Supplementary Weighting
+67c9e8be-7357-42f4-a3a7-efc279a39153;746c3bee-7927-4c18-b3d1-807a0348f632;Special Education Instrustion District Cost
+d6dbd402-489f-4094-98bc-b4a642e0ad54;dad50a35-8275-4b6f-b072-f76929c08b07;BROOKLYN – COOPERATIVES COMPARABLE PROPERTIES – Est. Gross Income
+d6dbd402-489f-4094-98bc-b4a642e0ad54;dad50a35-8275-4b6f-b072-f76929c08b07;COMPARABLE RENTAL – 1 –Est. Gross Income
+d6dbd402-489f-4094-98bc-b4a642e0ad54;dad50a35-8275-4b6f-b072-f76929c08b07;COMPARABLE RENTAL – 2 –Est. Gross Income
+b380e60e-a21d-486e-b052-a4b1c05e39e8;6bbdc3a0-fffb-40c9-ab1f-708e40d94a8c;Interest Income Included in Warrant
+150a066b-1ebf-4dd4-87de-de86a5035721;4625df64-8d35-4c5d-917d-5d5ddb919f17;QUEENS – COOPERATIVES COMPARABLE PROPERTIES – Est. Gross Income
+150a066b-1ebf-4dd4-87de-de86a5035721;4625df64-8d35-4c5d-917d-5d5ddb919f17;COMPARABLE RENTAL – 1 –Est. Gross Income
+150a066b-1ebf-4dd4-87de-de86a5035721;4625df64-8d35-4c5d-917d-5d5ddb919f17;COMPARABLE RENTAL – 2 –Est. Gross Income
+3fbd41d8-c58d-4ab5-a53f-5fe0e39f1180;2c264d8f-9c57-4393-bd6a-cbb512ec90d7;Total Amount Reimbursed
+3fbd41d8-c58d-4ab5-a53f-5fe0e39f1180;2c264d8f-9c57-4393-bd6a-cbb512ec90d7;Medicaid Amount Reimbursed
+3fbd41d8-c58d-4ab5-a53f-5fe0e39f1180;2c264d8f-9c57-4393-bd6a-cbb512ec90d7;Non Medicaid Amount Reimbursed
+4c31d71f-d3ed-406c-8444-f62eaeda1c01;8ff417fb-f151-42c5-8178-542e9c10abea;Per capita personal income (Hawaii as percent of U.S. Average)
+c2a6cfd0-b984-4a05-abc9-5e8642503df1;55ee4a76-7b26-4fe0-9c3b-9636fde249c4;Total Amount Reimbursed
+c2a6cfd0-b984-4a05-abc9-5e8642503df1;55ee4a76-7b26-4fe0-9c3b-9636fde249c4;Medicaid Amount Reimbursed
+c2a6cfd0-b984-4a05-abc9-5e8642503df1;55ee4a76-7b26-4fe0-9c3b-9636fde249c4;Non Medicaid Amount Reimbursed
+2b93b89e-45e7-4ffe-9455-dc4f18271b32;c0bf48a1-d102-4c73-a25e-5a240b8132d6;Income: Median Household (2000 Census)
+2b93b89e-45e7-4ffe-9455-dc4f18271b32;c0bf48a1-d102-4c73-a25e-5a240b8132d6;Income: Median Household (2005-2009 ACS)
+2b93b89e-45e7-4ffe-9455-dc4f18271b32;c0bf48a1-d102-4c73-a25e-5a240b8132d6;Income: Median Household (2006 ACS)
+2b93b89e-45e7-4ffe-9455-dc4f18271b32;c0bf48a1-d102-4c73-a25e-5a240b8132d6;Income: Median Household (2007 ACS)
+fceba32b-06e6-4766-9f85-74106856fa21;ebfd75eb-55f6-4dfe-99f2-3c56df53d099;2017 Proposed Dollars
+fceba32b-06e6-4766-9f85-74106856fa21;ebfd75eb-55f6-4dfe-99f2-3c56df53d099;2018 Proposed Dollars
+45be74be-4b73-4be4-83a5-95dd5c556647;1d4488ae-f812-46f3-b27d-eb89e6286f95;Approved Amount
+45be74be-4b73-4be4-83a5-95dd5c556647;1d4488ae-f812-46f3-b27d-eb89e6286f95;Actual Amount
+71bfc5aa-37e7-403a-b44c-f7d65bc268e2;36532671-10b5-4e9a-923f-250a0cd1f9e6;TotalCost1
+71bfc5aa-37e7-403a-b44c-f7d65bc268e2;36532671-10b5-4e9a-923f-250a0cd1f9e6;Cost
+0d9de980-8be4-4674-b857-d71029e620bc;a8540934-b320-4614-bdf7-e99e3df49221;Yearly Income ($)
+0d9de980-8be4-4674-b857-d71029e620bc;a8540934-b320-4614-bdf7-e99e3df49221;Monthly Income ($)
+0d9de980-8be4-4674-b857-d71029e620bc;a8540934-b320-4614-bdf7-e99e3df49221;Weekly Income ($)
+3412ccd2-657e-45b7-a941-7f24b23880a6;5a6c271d-c515-43f9-ac1c-972b32cb6e84;STATEN ISLAND CONDOMINIUM PROPERTY Est. Gross Income
+3412ccd2-657e-45b7-a941-7f24b23880a6;5a6c271d-c515-43f9-ac1c-972b32cb6e84;COMPARABLE RENTAL 1  Est. Gross Income
+3412ccd2-657e-45b7-a941-7f24b23880a6;5a6c271d-c515-43f9-ac1c-972b32cb6e84;COMPARABLE RENTAL 2  Est. Gross Income
+e98069ee-a242-45ab-b670-42c49d3508ec;20bc35e4-8c15-4580-84b3-bb64465e880e;dollar
+7a4a50f5-b9c0-498a-b8e7-acd96bf98f50;82700af4-17b6-43ca-acd9-1d743d7f2f8f;AMOUNT_PAID
+9c8791e6-e0db-40d0-ad1a-9efba65f5c1a;b15fc959-0b14-41ae-9a52-148cc43b3ea8;COST
+4598b400-7ae3-4a3d-bc08-2e032bcee51a;4bb1ef9d-c136-411d-9423-055e7f6db274;Total Amount Reimbursed
+4598b400-7ae3-4a3d-bc08-2e032bcee51a;4bb1ef9d-c136-411d-9423-055e7f6db274;Medicaid Amount Reimbursed
+4598b400-7ae3-4a3d-bc08-2e032bcee51a;4bb1ef9d-c136-411d-9423-055e7f6db274;Non Medicaid Amount Reimbursed
+b8e376c4-698a-424e-a4ec-6b79d3e9f14c;41ca9194-a1cd-4d55-be93-6f687649ddce;Estimated Contract Amount
+b8e376c4-698a-424e-a4ec-6b79d3e9f14c;41ca9194-a1cd-4d55-be93-6f687649ddce;Contract Amount
+d65475e1-c657-4b3a-ad41-0f2cdccdc8e4;c0372064-5e56-47b7-a5b0-e5b151435ef3;Final Certified Project Cost
+a0ab4565-5541-418d-b786-391e49aa63f4;32a8dcdd-f730-47e9-961d-868da027ca4b;Total Amount Reimbursed
+a0ab4565-5541-418d-b786-391e49aa63f4;32a8dcdd-f730-47e9-961d-868da027ca4b;Medicaid Amount Reimbursed
+a0ab4565-5541-418d-b786-391e49aa63f4;32a8dcdd-f730-47e9-961d-868da027ca4b;Non Medicaid Amount Reimbursed
+d62406ae-1668-4fe9-a184-b9c982a6e139;edefaee6-fbf6-4542-80ac-a850ca66b4ba;PROJECTCOSTS
+1a407768-a884-4265-ad10-37526fa0ce9e;3b82fef4-9166-4091-b60e-b021cf134782;Estimated Cost
+1a407768-a884-4265-ad10-37526fa0ce9e;3b82fef4-9166-4091-b60e-b021cf134782;Revised Cost
+2a59919e-272e-46ae-bdd6-932e5e642fcb;623777b3-09c5-4fef-809c-4db7c087fccf;Total Amount of Credits Claimed
+97933c6c-8a76-493b-a63b-6a4887ff0417;f6324ff6-0fe4-4d2f-9f60-163ed73bf7c7;Percapitaincome
+824322a1-33ab-448a-8ad5-f1a798b8d2b3;de71df85-3d7e-4c42-b795-2d18cb24c945;Financial Security Amount
+2683eb0b-790c-4415-a1fb-28d8c9452242;d6586b00-d4d8-4369-a674-5bf5d2a159c0;BRONX – COOPERATIVES COMPARABLE PROPERTIES – Est. Gross Income
+2683eb0b-790c-4415-a1fb-28d8c9452242;d6586b00-d4d8-4369-a674-5bf5d2a159c0;COMPARABLE RENTAL – 1 –Est. Gross Income
+2683eb0b-790c-4415-a1fb-28d8c9452242;d6586b00-d4d8-4369-a674-5bf5d2a159c0;COMPARABLE RENTAL – 2 –Est. Gross Income
+879f7cfd-893e-4cdf-82ed-420599c6f8a3;ef10691a-22dc-46d7-9c8b-6e3c395dbb26;Complaint/Judgement Amount
+879f7cfd-893e-4cdf-82ed-420599c6f8a3;ef10691a-22dc-46d7-9c8b-6e3c395dbb26;Original Mortgage Amount
+879f7cfd-893e-4cdf-82ed-420599c6f8a3;ef10691a-22dc-46d7-9c8b-6e3c395dbb26;Sold Amount
+879f7cfd-893e-4cdf-82ed-420599c6f8a3;ef10691a-22dc-46d7-9c8b-6e3c395dbb26;Census Avg Income
+d166729d-6bf2-4195-b6a2-e8ece7a6305b;11fb2191-95c4-41bb-973c-b3b5acd7228f;Approved Amount
+d166729d-6bf2-4195-b6a2-e8ece7a6305b;11fb2191-95c4-41bb-973c-b3b5acd7228f;Recommended Amount
+0900f857-76c3-4fbc-b16b-b3d72fca73ca;457049f4-106c-4c72-935a-a65a3ed79cc6;applicant_income_000s
+0900f857-76c3-4fbc-b16b-b3d72fca73ca;457049f4-106c-4c72-935a-a65a3ed79cc6;hud_median_family_income
+0900f857-76c3-4fbc-b16b-b3d72fca73ca;457049f4-106c-4c72-935a-a65a3ed79cc6;loan_amount_000s
+0900f857-76c3-4fbc-b16b-b3d72fca73ca;457049f4-106c-4c72-935a-a65a3ed79cc6;tract_to_msamd_income
+17b174b9-07f2-4325-a11c-da073868073f;a1c9d680-2830-43ae-a268-daa44c282b5c;Encumbered Amount
+d699e86d-76ef-43f8-b2fa-521c9dedb9ae;0b3232c2-7175-43f2-8f6b-bd1ab99e38a3;TOTAL AMOUNT
+d699e86d-76ef-43f8-b2fa-521c9dedb9ae;0b3232c2-7175-43f2-8f6b-bd1ab99e38a3;VOUCHED AMOUNT
+d699e86d-76ef-43f8-b2fa-521c9dedb9ae;0b3232c2-7175-43f2-8f6b-bd1ab99e38a3;ITEM UNIT COST
+d699e86d-76ef-43f8-b2fa-521c9dedb9ae;0b3232c2-7175-43f2-8f6b-bd1ab99e38a3;ITEM TOTAL COST
+850115d8-1c8b-4c76-9633-66ec5a3c3d1e;188c46bc-86ec-4e94-9f6e-e52f2ac98908;PenaltyAmount
+90b2b787-f812-4dbb-aaf7-9fb7c7fe19b0;049288d2-676b-4bf2-b66e-9e293969d3d4;Total Amount Reimbursed
+90b2b787-f812-4dbb-aaf7-9fb7c7fe19b0;049288d2-676b-4bf2-b66e-9e293969d3d4;Medicaid Amount Reimbursed
+90b2b787-f812-4dbb-aaf7-9fb7c7fe19b0;049288d2-676b-4bf2-b66e-9e293969d3d4;Non Medicaid Amount Reimbursed
+45bfdb9c-85ec-4d17-8a0a-8665851b8698;9a1d2506-feb7-43cf-b2e1-f3487af866c9;Ind. $$ Expended
+1d31a429-4de1-4665-ad1c-8a217a3e4051;d42f9bd9-5200-46db-a3b6-9058edcbdfe6;Income Tax
+1d31a429-4de1-4665-ad1c-8a217a3e4051;d42f9bd9-5200-46db-a3b6-9058edcbdfe6;Unrelated Business Income
+98354d97-888b-470f-b389-028495a72b87;ddbcfd1c-5ce4-4579-b745-b564533c8467;Award Amount
+57dc81a5-4ccf-456e-8a52-13944f7d20d1;640c1cdb-94e7-456b-96f0-952e70908070;Bond Amount
+e92b1e9a-34ca-48a0-9cbe-8e1236b04584;8f254765-f2f0-45e7-998e-e9b65c10507d;Source of Income
+7cd92fa3-18b6-4a7a-9ed3-c98dd4ed8a81;27533b8d-c0fd-41fb-a741-2bdd9459901d;CostsTaxes
+0a2c3a9b-56ce-4195-8f00-76ba45cc0202;37a9226a-ff41-417b-90c7-f5605f2cf5ad;Yearly Income
+0a2c3a9b-56ce-4195-8f00-76ba45cc0202;37a9226a-ff41-417b-90c7-f5605f2cf5ad;Monthly Income
+0a2c3a9b-56ce-4195-8f00-76ba45cc0202;37a9226a-ff41-417b-90c7-f5605f2cf5ad;Weekly Income
+23c3dfbe-707f-40e9-9c3e-3b0d4ea287a1;9dc65e50-e198-4d3b-b30c-767c9e275e14;BridgeImprovementCost
+23c3dfbe-707f-40e9-9c3e-3b0d4ea287a1;9dc65e50-e198-4d3b-b30c-767c9e275e14;RoadwayImprovementCost
+23c3dfbe-707f-40e9-9c3e-3b0d4ea287a1;9dc65e50-e198-4d3b-b30c-767c9e275e14;TotalProjectCost
+b65d3666-4456-4d9f-9424-c159a9e91241;cd00e43d-29d0-4aa8-8e44-95fe8bd2f3e1;BRONX CONDOMINIUM PROPERTY Est. Gross Income
+b65d3666-4456-4d9f-9424-c159a9e91241;cd00e43d-29d0-4aa8-8e44-95fe8bd2f3e1;COMPARABLE RENTAL 1  Est. Gross Income
+b65d3666-4456-4d9f-9424-c159a9e91241;cd00e43d-29d0-4aa8-8e44-95fe8bd2f3e1;COMPARABLE RENTAL 2  Est. Gross Income
+46299d93-7da9-4dac-980e-356bee3e366c;db8aa587-9c1d-425e-bbaf-71e458f6fb46;Cost to Start a Business
+46299d93-7da9-4dac-980e-356bee3e366c;db8aa587-9c1d-425e-bbaf-71e458f6fb46;Cost to Register a Property
+2b638ed4-2b98-4e6c-b450-80b407c81ead;be25a990-4fc1-4d8d-9491-571e8a45be49;BRONX – COOPERATIVES COMPARABLE PROPERTIES – Estimated Gross Income
+2b638ed4-2b98-4e6c-b450-80b407c81ead;be25a990-4fc1-4d8d-9491-571e8a45be49;BRONX – COOPERATIVES COMPARABLE PROPERTIES – Net Operating Income
+2b638ed4-2b98-4e6c-b450-80b407c81ead;be25a990-4fc1-4d8d-9491-571e8a45be49;COMPARABLE RENTAL – 1 – Estimated Gross Income
+2b638ed4-2b98-4e6c-b450-80b407c81ead;be25a990-4fc1-4d8d-9491-571e8a45be49;COMPARABLE RENTAL – 1 – Net Operating Income
+2b638ed4-2b98-4e6c-b450-80b407c81ead;be25a990-4fc1-4d8d-9491-571e8a45be49;COMPARABLE RENTAL – 2 – Estimated Gross Income
+2b638ed4-2b98-4e6c-b450-80b407c81ead;be25a990-4fc1-4d8d-9491-571e8a45be49;COMPARABLE RENTAL – 2 – Net Operating Income
+1fe3df46-11a3-425b-80c8-c7a561e15547;8a4f8241-b5c0-4d84-9c7d-517c8ed44159;QUEENS – COOPERATIVES COMPARABLE PROPERTIES – Estimated Gross Income
+1fe3df46-11a3-425b-80c8-c7a561e15547;8a4f8241-b5c0-4d84-9c7d-517c8ed44159;QUEENS – COOPERATIVES COMPARABLE PROPERTIES – Net Operating Income
+1fe3df46-11a3-425b-80c8-c7a561e15547;8a4f8241-b5c0-4d84-9c7d-517c8ed44159;COMPARABLE RENTAL – 1 – Estimated Gross Income
+1fe3df46-11a3-425b-80c8-c7a561e15547;8a4f8241-b5c0-4d84-9c7d-517c8ed44159;COMPARABLE RENTAL – 1 – Net Operating Income
+1fe3df46-11a3-425b-80c8-c7a561e15547;8a4f8241-b5c0-4d84-9c7d-517c8ed44159;COMPARABLE RENTAL – 2 – Estimated Gross Income
+1fe3df46-11a3-425b-80c8-c7a561e15547;8a4f8241-b5c0-4d84-9c7d-517c8ed44159;COMPARABLE RENTAL – 2 – Net Operating Income
+6a4608ba-335a-4fd1-8970-1ad3dc73bfe2;5bec8d4d-4ef5-4db9-a3d1-d8da82b2572d;Earnings Amount (In millions)
+ad89c30a-dd2d-435b-819b-dc458c65a27a;1efab4de-653d-4dba-afaf-2117e5610905;Estimated Job Costs
+db54295e-64b5-4e24-b817-be8085a09ac9;7ed1255e-cc6b-429d-9d8d-de5f27df1b7b;Amount_Guaranteed
+9d6b84e2-bead-41e0-b919-f569a95b1b6e;dbf52c02-3668-48db-b622-ea1ed4213e98;MANHATTAN – COOPERATIVES COMPARABLE PROPERTIES – Estimated Gross Income
+9d6b84e2-bead-41e0-b919-f569a95b1b6e;dbf52c02-3668-48db-b622-ea1ed4213e98;MANHATTAN – COOPERATIVES COMPARABLE PROPERTIES – Net Operating Income
+9d6b84e2-bead-41e0-b919-f569a95b1b6e;dbf52c02-3668-48db-b622-ea1ed4213e98;COMPARABLE RENTAL – 1 – Estimated Gross Income
+9d6b84e2-bead-41e0-b919-f569a95b1b6e;dbf52c02-3668-48db-b622-ea1ed4213e98;COMPARABLE RENTAL – 1 – Net Operating Income
+9d6b84e2-bead-41e0-b919-f569a95b1b6e;dbf52c02-3668-48db-b622-ea1ed4213e98;COMPARABLE RENTAL – 2 – Estimated Gross Income
+9d6b84e2-bead-41e0-b919-f569a95b1b6e;dbf52c02-3668-48db-b622-ea1ed4213e98;COMPARABLE RENTAL – 2 – Net Operating Income
+2501cb0c-e72f-41d8-b49e-d97f85eefe12;9b790985-f7e2-4de8-8d53-4149cefb00aa;Amount Spent
+f8791f91-1e7d-4064-971b-25f159eded8d;2b86e344-ccc1-42b0-8b80-ef5a50c4f0b7;dollar
+bf73b236-d824-49f1-8d51-1dfaeb5a6ef3;a01ebd71-5005-4e41-a8f9-57815dc78854;COST
+31cc1457-5eff-47c1-a084-b4898e64781b;26d81304-4bdb-4957-8746-dc346426610f;Total Est.Cost
+7d10eeb7-79a6-488f-83a0-0eefe6b8ad2a;2c48aea9-646f-426b-a7bc-a87a803d3586;Budget:  $
+7d10eeb7-79a6-488f-83a0-0eefe6b8ad2a;2c48aea9-646f-426b-a7bc-a87a803d3586;Spent: $
+f5858a3a-2413-4e25-a2ce-59b3931b78e5;ea63f13d-f86e-4409-ab9f-e06ed75b819b;Total Amount
+a7f1cde1-2eb7-4e12-b086-3e5e3f943a04;3e353c77-48fc-4909-88e1-48d25e9f1633;dollar

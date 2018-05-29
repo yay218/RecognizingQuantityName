@@ -1,0 +1,245 @@
+5ee916e2-72f7-43f2-b310-8fd9363ced5b;1ad01514-daf9-4726-a65e-9db89df82c8a;indirect_ghg_emissions_metric_tons_co2e
+5ee916e2-72f7-43f2-b310-8fd9363ced5b;1ad01514-daf9-4726-a65e-9db89df82c8a;direct_ghg_emissions_metric_tons_co2e
+5ee916e2-72f7-43f2-b310-8fd9363ced5b;1ad01514-daf9-4726-a65e-9db89df82c8a;total_ghg_emissions_metric_tons_co2e
+d280c1dd-441b-4fac-9bc5-97715b7eeaa8;bd3ee52c-b2ac-4962-af93-a49a6cc9dc85;Tons in 2008
+fa0893ff-f29b-47ca-b28d-53457157a42d;4e7c9536-74f2-47eb-85bb-8b84d367b944;TRI Pounds
+fa0893ff-f29b-47ca-b28d-53457157a42d;4e7c9536-74f2-47eb-85bb-8b84d367b944;TRI Pounds with Toxicity Weights
+fa0893ff-f29b-47ca-b28d-53457157a42d;4e7c9536-74f2-47eb-85bb-8b84d367b944;Modeled Pounds
+7178fa95-9036-4252-a273-3a042bf5b059;8e7cf116-084d-495a-afd5-08810e3255c0;Emissions (Metric Tons)
+86453da4-b793-42a7-a02a-81572a96cc40;615c8c0d-90e8-4547-8669-4f9efda99ddb;Weight Totals
+50e7cc83-aa2d-44e0-846f-24f7bde02104;c0c73c85-fe47-4b8e-9fd2-c64e6578a05e;WEIGHT
+9080fd03-702d-458f-a64e-9b3f120f7112;227dee66-1c54-4c2d-b43f-4c9884130f69;Steel (lbs)
+9080fd03-702d-458f-a64e-9b3f120f7112;227dee66-1c54-4c2d-b43f-4c9884130f69;Refrigerants (lbs)
+9080fd03-702d-458f-a64e-9b3f120f7112;227dee66-1c54-4c2d-b43f-4c9884130f69;Direct CO2 (tons)
+b2e008f4-8ed6-4182-ac0f-26986854aed7;5b0eddda-71ce-4478-90f6-446f5e1c1cae;2011 Total GHG Emissions (Metric Tons CO2e)
+b2e008f4-8ed6-4182-ac0f-26986854aed7;5b0eddda-71ce-4478-90f6-446f5e1c1cae;2012 Total GHG Emissions (Metric Tons CO2e)
+b2e008f4-8ed6-4182-ac0f-26986854aed7;5b0eddda-71ce-4478-90f6-446f5e1c1cae;2013 Total GHG Emissions (Metric Tons CO2e)
+b2e008f4-8ed6-4182-ac0f-26986854aed7;5b0eddda-71ce-4478-90f6-446f5e1c1cae;2014 Total GHG Emissions (Metric Tons CO2e)
+b2e008f4-8ed6-4182-ac0f-26986854aed7;5b0eddda-71ce-4478-90f6-446f5e1c1cae;2015 Total GHG Emissions (Metric Tons CO2e)
+7b96cb19-f2e9-402d-bda4-abb53ab072ba;645f7593-f77e-44fd-8f78-b5da91f3cd82;Consumption (Mlbs)
+85d2b7f7-eed3-4264-8fcd-e68e8a2da375;77d85364-2313-4847-b2fb-5e563cd568b9;WEIGHT
+e70d95e0-e4e9-4a9d-af92-ec62764d34d7;1e63eabf-9e0c-4d1e-97c3-84f77fe1baa3;Total P, 1985 (lb.)
+e70d95e0-e4e9-4a9d-af92-ec62764d34d7;1e63eabf-9e0c-4d1e-97c3-84f77fe1baa3;Total P, 2007 (lb.)
+e70d95e0-e4e9-4a9d-af92-ec62764d34d7;1e63eabf-9e0c-4d1e-97c3-84f77fe1baa3;Total P, 2009 (lb.)
+e70d95e0-e4e9-4a9d-af92-ec62764d34d7;1e63eabf-9e0c-4d1e-97c3-84f77fe1baa3;Total P, 2010 (lb.)
+e70d95e0-e4e9-4a9d-af92-ec62764d34d7;1e63eabf-9e0c-4d1e-97c3-84f77fe1baa3;Total P, 2011 (lb.)
+e70d95e0-e4e9-4a9d-af92-ec62764d34d7;1e63eabf-9e0c-4d1e-97c3-84f77fe1baa3;Total P, 2012 (lb.)
+e70d95e0-e4e9-4a9d-af92-ec62764d34d7;1e63eabf-9e0c-4d1e-97c3-84f77fe1baa3;Total P, 2013 (lb.)
+e70d95e0-e4e9-4a9d-af92-ec62764d34d7;1e63eabf-9e0c-4d1e-97c3-84f77fe1baa3;Total P, 2014 (lb.)
+e70d95e0-e4e9-4a9d-af92-ec62764d34d7;1e63eabf-9e0c-4d1e-97c3-84f77fe1baa3;Total P, 2015 (lb.)
+e70d95e0-e4e9-4a9d-af92-ec62764d34d7;1e63eabf-9e0c-4d1e-97c3-84f77fe1baa3;Total P, 2016 (lb.)
+e70d95e0-e4e9-4a9d-af92-ec62764d34d7;1e63eabf-9e0c-4d1e-97c3-84f77fe1baa3;Total P Target, 2017 (lb.)
+e70d95e0-e4e9-4a9d-af92-ec62764d34d7;1e63eabf-9e0c-4d1e-97c3-84f77fe1baa3;Total P Target 2025 (lb.)
+52ba4332-b674-41e8-ad70-6702072695dc;090a0033-82d0-4224-adb3-ed6c4387987d;Tons of Salt Used
+52ba4332-b674-41e8-ad70-6702072695dc;090a0033-82d0-4224-adb3-ed6c4387987d;Tons of Asphalt
+fef36e8d-2e2d-435c-8643-a0e61b25bf9d;505a19be-1201-4151-af76-b8347d3ae07b;Weekly Emissions (grams of CO2)
+fef36e8d-2e2d-435c-8643-a0e61b25bf9d;505a19be-1201-4151-af76-b8347d3ae07b;Emissions saved (pounds of CO2)
+049aa91d-6d88-4a27-8ed3-f3cd7e267835;c1a61b55-c915-4c70-83d6-f9cb2b7036c8;Total Sediment, 1985 (T)
+049aa91d-6d88-4a27-8ed3-f3cd7e267835;c1a61b55-c915-4c70-83d6-f9cb2b7036c8;Total Sediment, 2007 (T)
+049aa91d-6d88-4a27-8ed3-f3cd7e267835;c1a61b55-c915-4c70-83d6-f9cb2b7036c8;Total Sediment, 2009 (T)
+049aa91d-6d88-4a27-8ed3-f3cd7e267835;c1a61b55-c915-4c70-83d6-f9cb2b7036c8;Total Sediment, 2010 (T)
+049aa91d-6d88-4a27-8ed3-f3cd7e267835;c1a61b55-c915-4c70-83d6-f9cb2b7036c8;Total Sediment, 2011 (T)
+049aa91d-6d88-4a27-8ed3-f3cd7e267835;c1a61b55-c915-4c70-83d6-f9cb2b7036c8;Total Sediment, 2012 (T)
+049aa91d-6d88-4a27-8ed3-f3cd7e267835;c1a61b55-c915-4c70-83d6-f9cb2b7036c8;Total Sediment, 2013 (T)
+049aa91d-6d88-4a27-8ed3-f3cd7e267835;c1a61b55-c915-4c70-83d6-f9cb2b7036c8;Total Sediment, 2014 (T)
+049aa91d-6d88-4a27-8ed3-f3cd7e267835;c1a61b55-c915-4c70-83d6-f9cb2b7036c8;Total Sediment, 2015 (T)
+049aa91d-6d88-4a27-8ed3-f3cd7e267835;c1a61b55-c915-4c70-83d6-f9cb2b7036c8;Total Sediment, 2016 (T)
+049aa91d-6d88-4a27-8ed3-f3cd7e267835;c1a61b55-c915-4c70-83d6-f9cb2b7036c8;Total Sediment Target, 2017 (T)
+049aa91d-6d88-4a27-8ed3-f3cd7e267835;c1a61b55-c915-4c70-83d6-f9cb2b7036c8;Total Sediment Target, 2025 (T)
+4de8a77d-dda3-424c-8b9e-166ffe0d17a1;751ec7e8-5ba6-4653-9224-591a6dec10f9;Electronic Waste Recycled (tons)
+4de8a77d-dda3-424c-8b9e-166ffe0d17a1;751ec7e8-5ba6-4653-9224-591a6dec10f9;Electronic Waste Recycled (pounds)
+4de8a77d-dda3-424c-8b9e-166ffe0d17a1;751ec7e8-5ba6-4653-9224-591a6dec10f9;Electronics Disposed in MSW (tons)
+4de8a77d-dda3-424c-8b9e-166ffe0d17a1;751ec7e8-5ba6-4653-9224-591a6dec10f9;Electronics Disposed in MSW (pounds)
+4de8a77d-dda3-424c-8b9e-166ffe0d17a1;751ec7e8-5ba6-4653-9224-591a6dec10f9;Electronic Waste Generated (tons)
+4de8a77d-dda3-424c-8b9e-166ffe0d17a1;751ec7e8-5ba6-4653-9224-591a6dec10f9;Electronic Waste Generated (pounds)
+4de8a77d-dda3-424c-8b9e-166ffe0d17a1;751ec7e8-5ba6-4653-9224-591a6dec10f9;Total MSW Disposed (tons)
+4de8a77d-dda3-424c-8b9e-166ffe0d17a1;751ec7e8-5ba6-4653-9224-591a6dec10f9;Electronic Waste Recycled (pounds/person/year)
+4de8a77d-dda3-424c-8b9e-166ffe0d17a1;751ec7e8-5ba6-4653-9224-591a6dec10f9;Electronic Waste Disposed (pounds/person/year)
+4de8a77d-dda3-424c-8b9e-166ffe0d17a1;751ec7e8-5ba6-4653-9224-591a6dec10f9;Electronic Waste Generated (pounds/person/year)
+463b6037-6626-4c62-b03b-b1346d001818;9304c7b0-3e5f-4893-aa30-66e6083990a5;De-Icing: Pavement/Ground Operations: Lbs
+463b6037-6626-4c62-b03b-b1346d001818;9304c7b0-3e5f-4893-aa30-66e6083990a5;De-Icer Treated at Waste Water Plant: Lbs
+463b6037-6626-4c62-b03b-b1346d001818;9304c7b0-3e5f-4893-aa30-66e6083990a5;Terminal Waste to Landfill: Tons
+463b6037-6626-4c62-b03b-b1346d001818;9304c7b0-3e5f-4893-aa30-66e6083990a5;Terminal Waste Recycled: Tons
+463b6037-6626-4c62-b03b-b1346d001818;9304c7b0-3e5f-4893-aa30-66e6083990a5;Brush Composting: Tons
+463b6037-6626-4c62-b03b-b1346d001818;9304c7b0-3e5f-4893-aa30-66e6083990a5;Light Bulb Recycling: Lbs
+463b6037-6626-4c62-b03b-b1346d001818;9304c7b0-3e5f-4893-aa30-66e6083990a5;Alkaline and Rechargeable Batteries: Lbs
+463b6037-6626-4c62-b03b-b1346d001818;9304c7b0-3e5f-4893-aa30-66e6083990a5;Electronic Waste: Lbs
+463b6037-6626-4c62-b03b-b1346d001818;9304c7b0-3e5f-4893-aa30-66e6083990a5;Demolition Recycling: Tons
+463b6037-6626-4c62-b03b-b1346d001818;9304c7b0-3e5f-4893-aa30-66e6083990a5;Carbon Footprint: Metric Tons
+463b6037-6626-4c62-b03b-b1346d001818;9304c7b0-3e5f-4893-aa30-66e6083990a5;FOD (Debris) Removed from Apron: Lbs
+463b6037-6626-4c62-b03b-b1346d001818;9304c7b0-3e5f-4893-aa30-66e6083990a5;Total Landed Weight: Lbs
+a93a45bb-b82d-414d-a30f-278eb564ab59;5f4684be-86d7-4cc7-b13c-4c8cbf25d1b3; Consumption (mlbs)
+8e86467d-d89b-4e15-917d-3d18b5ed202a;6d6505d0-7c9b-4410-aafc-17418395f213;Total N, 1985 (lb.)
+8e86467d-d89b-4e15-917d-3d18b5ed202a;6d6505d0-7c9b-4410-aafc-17418395f213;Total N, 2007 (lb.)
+8e86467d-d89b-4e15-917d-3d18b5ed202a;6d6505d0-7c9b-4410-aafc-17418395f213;Total N, 2009 (lb.)
+8e86467d-d89b-4e15-917d-3d18b5ed202a;6d6505d0-7c9b-4410-aafc-17418395f213;Total N, 2010 (lb.)
+8e86467d-d89b-4e15-917d-3d18b5ed202a;6d6505d0-7c9b-4410-aafc-17418395f213;Total N, 2011 (lb.)
+8e86467d-d89b-4e15-917d-3d18b5ed202a;6d6505d0-7c9b-4410-aafc-17418395f213;Total N, 2012 (lb.)
+8e86467d-d89b-4e15-917d-3d18b5ed202a;6d6505d0-7c9b-4410-aafc-17418395f213;Total N, 2013 (lb.)
+8e86467d-d89b-4e15-917d-3d18b5ed202a;6d6505d0-7c9b-4410-aafc-17418395f213;Total N, 2014 (lb.)
+8e86467d-d89b-4e15-917d-3d18b5ed202a;6d6505d0-7c9b-4410-aafc-17418395f213;Total N, 2015 (lb.)
+8e86467d-d89b-4e15-917d-3d18b5ed202a;6d6505d0-7c9b-4410-aafc-17418395f213;Total N, 2016 (lb)
+8e86467d-d89b-4e15-917d-3d18b5ed202a;6d6505d0-7c9b-4410-aafc-17418395f213;Total N Target, 2017 (lb.)
+8e86467d-d89b-4e15-917d-3d18b5ed202a;6d6505d0-7c9b-4410-aafc-17418395f213;Total N Target 2025 (lb.)
+66441df7-81db-43ec-89ca-635c14385433;39fa5d1a-9521-4525-9a0b-b18581f76ae1;Construction Waste Diverted from Landfill (tons)
+9e59489d-3cf9-4338-b8ad-c36892062183;cfb33ae5-218f-48da-bf3d-50d42199a571;Cargo Weight LBS
+9e59489d-3cf9-4338-b8ad-c36892062183;cfb33ae5-218f-48da-bf3d-50d42199a571;Cargo Metric TONS
+d50436e2-c4cf-4dba-bf62-e17006a6907c;4c2fa83a-711f-4f87-ad90-85ff2e53fc00;Weight in Pounds
+a9bc3c84-5d75-49de-9057-b010d007d039;fc28ff5d-20d2-48e3-a64e-061c7ce24a4d;CO2 Emissions Reductions (tons)
+090694c7-c1d3-49df-9839-6e036c4f8d58;826ee03d-37b8-441c-90c3-7bead1fe2fe4;Shortening Capacity (lbs)
+0ea6f7db-45e9-4bdd-91d2-6544f3b7328a;dc08cadb-12f7-4fb0-9fd1-80b49580ea6f;Production Capacity (lbs/hr)
+18b7dd2e-044d-4f3e-a80f-168bfe561cde;25c6a927-caae-457c-a1dd-92ec267c38b1;Solid Waste Generated (pounds/person/day)
+18b7dd2e-044d-4f3e-a80f-168bfe561cde;25c6a927-caae-457c-a1dd-92ec267c38b1;Material Reovered (pounds/person/day)
+4b728eec-abb2-4d20-a13c-8ebb7849d0c2;9570dada-23e7-46bd-b600-0763ceee665a;Total Landed Weight
+df101f9d-da28-45be-8f4f-ce9eae72efcc;fe5c37b5-0171-49e9-8090-35de59c540f3;GHGEmissions(MetricTonsCO2e)
+00e22210-b94b-4cf4-a30a-867dad6ff674;8e36e1ea-e014-4acd-9264-5601366f1a5b;Number of Efficient Light Bulbs
+00e22210-b94b-4cf4-a30a-867dad6ff674;8e36e1ea-e014-4acd-9264-5601366f1a5b;Number of Halogen Light Bulbs
+00e22210-b94b-4cf4-a30a-867dad6ff674;8e36e1ea-e014-4acd-9264-5601366f1a5b;Number of Incandescent Light Bulbs
+00e22210-b94b-4cf4-a30a-867dad6ff674;8e36e1ea-e014-4acd-9264-5601366f1a5b;Number of Other Light Bulbs
+00e22210-b94b-4cf4-a30a-867dad6ff674;8e36e1ea-e014-4acd-9264-5601366f1a5b;Number of T12 Light Bulbs
+9a6f5d80-84cd-4782-b85b-d8c449afa56c;c96a9a3a-5f14-42b9-b4c8-87b73a88116f;Unweighted Normalized Clinical Care - Process Domain Score
+9a6f5d80-84cd-4782-b85b-d8c449afa56c;c96a9a3a-5f14-42b9-b4c8-87b73a88116f;Weighted Clinical Care - Process Domain Score
+4e89eee4-85e7-45b3-bd61-f7b95e8d2d36;2e32b8cd-7839-49c7-bd20-a1e3af1c3f10;SWMAXTONSY
+629360da-9afa-48ae-8599-3743a28cef58;2dc02232-8455-418b-a537-efc0aab451be;SAMP_WEIGHT
+629360da-9afa-48ae-8599-3743a28cef58;2dc02232-8455-418b-a537-efc0aab451be;POP_WEIGHT
+cee33da1-c39b-4657-a96f-55c4451d96e4;21844045-35c2-47ab-ba4a-6a51b35a3bf0;Calculated Combined Energy Factor - Max Dryness Setting (lbs/kWh)
+a54fb482-c0e0-435c-9833-1796a4230960;c553bdb1-a8d5-45b5-beba-6b072d4b91e0;Unladen Weight
+a54fb482-c0e0-435c-9833-1796a4230960;c553bdb1-a8d5-45b5-beba-6b072d4b91e0;Maximum Gross Weight
+d0f9d6a7-581e-443f-9937-38abc99661f8;8c0882c2-bad3-4347-b308-b40971148937;LOAD_WEIGHT
+c2cf3d52-760a-4218-aa94-f8dd13df9547;ed1d65e6-2612-492e-b766-09460b79e9f3;CO2 Emissions Reductions (metric tons)
+92d56ad3-4349-4e49-8f68-eae91944b4be;565f5e4c-0ea7-4b99-94f5-681a21fcdedf;Total Weighted Health Survey Score
+9062b3d3-000c-487f-a6bb-4ead3452b142;581bf33d-eadd-45d3-b062-cba6ab970371;WEIGHT
+998691c2-ff08-40b8-b639-0c3b16ce7460;e50a8274-6698-4b69-be3b-6cd906a24fb8;WEIGHT
+e85f53fe-7a07-40a3-b43c-abfa5e060e60;590697e0-d6be-4bec-bac0-6e9f7f29debf;WEIGHT
+54067da7-9d54-403d-b6e5-598dac3f114b;525277b3-313d-4419-9aa9-2466d6c88389;Convection Mode Production Capacity (lbs/hr)
+54067da7-9d54-403d-b6e5-598dac3f114b;525277b3-313d-4419-9aa9-2466d6c88389;Steam Mode Production Capacity (lbs/hr)
+54067da7-9d54-403d-b6e5-598dac3f114b;525277b3-313d-4419-9aa9-2466d6c88389;Baking Production Capacity (lbs/hr)
+3a08e6d9-4dff-47fd-b1bd-c329b9f13778;576aee2a-329d-4163-99b5-dd975586d312;Restriction Weight
+a2e65262-f856-4684-aa68-bd3ce78e8013;2ff8f994-de22-4c4f-95ea-cdb52b77e49b;Weight in Pounds
+79355e62-324e-44f2-9909-b8630c17e88e;68eb2f0c-20be-483d-bc1b-1089450ace18;CO2 Emissions from all owned and purchased power generation ( in million metric tons) (Annually CY)
+79355e62-324e-44f2-9909-b8630c17e88e;68eb2f0c-20be-483d-bc1b-1089450ace18;TARGET: CO2 Emissions from all owned and purchased power generation ( in million metric tons) (Annually CY)
+1c18d4df-48c7-4a9a-b0f5-97385ad1aa64;a40beb45-2f4e-4303-b26c-9bdd22070f72;Total Recurrent Pounds Managed by Recycling Methods
+1c18d4df-48c7-4a9a-b0f5-97385ad1aa64;a40beb45-2f4e-4303-b26c-9bdd22070f72;Total Recurrent Pounds
+dfa95624-7bee-448d-af6c-8c36b8117749;180ddb01-f0dc-4e79-a9ae-d3f32c998fc7;VOC (tons)
+dfa95624-7bee-448d-af6c-8c36b8117749;180ddb01-f0dc-4e79-a9ae-d3f32c998fc7;NOx (tons)
+dfa95624-7bee-448d-af6c-8c36b8117749;180ddb01-f0dc-4e79-a9ae-d3f32c998fc7;CO (tons)
+dfa95624-7bee-448d-af6c-8c36b8117749;180ddb01-f0dc-4e79-a9ae-d3f32c998fc7;CO2 (tons)
+dfa95624-7bee-448d-af6c-8c36b8117749;180ddb01-f0dc-4e79-a9ae-d3f32c998fc7;Particulates (tons)
+dfa95624-7bee-448d-af6c-8c36b8117749;180ddb01-f0dc-4e79-a9ae-d3f32c998fc7;PM10 (tons)
+dfa95624-7bee-448d-af6c-8c36b8117749;180ddb01-f0dc-4e79-a9ae-d3f32c998fc7;PM2.5 (tons)
+dfa95624-7bee-448d-af6c-8c36b8117749;180ddb01-f0dc-4e79-a9ae-d3f32c998fc7;HAPS (tons)
+dfa95624-7bee-448d-af6c-8c36b8117749;180ddb01-f0dc-4e79-a9ae-d3f32c998fc7;SO2 (tons)
+539a4f50-33ba-4324-9a9d-a999fe000e40;cd49e69b-c710-4a87-9f64-4c87a29c00c8;Total Used (Pounds)
+539a4f50-33ba-4324-9a9d-a999fe000e40;cd49e69b-c710-4a87-9f64-4c87a29c00c8;A.I. (1) Pounds
+539a4f50-33ba-4324-9a9d-a999fe000e40;cd49e69b-c710-4a87-9f64-4c87a29c00c8;A.I. (2) Pounds
+539a4f50-33ba-4324-9a9d-a999fe000e40;cd49e69b-c710-4a87-9f64-4c87a29c00c8;A.I. (3) Pounds
+34ace648-9b8a-4480-b1ee-978309421c0a;d2bf88ce-f04d-4577-b216-2a60b1b0e058;CO2 Emissions Reductions (metric tons)
+35fe05d2-04a2-4c8d-a68d-c733aeb1d2fa;971bedca-22de-487c-a12d-7637fdbe0360;Total GHG Emissions (Metric Tons CO2e)
+671823bb-ba1f-4df4-b032-7729c530c1cc;123f3e31-bdea-47d6-9ddc-6147c2d6be1d;Sign Weight
+13f3c417-fa07-4ca4-b090-e8bd8735560c;1be9ac0a-c80b-43be-a8fe-5d2823f327a8;Steam Savings (M Lbs)
+13f3c417-fa07-4ca4-b090-e8bd8735560c;1be9ac0a-c80b-43be-a8fe-5d2823f327a8;Coal Savings (Tons)
+13f3c417-fa07-4ca4-b090-e8bd8735560c;1be9ac0a-c80b-43be-a8fe-5d2823f327a8;Reduction in Greenhouse Gas Emissions (Tons)
+11719c3d-02cf-45f7-a5bb-eb4f8818be98;91463fa6-8b1e-44f8-8348-fb93ea354406;WEIGHT
+b884229d-b1de-4c4f-bcc7-0d2f01328082;e166355f-0303-4bb4-ae86-35c93a982aa2;Municipal Solid Waste Disposed (tons)
+b884229d-b1de-4c4f-bcc7-0d2f01328082;e166355f-0303-4bb4-ae86-35c93a982aa2;Other Waste Types Disposed (recoverable) (tons)
+b884229d-b1de-4c4f-bcc7-0d2f01328082;e166355f-0303-4bb4-ae86-35c93a982aa2;Tires - disposed in out-of-state landfills (tons)
+b884229d-b1de-4c4f-bcc7-0d2f01328082;e166355f-0303-4bb4-ae86-35c93a982aa2;Total Recovered Materials (tons)
+b884229d-b1de-4c4f-bcc7-0d2f01328082;e166355f-0303-4bb4-ae86-35c93a982aa2;Total Recycled Materials (tons)
+b884229d-b1de-4c4f-bcc7-0d2f01328082;e166355f-0303-4bb4-ae86-35c93a982aa2;Total Waste Generation (recoverable) (tons)
+b884229d-b1de-4c4f-bcc7-0d2f01328082;e166355f-0303-4bb4-ae86-35c93a982aa2;MSW Generated (tons)
+b884229d-b1de-4c4f-bcc7-0d2f01328082;e166355f-0303-4bb4-ae86-35c93a982aa2;Real State GDP per pound of Solid Waste Generated Dollars per pound
+b884229d-b1de-4c4f-bcc7-0d2f01328082;e166355f-0303-4bb4-ae86-35c93a982aa2;Pounds of Solid Waste Generated per dollar of Real State GDP in 2000$
+b884229d-b1de-4c4f-bcc7-0d2f01328082;e166355f-0303-4bb4-ae86-35c93a982aa2;Pounds of MSW generated per Real State GDP in 2000 (Pounds per dollar (yr 2000))
+b884229d-b1de-4c4f-bcc7-0d2f01328082;e166355f-0303-4bb4-ae86-35c93a982aa2;Pounds of Solid Waste Generated per person per day per dollar
+08bf787a-e469-4269-a527-0cde668fd204;11b03ca7-6306-4567-ae88-5aab504343d2;WEIGHT
+7f6214a4-7ec2-4ddc-bcb5-ca6a07687cd0;a0bf3f41-0055-43de-95b9-5f6401a6a5e5;Total Recoverable Coal (Million Short Tons, 2008)
+7f6214a4-7ec2-4ddc-bcb5-ca6a07687cd0;909314bd-918d-4887-af05-5ad857998948;Total Recoverable Coal (Million Short Tons) 2008
+99927989-b8ad-4f7b-a986-aa671b72b9dd;7ac7d094-5231-40c8-979d-77da5474bb58;Organic Materials Disposed in non-MSW landfills(tons)
+99927989-b8ad-4f7b-a986-aa671b72b9dd;7ac7d094-5231-40c8-979d-77da5474bb58;Total Organic Materials Disposed (tons)
+99927989-b8ad-4f7b-a986-aa671b72b9dd;7ac7d094-5231-40c8-979d-77da5474bb58;Total Organic Material Generated (tons)
+99927989-b8ad-4f7b-a986-aa671b72b9dd;7ac7d094-5231-40c8-979d-77da5474bb58;Organic Materials Recovered (pounds/person/year)
+99927989-b8ad-4f7b-a986-aa671b72b9dd;7ac7d094-5231-40c8-979d-77da5474bb58;Organic Materials Disposed (pounds/person/year)
+99927989-b8ad-4f7b-a986-aa671b72b9dd;7ac7d094-5231-40c8-979d-77da5474bb58;Total Organic Materials Generated (pounds/person/year)
+f4868bee-74ad-4aac-9c4a-a39741891b93;0349b182-ec48-442a-866b-c5d18090c64e;Stormwater Retrofits: Pounds of Nitrogen Removed
+f4868bee-74ad-4aac-9c4a-a39741891b93;0349b182-ec48-442a-866b-c5d18090c64e;Stormwater Retrofits: New Pounds of Nitrogen Removed
+f4868bee-74ad-4aac-9c4a-a39741891b93;0349b182-ec48-442a-866b-c5d18090c64e;Stormwater Retrofits: Existing Pounds of Nitrogen Removed
+9c649e5b-dcf7-4c93-821c-13c76dbc6581;9a140a6a-972a-495d-b21d-7c95d658d879;Million Pounds of Toxic Substances Used
+73daa607-e15d-44c0-80cd-65c62e53f78c;ba6b07c9-8ba0-47fa-9dff-39accfc5b6af;IMPOUND NUMBER
+ea7af7a8-8852-47a6-9257-d5413199997d;b3be6266-f317-4b61-964e-1cf35834fc2a;Total Annual Greenhouse Gas Emissions -  All Employees (Metric Tons CO2e)
+ea7af7a8-8852-47a6-9257-d5413199997d;b3be6266-f317-4b61-964e-1cf35834fc2a;Daily Roundtrip GHG Per Employee (Pounds)
+ea7af7a8-8852-47a6-9257-d5413199997d;b3be6266-f317-4b61-964e-1cf35834fc2a;GHGforAgg (Pounds)
+9d49dcd0-d8eb-473a-8db7-ddfa37041ace;0c1d0514-c7ba-4b3d-af69-625eee44cd33;pounds of CO2-eq/kWh
+45b831f1-7559-4463-b946-3bbdc603c8c1;c1e92bd7-6de2-4444-b7f6-9bbe7ae19fb1;Harvest Rate (lbs ice/day)
+45b831f1-7559-4463-b946-3bbdc603c8c1;c1e92bd7-6de2-4444-b7f6-9bbe7ae19fb1;Measured Energy Use (kWh/100 lbs ice)
+45b831f1-7559-4463-b946-3bbdc603c8c1;c1e92bd7-6de2-4444-b7f6-9bbe7ae19fb1;Adjusted Energy Use for Continuous (kWh/100 lbs ice)
+45b831f1-7559-4463-b946-3bbdc603c8c1;c1e92bd7-6de2-4444-b7f6-9bbe7ae19fb1;Potable Water Use (gallons/100 lbs ice)
+935abd4b-ad10-4959-8b6d-8082bc92daa4;8328f707-7bca-4291-a4cc-28c5c54bcb57;POUNDS
+f349ee61-dd5b-4321-8303-493540407305;0061e850-ff58-41fc-9780-1209d6266710;Survey Weight
+8e17c9bb-db10-4909-ad25-3881729a1d39;e6518c45-7530-41c1-be74-19978eeac2ee;WEIGHT
+8aa49c7c-3d96-4052-80dc-b75263f1d954;e07f0df7-4fc5-4d34-a439-deb3000d3073;CasingWeight
+8aa49c7c-3d96-4052-80dc-b75263f1d954;e07f0df7-4fc5-4d34-a439-deb3000d3073;LinerWeight
+290f9a87-ecab-43e5-8043-874476e08ee1;6befe236-ef72-4f09-8ad2-a67216f97006;WEIGHT
+ea31bc53-4f3d-41b1-8040-e287bb781413;d1d8fbc0-2093-4ca2-8c7f-44ef729b3fe3;POUNDS_STOCKED
+ea31bc53-4f3d-41b1-8040-e287bb781413;d1d8fbc0-2093-4ca2-8c7f-44ef729b3fe3;NUMBERPERPOUND
+27d66aaa-c084-4f1e-9cb3-d5b709132d3f;54a870c9-4e7e-462b-a226-b5fb6169837f;VEHIC_MAX_WEIGHT
+a4ba7715-f215-46cb-81c8-657c4684821e;f2630299-5840-4330-8e7f-c4cceabea026;Weight in Pounds
+0d2afdff-9500-4082-a461-484c018e4b99;2f99daca-5fe1-424f-809d-af651fdbc798;REFUSETONSCOLLECTED
+0d2afdff-9500-4082-a461-484c018e4b99;2f99daca-5fe1-424f-809d-af651fdbc798;PAPERTONSCOLLECTED
+0d2afdff-9500-4082-a461-484c018e4b99;2f99daca-5fe1-424f-809d-af651fdbc798;MGPTONSCOLLECTED
+10d5d1b7-7456-409f-90bf-11adbb7625b0;38982fcc-cdf6-4117-8b1d-5c6c507a2a79;Tons of Manure Transported
+10d5d1b7-7456-409f-90bf-11adbb7625b0;38982fcc-cdf6-4117-8b1d-5c6c507a2a79;Goal:Tons of Manure Transported
+2e50c1fe-8bbd-4933-82a1-12664419a1de;3498d3fc-f9d2-4a9c-8fa6-f115378b7e74;Total Recurrent Manufacturing Sector Pounds
+2e50c1fe-8bbd-4933-82a1-12664419a1de;3498d3fc-f9d2-4a9c-8fa6-f115378b7e74;Recurrent Hazardous Waste Generated in Millions of Pounds
+2e50c1fe-8bbd-4933-82a1-12664419a1de;3498d3fc-f9d2-4a9c-8fa6-f115378b7e74;Formula for Manufacturing Sector Recurrent Hazardous Waste Pounds per Manufacturing Sector GDP Dollar
+2e50c1fe-8bbd-4933-82a1-12664419a1de;3498d3fc-f9d2-4a9c-8fa6-f115378b7e74;Calulation of Manufacturing Sector Recurrent Hazardous Waste Pounds per Manufacturing Sector GDP Dollar
+f5c2f4e3-dff7-452b-b10f-aa3e50a7fe6a;0420c91e-4ec5-48b3-8bf3-266f91cbb9b8;WEIGHT
+28071760-b0c8-4ef7-894e-5e1d3ead75b9;0f0f23f6-dac7-49b2-8453-e7d889134d3d;AirCargoTons
+d38be60f-9e34-49b7-98d9-bc0819107413;0ba6a886-78f4-46cb-adc4-4f97ead5a7c8;Tons of Trash Collected
+d38be60f-9e34-49b7-98d9-bc0819107413;0ba6a886-78f4-46cb-adc4-4f97ead5a7c8;Tons of Co-Mingled Recyclables Collected
+d38be60f-9e34-49b7-98d9-bc0819107413;0ba6a886-78f4-46cb-adc4-4f97ead5a7c8;Tons of Fiber Collected
+141863ba-804e-49a9-b4b0-9eaabc5f05af;5e0486ff-9856-4fd9-b67b-51f6f90f2a9d;Vehicles Impounded
+141863ba-804e-49a9-b4b0-9eaabc5f05af;5e0486ff-9856-4fd9-b67b-51f6f90f2a9d;Vessels Impounded
+cb2dce70-6654-4f70-a1a1-bd18e899c61b;0dc0b785-294b-4e8c-95a8-13b2bc659dd8;Hazardous Waste Generated (Tons)
+3ba04e01-7826-4a11-a0c5-8383d1350559;10fd8aed-93f4-413e-a308-dc77af3dc88b;Total Weight (Short Tons)
+2414432a-f5ab-42c0-831a-9079292d7952;9b96c5f1-60bb-4eef-b330-7cb5311fb455;LEP Weighting
+6a176f17-aa55-4f95-a0de-62da60ab71b7;74b55364-1c26-4f26-89bc-2af6f548fcce;Tons of Chilled Water
+6a176f17-aa55-4f95-a0de-62da60ab71b7;74b55364-1c26-4f26-89bc-2af6f548fcce;Lbs Per Hour of Heating Capacity
+f67e8d65-96c3-4a6d-99ff-b2de5e71a2de;4662a9b6-8cbe-4844-85a8-9fe3b3391a56;Annual C02 Reduction (Metric Tons)
+41caf087-04c9-440a-85b8-d9363e516112;96927208-1a28-4b05-9d06-b0691c0624c9;Tons
+d904def0-d009-4406-a30c-dc3272fe2437;496d76be-ef77-4a05-a3a4-139ae5043270;Chemicals Used: Chlorine - Lbs
+d904def0-d009-4406-a30c-dc3272fe2437;496d76be-ef77-4a05-a3a4-139ae5043270;Raw Sewage: Susp. Solids - lbs
+d904def0-d009-4406-a30c-dc3272fe2437;496d76be-ef77-4a05-a3a4-139ae5043270;Final Effluent: CBOD5 - lbs
+d904def0-d009-4406-a30c-dc3272fe2437;496d76be-ef77-4a05-a3a4-139ae5043270;Final Effluent: CBOD5 - lbs/day Weekly Average
+d904def0-d009-4406-a30c-dc3272fe2437;496d76be-ef77-4a05-a3a4-139ae5043270;Final Effluent: Susp. Solids - lbs
+d904def0-d009-4406-a30c-dc3272fe2437;496d76be-ef77-4a05-a3a4-139ae5043270;Final Effluent: Susp. Solids - lbs/day Weekly Average
+d904def0-d009-4406-a30c-dc3272fe2437;496d76be-ef77-4a05-a3a4-139ae5043270;Final Effluent: Ammonia - lbs
+d904def0-d009-4406-a30c-dc3272fe2437;496d76be-ef77-4a05-a3a4-139ae5043270;Final Effluent: Ammonia - lbs/day Weekly Average
+d904def0-d009-4406-a30c-dc3272fe2437;3b476f99-fb87-44bd-a03f-33b658e1b377;Chemicals Used: Chlorine - Lbs
+d904def0-d009-4406-a30c-dc3272fe2437;3b476f99-fb87-44bd-a03f-33b658e1b377;Chemicals Used: Lbs/Day  or  Gal./Day
+d904def0-d009-4406-a30c-dc3272fe2437;3b476f99-fb87-44bd-a03f-33b658e1b377;Chemicals Used: Lbs/Day  or  Gal./Day.1
+d904def0-d009-4406-a30c-dc3272fe2437;3b476f99-fb87-44bd-a03f-33b658e1b377;Raw Sewage: CBOD5 - lbs
+d904def0-d009-4406-a30c-dc3272fe2437;3b476f99-fb87-44bd-a03f-33b658e1b377;Raw Sewage: Susp. Solids - lbs
+d904def0-d009-4406-a30c-dc3272fe2437;3b476f99-fb87-44bd-a03f-33b658e1b377;Final Effluent: CBOD5 - lbs
+d904def0-d009-4406-a30c-dc3272fe2437;3b476f99-fb87-44bd-a03f-33b658e1b377;Final Effluent: CBOD5 - lbs/day Weekly Average
+d904def0-d009-4406-a30c-dc3272fe2437;3b476f99-fb87-44bd-a03f-33b658e1b377;Final Effluent: Susp. Solids - lbs
+d904def0-d009-4406-a30c-dc3272fe2437;3b476f99-fb87-44bd-a03f-33b658e1b377;Final Effluent: Susp. Solids - lbs/day Weekly Average
+d904def0-d009-4406-a30c-dc3272fe2437;3b476f99-fb87-44bd-a03f-33b658e1b377;Final Effluent: Ammonia - lbs
+d904def0-d009-4406-a30c-dc3272fe2437;3b476f99-fb87-44bd-a03f-33b658e1b377;Final Effluent: Ammonia - lbs/day Weekly Average
+9fffdab4-c687-4f5b-a851-042cfdae5b1f;e3f2b04a-d747-4c9d-80e9-7c934d4b3d9d;Lumber Tons
+9fffdab4-c687-4f5b-a851-042cfdae5b1f;e3f2b04a-d747-4c9d-80e9-7c934d4b3d9d;Paper Tons
+9fffdab4-c687-4f5b-a851-042cfdae5b1f;e3f2b04a-d747-4c9d-80e9-7c934d4b3d9d;Wood Pulp Tons
+9fffdab4-c687-4f5b-a851-042cfdae5b1f;e3f2b04a-d747-4c9d-80e9-7c934d4b3d9d;Container Tons
+9fffdab4-c687-4f5b-a851-042cfdae5b1f;e3f2b04a-d747-4c9d-80e9-7c934d4b3d9d;Automobile Tons
+9fffdab4-c687-4f5b-a851-042cfdae5b1f;e3f2b04a-d747-4c9d-80e9-7c934d4b3d9d;Ro/Ro Tons
+9fffdab4-c687-4f5b-a851-042cfdae5b1f;e3f2b04a-d747-4c9d-80e9-7c934d4b3d9d;Steel & Metal Tons
+9fffdab4-c687-4f5b-a851-042cfdae5b1f;e3f2b04a-d747-4c9d-80e9-7c934d4b3d9d;Other Break Bulk Tons
+9fffdab4-c687-4f5b-a851-042cfdae5b1f;e3f2b04a-d747-4c9d-80e9-7c934d4b3d9d;Total General Cargo Tons
+9fffdab4-c687-4f5b-a851-042cfdae5b1f;e3f2b04a-d747-4c9d-80e9-7c934d4b3d9d;Import Ro/Ro Tons
+9fffdab4-c687-4f5b-a851-042cfdae5b1f;e3f2b04a-d747-4c9d-80e9-7c934d4b3d9d;Export Ro/Ro Tons
+41fad43f-0a6e-4096-a49c-91e1d70cef15;37cfbf5f-595c-4b4e-a889-2ecd89814a93;Total CO2 Emissions from Owned & Purchased Generation (metric tons)
+41fad43f-0a6e-4096-a49c-91e1d70cef15;37cfbf5f-595c-4b4e-a889-2ecd89814a93;Total CO2 Emissions from Owned & Purchased Generation minus Wholesale Power Sales (metric tons)
+41fad43f-0a6e-4096-a49c-91e1d70cef15;37cfbf5f-595c-4b4e-a889-2ecd89814a93;LADWP System CO2 Intensity Metric (lbs CO2/MWh)
+ca9d0086-1472-4b0f-89d9-fd2e5e25386f;2af5b93a-c41f-4982-a892-f74d4f5ef230;Tons
+e4f9378b-7dff-4c97-aec6-3848c7dacac5;f689b6e6-41b4-4114-a037-f9392a0f2e8a;Total Recyclable Materials Disposed (tons)
+e4f9378b-7dff-4c97-aec6-3848c7dacac5;f689b6e6-41b4-4114-a037-f9392a0f2e8a;Recyclable materials disposed (pounds/person)
+26fdb888-4533-48d2-a533-1cb9beabc090;9113919a-ac0e-452d-897d-9a415d84f0d9;TonsPerWeek

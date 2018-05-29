@@ -1,0 +1,1081 @@
+1ce7d1e8-8955-4eff-af70-56ae4cf55c8c;05062f7e-18ce-48e0-8fc3-1971e2fc271a;WINPERCENT
+286d93ee-a234-4021-8354-6599be9c0cf7;698f9c36-c5b2-42ba-94b5-f6b6f22d7b52;% Success
+cf36d291-ad5e-4514-afa0-aba089c6edf0;c7debb95-5d95-4a69-8e2b-cfd456f4040b;Goal (%)
+0038e7fd-5fd9-4573-b0cc-6c3744326eaf;ff6de952-b54c-4a44-88f4-a361e94ac008;UNEMPLOYED RATE
+fbf2f6ea-cf4e-4ea5-824c-20c0e246155b;9cb3a68c-03b3-40ed-a9cb-46a92e21851f;graduation_rate
+fbf2f6ea-cf4e-4ea5-824c-20c0e246155b;9cb3a68c-03b3-40ed-a9cb-46a92e21851f;attendance_rate
+fbf2f6ea-cf4e-4ea5-824c-20c0e246155b;9cb3a68c-03b3-40ed-a9cb-46a92e21851f;college_career_rate
+00c0a3e3-7f57-4d41-a1cc-c8cf3a847b28;efb16cbe-fc0c-4abe-947c-bf8e0229a884;PercentBaseSaturation
+00c0a3e3-7f57-4d41-a1cc-c8cf3a847b28;89e43e05-5bae-4d41-938f-d2219f534c7a;stemDiameterAccuracy
+00c0a3e3-7f57-4d41-a1cc-c8cf3a847b28;ce31b8b5-f321-43e3-93ba-e2c62a3b07d5;Location Accuracy
+4564a168-1847-4bf4-8de2-8beea4a8300c;e546ed88-cf95-4391-b180-d1195968d76e;PERCENT
+58f93f5b-3808-4c3b-a632-26433675e410;307d678a-c39c-4247-832d-78a8e88bd2e1;Accuracy
+0bd676cf-5992-4ed4-9244-fbcbcf0b6fea;aab9acd7-d2ac-489f-a5fb-1d1d3975494a;Low_Confidence_Limit
+0bd676cf-5992-4ed4-9244-fbcbcf0b6fea;aab9acd7-d2ac-489f-a5fb-1d1d3975494a;High_Confidence_Limit
+24ab8d55-0198-4142-9392-14198cfc495f;87d3bc07-3c50-47cf-b624-4a8526486e4d;Low_Confidence_Limit
+24ab8d55-0198-4142-9392-14198cfc495f;87d3bc07-3c50-47cf-b624-4a8526486e4d;High_Confidence_Limit
+1367e2ef-dd7f-43b4-8fc2-a4ca1240614d;883d0933-4bb6-4ffb-a1a9-3095b6a5060f;Low_Confidence_Limit
+1367e2ef-dd7f-43b4-8fc2-a4ca1240614d;883d0933-4bb6-4ffb-a1a9-3095b6a5060f;High_Confidence_Limit
+d0f9fced-fa4b-4f5b-8181-db68560fbd28;5d4b246d-3ad5-4278-b15f-f7299c942928;Confidence_limit_Low
+d0f9fced-fa4b-4f5b-8181-db68560fbd28;5d4b246d-3ad5-4278-b15f-f7299c942928;Confidence_limit_High
+5c1587a1-8dcd-41ed-bc3f-b7489e4e080e;439508dd-214d-40c2-a199-6b5aa30a94d6;Low_Confidence_Limit
+5c1587a1-8dcd-41ed-bc3f-b7489e4e080e;439508dd-214d-40c2-a199-6b5aa30a94d6;High_Confidence_Limit
+dac28ede-828b-4975-b321-bab5096a7785;cf8185f5-781c-4f88-9680-95c8dce46881;Confidence_limit_Low
+dac28ede-828b-4975-b321-bab5096a7785;cf8185f5-781c-4f88-9680-95c8dce46881;Confidence_limit_High
+99208309-de5e-4c7c-bc26-03548189bd89;e314b61e-cf2c-4ab9-995a-54e63b6522af;Greater_Risk_Low_Confidence_Limit
+99208309-de5e-4c7c-bc26-03548189bd89;e314b61e-cf2c-4ab9-995a-54e63b6522af;Greater_Risk_High_Confidence_Limit
+99208309-de5e-4c7c-bc26-03548189bd89;e314b61e-cf2c-4ab9-995a-54e63b6522af;Lesser_Risk_Low_Confidence_Limit
+99208309-de5e-4c7c-bc26-03548189bd89;e314b61e-cf2c-4ab9-995a-54e63b6522af;Lesser_Risk_High_Confidence_Limit
+57996cf0-36d6-40db-aeb2-2c9ffa1e58c2;11058e2b-2d30-4d2b-998a-9dfaa6aa693f;Percent of Adult Population Receiving SSA Adult Disability Benefits
+57996cf0-36d6-40db-aeb2-2c9ffa1e58c2;11058e2b-2d30-4d2b-998a-9dfaa6aa693f;Eligible Adult Population Filing Rate
+57996cf0-36d6-40db-aeb2-2c9ffa1e58c2;11058e2b-2d30-4d2b-998a-9dfaa6aa693f;Eligible Adult Population Allowance Rate
+57996cf0-36d6-40db-aeb2-2c9ffa1e58c2;11058e2b-2d30-4d2b-998a-9dfaa6aa693f;Adult Favorable  Determination Rate
+57996cf0-36d6-40db-aeb2-2c9ffa1e58c2;11058e2b-2d30-4d2b-998a-9dfaa6aa693f;Percent of Population under age 18 Receiving SSI DC Benefits
+57996cf0-36d6-40db-aeb2-2c9ffa1e58c2;11058e2b-2d30-4d2b-998a-9dfaa6aa693f;Eligible Child Population Filing Rate
+57996cf0-36d6-40db-aeb2-2c9ffa1e58c2;11058e2b-2d30-4d2b-998a-9dfaa6aa693f;Eligible Child Population Allowance Rate
+57996cf0-36d6-40db-aeb2-2c9ffa1e58c2;11058e2b-2d30-4d2b-998a-9dfaa6aa693f;SSI Disabled Child Allowance Rate
+57996cf0-36d6-40db-aeb2-2c9ffa1e58c2;11058e2b-2d30-4d2b-998a-9dfaa6aa693f;Favorable Determination Rate
+def612d5-f68f-453b-9ca8-49fffe697fb8;86fcfd75-ce66-4e84-bb88-c068a6d28095;WINPERCENT
+fab7a301-8117-4db3-bfb5-26c3f38e6b2a;70d5cffe-34fe-4771-b617-4eaab2b8ed79;tradeTariff Rate (%)
+fab7a301-8117-4db3-bfb5-26c3f38e6b2a;1caec02a-0f77-464a-808f-5fa99d4c749b;girls' Primary Education Completion Rates
+fab7a301-8117-4db3-bfb5-26c3f38e6b2a;1caec02a-0f77-464a-808f-5fa99d4c749b;girls' Secondary Enrollment Rates
+31d8a708-a300-47c4-8618-252293e498a1;3bfad65a-efd2-45f0-b95c-1e3b05b14234;HORIZONTALACCURACY
+9ef87e5c-21ec-40fb-b82f-2550fe4a430c;35a7755b-db53-49f3-9bfe-e04e9815667f;Unemployment Rate
+b523430d-3dd0-4fc6-92c5-5bf2b488ec0e;7f460a0c-42d7-4a1e-a38c-1c20d3d8d825;Percent
+95b63721-d08b-4680-aa22-2ae3ee6e5bbf;8e4d9af7-c9e3-4f98-b24b-6bc3175e6564;Chlamydia_Rate
+95b63721-d08b-4680-aa22-2ae3ee6e5bbf;8e4d9af7-c9e3-4f98-b24b-6bc3175e6564;Gonorrhea_Rate
+95b63721-d08b-4680-aa22-2ae3ee6e5bbf;8e4d9af7-c9e3-4f98-b24b-6bc3175e6564;Early_Syphilis_Rate
+966bcab2-c168-47a0-812e-33442954aafe;42dd81ef-58b8-4246-bc61-d2baeee40e23;Lower box percent of patients nephrologists’ communication and caring
+966bcab2-c168-47a0-812e-33442954aafe;42dd81ef-58b8-4246-bc61-d2baeee40e23;Middle box percent of patients nephrologists’ communication and caring
+966bcab2-c168-47a0-812e-33442954aafe;42dd81ef-58b8-4246-bc61-d2baeee40e23;Top box percent of patients nephrologists’ communication and caring
+966bcab2-c168-47a0-812e-33442954aafe;42dd81ef-58b8-4246-bc61-d2baeee40e23;Lower box percent of patients-quality of dialysis center care and operations
+966bcab2-c168-47a0-812e-33442954aafe;42dd81ef-58b8-4246-bc61-d2baeee40e23;Middle box percent of patients-quality of dialysis center care and operations
+966bcab2-c168-47a0-812e-33442954aafe;42dd81ef-58b8-4246-bc61-d2baeee40e23;Top box percent of patients-quality of dialysis center care and operations
+966bcab2-c168-47a0-812e-33442954aafe;42dd81ef-58b8-4246-bc61-d2baeee40e23;Lower box percent of patients-providing information to patients
+8c36cff9-13d5-499e-ad47-2f54017c8f11;d338da41-6663-4b34-8b12-32425144628e;Low_Confidence_Limit
+8c36cff9-13d5-499e-ad47-2f54017c8f11;d338da41-6663-4b34-8b12-32425144628e;High_Confidence_Limit
+deedc8b5-9497-4d81-af07-555cf2bc2173;3da3cbdb-f9ee-40fe-99d4-f9680ff76f8d;Low_Confidence_Limit
+deedc8b5-9497-4d81-af07-555cf2bc2173;3da3cbdb-f9ee-40fe-99d4-f9680ff76f8d;High_Confidence_Limit
+9fc82046-188a-4d09-b279-fcc158de1241;6cd2f45e-15ad-4053-a78f-08383b37bd09;Confidence_limit_Low
+9fc82046-188a-4d09-b279-fcc158de1241;6cd2f45e-15ad-4053-a78f-08383b37bd09;Confidence_limit_High
+4f919815-524c-4caf-b31a-b964257263cc;b98b2521-99b3-4825-bbd3-f5db0246bcef;Low_Confidence_Limit
+4f919815-524c-4caf-b31a-b964257263cc;b98b2521-99b3-4825-bbd3-f5db0246bcef;High_Confidence_Limit
+1ab87b43-6169-4641-92d7-567ad20109d2;1d0d8ea9-2320-4b45-a101-805b3032807f;Low_Confidence_Limit
+1ab87b43-6169-4641-92d7-567ad20109d2;1d0d8ea9-2320-4b45-a101-805b3032807f;High_Confidence_Limit
+35adb9ec-cbfa-4e8f-a089-df616209527a;ef8ff73b-bc43-4471-b1d1-ed1244b77578;Low_Confidence_limit
+35adb9ec-cbfa-4e8f-a089-df616209527a;ef8ff73b-bc43-4471-b1d1-ed1244b77578;High_Confidence_Limit
+52fb1213-bf30-43ad-85e7-b24303704ef5;07fb9474-8b04-4efe-9b47-eac92c87c7e5;Lower Confidence Interval
+52fb1213-bf30-43ad-85e7-b24303704ef5;07fb9474-8b04-4efe-9b47-eac92c87c7e5;Upper Confidence Interval
+2b747aa6-b2c2-4cb4-80f8-409a2ce571ff;e3bf94f9-124e-4911-bb97-f5bba5a7d978;Low_Confidence_Limit
+2b747aa6-b2c2-4cb4-80f8-409a2ce571ff;e3bf94f9-124e-4911-bb97-f5bba5a7d978;High_Confidence_Limit
+a0d6c38b-93a2-4a60-8651-a870cf07583c;0b14a8ad-f2dc-4ce8-be0d-47ab8eed7ec3;Greater_Risk_Low_Confidence_Limit
+a0d6c38b-93a2-4a60-8651-a870cf07583c;0b14a8ad-f2dc-4ce8-be0d-47ab8eed7ec3;Greater_Risk_High_Confidence_Limit
+a0d6c38b-93a2-4a60-8651-a870cf07583c;0b14a8ad-f2dc-4ce8-be0d-47ab8eed7ec3;Lesser_Risk_Low_Confidence_Limit
+a0d6c38b-93a2-4a60-8651-a870cf07583c;0b14a8ad-f2dc-4ce8-be0d-47ab8eed7ec3;Lesser_Risk_High_Confidence_Limit
+64cb2ee6-d926-4512-ad9e-5719ac16d805;50924842-341d-4072-9047-605d11a4b0e1;Unemployment Rate
+64cb2ee6-d926-4512-ad9e-5719ac16d805;50924842-341d-4072-9047-605d11a4b0e1;Maryland Unemployment Rate
+64cb2ee6-d926-4512-ad9e-5719ac16d805;50924842-341d-4072-9047-605d11a4b0e1;National Unemployment Rate
+549918a9-cf94-4d34-966f-92b784d94ba5;6bd192c8-a744-4207-a340-b99366497a62;Birth Rate 1999
+549918a9-cf94-4d34-966f-92b784d94ba5;6bd192c8-a744-4207-a340-b99366497a62;Birth Rate 1999 Lower CI
+549918a9-cf94-4d34-966f-92b784d94ba5;6bd192c8-a744-4207-a340-b99366497a62;Birth Rate 1999 Upper CI
+549918a9-cf94-4d34-966f-92b784d94ba5;6bd192c8-a744-4207-a340-b99366497a62;Birth Rate 2000
+549918a9-cf94-4d34-966f-92b784d94ba5;6bd192c8-a744-4207-a340-b99366497a62;Birth Rate 2000 Lower CI
+549918a9-cf94-4d34-966f-92b784d94ba5;6bd192c8-a744-4207-a340-b99366497a62;Birth Rate 2000 Upper CI
+549918a9-cf94-4d34-966f-92b784d94ba5;6bd192c8-a744-4207-a340-b99366497a62;Birth Rate 2001
+549918a9-cf94-4d34-966f-92b784d94ba5;6bd192c8-a744-4207-a340-b99366497a62;Birth Rate 2001 Lower CI
+549918a9-cf94-4d34-966f-92b784d94ba5;6bd192c8-a744-4207-a340-b99366497a62;Birth Rate 2001 Upper CI
+549918a9-cf94-4d34-966f-92b784d94ba5;6bd192c8-a744-4207-a340-b99366497a62;Birth Rate 2002
+549918a9-cf94-4d34-966f-92b784d94ba5;6bd192c8-a744-4207-a340-b99366497a62;Birth Rate 2002 Lower CI
+549918a9-cf94-4d34-966f-92b784d94ba5;6bd192c8-a744-4207-a340-b99366497a62;Birth Rate 2002 Upper CI
+549918a9-cf94-4d34-966f-92b784d94ba5;6bd192c8-a744-4207-a340-b99366497a62;Birth Rate 2003
+549918a9-cf94-4d34-966f-92b784d94ba5;6bd192c8-a744-4207-a340-b99366497a62;Birth Rate 2003 Lower CI
+549918a9-cf94-4d34-966f-92b784d94ba5;6bd192c8-a744-4207-a340-b99366497a62;Birth Rate 2003 Upper CI
+549918a9-cf94-4d34-966f-92b784d94ba5;6bd192c8-a744-4207-a340-b99366497a62;Birth Rate 2004
+b192c52a-7490-4025-98a1-b4b9c5c3e121;7dffdbb3-a28b-4675-aa31-6641f504e903;UNEMPLOYED RATE
+b192c52a-7490-4025-98a1-b4b9c5c3e121;7dffdbb3-a28b-4675-aa31-6641f504e903;U.S. RATE
+2b63e091-09bb-4adc-872b-0957cf1ea9fe;cff95bd8-45f4-44d5-a43f-ebe5fe26e0f3;Girls' Primary Education Completion Rates
+2b63e091-09bb-4adc-872b-0957cf1ea9fe;cff95bd8-45f4-44d5-a43f-ebe5fe26e0f3;Girls' Secondary Enrolment Rates
+2b63e091-09bb-4adc-872b-0957cf1ea9fe;cff95bd8-45f4-44d5-a43f-ebe5fe26e0f3;DPT3 Immunization Rates
+2b63e091-09bb-4adc-872b-0957cf1ea9fe;cff95bd8-45f4-44d5-a43f-ebe5fe26e0f3;MCV Immunization Rates
+2b63e091-09bb-4adc-872b-0957cf1ea9fe;cff95bd8-45f4-44d5-a43f-ebe5fe26e0f3;Immunization Rates
+34f52128-2cee-4f58-b2f3-9f98b2d86a57;696c0de4-4e9a-4b65-a47e-1c1bb04e4837;Percent (SFY 2008)
+34f52128-2cee-4f58-b2f3-9f98b2d86a57;696c0de4-4e9a-4b65-a47e-1c1bb04e4837;Percent (SFY 2009)
+34f52128-2cee-4f58-b2f3-9f98b2d86a57;696c0de4-4e9a-4b65-a47e-1c1bb04e4837;Percent (SFY 2010)
+34f52128-2cee-4f58-b2f3-9f98b2d86a57;696c0de4-4e9a-4b65-a47e-1c1bb04e4837;Percent (SFY 2011)
+14a5995c-93d0-4954-9b58-6c56341ab58b;9fe9d87e-48d7-4848-b185-3915f30deb3e;% Success
+05d96cfe-092f-4886-a837-728305c9c0b9;9596e659-056b-4f48-87eb-19cb3975bd1d;High_Confidence_Limit
+57a3cf9d-75c8-4348-abb1-fd74b951b616;181b7956-c992-424e-9cb1-8d2a33943401;Confidence_limit_Low
+57a3cf9d-75c8-4348-abb1-fd74b951b616;181b7956-c992-424e-9cb1-8d2a33943401;Confidence_limit_High
+fc78103e-681a-4f43-9cb7-5ef858a0f75d;eae598ef-7c69-4a11-842b-15e63640739c;Low_Confidence_limit
+fc78103e-681a-4f43-9cb7-5ef858a0f75d;eae598ef-7c69-4a11-842b-15e63640739c;High_Confidence_Limit
+670767a1-3042-4fe4-a69d-f19fdee9a04e;bb67aeea-ce6d-4f91-92fc-c7688132a07c;Greater_Risk_Low_Confidence_Limit
+670767a1-3042-4fe4-a69d-f19fdee9a04e;bb67aeea-ce6d-4f91-92fc-c7688132a07c;Greater_Risk_High_Confidence_Limit
+670767a1-3042-4fe4-a69d-f19fdee9a04e;bb67aeea-ce6d-4f91-92fc-c7688132a07c;Lesser_Risk_Low_Confidence_Limit
+670767a1-3042-4fe4-a69d-f19fdee9a04e;bb67aeea-ce6d-4f91-92fc-c7688132a07c;Lesser_Risk_High_Confidence_Limit
+8902c800-77b5-453d-8fbe-f538b9e0358a;36da5a11-05cd-4ec3-abcf-048f49bc15d2;Low_Confidence_Limit
+8902c800-77b5-453d-8fbe-f538b9e0358a;36da5a11-05cd-4ec3-abcf-048f49bc15d2;High_Confidence_Limit
+165718a7-20cb-4d91-a492-603a4ce17fcb;e4ed0523-3277-46f4-b68a-17d90c5254a9;Confidence_limit_Low
+165718a7-20cb-4d91-a492-603a4ce17fcb;e4ed0523-3277-46f4-b68a-17d90c5254a9;Confidence_limit_High
+3b0386b5-a7d2-4b2e-828d-deab44a948b9;264e93df-1648-47df-81cd-f41cffdd1345;Confidence_limit_Low
+3b0386b5-a7d2-4b2e-828d-deab44a948b9;264e93df-1648-47df-81cd-f41cffdd1345;Confidence_limit_High
+a41f4f2b-628a-4d12-bddf-292585332fd0;8669cda2-414f-47cd-857f-26441cdb17e9;Low_Confidence_Limit
+a41f4f2b-628a-4d12-bddf-292585332fd0;8669cda2-414f-47cd-857f-26441cdb17e9;High_Confidence_Limit
+f3822503-5d5e-4cac-ab1c-c8c18847bc7e;9130e18b-f3ad-4950-b586-ec29f25c716a;Maximum (100%) Measured Luminance of the High Res Display
+201b7064-86ae-48b1-bb6a-c000a5c70831;69c73292-fcbe-4dfc-9ef6-a36d1ea5ace9;NWEA Reading Growth Percentile All Grades
+201b7064-86ae-48b1-bb6a-c000a5c70831;69c73292-fcbe-4dfc-9ef6-a36d1ea5ace9;NWEA Reading Growth Percentile Grade 3
+201b7064-86ae-48b1-bb6a-c000a5c70831;69c73292-fcbe-4dfc-9ef6-a36d1ea5ace9;NWEA Reading Growth Percentile Grade 4
+201b7064-86ae-48b1-bb6a-c000a5c70831;69c73292-fcbe-4dfc-9ef6-a36d1ea5ace9;NWEA Reading Growth Percentile Grade 5
+201b7064-86ae-48b1-bb6a-c000a5c70831;69c73292-fcbe-4dfc-9ef6-a36d1ea5ace9;NWEA Reading Growth Percentile Grade 6
+201b7064-86ae-48b1-bb6a-c000a5c70831;69c73292-fcbe-4dfc-9ef6-a36d1ea5ace9;NWEA Reading Attainment Percentile All Grades
+201b7064-86ae-48b1-bb6a-c000a5c70831;69c73292-fcbe-4dfc-9ef6-a36d1ea5ace9;NWEA Reading Attainment Percentile Grade 2
+201b7064-86ae-48b1-bb6a-c000a5c70831;69c73292-fcbe-4dfc-9ef6-a36d1ea5ace9;NWEA Reading Attainment Percentile Grade 3
+201b7064-86ae-48b1-bb6a-c000a5c70831;69c73292-fcbe-4dfc-9ef6-a36d1ea5ace9;NWEA Math Attainment Percentile All Grades
+201b7064-86ae-48b1-bb6a-c000a5c70831;69c73292-fcbe-4dfc-9ef6-a36d1ea5ace9;NWEA Math Attainment Percentile Grade 2
+201b7064-86ae-48b1-bb6a-c000a5c70831;69c73292-fcbe-4dfc-9ef6-a36d1ea5ace9;NWEA Math Attainment Percentile Grade 3
+201b7064-86ae-48b1-bb6a-c000a5c70831;69c73292-fcbe-4dfc-9ef6-a36d1ea5ace9;NWEA Math Attainment Percentile Grade 4
+201b7064-86ae-48b1-bb6a-c000a5c70831;69c73292-fcbe-4dfc-9ef6-a36d1ea5ace9;NWEA Math Attainment Percentile Grade 5
+201b7064-86ae-48b1-bb6a-c000a5c70831;69c73292-fcbe-4dfc-9ef6-a36d1ea5ace9;EPAS Growth Percentile
+201b7064-86ae-48b1-bb6a-c000a5c70831;69c73292-fcbe-4dfc-9ef6-a36d1ea5ace9;EXPLORE Growth Percentile Grade 9
+201b7064-86ae-48b1-bb6a-c000a5c70831;69c73292-fcbe-4dfc-9ef6-a36d1ea5ace9;Plan Growth Percentile Grade 10
+201b7064-86ae-48b1-bb6a-c000a5c70831;69c73292-fcbe-4dfc-9ef6-a36d1ea5ace9;ACT Growth Percentile Grade 11
+201b7064-86ae-48b1-bb6a-c000a5c70831;69c73292-fcbe-4dfc-9ef6-a36d1ea5ace9;EPAS Attainment Percentile
+201b7064-86ae-48b1-bb6a-c000a5c70831;69c73292-fcbe-4dfc-9ef6-a36d1ea5ace9;EXPLORE Attainment Percentile Grade 9
+201b7064-86ae-48b1-bb6a-c000a5c70831;69c73292-fcbe-4dfc-9ef6-a36d1ea5ace9;PLAN Attainment Percentile Grade 10
+201b7064-86ae-48b1-bb6a-c000a5c70831;69c73292-fcbe-4dfc-9ef6-a36d1ea5ace9;Grade ACT Attainment Percentile Grade 11
+64890aab-50bb-469c-89c6-ca97e1eb59fb;106cd261-4470-48c6-b2ef-0ae65bae28ae;PRECIPITATION_RATE
+72d09979-5f36-47b6-8e87-6abd3a8e536a;c39e7ba6-2b77-4a0d-bb15-5fbb5659924b;OVERALL CRIME RATE PER 100,000 PEOPLE
+72d09979-5f36-47b6-8e87-6abd3a8e536a;c39e7ba6-2b77-4a0d-bb15-5fbb5659924b;VIOLENT CRIME RATE PER 100,000 PEOPLE
+72d09979-5f36-47b6-8e87-6abd3a8e536a;c39e7ba6-2b77-4a0d-bb15-5fbb5659924b;PROPERTY CRIME RATE PER 100,000 PEOPLE
+99abdfe8-54ce-48d5-b5b4-16e5d775136d;38827f1e-03f7-4a3e-8615-37372dc2f3cc;MSPB-1 Performance Rate
+ccb9c98b-0802-4957-aa02-248be2341b6b;ef2fa919-794b-4dfb-b53b-7055c39f390e;WINPERCENT
+ee2b5238-5e12-45df-a69d-0da76e1021aa;3f9a375d-ed55-4d17-bdb0-b1da01244ba6;Truck_Percent
+c3510387-7921-4862-b051-30dbe3e41545;e10dac38-4a37-4d70-a073-c3ef0bbb9855;WINPERCENT
+c15fcde6-2d97-4eff-bd93-d1d2aef2ad94;d9f7543b-c29d-497c-ad92-aa8d9f554d03;VCrim_Rate
+c15fcde6-2d97-4eff-bd93-d1d2aef2ad94;d9f7543b-c29d-497c-ad92-aa8d9f554d03;Vot_Rate
+c15fcde6-2d97-4eff-bd93-d1d2aef2ad94;d9f7543b-c29d-497c-ad92-aa8d9f554d03;Viol_Rate
+c15fcde6-2d97-4eff-bd93-d1d2aef2ad94;d9f7543b-c29d-497c-ad92-aa8d9f554d03;Shelt_Rate
+6ea4d186-8c83-4970-a4a7-a7fb78f66414;15be86c7-cf6d-422f-83d4-3e4f99f49237;frl_percent
+6ea4d186-8c83-4970-a4a7-a7fb78f66414;15be86c7-cf6d-422f-83d4-3e4f99f49237;ell_percent
+6ea4d186-8c83-4970-a4a7-a7fb78f66414;15be86c7-cf6d-422f-83d4-3e4f99f49237;sped_percent
+37f1921e-4d43-47e8-97ba-49125db5084d;a5e39a42-d955-43dd-9f2d-1d3392c42e4b;Percentage of Adult patients with serum phosphorus between 5.6-7.0 mg/dL
+37f1921e-4d43-47e8-97ba-49125db5084d;a5e39a42-d955-43dd-9f2d-1d3392c42e4b;Mortality Rate (Facility)
+37f1921e-4d43-47e8-97ba-49125db5084d;a5e39a42-d955-43dd-9f2d-1d3392c42e4b;Mortality Rate: Upper Confidence Limit (97.5%)
+37f1921e-4d43-47e8-97ba-49125db5084d;a5e39a42-d955-43dd-9f2d-1d3392c42e4b;Mortality Rate: Lower Confidence Limit (2.5%)
+37f1921e-4d43-47e8-97ba-49125db5084d;a5e39a42-d955-43dd-9f2d-1d3392c42e4b;Readmission Rate (Facility)
+37f1921e-4d43-47e8-97ba-49125db5084d;a5e39a42-d955-43dd-9f2d-1d3392c42e4b;Readmission Rate: Upper Confidence Limit (97.5%)
+37f1921e-4d43-47e8-97ba-49125db5084d;a5e39a42-d955-43dd-9f2d-1d3392c42e4b;Readmission Rate: Lower Confidence Limit (2.5%)
+37f1921e-4d43-47e8-97ba-49125db5084d;a5e39a42-d955-43dd-9f2d-1d3392c42e4b;Hospitalization Rate (Facility)
+37f1921e-4d43-47e8-97ba-49125db5084d;a5e39a42-d955-43dd-9f2d-1d3392c42e4b;Hospitalization Rate: Upper Confidence Limit (97.5%)
+37f1921e-4d43-47e8-97ba-49125db5084d;a5e39a42-d955-43dd-9f2d-1d3392c42e4b;Hospitalization Rate: Lower Confidence Limit (2.5%)
+37f1921e-4d43-47e8-97ba-49125db5084d;a5e39a42-d955-43dd-9f2d-1d3392c42e4b;Percentage of pediatric PD patients with Kt/V>=1.8
+37f1921e-4d43-47e8-97ba-49125db5084d;a5e39a42-d955-43dd-9f2d-1d3392c42e4b;Percentage of adult PD patients with Kt/V>=1.7
+37f1921e-4d43-47e8-97ba-49125db5084d;a5e39a42-d955-43dd-9f2d-1d3392c42e4b;SIR: Upper Confidence Limit (97.5%)
+37f1921e-4d43-47e8-97ba-49125db5084d;a5e39a42-d955-43dd-9f2d-1d3392c42e4b;SIR: Lower Confidence Limit (2.5%)
+37f1921e-4d43-47e8-97ba-49125db5084d;a5e39a42-d955-43dd-9f2d-1d3392c42e4b;Transfusion Rate (Facility)
+37f1921e-4d43-47e8-97ba-49125db5084d;a5e39a42-d955-43dd-9f2d-1d3392c42e4b;Transfusion Rate: Upper Confidence Limit (97.5%)
+37f1921e-4d43-47e8-97ba-49125db5084d;a5e39a42-d955-43dd-9f2d-1d3392c42e4b;Transfusion Rate: Lower Confidence Limit (2.5%)
+a911d068-09b2-4aa5-8419-bbaef036e0fd;bd3f65fc-0142-4fb0-92d6-70ebd5cfc9f9;Employee Growth (%)
+d42298e9-359e-4bfd-a2d7-203a45849a29;6c3aa0fb-c75b-4a1a-bab0-f9f129952b83;Percent Gravel
+d42298e9-359e-4bfd-a2d7-203a45849a29;6c3aa0fb-c75b-4a1a-bab0-f9f129952b83;Percent Sand
+d42298e9-359e-4bfd-a2d7-203a45849a29;6c3aa0fb-c75b-4a1a-bab0-f9f129952b83;Percent Silt
+d42298e9-359e-4bfd-a2d7-203a45849a29;6c3aa0fb-c75b-4a1a-bab0-f9f129952b83;Percent Clay
+d42298e9-359e-4bfd-a2d7-203a45849a29;6c3aa0fb-c75b-4a1a-bab0-f9f129952b83;Percent Mud
+c0b4d01c-db28-433a-a594-61563a4a3189;08b9a9d3-4ee2-4abd-8c54-34c6e741da06;Percent Paid
+8680eae2-b356-41b7-acf6-efa3e539ac88;201ba90b-7c62-4335-9602-45554036be75;Girls' Primary Education Completion Rates
+8680eae2-b356-41b7-acf6-efa3e539ac88;201ba90b-7c62-4335-9602-45554036be75;Girls' Secondary Enrolment Rates
+8680eae2-b356-41b7-acf6-efa3e539ac88;201ba90b-7c62-4335-9602-45554036be75;DPT3 Immunization Rates
+8680eae2-b356-41b7-acf6-efa3e539ac88;201ba90b-7c62-4335-9602-45554036be75;MCV Immunization Rates
+8680eae2-b356-41b7-acf6-efa3e539ac88;201ba90b-7c62-4335-9602-45554036be75;Immunization Rates
+e91aa03c-d6b3-4924-9715-36f748a93cf7;110756fa-9ca8-41b3-a030-60e1f21ee7a6;Percentage
+662c8be9-c136-43c2-bc0b-2139611dd006;12e4721f-4d5d-4c87-bc11-5e425411f1af;Percentage O2 Saturation Top Sample
+662c8be9-c136-43c2-bc0b-2139611dd006;12e4721f-4d5d-4c87-bc11-5e425411f1af;Percentage O2 Saturation Bottom sample
+662c8be9-c136-43c2-bc0b-2139611dd006;12e4721f-4d5d-4c87-bc11-5e425411f1af;Light Trans (% transparency) Top Sample
+662c8be9-c136-43c2-bc0b-2139611dd006;12e4721f-4d5d-4c87-bc11-5e425411f1af;Light Trans (% transparency) Bottom Sample
+1b46b9c4-2cc8-4fe4-bf0a-45a35b49e6ef;1f57f972-8380-4773-8214-d603c6270280;Incidence Rate 2009
+1b46b9c4-2cc8-4fe4-bf0a-45a35b49e6ef;1f57f972-8380-4773-8214-d603c6270280;Incidence Rate 2009 Lower CI
+1b46b9c4-2cc8-4fe4-bf0a-45a35b49e6ef;1f57f972-8380-4773-8214-d603c6270280;Incidence Rate 2009 Upper CI
+1b46b9c4-2cc8-4fe4-bf0a-45a35b49e6ef;1f57f972-8380-4773-8214-d603c6270280;Incidence Rate 2010
+1b46b9c4-2cc8-4fe4-bf0a-45a35b49e6ef;1f57f972-8380-4773-8214-d603c6270280;Incidence Rate 2010 Lower CI
+1b46b9c4-2cc8-4fe4-bf0a-45a35b49e6ef;1f57f972-8380-4773-8214-d603c6270280;Incidence Rate 2010 Upper CI
+1b46b9c4-2cc8-4fe4-bf0a-45a35b49e6ef;1f57f972-8380-4773-8214-d603c6270280;Incidence Rate 2011
+1b46b9c4-2cc8-4fe4-bf0a-45a35b49e6ef;1f57f972-8380-4773-8214-d603c6270280;Incidence Rate 2011 Lower CI
+1b46b9c4-2cc8-4fe4-bf0a-45a35b49e6ef;1f57f972-8380-4773-8214-d603c6270280;Incidence Rate 2011 Upper CI
+1b46b9c4-2cc8-4fe4-bf0a-45a35b49e6ef;1f57f972-8380-4773-8214-d603c6270280;Incidence Rate 2012
+1b46b9c4-2cc8-4fe4-bf0a-45a35b49e6ef;1f57f972-8380-4773-8214-d603c6270280;Incidence Rate 2012 Lower CI
+1b46b9c4-2cc8-4fe4-bf0a-45a35b49e6ef;1f57f972-8380-4773-8214-d603c6270280;Incidence Rate 2012 Upper CI
+1b46b9c4-2cc8-4fe4-bf0a-45a35b49e6ef;1f57f972-8380-4773-8214-d603c6270280;Incidence Rate 2013
+1b46b9c4-2cc8-4fe4-bf0a-45a35b49e6ef;1f57f972-8380-4773-8214-d603c6270280;Incidence Rate 2013 Lower CI
+1b46b9c4-2cc8-4fe4-bf0a-45a35b49e6ef;1f57f972-8380-4773-8214-d603c6270280;Incidence Rate 2013 Upper CI
+1b46b9c4-2cc8-4fe4-bf0a-45a35b49e6ef;1f57f972-8380-4773-8214-d603c6270280;Incidence Rate 2014
+1b46b9c4-2cc8-4fe4-bf0a-45a35b49e6ef;1f57f972-8380-4773-8214-d603c6270280;Incidence Rate 2014 Lower CI
+1b46b9c4-2cc8-4fe4-bf0a-45a35b49e6ef;1f57f972-8380-4773-8214-d603c6270280;Incidence Rate 2014 Upper CI
+c4c0d18d-b510-48b3-a1c1-69793f0540b0;1ce2834b-92c5-4827-a237-ec40102ade9e;State Rate
+e54bdccc-d976-4fad-9d88-aff988650c93;09fe0d21-a1ba-47f3-bd9c-63742d6a9165;IT Employees (% Total)
+e54bdccc-d976-4fad-9d88-aff988650c93;09fe0d21-a1ba-47f3-bd9c-63742d6a9165;IT Budget (% Total)
+053f3e8c-6d66-42a3-823d-31601b56b5b3;b1f256a7-ab71-4564-ab91-4d3d3447d791;PERCENT GENDER UNKNOWN
+d6bc7463-d29f-4317-a2cc-05b31bfc543f;3f1f990f-da09-4980-92e4-84d2efeea448;PERCENT FEMALE
+d6bc7463-d29f-4317-a2cc-05b31bfc543f;3f1f990f-da09-4980-92e4-84d2efeea448;PERCENT MALE
+d6bc7463-d29f-4317-a2cc-05b31bfc543f;3f1f990f-da09-4980-92e4-84d2efeea448;PERCENT GENDER UNKNOWN
+d6bc7463-d29f-4317-a2cc-05b31bfc543f;3f1f990f-da09-4980-92e4-84d2efeea448;PERCENT GENDER TOTAL
+d6bc7463-d29f-4317-a2cc-05b31bfc543f;3f1f990f-da09-4980-92e4-84d2efeea448;PERCENT PACIFIC ISLANDER
+d6bc7463-d29f-4317-a2cc-05b31bfc543f;3f1f990f-da09-4980-92e4-84d2efeea448;PERCENT HISPANIC LATINO
+d6bc7463-d29f-4317-a2cc-05b31bfc543f;3f1f990f-da09-4980-92e4-84d2efeea448;PERCENT AMERICAN INDIAN
+d6bc7463-d29f-4317-a2cc-05b31bfc543f;3f1f990f-da09-4980-92e4-84d2efeea448;PERCENT ASIAN NON HISPANIC
+d6bc7463-d29f-4317-a2cc-05b31bfc543f;3f1f990f-da09-4980-92e4-84d2efeea448;PERCENT WHITE NON HISPANIC
+d6bc7463-d29f-4317-a2cc-05b31bfc543f;3f1f990f-da09-4980-92e4-84d2efeea448;PERCENT BLACK NON HISPANIC
+d6bc7463-d29f-4317-a2cc-05b31bfc543f;3f1f990f-da09-4980-92e4-84d2efeea448;PERCENT OTHER ETHNICITY
+d6bc7463-d29f-4317-a2cc-05b31bfc543f;3f1f990f-da09-4980-92e4-84d2efeea448;PERCENT ETHNICITY UNKNOWN
+d6bc7463-d29f-4317-a2cc-05b31bfc543f;3f1f990f-da09-4980-92e4-84d2efeea448;PERCENT ETHNICITY TOTAL
+d6bc7463-d29f-4317-a2cc-05b31bfc543f;3f1f990f-da09-4980-92e4-84d2efeea448;PERCENT PERMANENT RESIDENT ALIEN
+d6bc7463-d29f-4317-a2cc-05b31bfc543f;3f1f990f-da09-4980-92e4-84d2efeea448;PERCENT US CITIZEN
+d6bc7463-d29f-4317-a2cc-05b31bfc543f;3f1f990f-da09-4980-92e4-84d2efeea448;PERCENT OTHER CITIZEN STATUS
+d6bc7463-d29f-4317-a2cc-05b31bfc543f;3f1f990f-da09-4980-92e4-84d2efeea448;PERCENT CITIZEN STATUS UNKNOWN
+d6bc7463-d29f-4317-a2cc-05b31bfc543f;3f1f990f-da09-4980-92e4-84d2efeea448;PERCENT CITIZEN STATUS TOTAL
+d6bc7463-d29f-4317-a2cc-05b31bfc543f;3f1f990f-da09-4980-92e4-84d2efeea448;PERCENT RECEIVES PUBLIC ASSISTANCE
+d6bc7463-d29f-4317-a2cc-05b31bfc543f;3f1f990f-da09-4980-92e4-84d2efeea448;PERCENT NRECEIVES PUBLIC ASSISTANCE
+d6bc7463-d29f-4317-a2cc-05b31bfc543f;3f1f990f-da09-4980-92e4-84d2efeea448;PERCENT PUBLIC ASSISTANCE UNKNOWN
+f3a12602-5609-4c3d-a55e-b851ebb41dcb;70305206-42a9-407f-b5de-005a15cbf8aa;MA Participation Rate (%)
+f3a12602-5609-4c3d-a55e-b851ebb41dcb;70305206-42a9-407f-b5de-005a15cbf8aa;Percent Female
+f3a12602-5609-4c3d-a55e-b851ebb41dcb;70305206-42a9-407f-b5de-005a15cbf8aa;Percent Male
+f3a12602-5609-4c3d-a55e-b851ebb41dcb;70305206-42a9-407f-b5de-005a15cbf8aa;Percent Non-Hispanic White
+f3a12602-5609-4c3d-a55e-b851ebb41dcb;70305206-42a9-407f-b5de-005a15cbf8aa;Percent African American
+f3a12602-5609-4c3d-a55e-b851ebb41dcb;70305206-42a9-407f-b5de-005a15cbf8aa;Percent Hispanic
+f3a12602-5609-4c3d-a55e-b851ebb41dcb;70305206-42a9-407f-b5de-005a15cbf8aa;Percent Other/Unknown
+f3a12602-5609-4c3d-a55e-b851ebb41dcb;70305206-42a9-407f-b5de-005a15cbf8aa;Percent Eligible for Medicaid
+be43f800-45c7-4671-8765-cb19a07a526e;fd826262-5935-46b6-a696-e40874d9aa51;Accuracy
+053e8286-b7e9-47d3-81e0-0698c86e7ac0;35bfb00a-4018-4307-af79-d0864755af0b;Population_percent
+50471563-ca42-4520-9a70-38036e48acb7;61d372f3-980e-4c36-a90f-7b327a86af47;Response_Rate
+50471563-ca42-4520-9a70-38036e48acb7;61d372f3-980e-4c36-a90f-7b327a86af47;Percent_eligible_for_the_NSLP_SampleSchools
+50471563-ca42-4520-9a70-38036e48acb7;61d372f3-980e-4c36-a90f-7b327a86af47;Percent_eligible_for_the_NSLP_SampleStudents
+50471563-ca42-4520-9a70-38036e48acb7;61d372f3-980e-4c36-a90f-7b327a86af47;Percent_eligible_for_the_NSLP_State
+d125af9c-8d43-4b9c-8694-52e852a4f118;6895c8b0-2231-4c12-875c-e5d9e09e8b45;Percent Gravel
+d125af9c-8d43-4b9c-8694-52e852a4f118;6895c8b0-2231-4c12-875c-e5d9e09e8b45;Percent Sand
+d125af9c-8d43-4b9c-8694-52e852a4f118;6895c8b0-2231-4c12-875c-e5d9e09e8b45;Percent Silt
+d125af9c-8d43-4b9c-8694-52e852a4f118;6895c8b0-2231-4c12-875c-e5d9e09e8b45;Percent Clay
+d125af9c-8d43-4b9c-8694-52e852a4f118;6895c8b0-2231-4c12-875c-e5d9e09e8b45;Percent Mud
+9f1479d4-d823-482d-acbb-e88f8c6ae18f;1ddcb0a1-e606-471e-802b-6592548455e0;OVERALL CRIME RATE PER 100,000 PEOPLE
+9f1479d4-d823-482d-acbb-e88f8c6ae18f;1ddcb0a1-e606-471e-802b-6592548455e0;VIOLENT CRIME RATE PER 100,000 PEOPLE
+9f1479d4-d823-482d-acbb-e88f8c6ae18f;1ddcb0a1-e606-471e-802b-6592548455e0;PROPERTY CRIME RATE PER 100,000 PEOPLE
+9e254ff3-af01-4fae-b25d-32f40d9dd70c;0f42b2bc-d27f-41b2-94d5-38b3748b529b;Births to Teens Mothers Rate
+73250bc3-e0e5-4ab8-93ee-45b308c77746;6b148f3d-e287-48e5-822e-f912feb91e23;Teen Birth Rate 1999
+73250bc3-e0e5-4ab8-93ee-45b308c77746;6b148f3d-e287-48e5-822e-f912feb91e23; Teen Birth Rate 1999 Lower CI
+73250bc3-e0e5-4ab8-93ee-45b308c77746;6b148f3d-e287-48e5-822e-f912feb91e23; Teen Birth  Rate 1999 Upper CI
+73250bc3-e0e5-4ab8-93ee-45b308c77746;6b148f3d-e287-48e5-822e-f912feb91e23;Teen Birth Rate  2000
+73250bc3-e0e5-4ab8-93ee-45b308c77746;6b148f3d-e287-48e5-822e-f912feb91e23; Teen Birth Rate 2000 Lower CI
+73250bc3-e0e5-4ab8-93ee-45b308c77746;6b148f3d-e287-48e5-822e-f912feb91e23; Teen Birth Rate 2000 Upper CI
+73250bc3-e0e5-4ab8-93ee-45b308c77746;6b148f3d-e287-48e5-822e-f912feb91e23;Teen Birth Rate 2001
+73250bc3-e0e5-4ab8-93ee-45b308c77746;6b148f3d-e287-48e5-822e-f912feb91e23;Teen Birth Rate 2001 Lower CI
+73250bc3-e0e5-4ab8-93ee-45b308c77746;6b148f3d-e287-48e5-822e-f912feb91e23; Teen Birth Rate 2001 Upper CI
+73250bc3-e0e5-4ab8-93ee-45b308c77746;6b148f3d-e287-48e5-822e-f912feb91e23;Teen Birth Rate 2002
+73250bc3-e0e5-4ab8-93ee-45b308c77746;6b148f3d-e287-48e5-822e-f912feb91e23; Teen Birth Rate 2002 Lower CI
+73250bc3-e0e5-4ab8-93ee-45b308c77746;6b148f3d-e287-48e5-822e-f912feb91e23; Teen Birth Rate 2002 Upper CI
+73250bc3-e0e5-4ab8-93ee-45b308c77746;6b148f3d-e287-48e5-822e-f912feb91e23;Teen Birth Rate 2003
+73250bc3-e0e5-4ab8-93ee-45b308c77746;6b148f3d-e287-48e5-822e-f912feb91e23;Teen Birth Rate 2003 Lower CI
+73250bc3-e0e5-4ab8-93ee-45b308c77746;6b148f3d-e287-48e5-822e-f912feb91e23; Teen Birth Rate 2003 Upper CI
+73250bc3-e0e5-4ab8-93ee-45b308c77746;6b148f3d-e287-48e5-822e-f912feb91e23;Teen Birth Rate 2004
+73250bc3-e0e5-4ab8-93ee-45b308c77746;6b148f3d-e287-48e5-822e-f912feb91e23;Teen Birth  Rate 2004 Lower CI
+73250bc3-e0e5-4ab8-93ee-45b308c77746;6b148f3d-e287-48e5-822e-f912feb91e23;Teen Birth Rate 2004 Upper CI
+a50e2fac-fcbb-44ae-b398-518b36a979e6;578d5b3c-1cbb-40e5-8454-297215531daa;% OF PROPERTY BEING UTILIZED
+a50e2fac-fcbb-44ae-b398-518b36a979e6;578d5b3c-1cbb-40e5-8454-297215531daa;OCCUPANCY RATE OF THE BUILDING
+a50e2fac-fcbb-44ae-b398-518b36a979e6;578d5b3c-1cbb-40e5-8454-297215531daa;% OCCUPIED BY THE STATE
+a50e2fac-fcbb-44ae-b398-518b36a979e6;45e45217-6217-4f93-bff1-e74d38e3afa7;% OF PROPERTY BEING UTILIZED
+a50e2fac-fcbb-44ae-b398-518b36a979e6;45e45217-6217-4f93-bff1-e74d38e3afa7;OCCUPANCY RATE OF THE BUILDING
+a50e2fac-fcbb-44ae-b398-518b36a979e6;45e45217-6217-4f93-bff1-e74d38e3afa7;% OCCUPIED BY THE STATE
+a50e2fac-fcbb-44ae-b398-518b36a979e6;45e45217-6217-4f93-bff1-e74d38e3afa7;% OF THE BUILDING BEING LEASED OR SUBLEASED
+a50e2fac-fcbb-44ae-b398-518b36a979e6;45e45217-6217-4f93-bff1-e74d38e3afa7;% OF ACRES OF THE LAND BEING LEASED OR SUBLEASED
+a50e2fac-fcbb-44ae-b398-518b36a979e6;45e45217-6217-4f93-bff1-e74d38e3afa7;ADDITIONAL DESCRIPTION % LAND LEASED OR SUBLEASED
+a50e2fac-fcbb-44ae-b398-518b36a979e6;d2172800-dab1-408e-88bd-870235bb4d4b;% OF PROPERTY BEING UTILIZED
+a50e2fac-fcbb-44ae-b398-518b36a979e6;53a7cd0e-b97e-42bf-8368-3c932460a79f;% OF ACRES BEING LEASED
+a50e2fac-fcbb-44ae-b398-518b36a979e6;024cd358-256f-45cf-9537-b9a62aad4550;% OF PROPERTY BEING UTILIZED
+a50e2fac-fcbb-44ae-b398-518b36a979e6;024cd358-256f-45cf-9537-b9a62aad4550;OCCUPANCY RATE OF THE BUILDING
+a50e2fac-fcbb-44ae-b398-518b36a979e6;024cd358-256f-45cf-9537-b9a62aad4550;ADDITIONAL DESCRIPTION OF OCCUPANCY RATE
+a50e2fac-fcbb-44ae-b398-518b36a979e6;024cd358-256f-45cf-9537-b9a62aad4550;% OCCUPIED BY THE STATE
+a50e2fac-fcbb-44ae-b398-518b36a979e6;024cd358-256f-45cf-9537-b9a62aad4550;ADDITIONAL DESCRIPTION OF % OCCUPIED BY STATE
+a50e2fac-fcbb-44ae-b398-518b36a979e6;024cd358-256f-45cf-9537-b9a62aad4550;% OF THE BUILDING BEING LEASED OR SUBLEASED
+a50e2fac-fcbb-44ae-b398-518b36a979e6;024cd358-256f-45cf-9537-b9a62aad4550;% OF ACRES OF THE LAND BEING LEASED OR SUBLEASED
+a50e2fac-fcbb-44ae-b398-518b36a979e6;024cd358-256f-45cf-9537-b9a62aad4550;ADDITIONAL DESCRIPTION % LAND LEASED OR SUBLEASED
+2019e1fa-b380-4f91-9fda-6588e8ad971d;08658c2f-cc0b-47f7-801b-279bf67398f0;WINPERCENT
+b2e008f4-8ed6-4182-ac0f-26986854aed7;5b0eddda-71ce-4478-90f6-446f5e1c1cae;2011 Percent Better than National Median Site EUI
+b2e008f4-8ed6-4182-ac0f-26986854aed7;5b0eddda-71ce-4478-90f6-446f5e1c1cae;2011 Percent Better than National Median Source EUI
+b2e008f4-8ed6-4182-ac0f-26986854aed7;5b0eddda-71ce-4478-90f6-446f5e1c1cae;2012 Percent Better than National Median Site EUI
+b2e008f4-8ed6-4182-ac0f-26986854aed7;5b0eddda-71ce-4478-90f6-446f5e1c1cae;2012 Percent Better than National Median Source EUI
+e1512230-a575-43c3-b38d-9ddb5beab8d4;17435c61-0523-4842-b321-b7162b4e9aa7;EDC % Occupied
+ce0c03b6-0dae-40e2-a076-9c1cf4f1d827;a9b847af-ad42-4e3c-9de2-913c5829afce;Accuracy
+5ff43d6b-e6c8-45cd-9860-8a24de9bf06e;f8fd30e0-c15f-4117-b812-3acc8e7997d9;Unemployment Rate
+be1bfe36-21cc-40f0-aa49-fb0b6a4deb9d;17822a19-d331-4444-8277-45dff117bbf7;Percent
+b3e306df-a3e4-4f73-bf6c-b9958967d352;d8bce0ec-16f9-4586-8a8b-5d2992e81ac0;WINPERCENT
+dc26cd75-bc4b-47a7-96ab-42c19d46988a;13b9a155-b464-4012-a5d7-1a0e27eb12ca;Marriage Rate
+dc26cd75-bc4b-47a7-96ab-42c19d46988a;13b9a155-b464-4012-a5d7-1a0e27eb12ca;Divorce and Annulment Rate
+8d6ef21f-e741-4749-8e94-44c4739415bd;fd6caf80-0bd2-40ac-8668-a836d6c75a33;Truck_Percent
+4f18e656-e3f4-4645-a3da-16a03ec52531;d50d1967-c3f0-4286-91fe-af446debb75d;Curr_Year_Tax_Collection_Rate
+4f18e656-e3f4-4645-a3da-16a03ec52531;d50d1967-c3f0-4286-91fe-af446debb75d;Overal_Total_Tax_Collection_Rate
+55a8d8fc-2f1c-4344-b50e-b36e6cc4bb3a;597cd28c-5370-4484-92cf-ab9053a05fa1;Unemployment Rate
+c2304a8b-a7a6-4669-a6fb-6466b52332c6;d5af4cd3-d18e-4006-a018-7e5a54f6ebdc;Percent  Spent To Date:
+93e0a964-4b38-40fc-bdfa-a26306c570d7;9d938b5b-8efd-4138-ae6e-539ce137904a;Average of FEMALE HOURLY RATE
+93e0a964-4b38-40fc-bdfa-a26306c570d7;9d938b5b-8efd-4138-ae6e-539ce137904a;Average of MALE HOURLY RATE
+93e0a964-4b38-40fc-bdfa-a26306c570d7;9d938b5b-8efd-4138-ae6e-539ce137904a;Total Average of HOURLY RATE
+2bfe5f02-4a8e-4524-b934-d72783dec1bc;0643cb85-9e87-4cab-b9a5-0bede0729a52;WINPERCENT
+d20e3fa2-6994-42d4-b380-95e95c4949a6;e1ebbad9-71fe-42c7-9953-2bdc3cf12325;Honolulu(% change)
+d20e3fa2-6994-42d4-b380-95e95c4949a6;e1ebbad9-71fe-42c7-9953-2bdc3cf12325;US(% change)
+b07e7c7e-5cc5-481d-859f-0a3899798e00;8958d4d8-dabb-47ca-a5f4-df3d97e54804;Accuracy
+e45d7510-6191-4b65-a144-db679c14752b;7ed4238d-bd3a-4523-ba4c-b298c51751fa;African American Rate
+e45d7510-6191-4b65-a144-db679c14752b;7ed4238d-bd3a-4523-ba4c-b298c51751fa;Hispanic Rate
+e45d7510-6191-4b65-a144-db679c14752b;7ed4238d-bd3a-4523-ba4c-b298c51751fa;American Indian Rate
+e45d7510-6191-4b65-a144-db679c14752b;7ed4238d-bd3a-4523-ba4c-b298c51751fa;Asian Rate
+e45d7510-6191-4b65-a144-db679c14752b;7ed4238d-bd3a-4523-ba4c-b298c51751fa;Hawaiian/Pacific Islander Rate
+e45d7510-6191-4b65-a144-db679c14752b;7ed4238d-bd3a-4523-ba4c-b298c51751fa;Two or More Races Rate
+b11e6643-017c-4b89-9570-d41c9dd70002;c8cb828a-7715-499a-812b-9dd11191ca7d;Prevalence (%)
+148a5231-ede6-4949-9018-6e33980834d3;95c9f935-d473-4e10-8da4-9bd87b3d3d00;1990 Lower 95% CI
+148a5231-ede6-4949-9018-6e33980834d3;95c9f935-d473-4e10-8da4-9bd87b3d3d00;1990 Upper 95% CI
+750b0ed3-9be4-4363-abd2-60ac1a9854f1;a7e9c437-1370-4bfd-b28a-82cd5b626952;Recovery Efficiency per UEF test method (%)
+86d29b88-0b48-4e1c-8e37-0afcf092f1bd;323beed4-2cb0-4879-b3dc-6ba36c0b3279;Percentage by Subscriber
+120f6b9b-2b5e-4dac-86fa-679ac337cd61;746dc10c-cd81-4c96-aee2-4057069fa5a2;Population_percent
+c14ffb12-51b4-4672-98c9-7b0ae5d9f6a5;3ca9b834-6833-440b-976b-d8eb458a9ac6;S3: Label j: FSF Final%
+1fe0e9a0-6f0e-4b66-9968-5fcbdb52c9f6;bd288eea-4cec-43f8-bbe2-74d96cb90a3c;Accuracy
+9adc8996-1e8b-4cb4-9d3f-17891a9e9f94;6e0962eb-e0fe-4179-b155-06386ff28391;Unemployment Rate
+e85da966-42fe-4cc4-b5ac-c97a675d32bc;33ef3abd-6eb2-4026-b68a-7b617ecc09f8;Mortality Rate
+595d13fb-5c99-44e4-b38d-2085fa907e5f;003a01fe-298f-416e-8609-15a733170555;4-Year Rates
+d533693b-1d12-487f-8340-9d24b67b2327;25c08356-37e9-43a0-b63c-f629547ae6de;OVERALL CRIME RATE PER 100,000 PEOPLE
+d533693b-1d12-487f-8340-9d24b67b2327;25c08356-37e9-43a0-b63c-f629547ae6de;VIOLENT CRIME RATE PER 100,000 PEOPLE
+d533693b-1d12-487f-8340-9d24b67b2327;25c08356-37e9-43a0-b63c-f629547ae6de;PROPERTY CRIME RATE PER 100,000 PEOPLE
+96963d15-9fb4-4ffa-8221-06a83b24309d;c4b15c9f-2965-4fc0-971d-7fac8f4b5ee0;Input Rate (kBtu/hr)
+9097b109-f5f1-4f6d-83f7-ba166d5a652d;e9a22ef0-a0b6-426f-8951-a832c67e4b56;Unemployment Rate
+dc2dadef-dbd9-4be7-a0a5-fd893c5c65ab;60fa5b94-6055-4ce3-8cff-aa8f8c7336ff; Unemployment rate 1/%
+8e26acb3-a210-480f-a2ab-aa4d01845255;bb54ccf5-5125-4a23-a989-9ba619d0a154;Decreasing Injury Rate Initiative: Attended trainings
+8e26acb3-a210-480f-a2ab-aa4d01845255;bb54ccf5-5125-4a23-a989-9ba619d0a154;Decreasing Injury Rate Initiative: Developed policy proposals
+8e26acb3-a210-480f-a2ab-aa4d01845255;bb54ccf5-5125-4a23-a989-9ba619d0a154;Decreasing Injury Rate Initiative: Engaged stakeholders
+8e26acb3-a210-480f-a2ab-aa4d01845255;bb54ccf5-5125-4a23-a989-9ba619d0a154;Decreasing Injury Rate Initiative: Implemented change
+8e26acb3-a210-480f-a2ab-aa4d01845255;bb54ccf5-5125-4a23-a989-9ba619d0a154;Decreasing Injury Rate Initiative: Agency FTE(s)
+59aa740a-176d-46a9-aec4-5132a81b4a49;610292eb-6fe6-43a2-97d0-59ec083ed187;Accuracy
+05565cab-f599-4738-a729-53edce5d60f3;00bcc1d1-4a81-4514-8442-11915018feba;Fertility Rate 1999
+05565cab-f599-4738-a729-53edce5d60f3;00bcc1d1-4a81-4514-8442-11915018feba;Fertility Rate 1999 Lower CI
+05565cab-f599-4738-a729-53edce5d60f3;00bcc1d1-4a81-4514-8442-11915018feba;Fertility Rate 1999 Upper CI
+05565cab-f599-4738-a729-53edce5d60f3;00bcc1d1-4a81-4514-8442-11915018feba;Fertility Rate 2000
+05565cab-f599-4738-a729-53edce5d60f3;00bcc1d1-4a81-4514-8442-11915018feba;Fertility Rate 2000 Lower CI
+05565cab-f599-4738-a729-53edce5d60f3;00bcc1d1-4a81-4514-8442-11915018feba;Fertility Rate 2000 Upper CI
+05565cab-f599-4738-a729-53edce5d60f3;00bcc1d1-4a81-4514-8442-11915018feba;Fertility Rate 2001
+05565cab-f599-4738-a729-53edce5d60f3;00bcc1d1-4a81-4514-8442-11915018feba;Fertility Rate 2001 Lower CI
+05565cab-f599-4738-a729-53edce5d60f3;00bcc1d1-4a81-4514-8442-11915018feba;Fertility Rate 2001 Upper CI
+05565cab-f599-4738-a729-53edce5d60f3;00bcc1d1-4a81-4514-8442-11915018feba;Fertility Rate 2002
+05565cab-f599-4738-a729-53edce5d60f3;00bcc1d1-4a81-4514-8442-11915018feba;Fertility Rate 2002 Lower CI
+05565cab-f599-4738-a729-53edce5d60f3;00bcc1d1-4a81-4514-8442-11915018feba;Fertility Rate 2002 Upper CI
+05565cab-f599-4738-a729-53edce5d60f3;00bcc1d1-4a81-4514-8442-11915018feba;Fertility Rate 2003
+05565cab-f599-4738-a729-53edce5d60f3;00bcc1d1-4a81-4514-8442-11915018feba;Fertility Rate 2003 Lower CI
+05565cab-f599-4738-a729-53edce5d60f3;00bcc1d1-4a81-4514-8442-11915018feba;Fertility Rate 2003 Upper CI
+34c77449-3f5e-4f74-bd5f-3dc12282bb29;b625419f-03e8-4588-ae5d-f2d3abb3312b;Occupancy Rate (%) 2010
+34c77449-3f5e-4f74-bd5f-3dc12282bb29;b625419f-03e8-4588-ae5d-f2d3abb3312b;Vacancy Rate (%) 2010
+34c77449-3f5e-4f74-bd5f-3dc12282bb29;b625419f-03e8-4588-ae5d-f2d3abb3312b;Water Area (%) 2010
+92edbfd8-f388-4315-aa7c-7889d6ca7649;7c45fa4b-eabd-452e-8fd1-4a7638f52102;Percentage
+0081ce64-4d92-4923-bea7-2f2a6fb1f8c0;00fd0bb3-52ad-4410-b120-f89440d33a36;WINPERCENT
+b87a6ec5-7ed4-4fe4-8933-6206cf2ab489;a64f7958-157c-4a88-9b26-28efab65ff49;Teen Percent, 2008
+b87a6ec5-7ed4-4fe4-8933-6206cf2ab489;a64f7958-157c-4a88-9b26-28efab65ff49;Teen Percent, 2009
+41d7efd2-6dd1-4ce5-9e1b-f3805a59d35c;06f98682-9e73-4ec5-bbff-02e1cc92f884;90% CI lower bound
+41d7efd2-6dd1-4ce5-9e1b-f3805a59d35c;06f98682-9e73-4ec5-bbff-02e1cc92f884;90% CI upper bound
+4de8a77d-dda3-424c-8b9e-166ffe0d17a1;751ec7e8-5ba6-4653-9224-591a6dec10f9;Electronic Waste Generated (pounds/person/year)
+369ac9a0-a97f-46dc-b2d2-5f43cb2bf0f8;0878e491-4315-4cdc-a18d-2227b5b01632;Percent
+463b6037-6626-4c62-b03b-b1346d001818;9304c7b0-3e5f-4893-aa30-66e6083990a5;Lost time Injury Rate
+a93e89b1-27d4-4b3c-a2d9-52517f7d18c4;22ffa275-459b-4fbd-a9d1-c1f9768c330c;Q32. What percentage of your patrons arrive by car?
+a93e89b1-27d4-4b3c-a2d9-52517f7d18c4;22ffa275-459b-4fbd-a9d1-c1f9768c330c;Q33. What percentage of your patrons arrive on foot?
+a93e89b1-27d4-4b3c-a2d9-52517f7d18c4;22ffa275-459b-4fbd-a9d1-c1f9768c330c;Q34. What percentage of your patrons arrive by bike?
+a93e89b1-27d4-4b3c-a2d9-52517f7d18c4;22ffa275-459b-4fbd-a9d1-c1f9768c330c;Q35. What percentage of your patrons arrive by transit?
+a93e89b1-27d4-4b3c-a2d9-52517f7d18c4;22ffa275-459b-4fbd-a9d1-c1f9768c330c;Q36. What percentage of your patrons arrive by another mode?
+69010c0f-aa25-419c-9a24-c81766c2e8de;476b58b3-1e20-40a2-aa59-fc314bf56610;Yaw Rate
+1a001216-eb39-480b-acfd-922985fd781b;02df0730-cc39-4834-83c6-aacc962eef35;fatal_rate
+1a001216-eb39-480b-acfd-922985fd781b;02df0730-cc39-4834-83c6-aacc962eef35;violent_rate
+a4828195-60c7-4012-9f08-169553a8b059;e7dce712-65b2-4c12-865b-8d447fa6e6e6;Percent Non-White
+a4828195-60c7-4012-9f08-169553a8b059;e7dce712-65b2-4c12-865b-8d447fa6e6e6;Percent Female
+a4828195-60c7-4012-9f08-169553a8b059;e7dce712-65b2-4c12-865b-8d447fa6e6e6;Percent Violent Offenders
+a4828195-60c7-4012-9f08-169553a8b059;e7dce712-65b2-4c12-865b-8d447fa6e6e6;Percent Sex Offenders
+ff15af93-54ec-4369-b034-781ada9d9063;97506a2e-658a-4c36-abb2-9e741b0afd04;Accuracy
+e2e2aa70-7f2a-42bd-a9ea-50a4f14994b9;f83c4f4b-4495-4826-be22-ee3aa7237cda;WINPERCENT
+9da8f53a-bb7f-487e-925b-ae3c19646c4a;9b6ae9ab-5f45-4842-b8c0-fda75710bbb3;% Percentage Filed via the Internet  (Field E)
+78d336a7-d6db-478a-b4ef-e5006ec3f168;f9a4e5d6-6f01-4190-a23b-661ee64136ce;General Fertility Rate
+78d336a7-d6db-478a-b4ef-e5006ec3f168;f9a4e5d6-6f01-4190-a23b-661ee64136ce;Teen Birth Rate
+78d336a7-d6db-478a-b4ef-e5006ec3f168;f9a4e5d6-6f01-4190-a23b-661ee64136ce;Infant Mortality Rate
+e9dc1819-3277-4f07-aeef-a0ff2d2e4f64;31ba5e56-5f00-4758-a318-c9cf6944c153;Unemployment Rate
+a79c1f36-3c06-4ae2-a944-b4b7ed4502ff;ef5e425c-e3a1-443e-8020-03a5e0046280;PSC Complaint Rate
+bb610bb2-9429-4bf1-a7c0-dab025341124;1b206aac-d9a3-4571-9b39-5294ba6cd907;Accuracy
+2a8ee3b7-05df-497e-bfe0-a734c0c0e5d3;926f1921-a4bc-44d6-b1fd-0fa4c3af9b52;Percent
+d9ef7220-d0e2-4c6d-ab47-8554d7ce9c27;542dbd78-f28b-4cf1-9935-38ae9a6229c5;Percent Change, 1980 to 1990
+d9ef7220-d0e2-4c6d-ab47-8554d7ce9c27;542dbd78-f28b-4cf1-9935-38ae9a6229c5;Percent Change, 1990 to 2000
+d9ef7220-d0e2-4c6d-ab47-8554d7ce9c27;542dbd78-f28b-4cf1-9935-38ae9a6229c5;Percent Change, 2000 to 2010
+1367ddb9-8f72-43f2-81d4-ee2179bfbb63;c8ee3f35-7d8b-416d-85fb-5e83936c2442;CurrentPhasePercentComplete
+1367ddb9-8f72-43f2-81d4-ee2179bfbb63;c8ee3f35-7d8b-416d-85fb-5e83936c2442;ActivePhasePercent
+7d6a1917-9e5e-41d3-a726-2ad840a41dc9;1ed589e7-6255-48f1-b611-030e33ce1fc9;School_Survey_Student_Response_Rate_Pct
+7d6a1917-9e5e-41d3-a726-2ad840a41dc9;1ed589e7-6255-48f1-b611-030e33ce1fc9;School_Survey_Student_Response_Rate_Avg_Pct
+7d6a1917-9e5e-41d3-a726-2ad840a41dc9;1ed589e7-6255-48f1-b611-030e33ce1fc9;School_Survey_Teacher_Response_Rate_Pct
+7d6a1917-9e5e-41d3-a726-2ad840a41dc9;1ed589e7-6255-48f1-b611-030e33ce1fc9;School_Survey_Teacher_Response_Rate_Avg_Pct
+7d6a1917-9e5e-41d3-a726-2ad840a41dc9;1ed589e7-6255-48f1-b611-030e33ce1fc9;One_Year_Dropout_Rate_Year_1_Pct
+7d6a1917-9e5e-41d3-a726-2ad840a41dc9;1ed589e7-6255-48f1-b611-030e33ce1fc9;One_Year_Dropout_Rate_Year_2_Pct
+7d6a1917-9e5e-41d3-a726-2ad840a41dc9;1ed589e7-6255-48f1-b611-030e33ce1fc9;One_Year_Dropout_Rate_Avg_Pct
+7d6a1917-9e5e-41d3-a726-2ad840a41dc9;1ed589e7-6255-48f1-b611-030e33ce1fc9;Mobility_Rate_Pct
+9322449c-89be-4fe1-9987-b0861fb050ff;e27ce485-9bf8-4b85-a4bf-d023f5a42660;Infant Mortality Rate for All Races (per 1,000 live births)
+9322449c-89be-4fe1-9987-b0861fb050ff;e27ce485-9bf8-4b85-a4bf-d023f5a42660;Rate of Age-Adjusted New HIV Diagnoses (per 100,000 population)
+8094c71b-fa1d-4031-9809-9b80bec5d6da;9cf2ce31-9408-4400-8672-16c1e6c69911;UNEMPLOYED RATE
+8ea1feed-0716-4c73-9f84-3c65f921f4cc;34285ebe-8f08-45d0-9231-f07b27303b97;Age-Adjusted Rate per 100,000 Population
+8ea1feed-0716-4c73-9f84-3c65f921f4cc;34285ebe-8f08-45d0-9231-f07b27303b97;Lower 95% Confidence Interval
+8ea1feed-0716-4c73-9f84-3c65f921f4cc;34285ebe-8f08-45d0-9231-f07b27303b97;Upper 95% Confidence Interval
+a261c2b7-25af-46a8-8e86-41fbb0c454c1;a3472f19-2658-4887-a90e-4caa681a8f53;percent
+030ef0bd-6291-4ca9-b6bc-4055e16f10ff;88c47b36-117a-4515-8a1e-fda633b94a2a;Unemployment Rate
+ed52e333-7fd6-4563-acb1-600e6a60fc82;919ac23e-4f09-4fd2-8914-448245a25ccb;Proposed Percent of Matching Funds
+6a721497-a6e3-4595-a8b8-0a3ee0ab9306;ab9b4c71-3805-4936-8fcf-b50806407cb0;Prevalence (%)
+5c5672ee-35c6-4866-8195-7ff7ba9b7e32;d367e113-1249-4805-a49c-f80b4cdb208e;Annual Allowable Percent Increase
+d5716376-adc2-4c6c-baff-25885bb86af4;d0c3dc96-79ed-490a-951e-d8261f18dbd3;Curr_Year_Tax_Collection_Rate
+d5716376-adc2-4c6c-baff-25885bb86af4;d0c3dc96-79ed-490a-951e-d8261f18dbd3;Overal_Total_Tax_Collection_Rate
+7460e0a3-bf84-463b-b32d-cdee5afa3a1e;337f78cb-7af8-42f9-84d7-159ce28d2e2f;Occupancy Rate (%) 2010
+7460e0a3-bf84-463b-b32d-cdee5afa3a1e;337f78cb-7af8-42f9-84d7-159ce28d2e2f;Vacancy Rate (%) 2010
+7460e0a3-bf84-463b-b32d-cdee5afa3a1e;337f78cb-7af8-42f9-84d7-159ce28d2e2f;Water Area (%) 2010
+29eb609f-9dc7-4c8f-b6fd-6e945da7279c;f819773d-762b-4436-b419-e6a10cbd4655;% Percentage Filed via the Internet  (Field E)
+5bc03cb6-755d-483d-8d48-05a27a77ada1;1e232d26-3dde-4017-8a26-fe60ea163f98;UnempRate
+3cd9a601-8a1e-4703-a622-5dd7ae6f8ed4;6a61167c-78b1-48ad-bd3e-e0552feffbed;Accuracy
+762f8d71-760a-4c8d-ab1d-72160b378881;d4b47270-5ac6-4e32-bacb-bc747bb47acf;WINPERCENT
+f619f24d-f9b1-4663-93b6-2883c0da54fa;5a6f0785-261e-458b-a6a3-0a15d6f7a0ad;Percent Living Below Poverty Level
+a869f5c3-90af-486e-9c73-9c36d51f1e72;7e631657-de3b-420e-83af-55fcac115337;Lower95%CI
+a869f5c3-90af-486e-9c73-9c36d51f1e72;7e631657-de3b-420e-83af-55fcac115337;Upper95%CI
+edfa79f0-1272-42e4-b17b-6d53cc397a62;9a1a59e6-6077-4d90-bcfc-5a983946b559;Percentage of pediatric HD patients with Kt/V>=1.2
+408f8b8e-90fd-40cf-a89f-9d1f35b6fe42;71245b90-3113-4e28-806b-59532f62d019;Unemployment Rate
+28305cc1-0cee-435a-9beb-658b91167185;17eb28b7-ffcf-455a-a480-c23f9a8f2d64;% Percentage Filed via the Internet  (Field E)
+ba9c4714-8b64-480e-af83-f44848237b45;585ba915-9d8b-4d77-b82f-16aec0ee260f;Curr_Year_Tax_Collection_Rate
+ba9c4714-8b64-480e-af83-f44848237b45;585ba915-9d8b-4d77-b82f-16aec0ee260f;Overal_Total_Tax_Collection_Rate
+5e848e21-5997-414c-9907-5615bc2591a5;34884f43-409e-4fdc-9300-f471a1e43863;Truck_Percent
+c0a6837e-8b83-4dcc-9b9d-e41e932f63bb;4a02b292-5d43-44fd-b849-c43fe556dff5;Percent
+87c78b6d-dd67-4256-90ec-c319571ccdc3;d3ef382c-1bd6-4ac4-8eeb-07e354803093;Index Rate
+87c78b6d-dd67-4256-90ec-c319571ccdc3;d3ef382c-1bd6-4ac4-8eeb-07e354803093;Violent Rate
+87c78b6d-dd67-4256-90ec-c319571ccdc3;d3ef382c-1bd6-4ac4-8eeb-07e354803093;Property Rate
+87c78b6d-dd67-4256-90ec-c319571ccdc3;d3ef382c-1bd6-4ac4-8eeb-07e354803093;Firearm Rate
+3ddd296d-8c17-4272-a891-47d69e72a91f;72ca753e-0318-44de-940c-9ddfd8d7a592;Truck_Percent
+ab3f98ec-5fdd-43ba-9d0a-65fb95e11096;975091b7-63fa-4a5d-bf81-e02175377c82;U.S. Birth Rate
+3e33a33d-4b2e-47b3-b12a-84cff011a25d;bb643aab-f8e1-48e7-84f1-43fe55e40b1a;WINPERCENT
+99387f80-c150-4335-b5c3-d4e6723f8e2e;1b30c1b3-e668-4383-876a-4c1fabd4df42;Percent
+200d17a5-aa70-4de2-a63a-58cb68a783e9;da08d738-99d3-41ff-8c23-0b92be88070c;Percent Gravel
+200d17a5-aa70-4de2-a63a-58cb68a783e9;da08d738-99d3-41ff-8c23-0b92be88070c;Percent Sand
+200d17a5-aa70-4de2-a63a-58cb68a783e9;da08d738-99d3-41ff-8c23-0b92be88070c;Percent Silt
+200d17a5-aa70-4de2-a63a-58cb68a783e9;da08d738-99d3-41ff-8c23-0b92be88070c;Percent Clay
+200d17a5-aa70-4de2-a63a-58cb68a783e9;da08d738-99d3-41ff-8c23-0b92be88070c;Percent Mud
+090694c7-c1d3-49df-9839-6e036c4f8d58;826ee03d-37b8-441c-90c3-7bead1fe2fe4;Cooking Energy Efficiency (%)
+b0fd0538-c646-4a6c-8144-b84698786a99;03e30399-2026-46fc-badc-712c549197b2;Violation Rate Percent
+b0fd0538-c646-4a6c-8144-b84698786a99;03e30399-2026-46fc-badc-712c549197b2;Average Violation Rate Percent
+b0fd0538-c646-4a6c-8144-b84698786a99;03e30399-2026-46fc-badc-712c549197b2;Staff Turnover Rate
+b0fd0538-c646-4a6c-8144-b84698786a99;03e30399-2026-46fc-badc-712c549197b2;Average Staff Turn Over Rate
+b0fd0538-c646-4a6c-8144-b84698786a99;03e30399-2026-46fc-badc-712c549197b2;Public Health Hazard Violation Rate
+b0fd0538-c646-4a6c-8144-b84698786a99;03e30399-2026-46fc-badc-712c549197b2;Average Public Health Hazard Violation Rate
+b0fd0538-c646-4a6c-8144-b84698786a99;03e30399-2026-46fc-badc-712c549197b2;Critical Violation Rate
+b0fd0538-c646-4a6c-8144-b84698786a99;03e30399-2026-46fc-badc-712c549197b2;Average Critical Violation Rate
+8118cae0-9b48-45b3-98d5-e7da43dfbd4c;30f3008a-e847-4ebc-aaf8-9077dc51e08b;General Fertility Rate
+15e118f5-a3d6-43b3-81c3-b90064bf9dcd;16770fc5-8cd2-48a7-b706-8e527da59b06;Average Annual Incidence Rate 2007-2011
+15e118f5-a3d6-43b3-81c3-b90064bf9dcd;16770fc5-8cd2-48a7-b706-8e527da59b06;Average Annual Incidence Rate 2007-2011 Lower CI
+15e118f5-a3d6-43b3-81c3-b90064bf9dcd;16770fc5-8cd2-48a7-b706-8e527da59b06;Average Annual Incidence Rate 2007-2011 Upper CI
+530010e5-f560-4d7f-bccc-a0ab5e3f79e4;5c2ea095-f685-46e9-8b8e-8624b1ae9b3d;% Percentage Filed via the Internet  (Field E)
+77e52cc7-1228-418a-8591-09699ac7a8ba;b776f09c-d51f-4238-99f2-b59315380142;Incidence Rate 2008
+77e52cc7-1228-418a-8591-09699ac7a8ba;b776f09c-d51f-4238-99f2-b59315380142;Incidence Rate 2008 Lower CI
+77e52cc7-1228-418a-8591-09699ac7a8ba;b776f09c-d51f-4238-99f2-b59315380142;Incidence Rate 2008 Upper CI
+77e52cc7-1228-418a-8591-09699ac7a8ba;b776f09c-d51f-4238-99f2-b59315380142;Incidence Rate 2009
+77e52cc7-1228-418a-8591-09699ac7a8ba;b776f09c-d51f-4238-99f2-b59315380142;Incidence Rate 2009 Lower CI
+77e52cc7-1228-418a-8591-09699ac7a8ba;b776f09c-d51f-4238-99f2-b59315380142;Incidence Rate 2009 Upper CI
+77e52cc7-1228-418a-8591-09699ac7a8ba;b776f09c-d51f-4238-99f2-b59315380142;Incidence Rate 2010
+77e52cc7-1228-418a-8591-09699ac7a8ba;b776f09c-d51f-4238-99f2-b59315380142;Incidence Rate 2010 Lower CI
+77e52cc7-1228-418a-8591-09699ac7a8ba;b776f09c-d51f-4238-99f2-b59315380142;Incidence Rate 2010 Upper CI
+77e52cc7-1228-418a-8591-09699ac7a8ba;b776f09c-d51f-4238-99f2-b59315380142;Incidence Rate 2011
+77e52cc7-1228-418a-8591-09699ac7a8ba;b776f09c-d51f-4238-99f2-b59315380142;Incidence Rate 2011 Lower CI
+77e52cc7-1228-418a-8591-09699ac7a8ba;b776f09c-d51f-4238-99f2-b59315380142;Incidence Rate 2011 Upper CI
+77e52cc7-1228-418a-8591-09699ac7a8ba;b776f09c-d51f-4238-99f2-b59315380142;Incidence Rate 2012
+77e52cc7-1228-418a-8591-09699ac7a8ba;b776f09c-d51f-4238-99f2-b59315380142;Incidence Rate 2012 Lower CI
+77e52cc7-1228-418a-8591-09699ac7a8ba;b776f09c-d51f-4238-99f2-b59315380142;Incidence Rate 2012 Upper CI
+77e52cc7-1228-418a-8591-09699ac7a8ba;b776f09c-d51f-4238-99f2-b59315380142;Incidence Rate 2013
+77e52cc7-1228-418a-8591-09699ac7a8ba;b776f09c-d51f-4238-99f2-b59315380142;Incidence Rate 2013 Lower CI
+77e52cc7-1228-418a-8591-09699ac7a8ba;b776f09c-d51f-4238-99f2-b59315380142;Incidence Rate 2013 Upper CI
+77e52cc7-1228-418a-8591-09699ac7a8ba;b776f09c-d51f-4238-99f2-b59315380142;Incidence Rate 2014
+77e52cc7-1228-418a-8591-09699ac7a8ba;b776f09c-d51f-4238-99f2-b59315380142;Incidence Rate 2014 Lower CI
+77e52cc7-1228-418a-8591-09699ac7a8ba;b776f09c-d51f-4238-99f2-b59315380142;Incidence Rate 2014 Upper CI
+9f5b80ba-c12f-4bfc-928f-ce794e3857b7;f9a669cf-634f-4a95-9fb7-f302f3c7ff5a;Percent of total exterior and interior surfaces that are insulated
+d2a9484a-ad9b-45f8-abeb-6f18cd40fe6c;db282e39-a3f1-439d-b7aa-217a1d1c7f5a;Adult Where Returning Fish Go Hatchery Percent
+d2a9484a-ad9b-45f8-abeb-6f18cd40fe6c;db282e39-a3f1-439d-b7aa-217a1d1c7f5a;Adult Where Returning Fish Go Harvested Percent
+d2a9484a-ad9b-45f8-abeb-6f18cd40fe6c;db282e39-a3f1-439d-b7aa-217a1d1c7f5a;Adult Where Returning Fish Go Spawning Grounds Percent
+8a5e9d3a-5c11-4da7-b69f-d111d372b2a2;fc892a11-70c3-4452-bd88-e768f2b54690;3% Cap
+2615e86b-d5d0-41bd-9b66-3207abadcd33;61a34eb8-1761-4711-b31a-eed2d6b34fcd;% of Barriers
+95e1f370-e94d-474d-8a1f-30004a6b6ec7;933212df-b57c-4d85-83f1-7266d8353d21;% Increase (2014-16)
+5eaeef54-5a5f-4f6d-9388-2044161c8b5c;e142ccbb-0c7d-4745-916e-ff66ae4ba598;Fishing %
+5eaeef54-5a5f-4f6d-9388-2044161c8b5c;e142ccbb-0c7d-4745-916e-ff66ae4ba598;Sailing %
+5eaeef54-5a5f-4f6d-9388-2044161c8b5c;e142ccbb-0c7d-4745-916e-ff66ae4ba598;PWC %
+5eaeef54-5a5f-4f6d-9388-2044161c8b5c;e142ccbb-0c7d-4745-916e-ff66ae4ba598;Water Skiing %
+5eaeef54-5a5f-4f6d-9388-2044161c8b5c;e142ccbb-0c7d-4745-916e-ff66ae4ba598;Cruising %
+44d8caee-0a90-4cf3-b7a4-e950c88e64ca;9fd73add-031c-4e37-adc5-3ce5e64604f8;Percent of Sites
+7b6fca05-05c4-4200-ac03-36058b978bd2;c6279340-ea4b-4c7f-8086-14277bba35ba;Accuracy
+00e22210-b94b-4cf4-a30a-867dad6ff674;8e36e1ea-e014-4acd-9264-5601366f1a5b;Percentage of total exterior and interior surfaces that are insulated
+1c833cec-c057-4892-b7d5-ba91641e4a76;eb9d9a55-83e0-408d-a82f-a2b66077588f;Accuracy
+90d944eb-0c15-491d-916b-da672be53ef2;20414e25-b3a7-4a0a-a862-b7e53b10ce11;100 % Opp GOAL
+b2116020-07b3-4685-badb-134acab25ee3;d63c31d3-103f-4670-a307-5814fdc283b5;Grant Rate (%)
+3ea86c03-825c-49f3-acb7-5f9c6c5640c9;8059526d-c26b-438b-9e06-1a19546f2709;Total Population Percent Change 2000 to 2010
+3ea86c03-825c-49f3-acb7-5f9c6c5640c9;8059526d-c26b-438b-9e06-1a19546f2709;Population Density Percent Change 2000 to 2010
+3ea86c03-825c-49f3-acb7-5f9c6c5640c9;8059526d-c26b-438b-9e06-1a19546f2709;Total Housing Units Percent Change 2000 to 2010
+3ea86c03-825c-49f3-acb7-5f9c6c5640c9;8059526d-c26b-438b-9e06-1a19546f2709;Occupancy Rate (%) 2000
+3ea86c03-825c-49f3-acb7-5f9c6c5640c9;8059526d-c26b-438b-9e06-1a19546f2709;Occupancy Rate (%) 2010
+3ea86c03-825c-49f3-acb7-5f9c6c5640c9;8059526d-c26b-438b-9e06-1a19546f2709;Occupancy Rate Numeric Change 2000 to 2010
+3ea86c03-825c-49f3-acb7-5f9c6c5640c9;8059526d-c26b-438b-9e06-1a19546f2709;Vacancy Rate (%) 2000
+3ea86c03-825c-49f3-acb7-5f9c6c5640c9;8059526d-c26b-438b-9e06-1a19546f2709;Vacancy Rate (%) 2010
+3ea86c03-825c-49f3-acb7-5f9c6c5640c9;8059526d-c26b-438b-9e06-1a19546f2709;Water Area (%) 2000
+3ea86c03-825c-49f3-acb7-5f9c6c5640c9;8059526d-c26b-438b-9e06-1a19546f2709;Water Area (%) 2010
+7cb9100a-f8d1-4fe9-8ba3-7cc051885de7;4ea7b5c4-da2d-435a-9e74-9cbd99c8fbfe;WINPERCENT
+02776059-aa22-446c-9d1f-f971c792a4a9;0d0157b1-cb07-4958-9b9f-d8308ac89776;Percent exceeds standard
+42d24474-d214-48d0-abb8-f660a0df4dc2;4c5ed6ac-9752-438b-a3b0-60e2ddcb6b47;Percent
+c05bb1ee-3735-4293-9f61-11ddfabee1e9;40f6f8ad-d179-4cb6-a8bb-139403c579ba;Downtime (%)
+c05bb1ee-3735-4293-9f61-11ddfabee1e9;40f6f8ad-d179-4cb6-a8bb-139403c579ba;Uptime (%)
+8606f887-847c-47e0-8c09-194664705d62;62990119-e48f-479d-a1c5-a95a7547f97a;Percentage Original
+243349ca-681f-4008-bab0-ef3c17ab632b;e7182848-73bb-4032-9991-20df514695fa;WINPERCENT
+1b2fd2e3-cdea-449e-b938-aa1357cfb848;2d196ac0-776b-4160-aa74-6088e8a08892;Percent of Adults with Diabetes
+1b2fd2e3-cdea-449e-b938-aa1357cfb848;2d196ac0-776b-4160-aa74-6088e8a08892;Standard Error for Percent
+1b2fd2e3-cdea-449e-b938-aa1357cfb848;2d196ac0-776b-4160-aa74-6088e8a08892;Coefficient of Variation (%)
+826f03ad-2c15-43fd-8f70-dc41e27e5f90;13cc293e-50d5-4ef0-ad5b-ee673fd8b08a;Total % of Students Chronically Absent in District
+5b111de8-efd5-4fab-b227-ce75ab72c865;f4a764cb-4039-4832-8bcd-188db266382f;Lower box percent of patients nephrologists’ communication and caring
+5b111de8-efd5-4fab-b227-ce75ab72c865;f4a764cb-4039-4832-8bcd-188db266382f;Middle box percent of patients nephrologists’ communication and caring
+5b111de8-efd5-4fab-b227-ce75ab72c865;f4a764cb-4039-4832-8bcd-188db266382f;Top box percent of patients nephrologists’ communication and caring
+5b111de8-efd5-4fab-b227-ce75ab72c865;f4a764cb-4039-4832-8bcd-188db266382f;Lower box percent of patients-quality of dialysis center care and operations
+5b111de8-efd5-4fab-b227-ce75ab72c865;f4a764cb-4039-4832-8bcd-188db266382f;Middle box percent of patients-quality of dialysis center care and operations
+5b111de8-efd5-4fab-b227-ce75ab72c865;f4a764cb-4039-4832-8bcd-188db266382f;Top box percent of patients-quality of dialysis center care and operations
+5b111de8-efd5-4fab-b227-ce75ab72c865;f4a764cb-4039-4832-8bcd-188db266382f;Lower box percent of patients-providing information to patients
+5b111de8-efd5-4fab-b227-ce75ab72c865;f4a764cb-4039-4832-8bcd-188db266382f;Top box percent of patients providing information to patients
+5b111de8-efd5-4fab-b227-ce75ab72c865;f4a764cb-4039-4832-8bcd-188db266382f;Lower box percent of patients-rating of the nephrologist
+5b111de8-efd5-4fab-b227-ce75ab72c865;f4a764cb-4039-4832-8bcd-188db266382f;Middle box percent of patients- rating of the nephrologist
+5b111de8-efd5-4fab-b227-ce75ab72c865;f4a764cb-4039-4832-8bcd-188db266382f;Top box percent of patients- rating of the nephrologist
+5b111de8-efd5-4fab-b227-ce75ab72c865;f4a764cb-4039-4832-8bcd-188db266382f;Lower box percent of patients-rating of the dialysis center staff
+5b111de8-efd5-4fab-b227-ce75ab72c865;f4a764cb-4039-4832-8bcd-188db266382f;Middle box percent of patients-rating of the dialysis center staff
+5b111de8-efd5-4fab-b227-ce75ab72c865;f4a764cb-4039-4832-8bcd-188db266382f;Top box percent of patients-rating of the dialysis center staff
+5b111de8-efd5-4fab-b227-ce75ab72c865;f4a764cb-4039-4832-8bcd-188db266382f;Lower box percent of patients-rating of the dialysis facility
+5b111de8-efd5-4fab-b227-ce75ab72c865;f4a764cb-4039-4832-8bcd-188db266382f;Middle box percent of patients-rating of the dialysis facility
+5b111de8-efd5-4fab-b227-ce75ab72c865;f4a764cb-4039-4832-8bcd-188db266382f;Top box percent of patients-rating of the dialysis facility
+ea023eaa-4cb9-48de-81ae-f68dd0c88372;fc31a910-0b41-4caa-84e1-cda94f855138;OCCUPIED UNITS PERCENTAGE
+ea023eaa-4cb9-48de-81ae-f68dd0c88372;fc31a910-0b41-4caa-84e1-cda94f855138;RENTER-OCCUPIED HOUSING PERCENTAGE
+0c1b8d27-a967-4b77-bca2-754dc5be431f;c30daa32-68f3-4136-bd06-37503731c090;Percentage
+0c1b8d27-a967-4b77-bca2-754dc5be431f;c30daa32-68f3-4136-bd06-37503731c090;Percent
+0c1b8d27-a967-4b77-bca2-754dc5be431f;c30daa32-68f3-4136-bd06-37503731c090;%
+54067da7-9d54-403d-b6e5-598dac3f114b;525277b3-313d-4419-9aa9-2466d6c88389;Gas Oven Convection Mode Cooking Energy Efficiency (%)
+54067da7-9d54-403d-b6e5-598dac3f114b;525277b3-313d-4419-9aa9-2466d6c88389;Electric Oven Convection Mode Cooking Energy Efficiency (%)
+54067da7-9d54-403d-b6e5-598dac3f114b;525277b3-313d-4419-9aa9-2466d6c88389;Gas Oven Steam Mode Cooking Energy Efficiency (%)
+54067da7-9d54-403d-b6e5-598dac3f114b;525277b3-313d-4419-9aa9-2466d6c88389;Electric Oven Steam Mode Cooking Energy Efficiency (%)
+54067da7-9d54-403d-b6e5-598dac3f114b;525277b3-313d-4419-9aa9-2466d6c88389;Rack Oven Baking-Energy Efficiency (%)
+042e0c6f-474d-42c3-b6fa-4cfda24c3c62;330192e9-185a-4601-aa95-7774087285af;PercentageOnTimeYear
+9bbdc4d4-c3ee-49a6-89c2-da397a9ba42f;01b649c9-d84e-47d0-9650-83399e86cb1b;Crude Rate 2004
+9bbdc4d4-c3ee-49a6-89c2-da397a9ba42f;01b649c9-d84e-47d0-9650-83399e86cb1b;Crude Rate 2004 Lower CI
+9bbdc4d4-c3ee-49a6-89c2-da397a9ba42f;01b649c9-d84e-47d0-9650-83399e86cb1b;Crude Rate 2004 Upper CI
+9bbdc4d4-c3ee-49a6-89c2-da397a9ba42f;01b649c9-d84e-47d0-9650-83399e86cb1b;Adjusted Rate 2004 (Ages 5-64 only)
+9bbdc4d4-c3ee-49a6-89c2-da397a9ba42f;01b649c9-d84e-47d0-9650-83399e86cb1b;Adjusted Rate 2004 Lower CI
+9bbdc4d4-c3ee-49a6-89c2-da397a9ba42f;01b649c9-d84e-47d0-9650-83399e86cb1b;Adjusted Rate 2004 Upper CI
+9bbdc4d4-c3ee-49a6-89c2-da397a9ba42f;01b649c9-d84e-47d0-9650-83399e86cb1b;Crude Rate 2005
+9bbdc4d4-c3ee-49a6-89c2-da397a9ba42f;01b649c9-d84e-47d0-9650-83399e86cb1b;Crude Rate 2005 Lower CI
+9bbdc4d4-c3ee-49a6-89c2-da397a9ba42f;01b649c9-d84e-47d0-9650-83399e86cb1b;Crude Rate 2005 Upper CI
+9bbdc4d4-c3ee-49a6-89c2-da397a9ba42f;01b649c9-d84e-47d0-9650-83399e86cb1b;Adjusted Rate 2005 (Ages 5-64 only)
+9bbdc4d4-c3ee-49a6-89c2-da397a9ba42f;01b649c9-d84e-47d0-9650-83399e86cb1b;Adjusted Rate 2005 Lower CI
+9bbdc4d4-c3ee-49a6-89c2-da397a9ba42f;01b649c9-d84e-47d0-9650-83399e86cb1b;Adjusted Rate 2005 Upper CI
+9bbdc4d4-c3ee-49a6-89c2-da397a9ba42f;01b649c9-d84e-47d0-9650-83399e86cb1b;Crude Rate 2006
+9bbdc4d4-c3ee-49a6-89c2-da397a9ba42f;01b649c9-d84e-47d0-9650-83399e86cb1b;Crude Rate 2006 Lower CI
+9bbdc4d4-c3ee-49a6-89c2-da397a9ba42f;01b649c9-d84e-47d0-9650-83399e86cb1b;Crude Rate 2006 Upper CI
+9bbdc4d4-c3ee-49a6-89c2-da397a9ba42f;01b649c9-d84e-47d0-9650-83399e86cb1b;Adjusted Rate 2006 (Ages 5-64 only)
+9bbdc4d4-c3ee-49a6-89c2-da397a9ba42f;01b649c9-d84e-47d0-9650-83399e86cb1b;Adjusted Rate 2006 Lower CI
+9bbdc4d4-c3ee-49a6-89c2-da397a9ba42f;01b649c9-d84e-47d0-9650-83399e86cb1b;Adjusted Rate 2006 Upper CI
+9bbdc4d4-c3ee-49a6-89c2-da397a9ba42f;01b649c9-d84e-47d0-9650-83399e86cb1b;Crude Rate 2007
+9bbdc4d4-c3ee-49a6-89c2-da397a9ba42f;01b649c9-d84e-47d0-9650-83399e86cb1b;Crude Rate 2007 Lower CI
+9bbdc4d4-c3ee-49a6-89c2-da397a9ba42f;01b649c9-d84e-47d0-9650-83399e86cb1b;Crude Rate 2007 Upper CI
+9bbdc4d4-c3ee-49a6-89c2-da397a9ba42f;01b649c9-d84e-47d0-9650-83399e86cb1b;Adjusted Rate 2007 (Ages 5-64 only)
+9bbdc4d4-c3ee-49a6-89c2-da397a9ba42f;01b649c9-d84e-47d0-9650-83399e86cb1b;Adjusted Rate 2007 Lower CI
+9bbdc4d4-c3ee-49a6-89c2-da397a9ba42f;01b649c9-d84e-47d0-9650-83399e86cb1b;Adjusted Rate 2007 Upper CI
+a54f6749-f509-452d-974d-3d55e4598939;1a4e531d-3e52-4f03-97fe-7881ed3dd77a;% Proficient
+79355e62-324e-44f2-9909-b8630c17e88e;68eb2f0c-20be-483d-bc1b-1089450ace18;TARGET: % of DWP Water Sourced From Local Groundwater (Annually)
+79355e62-324e-44f2-9909-b8630c17e88e;68eb2f0c-20be-483d-bc1b-1089450ace18;TARGET: % of DWP power sourced from Coal (Annually)
+0d0c0993-579d-4074-822c-006b28518b1a;8f215b82-4e7e-429d-af5d-aae8d3727c07;Total % of Students Chronically Absent in District
+c837ad83-2788-4f33-9271-8b827ce5b44f;4e20b78e-cf92-48f4-86db-c8a6e3a33437;WINPERCENT
+21edd28f-d114-46ea-8a17-15c13a7457eb;4a20cd65-0256-4101-ac88-b54b95ff4dd6;Accuracy
+d0ee2696-8cca-4141-b4fb-2a989c32eb6e;23dce713-de80-4fff-a802-94db52e40e21;Alzheimer's Disease/Dementia Prevalence (%)
+d0ee2696-8cca-4141-b4fb-2a989c32eb6e;23dce713-de80-4fff-a802-94db52e40e21;Arthritis Prevalence (%)
+d0ee2696-8cca-4141-b4fb-2a989c32eb6e;23dce713-de80-4fff-a802-94db52e40e21;Asthma Prevalence (%)
+d0ee2696-8cca-4141-b4fb-2a989c32eb6e;23dce713-de80-4fff-a802-94db52e40e21;Atrial Fibrillation Prevalence (%)
+d0ee2696-8cca-4141-b4fb-2a989c32eb6e;23dce713-de80-4fff-a802-94db52e40e21;Autism Spectrum Disorders Prevalence (%)
+d0ee2696-8cca-4141-b4fb-2a989c32eb6e;23dce713-de80-4fff-a802-94db52e40e21;COPD Prevalence (%)
+d0ee2696-8cca-4141-b4fb-2a989c32eb6e;23dce713-de80-4fff-a802-94db52e40e21;Cancer Prevalence (%)
+d0ee2696-8cca-4141-b4fb-2a989c32eb6e;23dce713-de80-4fff-a802-94db52e40e21;Chronic Kidney Disease Prevalence (%)
+d0ee2696-8cca-4141-b4fb-2a989c32eb6e;23dce713-de80-4fff-a802-94db52e40e21;Depression  Prevalence (%)
+d0ee2696-8cca-4141-b4fb-2a989c32eb6e;23dce713-de80-4fff-a802-94db52e40e21;Diabetes Prevalence (%)
+d0ee2696-8cca-4141-b4fb-2a989c32eb6e;23dce713-de80-4fff-a802-94db52e40e21;HIV/AIDS Prevalence (%)
+d0ee2696-8cca-4141-b4fb-2a989c32eb6e;23dce713-de80-4fff-a802-94db52e40e21;Heart Failure Prevalence (%)
+d0ee2696-8cca-4141-b4fb-2a989c32eb6e;23dce713-de80-4fff-a802-94db52e40e21;Hepatitis (Chronic Viral B & C) Prevalence (%)
+d0ee2696-8cca-4141-b4fb-2a989c32eb6e;23dce713-de80-4fff-a802-94db52e40e21;Hyperlipidemia Prevalence (%)
+d0ee2696-8cca-4141-b4fb-2a989c32eb6e;23dce713-de80-4fff-a802-94db52e40e21;Hypertension Prevalence (%)
+d0ee2696-8cca-4141-b4fb-2a989c32eb6e;23dce713-de80-4fff-a802-94db52e40e21;Ischemic Heart Disease Prevalence (%)
+d0ee2696-8cca-4141-b4fb-2a989c32eb6e;23dce713-de80-4fff-a802-94db52e40e21;Osteoporosis Prevalence (%)
+d0ee2696-8cca-4141-b4fb-2a989c32eb6e;23dce713-de80-4fff-a802-94db52e40e21;Schizophrenia/Other Psychotic Disorders Prevalence (%)
+d0ee2696-8cca-4141-b4fb-2a989c32eb6e;23dce713-de80-4fff-a802-94db52e40e21;Stroke Prevalence (%)
+78665ff0-b447-426d-8d26-9a70cce0db69;1fe30f4a-8d25-46df-acd9-6e7bb5e9ebcf;Low_Confidence_Limit
+78665ff0-b447-426d-8d26-9a70cce0db69;1fe30f4a-8d25-46df-acd9-6e7bb5e9ebcf;High_Confidence_Limit
+974be584-3e53-4de2-94c9-33ac087ed9f5;4748388e-b545-42a3-b031-0e05dd64efaa;Low_Confidence_Limit
+974be584-3e53-4de2-94c9-33ac087ed9f5;4748388e-b545-42a3-b031-0e05dd64efaa;High_Confidence_Limit
+9f3e0bce-9a17-4ac0-a671-4bdda2f040e5;19834f8b-d1a9-40ea-89a6-2fe27a1356ee;Low_Confidence_Limit
+9f3e0bce-9a17-4ac0-a671-4bdda2f040e5;19834f8b-d1a9-40ea-89a6-2fe27a1356ee;High_Confidence_Limit
+b86ac1f0-5925-437d-a2e5-36507ea9c269;2246788d-fc39-45ca-bd88-28b44cc68f72;Confidence_limit_Low
+b86ac1f0-5925-437d-a2e5-36507ea9c269;2246788d-fc39-45ca-bd88-28b44cc68f72;Confidence_limit_High
+5181edd4-6eb2-4821-9351-9897fa9c9fdb;21334df5-1652-4d1a-8635-772be6516f2a;Low_Confidence_Limit
+5181edd4-6eb2-4821-9351-9897fa9c9fdb;21334df5-1652-4d1a-8635-772be6516f2a;High_Confidence_Limit
+77289529-f675-47e7-bd58-772518922acc;57da1760-4470-46c0-b23d-ea275dbe2f83;Low_Confidence_Limit
+77289529-f675-47e7-bd58-772518922acc;57da1760-4470-46c0-b23d-ea275dbe2f83;High_Confidence_Limit
+05d96cfe-092f-4886-a837-728305c9c0b9;9596e659-056b-4f48-87eb-19cb3975bd1d;Low_Confidence_Limit
+fc4a9e98-4457-4d2b-ae49-d0d4308c881a;70272b91-3b53-4cd3-813c-cdd88b695c38;percent
+8cefbe34-48fc-42d4-898f-9d17bb935c67;f0d09b8e-eb61-4d92-9920-023b429f32d3;Percentage
+32bb94a7-8c31-46e8-aa93-6cab6b0f7736;116b8e42-4de1-4e4a-8263-dc18091dc22d;% OF PROPERTY BEING UTILIZED
+32bb94a7-8c31-46e8-aa93-6cab6b0f7736;116b8e42-4de1-4e4a-8263-dc18091dc22d;% OF ACRES BEING LEASED
+32bb94a7-8c31-46e8-aa93-6cab6b0f7736;089f830b-939b-48c8-a1ef-cb161fa427f4;% OF PROPERTY BEING UTILIZED
+32bb94a7-8c31-46e8-aa93-6cab6b0f7736;089f830b-939b-48c8-a1ef-cb161fa427f4;% OCCUPIED BY THE STATE
+32bb94a7-8c31-46e8-aa93-6cab6b0f7736;089f830b-939b-48c8-a1ef-cb161fa427f4;% OF THE BUILDING BEING LEASED OR SUBLEASED
+32bb94a7-8c31-46e8-aa93-6cab6b0f7736;089f830b-939b-48c8-a1ef-cb161fa427f4;% OF ACRES OF THE LAND BEING LEASED OR SUBLEASED
+32bb94a7-8c31-46e8-aa93-6cab6b0f7736;70787c17-d581-4ba5-991a-9da0fc7b2b2b;% OF PROPERTY BEING UTILIZED
+32bb94a7-8c31-46e8-aa93-6cab6b0f7736;9b0a12c3-db39-4174-b91f-87b1dc38c66b;% OCCUPIED BY THE STATE
+32bb94a7-8c31-46e8-aa93-6cab6b0f7736;9b0a12c3-db39-4174-b91f-87b1dc38c66b;% OF THE BUILDING BEING LEASED OR SUBLEASED
+32bb94a7-8c31-46e8-aa93-6cab6b0f7736;9b0a12c3-db39-4174-b91f-87b1dc38c66b;% OF ACRES OF THE LAND BEING LEASED OR SUBLEASED
+32bb94a7-8c31-46e8-aa93-6cab6b0f7736;1ac4fc6e-4c2d-48af-8b71-252b71e60489;% OF PROPERTY BEING UTILIZED
+32bb94a7-8c31-46e8-aa93-6cab6b0f7736;1ac4fc6e-4c2d-48af-8b71-252b71e60489;% OCCUPIED BY THE STATE
+32bb94a7-8c31-46e8-aa93-6cab6b0f7736;1ac4fc6e-4c2d-48af-8b71-252b71e60489;% OF THE BUILDING BEING LEASED OR SUBLEASED
+32bb94a7-8c31-46e8-aa93-6cab6b0f7736;1ac4fc6e-4c2d-48af-8b71-252b71e60489;% OF ACRES OF THE LAND BEING LEASED OR SUBLEASED
+32bb94a7-8c31-46e8-aa93-6cab6b0f7736;dc560bc2-c32f-4fb5-a59a-7bb09df9271a;% OF PROPERTY BEING UTILIZED
+32bb94a7-8c31-46e8-aa93-6cab6b0f7736;dc560bc2-c32f-4fb5-a59a-7bb09df9271a;% OCCUPIED BY THE STATE
+32bb94a7-8c31-46e8-aa93-6cab6b0f7736;dc560bc2-c32f-4fb5-a59a-7bb09df9271a;% OF THE BUILDING BEING LEASED OR SUBLEASED
+32bb94a7-8c31-46e8-aa93-6cab6b0f7736;dc560bc2-c32f-4fb5-a59a-7bb09df9271a;% OF ACRES OF THE LAND BEING LEASED OR SUBLEASED
+cdca4cec-bdd7-4c14-a680-73fe66cffe07;c214b59e-2fdc-4031-be48-0417006095ca;Percentile on National Distribution
+b3395cf1-479f-43d1-a858-cbedc83f36fe;68cb458b-1f95-4bc9-9780-f10e3c3fd0eb;Percent Gravel
+b3395cf1-479f-43d1-a858-cbedc83f36fe;68cb458b-1f95-4bc9-9780-f10e3c3fd0eb;Percent Sand
+b3395cf1-479f-43d1-a858-cbedc83f36fe;68cb458b-1f95-4bc9-9780-f10e3c3fd0eb;Percent Silt
+b3395cf1-479f-43d1-a858-cbedc83f36fe;68cb458b-1f95-4bc9-9780-f10e3c3fd0eb;Percent Clay
+b3395cf1-479f-43d1-a858-cbedc83f36fe;68cb458b-1f95-4bc9-9780-f10e3c3fd0eb;Percent Mud
+04744077-5f7e-452b-a3cb-e674751cf35f;d3f7dc8b-bad5-42e0-be54-57b7f28955df;Percent Duct Leakage
+63f7f228-9d9c-4285-a107-8f3f8e1fba73;f97650bc-3f6c-4cf3-a882-746db9b00fc7;WINPERCENT
+fcc83f15-4738-468a-b312-fe60b65cf185;ddf643d7-8151-4ead-ae81-42657c7b46fe;Accuracy
+cdcf4539-9d04-4676-830d-07fce85fe12f;234715dd-82d4-44d6-b2c4-5d09a974747c;90% CI lower bound
+cdcf4539-9d04-4676-830d-07fce85fe12f;234715dd-82d4-44d6-b2c4-5d09a974747c;90% CI upper bound
+78d17a81-6d3d-4b52-8f5a-0a3dd5560142;590b5bcf-3bf3-4229-bf93-d08a9cf084ec;Employee Rate Per 1,000 Pop.
+7e88c17a-28b3-4ba2-9705-3e8fb63f8622;d31dbff2-59d0-4222-92cd-2d6568237be1;WINPERCENT
+f7eff8c2-accc-4b05-bcc5-79c2cc603666;48dc41a6-c45c-471f-8c0c-240af29d6189;Prevalence (%)
+101ec53e-5e9e-4090-aa7b-9043f94545f1;be818d46-cd9a-4756-8136-decfa4a69448;PERCENT OF HOUSING CROWDED
+101ec53e-5e9e-4090-aa7b-9043f94545f1;be818d46-cd9a-4756-8136-decfa4a69448;PERCENT HOUSEHOLDS BELOW POVERTY
+101ec53e-5e9e-4090-aa7b-9043f94545f1;be818d46-cd9a-4756-8136-decfa4a69448;PERCENT AGED 16+ UNEMPLOYED
+101ec53e-5e9e-4090-aa7b-9043f94545f1;be818d46-cd9a-4756-8136-decfa4a69448;PERCENT AGED 25+ WITHOUT HIGH SCHOOL DIPLOMA
+101ec53e-5e9e-4090-aa7b-9043f94545f1;be818d46-cd9a-4756-8136-decfa4a69448;PERCENT AGED UNDER 18 OR OVER 64
+8839bd22-e584-4cda-a827-011e362fbfaa;0ab8b94d-1892-4bb9-b801-21965de4f79f;Accuracy
+8ef81ef7-7fa9-402e-ad2c-e43a323e4c7d;e916e3fb-ee3c-47c3-aea0-c491312b4c5d;Accuracy
+24b0c636-06b1-4d87-870a-ee2af2b37a3d;55db4c59-a6d5-489a-8e44-fac44cbde39c;Percentage
+0eae75bb-15d9-41ff-acf2-5cbbde8cc6b7;834a97b5-16d4-4fb1-b452-af72578c760c;RATERANK
+0eae75bb-15d9-41ff-acf2-5cbbde8cc6b7;834a97b5-16d4-4fb1-b452-af72578c760c;RATENORM
+fc116976-0871-494b-8fca-bb13357827a1;1665f8ce-6bb4-4193-9682-3efc066c60a0;1990 Lower 95% CI
+fc116976-0871-494b-8fca-bb13357827a1;1665f8ce-6bb4-4193-9682-3efc066c60a0;1990 Upper 95% CI
+fc116976-0871-494b-8fca-bb13357827a1;1665f8ce-6bb4-4193-9682-3efc066c60a0;2000 Lower 95% CI
+fc116976-0871-494b-8fca-bb13357827a1;1665f8ce-6bb4-4193-9682-3efc066c60a0;2000 Upper 95% CI
+fc116976-0871-494b-8fca-bb13357827a1;1665f8ce-6bb4-4193-9682-3efc066c60a0;2010 Lower 95% CI
+fc116976-0871-494b-8fca-bb13357827a1;1665f8ce-6bb4-4193-9682-3efc066c60a0;2010 Upper 95% CI
+66e39444-86e1-4f23-b9ce-632b113bc207;a0ecac26-83d1-4200-aba0-613ee210919e;Municipality Stated Uniform Percentage
+76ec8ee0-5f6f-4909-9e0b-3a53e7c9ad79;1caf5642-46bf-4891-96ce-9ea476e96698;Cumulative Percent
+f8e37bef-5398-47cb-bfae-ecf7442285ce;03c4f2d0-26bc-4145-a550-7e3e9db68d06;% of Funds Spent
+f8e37bef-5398-47cb-bfae-ecf7442285ce;03c4f2d0-26bc-4145-a550-7e3e9db68d06;% of Funds to be Spent by Interim Spending Deadine
+256f0e90-af30-4b33-b615-0a39dba5196c;54f546bd-0224-4435-8211-21d2c8c5a3c4;% of Years
+c055bac5-13cf-4038-9409-124289f8254b;b91a3e82-93c0-451d-b2ae-c353430e804a;Confidence_limit_Low
+c055bac5-13cf-4038-9409-124289f8254b;b91a3e82-93c0-451d-b2ae-c353430e804a;Confidence_limit_High
+1ef4180a-d6bb-4a10-acad-4ac731e9252e;d2851494-0d6b-4bbb-b7a5-62b7c091c750;Low_Confidence_Limit
+1ef4180a-d6bb-4a10-acad-4ac731e9252e;d2851494-0d6b-4bbb-b7a5-62b7c091c750;High_Confidence_Limit
+6ef332f5-4cfb-448e-a132-f79744340b81;8a49a1f7-4fcc-49a6-acb5-fcd3c0796782;Low_Confidence_Limit
+6ef332f5-4cfb-448e-a132-f79744340b81;8a49a1f7-4fcc-49a6-acb5-fcd3c0796782;High_Confidence_Limit
+52c0384c-e561-4614-8ec9-14e2fc134b76;33659e5e-829c-4dac-937e-5511e6f5bfbe;Low_Confidence_Limit
+52c0384c-e561-4614-8ec9-14e2fc134b76;33659e5e-829c-4dac-937e-5511e6f5bfbe;High_Confidence_Limit
+00b75595-cf20-470f-ac85-3ab9f002da07;c2a12b7c-14ed-4fec-9f32-6b12f428142b;Low_Confidence_Limit
+00b75595-cf20-470f-ac85-3ab9f002da07;c2a12b7c-14ed-4fec-9f32-6b12f428142b;High_Confidence_Limit
+83e654fa-9899-47e9-9aea-ab57f76bae05;e123e637-7dee-4ba8-96a8-0c1b052fbe40;Low_Confidence_Limit
+83e654fa-9899-47e9-9aea-ab57f76bae05;e123e637-7dee-4ba8-96a8-0c1b052fbe40;High_Confidence_Limit
+d73a74a6-d13e-4ae7-a71e-969f818f7ea9;1bf9f5da-bab2-49ae-8118-af9896b4ed97;Confidence_limit_Low
+d73a74a6-d13e-4ae7-a71e-969f818f7ea9;1bf9f5da-bab2-49ae-8118-af9896b4ed97;Confidence_limit_High
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in -2.50 phi
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in -2.25 phi
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in -2.00 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in -1.75 phi
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in -1.50 phi
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in -1.25 phi
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in -1.00 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in -0.75 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in -0.50 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in -0.25 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 0.00 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 0.25 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 0.50 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 0.75 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 1.00 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 1.25 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 1.50 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 1.75 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 2.00 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 2.25 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 2.50 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 2.75 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 3.00 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 3.25 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 3.50 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 3.75 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 4.00 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 4.25 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 4.50 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 4.75 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 5.00 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 5.25 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 5.50 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 5.75 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 6.00 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 6.25 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 6.50 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 6.75 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 7.00 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 7.25 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 7.50 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 7.75 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 8.00 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 8.25 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 8.50 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 8.75 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 9.00 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 9.25 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 9.50 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 9.75 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 9.99 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 10.25 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 10.50 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 10.75 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 10.99 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 11.25 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 11.48 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Wt. percent in 12.02 phi bin
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Percent Gravel
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Percent Sand
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Percent Silt
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;Percent Clay
+2b4a7fc8-6b47-4c20-ac2c-edd87bc6585d;56bfe3bb-2067-47e5-9d11-fd42d3eeb7f9;% OF PROPERTY BEING UTILIZED
+2b4a7fc8-6b47-4c20-ac2c-edd87bc6585d;56bfe3bb-2067-47e5-9d11-fd42d3eeb7f9;% OCCUPIED BY THE STATE
+2b4a7fc8-6b47-4c20-ac2c-edd87bc6585d;56bfe3bb-2067-47e5-9d11-fd42d3eeb7f9;% OF THE BUILDING BEING LEASED OR SUBLEASED
+2b4a7fc8-6b47-4c20-ac2c-edd87bc6585d;56bfe3bb-2067-47e5-9d11-fd42d3eeb7f9;% OF ACRES OF THE LAND BEING LEASED OR SUBLEASED
+2b4a7fc8-6b47-4c20-ac2c-edd87bc6585d;c23fc6cb-2740-4a20-b263-333021e292bf;% OF PROPERTY BEING UTILIZED
+2b4a7fc8-6b47-4c20-ac2c-edd87bc6585d;c23fc6cb-2740-4a20-b263-333021e292bf;% OF ACRES BEING LEASED
+2b4a7fc8-6b47-4c20-ac2c-edd87bc6585d;691fa529-a444-4763-a49d-d037e4476e98;% OF PROPERTY BEING UTILIZED
+2b4a7fc8-6b47-4c20-ac2c-edd87bc6585d;691fa529-a444-4763-a49d-d037e4476e98;% OCCUPIED BY THE STATE
+2b4a7fc8-6b47-4c20-ac2c-edd87bc6585d;691fa529-a444-4763-a49d-d037e4476e98;% OF THE BUILDING BEING LEASED OR SUBLEASED
+2b4a7fc8-6b47-4c20-ac2c-edd87bc6585d;691fa529-a444-4763-a49d-d037e4476e98;% OF ACRES OF THE LAND BEING LEASED OR SUBLEASED
+2b4a7fc8-6b47-4c20-ac2c-edd87bc6585d;2c451bf8-9f5b-4ae6-b8c6-a633e9422125;% OF PROPERTY BEING UTILIZED
+2b4a7fc8-6b47-4c20-ac2c-edd87bc6585d;1a648d92-66ce-4ccc-ab4b-e809bf4f916b;% OCCUPIED BY THE STATE
+2b4a7fc8-6b47-4c20-ac2c-edd87bc6585d;1a648d92-66ce-4ccc-ab4b-e809bf4f916b;% OF THE BUILDING BEING LEASED OR SUBLEASED
+2b4a7fc8-6b47-4c20-ac2c-edd87bc6585d;1a648d92-66ce-4ccc-ab4b-e809bf4f916b;% OF ACRES OF THE LAND BEING LEASED OR SUBLEASED
+2b4a7fc8-6b47-4c20-ac2c-edd87bc6585d;47509477-4225-448f-91ef-dc69cbf76f0c;% OF PROPERTY BEING UTILIZED
+2b4a7fc8-6b47-4c20-ac2c-edd87bc6585d;47509477-4225-448f-91ef-dc69cbf76f0c;% OCCUPIED BY THE STATE
+2b4a7fc8-6b47-4c20-ac2c-edd87bc6585d;47509477-4225-448f-91ef-dc69cbf76f0c;% OF THE BUILDING BEING LEASED OR SUBLEASED
+2b4a7fc8-6b47-4c20-ac2c-edd87bc6585d;47509477-4225-448f-91ef-dc69cbf76f0c;% OF ACRES OF THE LAND BEING LEASED OR SUBLEASED
+b444c0f0-c8b5-4df7-aa74-4291b923e728;58a1b811-a220-47b4-9254-7ccbac844f70;% Success
+83b445b7-4757-4ed5-bcbd-b16bfdf9a594;695431aa-8fa4-49c3-bcff-8423435d6612;Percent
+0e06de7f-de0a-4dda-a568-b1c40ac60216;8a836c5c-ccf4-4f3b-87c7-8c4ce86def83;Percent Leased
+709fc879-9734-4ccb-bf7d-b453f949447f;fbe919a1-83fe-4cc7-976d-ef87d58d19a3;% Change 2011-2012
+709fc879-9734-4ccb-bf7d-b453f949447f;fbe919a1-83fe-4cc7-976d-ef87d58d19a3;% of Change 2008-2012
+d51e4650-e631-4d48-aec9-fccdcd39d488;fb7d2a1b-96a5-4af5-a7d6-a79a61bdb284;% Food Stamps/SNAP
+d51e4650-e631-4d48-aec9-fccdcd39d488;fb7d2a1b-96a5-4af5-a7d6-a79a61bdb284;% below poverty line
+d51e4650-e631-4d48-aec9-fccdcd39d488;fb7d2a1b-96a5-4af5-a7d6-a79a61bdb284;% High School Grad or Higher
+d51e4650-e631-4d48-aec9-fccdcd39d488;fb7d2a1b-96a5-4af5-a7d6-a79a61bdb284;% Bachelors or Higher
+868b2893-35bb-4d56-9c96-a2b9c5017bc9;d99738ee-90f0-4107-9577-a6cd53825e96;90th Percentile Trauma Scene Time
+868b2893-35bb-4d56-9c96-a2b9c5017bc9;d99738ee-90f0-4107-9577-a6cd53825e96;90th Percentile Trauma Alert Scene Interval Target
+868b2893-35bb-4d56-9c96-a2b9c5017bc9;d99738ee-90f0-4107-9577-a6cd53825e96;90th Percentile Stroke Alert Scene Interval
+868b2893-35bb-4d56-9c96-a2b9c5017bc9;d99738ee-90f0-4107-9577-a6cd53825e96;90th Percentile Stroke Alert Scene Interval Target
+868b2893-35bb-4d56-9c96-a2b9c5017bc9;d99738ee-90f0-4107-9577-a6cd53825e96;90th Percentile STEMI Alert Scene Interval
+868b2893-35bb-4d56-9c96-a2b9c5017bc9;d99738ee-90f0-4107-9577-a6cd53825e96;90th Percentile STEMI Alert Scene Interval Target
+6776b070-1c61-42ac-b645-8a445a200ff1;ce6c8b9a-9bce-4c10-8ce0-cd40050a6b7c;Percent Gravel
+6776b070-1c61-42ac-b645-8a445a200ff1;ce6c8b9a-9bce-4c10-8ce0-cd40050a6b7c;Percent Sand
+6776b070-1c61-42ac-b645-8a445a200ff1;ce6c8b9a-9bce-4c10-8ce0-cd40050a6b7c;Percent Silt
+6776b070-1c61-42ac-b645-8a445a200ff1;ce6c8b9a-9bce-4c10-8ce0-cd40050a6b7c;Percent Clay
+6776b070-1c61-42ac-b645-8a445a200ff1;ce6c8b9a-9bce-4c10-8ce0-cd40050a6b7c;Percent Mud
+8456110f-f4f8-4597-9687-6268431bed5e;d406518f-7ce9-4904-8bf4-d95dd8cf6733;Percentage of population with access to curbside recycling (%)2
+8456110f-f4f8-4597-9687-6268431bed5e;d406518f-7ce9-4904-8bf4-d95dd8cf6733;Percentage of population with access to curbside recycling
+ce9dffba-6b79-4271-83f4-60c1f228f9d8;c06ba607-acde-486e-97fe-b7fbb4fd2be9;HCAHPS Answer Percent
+ce9dffba-6b79-4271-83f4-60c1f228f9d8;c06ba607-acde-486e-97fe-b7fbb4fd2be9;HCAHPS Answer Percent Footnote
+ce9dffba-6b79-4271-83f4-60c1f228f9d8;c06ba607-acde-486e-97fe-b7fbb4fd2be9;Survey Response Rate Percent
+a3dcbf11-7b4d-4b63-8818-e42f8357820d;f6bdfb00-b1cd-4cbb-9b2c-a7e0a04182db;% FTE for ERP
+727f6b91-7ef5-4b41-bbb1-16da2a2d9435;619fbf17-80ac-45ce-b633-a19dd65aaef0;Percentage of pediatric PD patients with Kt/V>=1.8
+921d565b-d0b0-4f93-9004-a64eb6ca9b75;fa392e27-c742-4da6-aa38-a10687e34403;Accuracy
+6d9e992a-ac21-423b-a1e4-50acd3831fa2;b014cd08-7fce-4881-a8b2-905801bf933f;Confidence_limit_Low
+6d9e992a-ac21-423b-a1e4-50acd3831fa2;b014cd08-7fce-4881-a8b2-905801bf933f;Confidence_limit_High
+e67f611e-a0b5-4eb9-a81e-e4e79890d325;67418cf5-e1b7-47a2-b6e8-d83636940b82;High_Confidence_Interval
+e67f611e-a0b5-4eb9-a81e-e4e79890d325;67418cf5-e1b7-47a2-b6e8-d83636940b82;Low_Confidence_Interval
+167a2212-d4f1-46b9-aaad-b33f00f4f675;b6b8bdb6-90a4-4a92-ae11-1eb8d2d7804f;Greater_Risk_Low_Confidence_Limit
+167a2212-d4f1-46b9-aaad-b33f00f4f675;b6b8bdb6-90a4-4a92-ae11-1eb8d2d7804f;Greater_Risk_High_Confidence_Limit
+167a2212-d4f1-46b9-aaad-b33f00f4f675;b6b8bdb6-90a4-4a92-ae11-1eb8d2d7804f;Lesser_Risk_Low_Confidence_Limit
+167a2212-d4f1-46b9-aaad-b33f00f4f675;b6b8bdb6-90a4-4a92-ae11-1eb8d2d7804f;Lesser_Risk_High_Confidence_Limit
+23a5e080-a5c5-4024-852d-ad4c2c6d7db6;f25b0b5f-4601-47c3-8293-ab54720d982c;Lower Confidence Interval
+23a5e080-a5c5-4024-852d-ad4c2c6d7db6;f25b0b5f-4601-47c3-8293-ab54720d982c;Upper Confidence Interval
+ccd51008-03c6-4562-bf5b-80d51db6581d;51e0552e-c654-4901-85c7-1a2853b59204;Low_Confidence_Limit
+ccd51008-03c6-4562-bf5b-80d51db6581d;51e0552e-c654-4901-85c7-1a2853b59204;High_Confidence_Limit
+50471563-ca42-4520-9a70-38036e48acb7;61d372f3-980e-4c36-a90f-7b327a86af47;Low_Confidence_Interval
+50471563-ca42-4520-9a70-38036e48acb7;61d372f3-980e-4c36-a90f-7b327a86af47;High_Confidence_Interval
+98fe8ed5-9ba8-4f98-82e8-797aec89a2b4;de82bd70-6a7e-40ac-b4e8-49b4f32974d8;Low_Confidence_Limit
+98fe8ed5-9ba8-4f98-82e8-797aec89a2b4;de82bd70-6a7e-40ac-b4e8-49b4f32974d8;High_Confidence_Limit
+0213ae80-6a46-4d65-ac29-6aa2e6bcd0fe;ee4f0de0-f0df-4130-9c1b-fde77e7e4e59;Low_Confidence_Limit
+0213ae80-6a46-4d65-ac29-6aa2e6bcd0fe;ee4f0de0-f0df-4130-9c1b-fde77e7e4e59;High_Confidence_Limit
+48d89016-5dd0-4f61-90d3-20489c97cc70;fa12b26f-6f00-47c1-9ff6-c702c2536c64;Low_Confidence_Limit
+48d89016-5dd0-4f61-90d3-20489c97cc70;fa12b26f-6f00-47c1-9ff6-c702c2536c64;High_Confidence_Limit
+d409d388-d2b1-4065-8a23-ec3763296086;4998afe5-3fd7-427f-b594-1f050a306c40;Confidence_limit_Low
+adf42e4e-c624-4f26-acfd-f26ad41624a6;f5fd1bcc-fe16-4774-9d96-fc1db3c4d842;WINPERCENT
+4d741be3-42f5-48a4-8151-409131ddc436;fab248d1-d399-4e28-9b2b-09935e7d5058;Accuracy
+d9fa5550-51e2-4580-a861-2745bb1b9d07;beae9f6c-c9ad-4021-a76c-1ce2ccc5b6a7;LONGEVITY PERCENTAGE
+85d0e747-478f-4051-9062-106a7a5438a2;9c33ab08-846d-4046-8136-2f2a006f17c4;Accuracy
+d1cc27ea-f055-4a57-ba35-f937e59b0b1c;02f98276-776b-4dd1-bda1-853c585832ce;Percentage
+d1cc27ea-f055-4a57-ba35-f937e59b0b1c;02f98276-776b-4dd1-bda1-853c585832ce;%
+28efe440-e247-43ca-bbfd-ca8341bd38e6;3b5243f5-011c-4c69-8a62-de12f7390e7a;Percentage
+28efe440-e247-43ca-bbfd-ca8341bd38e6;6c75fd4b-7f37-4515-bcdd-be624814a0c1;Percentage
+28efe440-e247-43ca-bbfd-ca8341bd38e6;6c75fd4b-7f37-4515-bcdd-be624814a0c1;Standard Error on Percentage
+28efe440-e247-43ca-bbfd-ca8341bd38e6;1408ec66-ad39-42c2-84ef-c64921022a5e;Percentage
+28efe440-e247-43ca-bbfd-ca8341bd38e6;1408ec66-ad39-42c2-84ef-c64921022a5e;Standard Error on Percentage
+28efe440-e247-43ca-bbfd-ca8341bd38e6;da378c31-2ecd-4591-9a3d-a5b8d73ad7e8;Percentage
+28efe440-e247-43ca-bbfd-ca8341bd38e6;fee97232-665f-4dc3-b913-723185c20ab8;Standard Error on Percentage
+28efe440-e247-43ca-bbfd-ca8341bd38e6;1071dfff-f3c8-457a-934f-55a6c1dce815;Rate per 100,000
+28efe440-e247-43ca-bbfd-ca8341bd38e6;1071dfff-f3c8-457a-934f-55a6c1dce815;Standard Error on Rate per 100,000
+28efe440-e247-43ca-bbfd-ca8341bd38e6;c566d735-99a7-45d8-b06d-fde841f48945;Standard Error on Percentage
+28efe440-e247-43ca-bbfd-ca8341bd38e6;16a15a7a-8018-4af5-8956-51e2ce55d1e9;Standard Error on Percentage
+28efe440-e247-43ca-bbfd-ca8341bd38e6;c94f405a-10a2-448f-8498-296c2eb0e4dc;Standard Error on Percentage
+28efe440-e247-43ca-bbfd-ca8341bd38e6;400d53b5-dde1-4942-8e2f-c3930b1b063b;Standard Error on Percentage
+28efe440-e247-43ca-bbfd-ca8341bd38e6;847c29fd-4280-470b-baff-372ec01ea518;Standard Error on Percentage
+28efe440-e247-43ca-bbfd-ca8341bd38e6;4ba5fbc6-60ad-4aa8-a9de-ff0f88c8640e;Standard Error on Rate
+90059aa5-c7f5-4c89-85cb-a3f1750b790d;f98da809-61a3-4232-9ab0-78002338d159;LONGEVITY PERCENTAGE
+e2b85a81-c090-48d3-8362-0399644b501f;c8d9bf3e-34da-4915-b895-8064516c0fa4;Greater_Risk_Low_Confidence_Limit
+e2b85a81-c090-48d3-8362-0399644b501f;c8d9bf3e-34da-4915-b895-8064516c0fa4;Greater_Risk_High_Confidence_Limit
+e2b85a81-c090-48d3-8362-0399644b501f;c8d9bf3e-34da-4915-b895-8064516c0fa4;Lesser_Risk_Low_Confidence_Limit
+e2b85a81-c090-48d3-8362-0399644b501f;c8d9bf3e-34da-4915-b895-8064516c0fa4;Lesser_Risk_High_Confidence_Limit
+bee79129-2856-4769-bae0-2c0385ba61b7;127ca8bf-53da-4542-b1de-f43285cdabbc;Low_Confidence_Limit
+bee79129-2856-4769-bae0-2c0385ba61b7;127ca8bf-53da-4542-b1de-f43285cdabbc;High_Confidence_Limit
+10dc39c6-822b-4db3-9e35-c8e94a296eb2;8a178941-210e-4203-b0b9-9407bb1151b7;Confidence_limit_Low
+10dc39c6-822b-4db3-9e35-c8e94a296eb2;8a178941-210e-4203-b0b9-9407bb1151b7;Confidence_limit_High
+f3aa316d-1701-408b-86ad-72cd90fee3c4;94051609-6b3b-43a7-9ae1-3f1ecaa6f409;Confidence_limit_Low
+f3aa316d-1701-408b-86ad-72cd90fee3c4;94051609-6b3b-43a7-9ae1-3f1ecaa6f409;Confidence_limit_High
+502ab87c-be2c-4429-b720-5abf68d593ba;db1ef7c7-2ddc-4e70-981c-e724cdc3655f;Confidence_limit_Low
+502ab87c-be2c-4429-b720-5abf68d593ba;db1ef7c7-2ddc-4e70-981c-e724cdc3655f;Confidence_limit_High
+2428ef9d-34c8-4c97-821a-65f7541b816e;033adb0e-4ed5-4a2d-b0a6-82e797dfc285;High_Confidence_Interval
+2428ef9d-34c8-4c97-821a-65f7541b816e;033adb0e-4ed5-4a2d-b0a6-82e797dfc285;Low_Confidence_Interval
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Lead Screening Rate 1999
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Lead Screening Rate 1999 Lower CI
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Lead Screening Rate 1999 Upper CI
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Percent Elevated 1999
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Percent Elevated 1999 Lower CI
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Percent Elevated 1999 Upper CI
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Lead Screening Rate 2000
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Lead Screening Rate 2000 Lower CI
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Lead Screening Rate 2000 Upper CI
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Percent Elevated 2000
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Percent Elevated 2000 Lower CI
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Percent Elevated 2000 Upper CI
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Lead Screening Rate 2001
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Lead Screening Rate 2001 Lower CI
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Lead Screening Rate 2001 Upper CI
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Percent Elevated 2001
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Percent Elevated 2001 Lower CI
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Percent Elevated 2001 Upper CI
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Lead Screening Rate 2002
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Lead Screening Rate 2002 Lower CI
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Lead Screening Rate 2002 Upper CI
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Percent Elevated 2002
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Percent Elevated 2002 Lower CI
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Percent Elevated 2002 Upper CI
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Lead Screening Rate 2003
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Lead Screening Rate 2003 Lower CI
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Lead Screening Rate 2003 Upper CI
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Percent Elevated 2003
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Percent Elevated 2003 Lower CI
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Percent Elevated 2003 Upper CI
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Lead Screening Rate 2004
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Lead Screening Rate 2004 Lower CI
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Lead Screening Rate 2004 Upper CI
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Percent Elevated 2004
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Percent Elevated 2004 Lower CI
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Percent Elevated 2004 Upper CI
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Lead Screening Rate 2005
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Lead Screening Rate 2005 Lower CI
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Lead Screening Rate 2005 Upper CI
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Percent Elevated 2005
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Percent Elevated 2005 Lower CI
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Percent Elevated 2005 Upper CI
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Lead Screening Rate 2006
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Lead Screening Rate 2006 Lower CI
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Lead Screening Rate 2006 Upper CI
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Percent Elevated 2006
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Percent Elevated 2006 Lower CI
+db765ca0-581d-473f-a416-f00d8cf4898d;2c0afc86-0c1f-4453-b8b4-eb44cbf8008f;Percent Elevated 2006 Upper CI
+1301f547-cc8d-4296-92d8-51651c3b433c;2651e31f-735a-408e-8a62-ea32e4ac0ee1;% 2013
+1301f547-cc8d-4296-92d8-51651c3b433c;2651e31f-735a-408e-8a62-ea32e4ac0ee1;% 2012
+1301f547-cc8d-4296-92d8-51651c3b433c;2651e31f-735a-408e-8a62-ea32e4ac0ee1;% 2011
+1301f547-cc8d-4296-92d8-51651c3b433c;2651e31f-735a-408e-8a62-ea32e4ac0ee1;% 2010
+1301f547-cc8d-4296-92d8-51651c3b433c;2651e31f-735a-408e-8a62-ea32e4ac0ee1;% 2009
+1301f547-cc8d-4296-92d8-51651c3b433c;2651e31f-735a-408e-8a62-ea32e4ac0ee1;% 2008
+1301f547-cc8d-4296-92d8-51651c3b433c;2651e31f-735a-408e-8a62-ea32e4ac0ee1;% 2007
+1301f547-cc8d-4296-92d8-51651c3b433c;2651e31f-735a-408e-8a62-ea32e4ac0ee1;% 2006
+1301f547-cc8d-4296-92d8-51651c3b433c;2651e31f-735a-408e-8a62-ea32e4ac0ee1;% 2005
+1301f547-cc8d-4296-92d8-51651c3b433c;2651e31f-735a-408e-8a62-ea32e4ac0ee1;% 2004
+f04a62dc-67e3-4927-88f6-86223b7ace2e;640def40-20a3-44cd-8ae7-3fb1a71b261a;Confidence_limit_Low
+f04a62dc-67e3-4927-88f6-86223b7ace2e;640def40-20a3-44cd-8ae7-3fb1a71b261a;Confidence_limit_High
+d9b12ca5-cf71-4b49-81fe-e4a5ec268f38;4fa2cfac-a43f-4c7d-bf7b-f3fafe3f52bf;Low_Confidence_Limit
+d9b12ca5-cf71-4b49-81fe-e4a5ec268f38;4fa2cfac-a43f-4c7d-bf7b-f3fafe3f52bf;High_Confidence_Limit
+197ea083-b432-4c78-811f-28699506a5d4;865d4476-2555-44db-9ef9-fea19c85bb96;High_Confidence_Interval
+197ea083-b432-4c78-811f-28699506a5d4;865d4476-2555-44db-9ef9-fea19c85bb96;Low_Confidence_Interval
+42be5be2-5fa6-4754-a949-a441721c7729;3dbcb42f-b138-49e8-8bcf-4197691889cc;Low_Confidence_Limit
+42be5be2-5fa6-4754-a949-a441721c7729;3dbcb42f-b138-49e8-8bcf-4197691889cc;High_Confidence_Limit
+fb339b1e-95d6-4071-8f0d-9714ebf9fdb8;0354ee98-6fcf-47cf-95df-f4bb840c8d7d;Lower Confidence Interval
+fb339b1e-95d6-4071-8f0d-9714ebf9fdb8;0354ee98-6fcf-47cf-95df-f4bb840c8d7d;Upper Confidence Interval
+ef3f6eb3-ec5b-4816-a2ad-adc332101f53;61d71c08-f317-4af8-95b8-763f4bfadc4f;LowConfidenceLimit
+ef3f6eb3-ec5b-4816-a2ad-adc332101f53;61d71c08-f317-4af8-95b8-763f4bfadc4f;HighConfidenceLimit
+4c417551-4649-4b91-bc18-f808365d9ba3;b78218e6-0620-410c-8cb5-d8260a002517;Confidence_limit_Low
+4c417551-4649-4b91-bc18-f808365d9ba3;b78218e6-0620-410c-8cb5-d8260a002517;Confidence_limit_High
+ec129027-ceaa-41b6-a9d3-09cd915b6728;536e1abc-c73a-4694-83c5-71e8bdf13fd3;Low_Confidence_Limit
+ec129027-ceaa-41b6-a9d3-09cd915b6728;536e1abc-c73a-4694-83c5-71e8bdf13fd3;High_Confidence_Limit
+eca876f5-a494-4edc-8588-4d2265e5fd17;6f053779-e64a-4be7-9aee-17a3d99067fe;Low_Confidence_Interval
+eca876f5-a494-4edc-8588-4d2265e5fd17;6f053779-e64a-4be7-9aee-17a3d99067fe;High_Confidence_Interval
+ee1ef646-6572-487f-a87f-7b675d7271a4;3496bbca-f28b-4f8f-a2f6-3c941b4b30c3;Low_Confidence_Limit
+ee1ef646-6572-487f-a87f-7b675d7271a4;3496bbca-f28b-4f8f-a2f6-3c941b4b30c3;High_Confidence_Limit
+4bcfd1e8-485d-4a84-8080-0aec360e503a;5f0131f9-5f92-4ce4-a054-91545e33c8fb;Confidence_limit_Low
+4bcfd1e8-485d-4a84-8080-0aec360e503a;5f0131f9-5f92-4ce4-a054-91545e33c8fb;Confidence_limit_High
+4a1875a4-0064-459a-b2af-6db7ddd13ae2;5c5e24ad-1501-4ea6-86c9-c4e23f7da11a;Low_Confidence_Limit
+4a1875a4-0064-459a-b2af-6db7ddd13ae2;5c5e24ad-1501-4ea6-86c9-c4e23f7da11a;High_Confidence_Limit
+a06d440b-9a7d-40a9-82d7-628467437435;e9381e5d-a747-413b-b32d-66f042772db2;Accuracy
+83a70c7e-9992-4676-8360-44d0fd97e3a6;401616de-f26a-4728-9f37-55324565d50a;% OF PROPERTY BEING UTILIZED
+83a70c7e-9992-4676-8360-44d0fd97e3a6;401616de-f26a-4728-9f37-55324565d50a;% OF THE BUILDING BEING LEASED OR SUBLEASED
+83a70c7e-9992-4676-8360-44d0fd97e3a6;401616de-f26a-4728-9f37-55324565d50a;% OF ACRES OF THE LAND BEING LEASED OR SUBLEASED
+83a70c7e-9992-4676-8360-44d0fd97e3a6;56dfabc5-a781-415b-99a0-54d33c588968;% OCCUPIED BY THE STATE
+83a70c7e-9992-4676-8360-44d0fd97e3a6;56dfabc5-a781-415b-99a0-54d33c588968;% OF THE BUILDING BEING LEASED OR SUBLEASED
+83a70c7e-9992-4676-8360-44d0fd97e3a6;56dfabc5-a781-415b-99a0-54d33c588968;% OR ACRES OF THE LAND BEING LEASED OR SUBLEASED
+3ef07d47-3dd2-4a64-968f-ec2159ebe04a;88358ec2-3d81-4706-871b-0ac4d1065e72;Accuracy
+02ad50da-a338-463c-8ae1-3b33185534ab;4021ef5f-976b-42cf-b379-14c77e32c053;Percent
+2cbbb4de-040c-48f7-8ffe-5966432e4e74;fda43df5-91b5-4c39-8ae5-fc8ccf61683f;Percentage
+736018b2-56a1-44a8-af0d-87f3e63b983d;987368e4-c052-4523-a3a3-63d75bc10199;Accuracy
+7eacef16-ef04-46c1-8a69-7b55e3aaecd9;80f8b3a9-7ab1-43a5-88f9-ed2707cdee3f;Percent exceeds standard
+082e7ef8-9207-484b-9e92-6897175438f0;a96b7c33-8790-4760-9a66-f609f0fbadb7;Percent Gravel
+082e7ef8-9207-484b-9e92-6897175438f0;a96b7c33-8790-4760-9a66-f609f0fbadb7;Percent Sand
+082e7ef8-9207-484b-9e92-6897175438f0;a96b7c33-8790-4760-9a66-f609f0fbadb7;Percent Silt
+082e7ef8-9207-484b-9e92-6897175438f0;a96b7c33-8790-4760-9a66-f609f0fbadb7;Percent Clay
+082e7ef8-9207-484b-9e92-6897175438f0;a96b7c33-8790-4760-9a66-f609f0fbadb7;Percent Mud
+3a14e3f5-820a-489b-9087-4283f142dec1;e0bc3a24-772d-4b01-9513-bcf44ddbad96;percent
+a7e77e70-f3d4-4e72-a4be-b0be2a6370ad;ec7a9f1f-3383-422f-a060-93ceb9e58f0c;Percent of Total Holds That Were Status Offenders 2009
+a7e77e70-f3d4-4e72-a4be-b0be2a6370ad;ec7a9f1f-3383-422f-a060-93ceb9e58f0c;Percent of Total Holds That Were Status Offenders 2010
+a7e77e70-f3d4-4e72-a4be-b0be2a6370ad;ec7a9f1f-3383-422f-a060-93ceb9e58f0c;Percent of Total Holds That Were Status Offenders 2011
+a7e77e70-f3d4-4e72-a4be-b0be2a6370ad;ec7a9f1f-3383-422f-a060-93ceb9e58f0c;Percent of Total Holds That Were Status Offenders 2012
+a7e77e70-f3d4-4e72-a4be-b0be2a6370ad;ec7a9f1f-3383-422f-a060-93ceb9e58f0c;Percent of Total Holds That Were Status Offenders 2013
+20e7e002-b5b9-42c5-817d-6c5b06b8ebf3;a6d52e5f-a5a4-425c-a713-d391c87be6a3;Percentage
+5ccb64bb-7891-419c-a490-4c8036dc6f65;0992915f-a5ae-4252-8da5-ecb75228a469;WINPERCENT
+58cfe63f-cf73-48c8-bdc0-9dce4abeca21;57e70a63-9a05-4325-9f5c-76d243af7b35;Accuracy
+a83a0466-bd62-4f10-bfd8-b17022f2cf74;d41011fc-96a9-4c6b-9bb5-1c7e188abb20;Answer Percent
+e7ac4f06-9795-4b48-9f39-297b729b2d4a;4e3d78f6-28ac-4767-8ed8-cfd9570d325c;%
+02d5484e-2c6e-417c-8b6b-1cbe37f61d4a;06de8625-bb4e-4a1a-8139-0c8497d531f8;Percent
+4f2d5f7f-ca62-40b2-bc21-2d4359bc43bb;ae7e4a9d-a144-4dff-a1b4-3ae1638fa559;HCAHPS Answer Percent
+89657261-60be-4386-9702-07503b314008;edaa4f06-b2d8-470e-8dcf-23998a93fbe8;% Level 1
+89657261-60be-4386-9702-07503b314008;edaa4f06-b2d8-470e-8dcf-23998a93fbe8;% Level 2
+89657261-60be-4386-9702-07503b314008;edaa4f06-b2d8-470e-8dcf-23998a93fbe8;% Level 3
+89657261-60be-4386-9702-07503b314008;edaa4f06-b2d8-470e-8dcf-23998a93fbe8;% Level 4
+89657261-60be-4386-9702-07503b314008;edaa4f06-b2d8-470e-8dcf-23998a93fbe8;% Level 3+4
+5cb36888-4138-4a44-b102-079095d888e6;91e31065-0c4d-451a-ae2b-5effc46f2752;Accuracy
+51438bf1-620e-4a1c-ab41-1e9e53e02b6c;77b3c763-a5db-4e9e-815d-74456c10ddef;BOUNCE RATE (%)
+51438bf1-620e-4a1c-ab41-1e9e53e02b6c;77b3c763-a5db-4e9e-815d-74456c10ddef;EXIT RATE (%)
+87efb3b2-f0df-4ff2-a279-854af74912a9;839c2a31-d724-4a5c-9ace-3e138bfb0996;WINPERCENT
+d904def0-d009-4406-a30c-dc3272fe2437;496d76be-ef77-4a05-a3a4-139ae5043270;Digester Operation: Total Solids in Incoming Sludge - %
+d904def0-d009-4406-a30c-dc3272fe2437;496d76be-ef77-4a05-a3a4-139ae5043270;Digester Operation: Total Solids in Digested Sludge - %
+d904def0-d009-4406-a30c-dc3272fe2437;496d76be-ef77-4a05-a3a4-139ae5043270;Digester Operation: Volatile Solids in Incoming Sludge - %
+d904def0-d009-4406-a30c-dc3272fe2437;496d76be-ef77-4a05-a3a4-139ae5043270;Digester Operation: Volatile Solids in Digested Sludge - %
+d904def0-d009-4406-a30c-dc3272fe2437;3b476f99-fb87-44bd-a03f-33b658e1b377;Aeration (mixed liquor): Settleable Solids % in 30 minutes
+d904def0-d009-4406-a30c-dc3272fe2437;3b476f99-fb87-44bd-a03f-33b658e1b377;Digester Operation: Total Solids in Incoming Sludge - %
+d904def0-d009-4406-a30c-dc3272fe2437;3b476f99-fb87-44bd-a03f-33b658e1b377;Digester Operation: Total Solids in Digested Sludge - %
+d904def0-d009-4406-a30c-dc3272fe2437;3b476f99-fb87-44bd-a03f-33b658e1b377;Digester Operation: Volatile Solids in Incoming Sludge - %
+d904def0-d009-4406-a30c-dc3272fe2437;3b476f99-fb87-44bd-a03f-33b658e1b377;Digester Operation: Volatile Solids in Digested Sludge - %
+a2ae8262-1ad8-4f16-8a82-d7548540626a;d04cbe00-1883-43e8-baae-fecf032fdebf;%
+4d04b31f-951d-4a25-acb2-6746f3c700c9;dafce066-2c10-4b71-bf40-979a4527e3dc;Low_Confidence_Limit
+4d04b31f-951d-4a25-acb2-6746f3c700c9;dafce066-2c10-4b71-bf40-979a4527e3dc;High_Confidence_Limit
+3e3c00f2-9db9-43e4-bb53-7060bf485952;8c516e09-13ab-4ce2-87eb-941fbcc7ca82;Confidence_limit_Low
+3e3c00f2-9db9-43e4-bb53-7060bf485952;8c516e09-13ab-4ce2-87eb-941fbcc7ca82;Confidence_limit_High
+8b8f5ead-dcf2-4013-b3f8-41c38ab0b84d;d53babc9-f0f3-473d-b3b9-3be63411b9b3;Low_Confidence_Limit
+8b8f5ead-dcf2-4013-b3f8-41c38ab0b84d;d53babc9-f0f3-473d-b3b9-3be63411b9b3;High_Confidence_Limit
+0aac6c4b-f805-4bc1-868e-8c9768d4a1da;a39d4cbf-1f1e-4616-8308-db67f620f6a8;Confidence_limit_Low
+0aac6c4b-f805-4bc1-868e-8c9768d4a1da;a39d4cbf-1f1e-4616-8308-db67f620f6a8;Confidence_limit_High
+14fe1ed5-5a2c-4da4-8b52-7f77a09761aa;c96d69dc-1f1d-4448-8919-eaed7fe65891;Low_Confidence_Limit
+14fe1ed5-5a2c-4da4-8b52-7f77a09761aa;c96d69dc-1f1d-4448-8919-eaed7fe65891;High_Confidence_Limit
+a9f4e9c9-1a2b-49c3-ae4d-0059af47fddb;85bb6306-2b57-4e43-b0b5-4bcc0b349ad4;Confidence_limit_Low
+a9f4e9c9-1a2b-49c3-ae4d-0059af47fddb;85bb6306-2b57-4e43-b0b5-4bcc0b349ad4;Confidence_limit_High
+da26e2ea-8ac6-4a2e-ae54-164a0a31107b;d2ffe665-337f-44b1-838d-0a3d80d91c4d;Low_Confidence_Limit
+da26e2ea-8ac6-4a2e-ae54-164a0a31107b;d2ffe665-337f-44b1-838d-0a3d80d91c4d;High_Confidence_Limit
+3fff48ec-f690-4fe9-bdad-c3d9dc552425;7d174c83-f849-46db-835e-a0a5e102317a;Confidence_limit_Low
+3fff48ec-f690-4fe9-bdad-c3d9dc552425;7d174c83-f849-46db-835e-a0a5e102317a;Confidence_limit_High
+0bfe9d61-fd96-4197-82da-2eda192fb61e;88d9119c-d010-4afa-a9b8-7f726de0e097;Low_Confidence_Limit
+0bfe9d61-fd96-4197-82da-2eda192fb61e;88d9119c-d010-4afa-a9b8-7f726de0e097;High_Confidence_Limit
+a69e838c-7470-4ce3-98be-205da7b1b38f;85871bb1-c5d9-4a8f-be11-a7ce4fad3b73;Low_Confidence_Limit
+a69e838c-7470-4ce3-98be-205da7b1b38f;85871bb1-c5d9-4a8f-be11-a7ce4fad3b73;High_Confidence_Limit
+45f1a241-712e-435c-b8dd-c18837af1f68;453fa6b7-9891-48e8-aa75-b48b1d19c97b;Low_Confidence_Limit
+45f1a241-712e-435c-b8dd-c18837af1f68;453fa6b7-9891-48e8-aa75-b48b1d19c97b;High_Confidence_Limit
+c4f739fa-df50-4334-8d03-242ccade95f5;a85d09e6-4eaa-4737-b483-7cd05ccee1e9;Percent Gravel
+c4f739fa-df50-4334-8d03-242ccade95f5;a85d09e6-4eaa-4737-b483-7cd05ccee1e9;Percent Sand
+c4f739fa-df50-4334-8d03-242ccade95f5;a85d09e6-4eaa-4737-b483-7cd05ccee1e9;Percent Silt
+c4f739fa-df50-4334-8d03-242ccade95f5;a85d09e6-4eaa-4737-b483-7cd05ccee1e9;Percent Clay
+c4f739fa-df50-4334-8d03-242ccade95f5;a85d09e6-4eaa-4737-b483-7cd05ccee1e9;Percent Mud
+e5896edf-2e3c-4612-9de9-c4e375640661;d5fa5bfe-0fd1-42b1-af3e-1347132413b4;Cumulative Percent
+945f999c-35aa-495a-b3ba-5f5a6ddb02a0;99f801eb-ce98-4067-a1d3-160d967f52da;Lower95%CI
+945f999c-35aa-495a-b3ba-5f5a6ddb02a0;99f801eb-ce98-4067-a1d3-160d967f52da;Upper95%CI
+c3bde319-8881-4178-babe-b554f78001d5;11ad14fb-97eb-4c53-809b-d9175f97d0d9;2002 (%)
+c3bde319-8881-4178-babe-b554f78001d5;11ad14fb-97eb-4c53-809b-d9175f97d0d9;2003 (%)
+c3bde319-8881-4178-babe-b554f78001d5;11ad14fb-97eb-4c53-809b-d9175f97d0d9;2004 (%)
+c3bde319-8881-4178-babe-b554f78001d5;11ad14fb-97eb-4c53-809b-d9175f97d0d9;2005 (%)
+c3bde319-8881-4178-babe-b554f78001d5;11ad14fb-97eb-4c53-809b-d9175f97d0d9;2006 (%)
+c3bde319-8881-4178-babe-b554f78001d5;11ad14fb-97eb-4c53-809b-d9175f97d0d9;2007 (%)
+c3bde319-8881-4178-babe-b554f78001d5;11ad14fb-97eb-4c53-809b-d9175f97d0d9;2008 (%)
+5be390cf-6a22-4fae-ad32-05832a013087;1c081d17-e017-49f5-ab4a-cc3164c2a52d;Low_Confidence_Limit
+5be390cf-6a22-4fae-ad32-05832a013087;1c081d17-e017-49f5-ab4a-cc3164c2a52d;High_Confidence_Limit
+1ae213e6-4b70-4d5b-9e54-5bc8214aa3e3;f833f151-2355-45f4-8270-3e6de20e1645;Confidence_limit_Low
+1ae213e6-4b70-4d5b-9e54-5bc8214aa3e3;f833f151-2355-45f4-8270-3e6de20e1645;Confidence_limit_High
+4baa00a8-6d7d-4368-a61e-b2b51d59d7be;82a27e34-2d72-4d3c-b6ae-e79ef1bdeb03;Low_Confidence_Limit
+4baa00a8-6d7d-4368-a61e-b2b51d59d7be;82a27e34-2d72-4d3c-b6ae-e79ef1bdeb03;High_Confidence_Limit
+14467190-9566-4b79-979e-1679a7165322;56969393-cbb4-446f-ac7a-dcd052caff57;Low_Confidence_Limit
+14467190-9566-4b79-979e-1679a7165322;56969393-cbb4-446f-ac7a-dcd052caff57;High_Confidence_Limit
+315fcb03-053d-4bf1-a6b1-fd4b0d9acb73;389a6e5c-b636-4f30-8fe6-b149560457b8;Low_Confidence_Limit
+315fcb03-053d-4bf1-a6b1-fd4b0d9acb73;389a6e5c-b636-4f30-8fe6-b149560457b8;High_Confidence_Limit
+c5f621b8-9ccd-4b35-b1ca-edd93b51db35;1ac514c7-a7a9-4d2b-ba0b-372c6728293f;Low_Confidence_limit
+c5f621b8-9ccd-4b35-b1ca-edd93b51db35;1ac514c7-a7a9-4d2b-ba0b-372c6728293f;High_Confidence_Limit
+98793096-37f3-4f88-b253-9a96ca7cfa79;f6053011-199e-4fb7-9cd8-bc16814d7ad6;Low_Confidence_Limit
+98793096-37f3-4f88-b253-9a96ca7cfa79;f6053011-199e-4fb7-9cd8-bc16814d7ad6;High_Confidence_Limit
+ca7ae7fd-ae48-4494-a759-1759e59eeee6;89fd179d-8d08-4d56-a7b6-d5ba649fb91c;Low_Confidence_Limit
+ca7ae7fd-ae48-4494-a759-1759e59eeee6;89fd179d-8d08-4d56-a7b6-d5ba649fb91c;High_Confidence_Limit
+8e0ede43-eaa4-4a93-9f30-fb36b8245685;9005a1a4-b960-4d23-862a-ed8674d3fba4;Low_Confidence_Limit
+8e0ede43-eaa4-4a93-9f30-fb36b8245685;9005a1a4-b960-4d23-862a-ed8674d3fba4;High_Confidence_Limit
+4042ff38-941e-4313-bfe8-d4f7035d6af5;bc9fda4a-6295-4c6e-a51d-86c2b5b67b09;Low_Confidence_Limit
+4042ff38-941e-4313-bfe8-d4f7035d6af5;bc9fda4a-6295-4c6e-a51d-86c2b5b67b09;High_Confidence_Limit
+37c71adb-f11d-4d4b-8e00-2ab583e98170;0ccf36c1-304a-4fdc-9949-eb93bbbe8a47;%
+eac159c2-5058-4242-b025-0f300729c43e;9a615b16-5a6b-411f-adf1-15661856337e;Average Infant Mortality Rate 2005 - 2009
+eac159c2-5058-4242-b025-0f300729c43e;9a615b16-5a6b-411f-adf1-15661856337e;Average Infant Mortality Rate Lower CI 2005 - 2009
+eac159c2-5058-4242-b025-0f300729c43e;9a615b16-5a6b-411f-adf1-15661856337e;Average Infant Mortality Rate Upper CI 2005 - 2009
+3b519007-1da9-4306-961d-64d3ca53ba99;37184aa6-79cf-44c2-851e-8769e29a5317;percent
+8a311c18-3060-438e-a8c7-9e37bcde6529;e43f1938-3c4a-4501-9aaf-46891bb21553;PERCENT FEMALE
+8a311c18-3060-438e-a8c7-9e37bcde6529;e43f1938-3c4a-4501-9aaf-46891bb21553;PERCENT MALE
+8a311c18-3060-438e-a8c7-9e37bcde6529;e43f1938-3c4a-4501-9aaf-46891bb21553;PERCENT GENDER UNKNOWN
+8a311c18-3060-438e-a8c7-9e37bcde6529;e43f1938-3c4a-4501-9aaf-46891bb21553;PERCENT PACIFIC ISLANDER
+8a311c18-3060-438e-a8c7-9e37bcde6529;e43f1938-3c4a-4501-9aaf-46891bb21553;PERCENT HISPANIC LATINO
+8a311c18-3060-438e-a8c7-9e37bcde6529;e43f1938-3c4a-4501-9aaf-46891bb21553;PERCENT AMERICAN INDIAN
+8a311c18-3060-438e-a8c7-9e37bcde6529;e43f1938-3c4a-4501-9aaf-46891bb21553;PERCENT ASIAN NON HISPANIC
+8a311c18-3060-438e-a8c7-9e37bcde6529;e43f1938-3c4a-4501-9aaf-46891bb21553;PERCENT WHITE NON HISPANIC
+8a311c18-3060-438e-a8c7-9e37bcde6529;e43f1938-3c4a-4501-9aaf-46891bb21553;PERCENT BLACK NON HISPANIC
+8a311c18-3060-438e-a8c7-9e37bcde6529;e43f1938-3c4a-4501-9aaf-46891bb21553;PERCENT OTHER ETHNICITY
+8a311c18-3060-438e-a8c7-9e37bcde6529;e43f1938-3c4a-4501-9aaf-46891bb21553;PERCENT ETHNICITY UNKNOWN
+8a311c18-3060-438e-a8c7-9e37bcde6529;e43f1938-3c4a-4501-9aaf-46891bb21553;PERCENT ETHNICITY TOTAL
+8a311c18-3060-438e-a8c7-9e37bcde6529;e43f1938-3c4a-4501-9aaf-46891bb21553;PERCENT PERMANENT RESIDENT ALIEN
+8a311c18-3060-438e-a8c7-9e37bcde6529;e43f1938-3c4a-4501-9aaf-46891bb21553;PERCENT US CITIZEN
+8a311c18-3060-438e-a8c7-9e37bcde6529;e43f1938-3c4a-4501-9aaf-46891bb21553;PERCENT OTHER CITIZEN STATUS
+8a311c18-3060-438e-a8c7-9e37bcde6529;e43f1938-3c4a-4501-9aaf-46891bb21553;PERCENT CITIZEN STATUS UNKNOWN
+8a311c18-3060-438e-a8c7-9e37bcde6529;e43f1938-3c4a-4501-9aaf-46891bb21553;PERCENT CITIZEN STATUS TOTAL
+8a311c18-3060-438e-a8c7-9e37bcde6529;e43f1938-3c4a-4501-9aaf-46891bb21553;PERCENT RECEIVES PUBLIC ASSISTANCE
+8a311c18-3060-438e-a8c7-9e37bcde6529;e43f1938-3c4a-4501-9aaf-46891bb21553;PERCENT NRECEIVES PUBLIC ASSISTANCE
+8a311c18-3060-438e-a8c7-9e37bcde6529;e43f1938-3c4a-4501-9aaf-46891bb21553;PERCENT PUBLIC ASSISTANCE UNKNOWN
+8a311c18-3060-438e-a8c7-9e37bcde6529;e43f1938-3c4a-4501-9aaf-46891bb21553;PERCENT PUBLIC ASSISTANCE TOTAL
+fa16574f-84e6-4893-88c0-7e899d30f26d;01b13a6a-870d-4dac-9ff1-88e20a1fb474;Accuracy
+3e8265ac-c8d6-476e-a35d-511e3a54b2c0;50244ea4-3498-4d97-9769-bdce6897b1e4;Rate Per 1000 Resident Population
+dc1c62a2-65fd-4f85-a95c-3f17255b7d32;a7aeb12e-5034-40cd-b481-c6e1ee9a51bd;Percent Gravel
+dc1c62a2-65fd-4f85-a95c-3f17255b7d32;a7aeb12e-5034-40cd-b481-c6e1ee9a51bd;Percent Sand
+dc1c62a2-65fd-4f85-a95c-3f17255b7d32;a7aeb12e-5034-40cd-b481-c6e1ee9a51bd;Percent Silt
+dc1c62a2-65fd-4f85-a95c-3f17255b7d32;a7aeb12e-5034-40cd-b481-c6e1ee9a51bd;Percent Clay
+dc1c62a2-65fd-4f85-a95c-3f17255b7d32;a7aeb12e-5034-40cd-b481-c6e1ee9a51bd;Percent Mud
+3ac12a7f-db90-44d4-b848-c4edb039c17d;519aa3dd-70e0-432e-ba97-8a0ac460fa1f;Accuracy
+9554c7ed-d9aa-44f6-95ae-391218838bb7;8944daf0-5fa3-4272-830c-dffad3b35f2f;Percent Gravel
+9554c7ed-d9aa-44f6-95ae-391218838bb7;8944daf0-5fa3-4272-830c-dffad3b35f2f;Percent Sand
+9554c7ed-d9aa-44f6-95ae-391218838bb7;8944daf0-5fa3-4272-830c-dffad3b35f2f;Percent Silt
+9554c7ed-d9aa-44f6-95ae-391218838bb7;8944daf0-5fa3-4272-830c-dffad3b35f2f;Percent Clay
+9554c7ed-d9aa-44f6-95ae-391218838bb7;8944daf0-5fa3-4272-830c-dffad3b35f2f;Percent Mud
+7d10eeb7-79a6-488f-83a0-0eefe6b8ad2a;2c48aea9-646f-426b-a7bc-a87a803d3586;Spent: %
+a7f1cde1-2eb7-4e12-b086-3e5e3f943a04;3e353c77-48fc-4909-88e1-48d25e9f1633;percent

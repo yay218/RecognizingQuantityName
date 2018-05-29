@@ -1,0 +1,363 @@
+9db67003-3dad-4481-bcb6-ff1f67711918;17a64114-bc3a-4cfb-9bb9-1290ca81f9b0;Time (minutes) to medically clear arrestees in City Jails (Annual FY)
+9db67003-3dad-4481-bcb6-ff1f67711918;17a64114-bc3a-4cfb-9bb9-1290ca81f9b0;PROJECTED: Time (minutes) to medically clear arrestees in City Jails (Annual FY)
+9db67003-3dad-4481-bcb6-ff1f67711918;17a64114-bc3a-4cfb-9bb9-1290ca81f9b0;Wait time (hours) at clinic for exam (monthly)
+9db67003-3dad-4481-bcb6-ff1f67711918;17a64114-bc3a-4cfb-9bb9-1290ca81f9b0;PROJECTED: Wait time (hours) at clinic for exam (monthly)
+72055d2e-8c23-481d-90e3-4df079ba3236;13c3f329-1afb-474e-be65-43eea37b2509;duration_seconds
+a5d82e1c-aa4a-479b-a0f1-c9c8ab16f485;75a4c455-375b-4419-a330-101cd236a230;CALLS - AVERAGE TIME ON CALL (MINUTES) - OFFICER INITIATED
+a5d82e1c-aa4a-479b-a0f1-c9c8ab16f485;75a4c455-375b-4419-a330-101cd236a230;CALLS - AVERAGE TIME ON CALL (MINUTES) - ALL
+1cf6f64d-b5a4-4c75-906a-4eb5682f9355;e43cfee1-68e5-487e-8c76-566147e3a818;In-District Response Time Average (minutes)
+04172a57-690f-4e72-b8e5-7a6bb6570b04;cfed4b9d-5ea9-4a22-9844-826fc563c5e5;Default Delay Time to Sleep (minutes)
+04172a57-690f-4e72-b8e5-7a6bb6570b04;cfed4b9d-5ea9-4a22-9844-826fc563c5e5;Print/Copy Time from Ready State (s)
+04172a57-690f-4e72-b8e5-7a6bb6570b04;cfed4b9d-5ea9-4a22-9844-826fc563c5e5;Print/Copy Time from Sleep Mode (s)
+04172a57-690f-4e72-b8e5-7a6bb6570b04;cfed4b9d-5ea9-4a22-9844-826fc563c5e5;Print/Copy Time from Previous Job (s)
+8a6a0c62-c78b-4a95-8667-08cf527b1062;69124d75-93c0-46a4-adaa-c8782b65d0a1;HOURS
+b36dd776-3e56-4727-b49e-02f93455e6ea;4fde5bc6-6966-4d2f-8681-72f632be7ac4;Hours
+73530bd7-d2c3-4012-9c53-bf515f41d5e5;85b433f8-88b0-47d4-9b6d-e3dc5a1e61e0;Seconds
+29b3c20b-0563-47f4-8964-900dc1860fb3;6697ab0b-d79d-4d1d-ba45-2080b81d49c7;Hours open typical week
+29b3c20b-0563-47f4-8964-900dc1860fb3;6697ab0b-d79d-4d1d-ba45-2080b81d49c7;Hours open main outlet
+29b3c20b-0563-47f4-8964-900dc1860fb3;6697ab0b-d79d-4d1d-ba45-2080b81d49c7;Hours open M-F after 5pm
+29b3c20b-0563-47f4-8964-900dc1860fb3;6697ab0b-d79d-4d1d-ba45-2080b81d49c7;Hours open Sat & Sun
+7da20797-d1b1-4608-ac36-204e09f88420;b430b66a-1fea-49fe-b251-b0e8fad7b601;HOURS
+ef27097d-54e0-4af9-887b-b22afa7b5d1d;fd740fb6-93a2-4776-80dc-793568178b92;duration_seconds
+43c670cb-6c8d-4e1e-9b39-7f3725052ef0;f5130095-e96a-4aef-98f1-8e58d52160e9;Parking_Hours
+f64b0fd5-3ec0-41b2-bcd3-c11044a77169;c6bab8d4-2a47-4a5f-95be-33d4a2b7f37b;Time (seconds)
+8faacd05-067d-4925-802d-c539856f5fec;bd7c467f-cd86-4522-8f7f-dc1327ed8ec1;Hours_Operate
+8faacd05-067d-4925-802d-c539856f5fec;bd7c467f-cd86-4522-8f7f-dc1327ed8ec1;Parking_Hours
+5f8fb8bc-05c1-4db2-93c8-2a99514c1664;2d99aacd-39d5-4ef5-b72c-fc48e1c29a02;Average MVA Branch Office Customer Wait Time (in minutes) (FY)
+343ac982-ac4f-4a62-8ca1-fceb69d69ab3;fa0018f3-b92c-4165-a470-96623968c632;Total Minutes
+20c9886e-1d38-477f-bf83-cf57cd9dd0bf;7df4d598-04a1-4577-8208-b6d04458ab60;Sleep Mode Default Time Upon Shipment (min.)
+20c9886e-1d38-477f-bf83-cf57cd9dd0bf;7df4d598-04a1-4577-8208-b6d04458ab60;Display Sleep Mode Default Time Upon Shipment (min.)
+9a4a7a49-c92b-4e04-b9b1-bc795013bf1f;b4302a79-15f4-4799-a6c5-473928ff5c89;CE_contact_hrs
+9a4a7a49-c92b-4e04-b9b1-bc795013bf1f;b4302a79-15f4-4799-a6c5-473928ff5c89;SpEvents_unit_hrs
+e181bc44-f40c-493e-8470-60ddb9d1bad4;8f4e23b0-4394-4127-b232-0835a7c1b434;HOURS
+2ed0646b-6058-4c10-a346-4376e37f52c9;f5c8c5c0-4454-46bf-b809-2105279e7d71;Actual  SearchHours
+2ed0646b-6058-4c10-a346-4376e37f52c9;f5c8c5c0-4454-46bf-b809-2105279e7d71; Actual  Review/ Segregation Hours
+2ed0646b-6058-4c10-a346-4376e37f52c9;f5c8c5c0-4454-46bf-b809-2105279e7d71;Actual Legal Review Hours
+2ed0646b-6058-4c10-a346-4376e37f52c9;f5c8c5c0-4454-46bf-b809-2105279e7d71;# of Search Hours Incurred for ALL Requests
+2ed0646b-6058-4c10-a346-4376e37f52c9;f5c8c5c0-4454-46bf-b809-2105279e7d71;# of Search Hours Incurred for COMPLEX Requests
+2ed0646b-6058-4c10-a346-4376e37f52c9;f5c8c5c0-4454-46bf-b809-2105279e7d71;# of Search Hours Incurred for  NONCOMPLEX, NONPERSONAL RECORD Requests
+2ed0646b-6058-4c10-a346-4376e37f52c9;f5c8c5c0-4454-46bf-b809-2105279e7d71;# of Search Hours Incurred for PERSONAL RECORD Requests
+2ed0646b-6058-4c10-a346-4376e37f52c9;f5c8c5c0-4454-46bf-b809-2105279e7d71;# of Review & Segregation Hours Incurred for ALL Requests
+2ed0646b-6058-4c10-a346-4376e37f52c9;f5c8c5c0-4454-46bf-b809-2105279e7d71;# of Review & Segregation Hours Incurred for COMPLEX Requests
+2ed0646b-6058-4c10-a346-4376e37f52c9;f5c8c5c0-4454-46bf-b809-2105279e7d71;# of Review & Segregation Hours Incurred for NONCOMPLEX, NONPERSONAL RECORD Requests
+2ed0646b-6058-4c10-a346-4376e37f52c9;f5c8c5c0-4454-46bf-b809-2105279e7d71;# of Review & Segregation Hours Incurred for PERSONAL RECORD Requests
+777c6033-c239-4af3-bcae-c061a8e383ca;37b8fcee-9430-49a5-8729-a3bcf883ee14;Operating Hours
+5f241a3c-76da-4efa-affa-03fe9a11f5d9;cc5e2d7e-64ae-4c4f-98a5-8b2d7e8d4c9c;Closure Hours Worked Per Week
+77577b40-1adb-4722-affb-a7d3ec470332;af06f8d3-9d27-4b58-a27e-2350cfb836fe;CONTINUING EDUCATION HOURS
+dd43075b-febc-4e9d-9ef3-e3db1b4769b2;af7acc80-92d8-4fac-9bf2-6e05842d15bb;Hours
+373f9e68-0697-4b78-ab11-5797aa1cb6b4;822a3493-cf79-4245-9404-21424cda25fb;Hours
+463b6037-6626-4c62-b03b-b1346d001818;9304c7b0-3e5f-4893-aa30-66e6083990a5;Average Morning Wait Time at Security Checkpoints: Minutes
+463b6037-6626-4c62-b03b-b1346d001818;9304c7b0-3e5f-4893-aa30-66e6083990a5;Average Afternoon Wait Time at Security Checkpoints: Minutes
+463b6037-6626-4c62-b03b-b1346d001818;9304c7b0-3e5f-4893-aa30-66e6083990a5;Average Repair Time Call to Completion: Minutes
+463b6037-6626-4c62-b03b-b1346d001818;9304c7b0-3e5f-4893-aa30-66e6083990a5;Sick Hours Utilized
+1a54bbdc-4167-4301-ad4e-f8fd98b64bd8;62109b17-0582-41e2-9116-e737df1ca93c;Average Wait Time (seconds): 7:00AM-3:00PM
+1a54bbdc-4167-4301-ad4e-f8fd98b64bd8;62109b17-0582-41e2-9116-e737df1ca93c;Average Wait Time (seconds): 3:00PM-11:00PM
+1a54bbdc-4167-4301-ad4e-f8fd98b64bd8;62109b17-0582-41e2-9116-e737df1ca93c;Average Wait Time (seconds): 11:00PM-7:00AM
+1d51859e-8ba8-44ba-b853-17f0666482ba;794aa5ce-6847-445a-adc1-b853d6783904;Light Source Life (hrs)
+ef7adfff-bcb0-4200-b143-ddead64f02d3;d5f8b99b-f256-4167-bf28-1ada49d813d1;Weekly Hours of Public Service
+8cf29b9c-d9f4-4901-89ac-006a83222b18;0eb011b4-fe2e-42ad-bf11-9a751282509b;Hours open typical week
+8cf29b9c-d9f4-4901-89ac-006a83222b18;0eb011b4-fe2e-42ad-bf11-9a751282509b;Hours open main outlet
+8cf29b9c-d9f4-4901-89ac-006a83222b18;0eb011b4-fe2e-42ad-bf11-9a751282509b;Hours open M-F after 5pm
+8cf29b9c-d9f4-4901-89ac-006a83222b18;0eb011b4-fe2e-42ad-bf11-9a751282509b;Hours open Sat & Sun
+1bd65a7c-38f6-4c52-a50d-e81a4668a051;931b009d-884f-4002-9853-ad73b7f1cde5;OJT Work Hours Reported
+1bd65a7c-38f6-4c52-a50d-e81a4668a051;931b009d-884f-4002-9853-ad73b7f1cde5;Work Hours Not Recorded Elsewhere
+1bd65a7c-38f6-4c52-a50d-e81a4668a051;931b009d-884f-4002-9853-ad73b7f1cde5;Total OJT Hours
+1bd65a7c-38f6-4c52-a50d-e81a4668a051;931b009d-884f-4002-9853-ad73b7f1cde5;RSI Reported Hours
+1bd65a7c-38f6-4c52-a50d-e81a4668a051;931b009d-884f-4002-9853-ad73b7f1cde5;RSI Other Hours
+1bd65a7c-38f6-4c52-a50d-e81a4668a051;931b009d-884f-4002-9853-ad73b7f1cde5;Total RSI Hours
+205b755b-3be0-4267-bd45-a30096b20af7;c7b94db7-6872-454c-af07-044169cbfec8;inspectionElapsedHours
+057c948f-5739-46c0-8e3e-21f3191dd8a9;e6f5be1a-ce06-4613-941c-1be00f004cc2;vol_wavg_tt_seconds
+e4745ef4-51ff-4b5f-85a3-58e127ba82ab;ff25bfaf-f51b-4346-9980-c092be9f4974;V: Actual  Search Hours
+e4745ef4-51ff-4b5f-85a3-58e127ba82ab;ff25bfaf-f51b-4346-9980-c092be9f4974; W: Actual  Review/ Segregation Hours
+e4745ef4-51ff-4b5f-85a3-58e127ba82ab;ff25bfaf-f51b-4346-9980-c092be9f4974;X: Actual Legal Review Hours
+e4745ef4-51ff-4b5f-85a3-58e127ba82ab;ff25bfaf-f51b-4346-9980-c092be9f4974;Y: TOTAL Actual SRS & Legal Review Hours
+e4745ef4-51ff-4b5f-85a3-58e127ba82ab;ff25bfaf-f51b-4346-9980-c092be9f4974;AT: # of Search Hours Incurred for ALL Requests
+e4745ef4-51ff-4b5f-85a3-58e127ba82ab;ff25bfaf-f51b-4346-9980-c092be9f4974;AU: # of Search Hours Incurred for COMPLEX Requests
+e4745ef4-51ff-4b5f-85a3-58e127ba82ab;ff25bfaf-f51b-4346-9980-c092be9f4974;AV: # of Search Hours Incurred for  NONCOMPLEX, NONPERSONAL RECORD Requests
+e4745ef4-51ff-4b5f-85a3-58e127ba82ab;ff25bfaf-f51b-4346-9980-c092be9f4974;AW: # of Search Hours Incurred for PERSONAL RECORD Requests
+e4745ef4-51ff-4b5f-85a3-58e127ba82ab;ff25bfaf-f51b-4346-9980-c092be9f4974;AX: # of Review & Segregation Hours Incurred for ALL Requests
+e4745ef4-51ff-4b5f-85a3-58e127ba82ab;ff25bfaf-f51b-4346-9980-c092be9f4974;AY: # of Review & Segregation Hours Incurred for COMPLEX Requests
+e4745ef4-51ff-4b5f-85a3-58e127ba82ab;ff25bfaf-f51b-4346-9980-c092be9f4974;AZ: # of Review & Segregation Hours Incurred for NONCOMPLEX, NONPERSONAL RECORD Requests
+e4745ef4-51ff-4b5f-85a3-58e127ba82ab;ff25bfaf-f51b-4346-9980-c092be9f4974;BA: # of Review & Segregation Hours Incurred for PERSONAL RECORD Requests
+2ee7fcb1-8246-46a6-b03e-b0621bf77cc3;3096336e-8c87-4114-8f8f-69c38e7c19cc;Actual Search Hours
+2ee7fcb1-8246-46a6-b03e-b0621bf77cc3;3096336e-8c87-4114-8f8f-69c38e7c19cc; Actual Review/ Segregation Hours
+2ee7fcb1-8246-46a6-b03e-b0621bf77cc3;3096336e-8c87-4114-8f8f-69c38e7c19cc;Actual Legal Review Hours
+2ee7fcb1-8246-46a6-b03e-b0621bf77cc3;3096336e-8c87-4114-8f8f-69c38e7c19cc;TOTAL Actual SRS & Legal Review Hours
+2ee7fcb1-8246-46a6-b03e-b0621bf77cc3;3096336e-8c87-4114-8f8f-69c38e7c19cc;# of Search Hours Incurred for ALL Requests
+2ee7fcb1-8246-46a6-b03e-b0621bf77cc3;3096336e-8c87-4114-8f8f-69c38e7c19cc;# of Search Hours Incurred for COMPLEX Requests
+2ee7fcb1-8246-46a6-b03e-b0621bf77cc3;3096336e-8c87-4114-8f8f-69c38e7c19cc;# of Search Hours Incurred for  NONCOMPLEX, NONPERSONAL RECORD Requests
+2ee7fcb1-8246-46a6-b03e-b0621bf77cc3;3096336e-8c87-4114-8f8f-69c38e7c19cc;# of Search Hours Incurred for PERSONAL RECORD Requests
+2ee7fcb1-8246-46a6-b03e-b0621bf77cc3;3096336e-8c87-4114-8f8f-69c38e7c19cc;# of Review & Segregation Hours Incurred for ALL Requests
+2ee7fcb1-8246-46a6-b03e-b0621bf77cc3;3096336e-8c87-4114-8f8f-69c38e7c19cc;# of Review & Segregation Hours Incurred for COMPLEX Requests
+2ee7fcb1-8246-46a6-b03e-b0621bf77cc3;3096336e-8c87-4114-8f8f-69c38e7c19cc;# of Review & Segregation Hours Incurred for NONCOMPLEX, NONPERSONAL RECORD Requests
+2ee7fcb1-8246-46a6-b03e-b0621bf77cc3;3096336e-8c87-4114-8f8f-69c38e7c19cc;# of Review & Segregation Hours Incurred for PERSONAL RECORD Requests
+fb5077e0-5c2d-428f-940e-58f99ef7008d;0374895a-fd12-4b2b-a3b9-bd7f704fd914;Hours open typical week
+fb5077e0-5c2d-428f-940e-58f99ef7008d;0374895a-fd12-4b2b-a3b9-bd7f704fd914;Hours open M-F after 5pm
+fb5077e0-5c2d-428f-940e-58f99ef7008d;0374895a-fd12-4b2b-a3b9-bd7f704fd914;Hours open Sat & Sun
+2071d147-4792-4d90-a1dc-b250f0889b8a;2c826273-f64c-4b67-8c4f-bdd925425cf9;Hours open typical week
+2071d147-4792-4d90-a1dc-b250f0889b8a;2c826273-f64c-4b67-8c4f-bdd925425cf9;Hours open main outlet
+2071d147-4792-4d90-a1dc-b250f0889b8a;2c826273-f64c-4b67-8c4f-bdd925425cf9;Hours open M-F after 5pm
+2071d147-4792-4d90-a1dc-b250f0889b8a;2c826273-f64c-4b67-8c4f-bdd925425cf9;Hours open Sat & Sun
+3bd4000f-1c61-4e4f-a362-32ae28e9c6c8;1a190631-90e1-421a-a9f9-ec60c8fbf5a6;Hours open typical week
+3bd4000f-1c61-4e4f-a362-32ae28e9c6c8;1a190631-90e1-421a-a9f9-ec60c8fbf5a6;Hours open main outlet
+3bd4000f-1c61-4e4f-a362-32ae28e9c6c8;1a190631-90e1-421a-a9f9-ec60c8fbf5a6;Hours open M-F after 5pm
+3bd4000f-1c61-4e4f-a362-32ae28e9c6c8;1a190631-90e1-421a-a9f9-ec60c8fbf5a6;Hours open Sat & Sun
+41ae2fa2-f9ab-4aa5-b016-362938adeb31;bdeeacfe-e51d-4ddd-849f-617edd6649b1;HoursFromDPW
+fc258f92-8489-491d-b5cf-524509bf2b51;b70ba448-15a9-40f1-aeeb-f989f3089428;Total Volunteer Hours
+08f66434-3652-4fb8-8cd6-e2f0df5b69a7;0db2c7db-65bc-4191-9976-73f1855a3002;# of Actual Search Hours
+08f66434-3652-4fb8-8cd6-e2f0df5b69a7;0db2c7db-65bc-4191-9976-73f1855a3002;# of Actual  Review/ Segregation Hours
+08f66434-3652-4fb8-8cd6-e2f0df5b69a7;0db2c7db-65bc-4191-9976-73f1855a3002;# of Actual Legal Review Hours
+08f66434-3652-4fb8-8cd6-e2f0df5b69a7;0db2c7db-65bc-4191-9976-73f1855a3002;TOTAL # of Actual SRS & Legal Review Hours
+c3aecf5e-625c-4b75-b7a1-b32cff2f2523;497cbd56-a6e9-42de-891b-7b4e366b081d;Hours_Operate
+0ba389ca-a523-4b78-9894-02023195b847;4e3d6330-9866-4361-8a86-e1c622a06d7b;MTDHoursTotal
+0ba389ca-a523-4b78-9894-02023195b847;4e3d6330-9866-4361-8a86-e1c622a06d7b;MTDAvgHours
+0ba389ca-a523-4b78-9894-02023195b847;4e3d6330-9866-4361-8a86-e1c622a06d7b;YTDHoursTotal
+0ba389ca-a523-4b78-9894-02023195b847;4e3d6330-9866-4361-8a86-e1c622a06d7b;YTDAvgHours
+5666a573-251e-4389-bbfe-fcb395cbb94b;98190964-c0b6-4d89-87c5-227712b83e4d;Weekly Hours of Public Service
+33852bd3-dabe-43f2-869f-ec2a7b5ab087;a18ad948-0b0d-429f-854a-7d27335f5129;MINUTE
+dd9cceae-945e-4b9f-86f1-0b98751e6a6d;2b911bb2-24b6-47c6-88b8-00279af867c1;Hours
+6bdcde7e-6b33-41d2-9bc6-72ffc3fa095e;4db3f343-3445-47e1-b3e4-6f50e3b9615b;Total Downtime (minutes)
+8c49afec-43a3-4b36-a849-a6eef969ca5c;c75f3c14-a85a-4a7c-9eed-2c2baaf0a80b;Light Source Life (hrs)
+4ada03a3-89ff-4b02-a2a2-083f849b6c99;0e3686f3-7c5c-4f7f-8fd1-87f3dee6b60f;MTDHoursTotal
+4ada03a3-89ff-4b02-a2a2-083f849b6c99;0e3686f3-7c5c-4f7f-8fd1-87f3dee6b60f;YTDHoursTotal
+6540a82a-5beb-4acc-809c-c7869a459ef4;76a01b0d-1e10-4309-9a72-20605f20025c;Life (hrs)
+cee33da1-c39b-4657-a96f-55c4451d96e4;21844045-35c2-47ab-ba4a-6a51b35a3bf0;Estimated Energy Test Cycle Time (min)
+af858440-34f9-4a91-b9bb-887c857f6162;6bb676b9-f8d1-4334-90a5-dce7f6c6c8fc;Total Downtime (Minutes)
+66b1a0b1-bc08-4adc-bb48-3f6cd5c4178e;80bd5862-bb74-4183-8dd3-9b8644e2a8d9;Hours open typical week
+66b1a0b1-bc08-4adc-bb48-3f6cd5c4178e;80bd5862-bb74-4183-8dd3-9b8644e2a8d9;Hours open M-F after 5pm
+66b1a0b1-bc08-4adc-bb48-3f6cd5c4178e;80bd5862-bb74-4183-8dd3-9b8644e2a8d9;Hours open Sat & Sun
+7635b93b-9945-4851-8ac3-1f846b6422cd;f62c5bb2-5057-452e-90b8-a1a0db64b1ec;Duration - Hours
+7635b93b-9945-4851-8ac3-1f846b6422cd;f62c5bb2-5057-452e-90b8-a1a0db64b1ec;Duration - Minutes
+bc560ef4-f010-4408-9706-71543f885af7;8404bf79-62a2-4d7f-a2aa-6b21f755d93d;Hours open typical week
+bc560ef4-f010-4408-9706-71543f885af7;8404bf79-62a2-4d7f-a2aa-6b21f755d93d;Hours open M-F after 5pm
+bc560ef4-f010-4408-9706-71543f885af7;8404bf79-62a2-4d7f-a2aa-6b21f755d93d;Hours open Sat & Sun
+d04c777d-173c-462d-9988-ebab1ab3c3bc;822873f5-a9df-48ad-9b69-31df31388c53;Hours open typical week
+d04c777d-173c-462d-9988-ebab1ab3c3bc;822873f5-a9df-48ad-9b69-31df31388c53;Hours open main outlet
+d04c777d-173c-462d-9988-ebab1ab3c3bc;822873f5-a9df-48ad-9b69-31df31388c53;Hours open M-F after 5pm
+d04c777d-173c-462d-9988-ebab1ab3c3bc;822873f5-a9df-48ad-9b69-31df31388c53;Hours open Sat & Sun
+d1076340-4d6e-4269-9285-cce16bc006ad;b5b04865-7a0c-44fa-a194-af1055d34348;Total Downtime (minutes)
+f97f93e3-bd04-4184-b015-255a887712d4;88a8944b-4ec0-433c-9504-0491a793f752;MINUTES
+bbb8069c-4022-4c86-a09d-9c5b6934d17d;92c4c733-af3c-4762-866e-a50f96190e01;AIA-Approved Continuing Education Hours Offered
+bbb8069c-4022-4c86-a09d-9c5b6934d17d;92c4c733-af3c-4762-866e-a50f96190e01;GBCI-Approved Continuing Education Hours Offered
+6ec2a69b-09f3-4c5f-9856-ba9417a7df76;59848c90-a2bf-41f2-9582-95c6ddbcb2eb;total_minutes
+bf8ae11f-dfd8-4f33-af4e-29d2a2c78a95;c583b2dd-e1b2-4dee-8a00-9d9a79881fe4;Hours
+79355e62-324e-44f2-9909-b8630c17e88e;68eb2f0c-20be-483d-bc1b-1089450ace18;Call Wait Time (minutes) (Monthly)
+79355e62-324e-44f2-9909-b8630c17e88e;68eb2f0c-20be-483d-bc1b-1089450ace18;TARGET: Call Wait Time (minutes) - under (Monthly)
+2382232e-696a-4502-80a8-5d91fe4cc48b;cd893b54-b086-4368-97d7-dbbfe8e86c2f; Hours
+2382232e-696a-4502-80a8-5d91fe4cc48b;cd893b54-b086-4368-97d7-dbbfe8e86c2f; Total_hrs
+2382232e-696a-4502-80a8-5d91fe4cc48b;cd893b54-b086-4368-97d7-dbbfe8e86c2f; civilian_hrs
+2382232e-696a-4502-80a8-5d91fe4cc48b;cd893b54-b086-4368-97d7-dbbfe8e86c2f; uniform_hrs
+c6918c97-f56a-408b-9b25-304316a26a76;afddbebe-58c8-4183-8b01-982e4d442db3;Hours_Operate
+6b3de5a6-5c4a-4b92-882b-3088e87e403c;02d61e2a-4ede-4610-a88e-49cd53113990;Total Training Hours
+6b3de5a6-5c4a-4b92-882b-3088e87e403c;02d61e2a-4ede-4610-a88e-49cd53113990;Total # of hours trained
+6b3de5a6-5c4a-4b92-882b-3088e87e403c;30672b13-c54b-4557-84e6-a3774a34c6a0;Total Training Hours
+6b3de5a6-5c4a-4b92-882b-3088e87e403c;30672b13-c54b-4557-84e6-a3774a34c6a0;Total # of hours trained
+6b3de5a6-5c4a-4b92-882b-3088e87e403c;ffc8caa0-7d0b-41ba-84e0-f3efa46bb00b;Total Training Hours
+6b3de5a6-5c4a-4b92-882b-3088e87e403c;ffc8caa0-7d0b-41ba-84e0-f3efa46bb00b;Total # of hours trained
+6b3de5a6-5c4a-4b92-882b-3088e87e403c;f2917a7c-e760-498f-98ba-33a0b06081c1;Total Training Hours
+6b3de5a6-5c4a-4b92-882b-3088e87e403c;f2917a7c-e760-498f-98ba-33a0b06081c1;Total # of Hours Trained
+6b3de5a6-5c4a-4b92-882b-3088e87e403c;e182ae7d-29fd-48b8-99af-c2dd221b2e4e;Total Training Hours
+6b3de5a6-5c4a-4b92-882b-3088e87e403c;e182ae7d-29fd-48b8-99af-c2dd221b2e4e;Total # of hours trained
+80a8cc0e-0ed4-4661-8877-b94481e48c0a;16ff57d3-5858-483f-a853-756a3ef3a446;Duration/Hours
+f0722529-9ef3-4146-83d1-052a9b475f35;ce06e7d1-0a4d-4e0e-8277-dd61a2b1190f;CALLS - AVERAGE TIME ON CALL (MINUTES) - OFFICER INITIATED
+f0722529-9ef3-4146-83d1-052a9b475f35;ce06e7d1-0a4d-4e0e-8277-dd61a2b1190f;CALLS - AVERAGE TIME ON CALL (MINUTES) - ALL
+667b7f39-8696-4e69-b523-40cade1f2ac6;bd5689f8-7116-4f0d-96f0-b6a4154d4135;Number Of Hours Worked
+7b5ce92f-b069-465b-b231-670ccc5f94b4;17372fbb-4c9a-4efc-a7fe-645f4b6e65d5;Hours_Operate
+7b5ce92f-b069-465b-b231-670ccc5f94b4;17372fbb-4c9a-4efc-a7fe-645f4b6e65d5;Parking_Hours
+3e762ed2-0a61-4e3d-9292-6bea1ac5d1e0;1dd80bf5-359f-4dac-a3a3-2c0f400f6fe3;Default Auto Power Down (APD) Timing (min.)
+64188991-1e50-4f39-899f-91b12cf28ef5;a8928c1d-fb7b-48cf-ba9d-31ce0afe2101;Weekly Hours of Public Service
+b14af2a5-8a31-440e-8130-2ba6ba743486;ae388d3c-a349-419f-8e08-ff7e042490fa;DowntimeHours
+b14af2a5-8a31-440e-8130-2ba6ba743486;ae388d3c-a349-419f-8e08-ff7e042490fa;NonDowntimeHours
+b14af2a5-8a31-440e-8130-2ba6ba743486;ae388d3c-a349-419f-8e08-ff7e042490fa;TotalHours
+76f2848f-c513-473d-9739-516625c0dac3;67a8d252-966d-4497-8d41-4d92974681f8;Actual Search Hours
+76f2848f-c513-473d-9739-516625c0dac3;67a8d252-966d-4497-8d41-4d92974681f8; Actual Review/ Segregation Hours
+76f2848f-c513-473d-9739-516625c0dac3;67a8d252-966d-4497-8d41-4d92974681f8;Actual Legal Review Hours
+76f2848f-c513-473d-9739-516625c0dac3;67a8d252-966d-4497-8d41-4d92974681f8;TOTAL Actual SRS & Legal Review Hours
+76f2848f-c513-473d-9739-516625c0dac3;67a8d252-966d-4497-8d41-4d92974681f8;# of Search Hours Incurred for ALL Requests
+76f2848f-c513-473d-9739-516625c0dac3;67a8d252-966d-4497-8d41-4d92974681f8;# of Search Hours Incurred for COMPLEX Requests
+76f2848f-c513-473d-9739-516625c0dac3;67a8d252-966d-4497-8d41-4d92974681f8;# of Search Hours Incurred for  NONCOMPLEX, NONPERSONAL RECORD Requests
+76f2848f-c513-473d-9739-516625c0dac3;67a8d252-966d-4497-8d41-4d92974681f8;# of Search Hours Incurred for PERSONAL RECORD Requests
+76f2848f-c513-473d-9739-516625c0dac3;67a8d252-966d-4497-8d41-4d92974681f8;# of Review & Segregation Hours Incurred for ALL Requests
+76f2848f-c513-473d-9739-516625c0dac3;67a8d252-966d-4497-8d41-4d92974681f8;# of Review & Segregation Hours Incurred for COMPLEX Requests
+76f2848f-c513-473d-9739-516625c0dac3;67a8d252-966d-4497-8d41-4d92974681f8;# of Review & Segregation Hours Incurred for NONCOMPLEX, NONPERSONAL RECORD Requests
+76f2848f-c513-473d-9739-516625c0dac3;67a8d252-966d-4497-8d41-4d92974681f8;# of Review & Segregation Hours Incurred for PERSONAL RECORD Requests
+4f579f1c-c20f-4c4f-b311-55ffbf5efe37;c4667d7a-48fe-4d8e-988c-f8f02f2986be;Average Call to Door Interval (Minutes)
+922da375-c45e-4886-9512-24164ed88d9b;a71f6529-1741-4354-aed2-9c8d8d8c2313;Hours open typical week
+922da375-c45e-4886-9512-24164ed88d9b;a71f6529-1741-4354-aed2-9c8d8d8c2313;Hours open main outlet
+922da375-c45e-4886-9512-24164ed88d9b;a71f6529-1741-4354-aed2-9c8d8d8c2313;Hours open M-F after 5pm
+922da375-c45e-4886-9512-24164ed88d9b;a71f6529-1741-4354-aed2-9c8d8d8c2313;Hours open Sat & Sun
+5e4a8394-fe6d-4769-a086-fc5ce96caf01;6c263d53-2a6a-4cc1-b962-ad8d92c4522e;t (s)
+34e0cfb1-60c8-4944-8a0b-52b71d162d8f;9b9b3879-5436-4e4c-be4c-f9dfe3100dde;HOURS
+1bbb603b-7ca1-46dc-9235-52a56e5905fc;84ae8032-b904-41ef-a856-e94faafd8787;average_travel_time_seconds
+d778a9de-1237-4c45-80fe-7c7e5b9432e8;957eb472-4137-4577-bfac-b149d556109f;Hours open typical week
+d778a9de-1237-4c45-80fe-7c7e5b9432e8;957eb472-4137-4577-bfac-b149d556109f;Hours open main outlet
+d778a9de-1237-4c45-80fe-7c7e5b9432e8;957eb472-4137-4577-bfac-b149d556109f;Hours open M-F after 5pm
+d778a9de-1237-4c45-80fe-7c7e5b9432e8;957eb472-4137-4577-bfac-b149d556109f;Hours open Sat & Sun
+987d6c22-3a33-4c2a-b0d5-740918214b48;053dc520-35bb-4016-a468-a512660e3b64;Light Source Life (Hours)
+fc300560-7b94-4a6c-9dfb-bb554fb4ae8b;93dc7178-5d86-4da3-ad98-6fb9ddf9956e;Junior Volunteer Hours
+86c86c83-2edb-439a-b230-99914d503d4e;2d4a15b2-be89-4de5-b0a2-0dbb98378c1b;HOURS
+63ef5d3b-5364-405c-bd59-0542dd568de0;114b92b6-8bd8-40c6-b085-665e45674a95;Hours open typical week
+63ef5d3b-5364-405c-bd59-0542dd568de0;114b92b6-8bd8-40c6-b085-665e45674a95;Hours open M-F after 5pm
+63ef5d3b-5364-405c-bd59-0542dd568de0;114b92b6-8bd8-40c6-b085-665e45674a95;Hours open Sat & Sun
+4a3c1cf5-6ee6-4eb2-afd9-3335c31a393f;9169ea39-cdb7-4abf-8e97-5a487a100591;Contact Hours
+1fbde895-a7bb-48fb-a230-ba124af3ea14;65e00291-75e2-4d67-9953-b87ba2c98767;Hours open typical week
+1fbde895-a7bb-48fb-a230-ba124af3ea14;65e00291-75e2-4d67-9953-b87ba2c98767;Hours open main outlet
+1fbde895-a7bb-48fb-a230-ba124af3ea14;65e00291-75e2-4d67-9953-b87ba2c98767;Hours open M-F after 5pm
+1fbde895-a7bb-48fb-a230-ba124af3ea14;65e00291-75e2-4d67-9953-b87ba2c98767;Hours open Sat & Sun
+589ff5ee-f2a7-4e50-b5ba-2127b7c03f92;4d7bdd8f-d885-4c82-8170-8e43283ee610;Average Travel Time to Work (Minutes)
+0d60b0c3-dd7d-4548-8474-7b01f763e357;69616dc9-f717-4f57-8b4a-9aafc01e6a0f;Parking_Hours
+f0c34a44-20ac-4fd5-a9a6-6428619200d5;c6a97b3f-bfd2-4480-a95e-9b2cc4b18f2b;Hours open typical week
+f0c34a44-20ac-4fd5-a9a6-6428619200d5;c6a97b3f-bfd2-4480-a95e-9b2cc4b18f2b;Hours open main outlet
+f0c34a44-20ac-4fd5-a9a6-6428619200d5;c6a97b3f-bfd2-4480-a95e-9b2cc4b18f2b;Hours open M-F after 5pm
+f0c34a44-20ac-4fd5-a9a6-6428619200d5;c6a97b3f-bfd2-4480-a95e-9b2cc4b18f2b;Hours open Sat & Sun
+2eaa9988-6b85-4f24-bbee-d74998a3f309;9a1f4d1b-f229-4bea-a068-fbb6a091f186;Weekly Hours of Public Service
+502b9949-9f19-4405-9ac3-4934b416121f;a8d8344b-63ba-4638-9eb0-84622f22b8fc;Hours
+4a336c72-8047-4910-8b87-8d549b4a67cb;c5a77e03-7773-4bcb-bde5-d7a92ed0187d;HOURS
+d51e0c8a-9153-4072-98d0-c8f52a9065fb;d799820a-77e7-44d8-bd66-2fe560413e1c;Actual  Search Hours
+d51e0c8a-9153-4072-98d0-c8f52a9065fb;d799820a-77e7-44d8-bd66-2fe560413e1c; Actual  Review/ Segregation Hours
+d51e0c8a-9153-4072-98d0-c8f52a9065fb;d799820a-77e7-44d8-bd66-2fe560413e1c;Actual Legal Review Hours
+d51e0c8a-9153-4072-98d0-c8f52a9065fb;d799820a-77e7-44d8-bd66-2fe560413e1c;TOTAL Actual SRS & Legal Review Hours
+d51e0c8a-9153-4072-98d0-c8f52a9065fb;d799820a-77e7-44d8-bd66-2fe560413e1c;# of Search Hours Incurred for ALL Requests
+d51e0c8a-9153-4072-98d0-c8f52a9065fb;d799820a-77e7-44d8-bd66-2fe560413e1c;# of Search Hours Incurred for COMPLEX Requests
+d51e0c8a-9153-4072-98d0-c8f52a9065fb;d799820a-77e7-44d8-bd66-2fe560413e1c;# of Search Hours Incurred for  NONCOMPLEX, NONPERSONAL RECORD Requests
+d51e0c8a-9153-4072-98d0-c8f52a9065fb;d799820a-77e7-44d8-bd66-2fe560413e1c;# of Search Hours Incurred for PERSONAL RECORD Requests
+d51e0c8a-9153-4072-98d0-c8f52a9065fb;d799820a-77e7-44d8-bd66-2fe560413e1c;# of Review & Segregation Hours Incurred for ALL Requests
+d51e0c8a-9153-4072-98d0-c8f52a9065fb;d799820a-77e7-44d8-bd66-2fe560413e1c;# of Review & Segregation Hours Incurred for COMPLEX Requests
+d51e0c8a-9153-4072-98d0-c8f52a9065fb;d799820a-77e7-44d8-bd66-2fe560413e1c;# of Review & Segregation Hours Incurred for NONCOMPLEX, NONPERSONAL RECORD Requests
+d51e0c8a-9153-4072-98d0-c8f52a9065fb;d799820a-77e7-44d8-bd66-2fe560413e1c;# of Review & Segregation Hours Incurred for PERSONAL RECORD Requests
+5608c74a-6a1d-43d4-8d55-48c605df6801;95038a33-4e9e-470e-84ca-2ca8d8b9ed77;Hours open typical week
+5608c74a-6a1d-43d4-8d55-48c605df6801;95038a33-4e9e-470e-84ca-2ca8d8b9ed77;Hours open main outlet
+5608c74a-6a1d-43d4-8d55-48c605df6801;95038a33-4e9e-470e-84ca-2ca8d8b9ed77;Hours open M-F after 5pm
+5608c74a-6a1d-43d4-8d55-48c605df6801;95038a33-4e9e-470e-84ca-2ca8d8b9ed77;Hours open Sat & Sun
+d0769995-e1ff-463c-9bc8-7a2d8cd73640;fe1ebec0-2512-460b-8b18-776c63f4e022;Total Downtime (minutes)
+076888c1-36c8-4643-8eec-0d7782f1f43e;f724f52b-beea-43c1-bdad-93ecae386383;TOTAL_HOURS
+076888c1-36c8-4643-8eec-0d7782f1f43e;f724f52b-beea-43c1-bdad-93ecae386383;TOTAL AVAL HOURS
+11035083-fbaf-4344-be45-a1c015ba2a47;eecf5b72-192e-4bf9-a7fc-824020424c1f;Average Stroke Alert  Call to Door Interval (Minutes)
+9db7ec54-aefe-433d-b7e2-a94f592626ee;40e2ef6d-aa86-4c8d-beab-8bca463df3e6;AMOUNT_HOURS
+ea067150-2c7b-489e-98d6-83c44d22a397;bd80e8e7-6d9b-4d69-9c64-ad5886adb98b;hours
+163029d9-8089-4121-a8f8-290686c261e5;75ff6bea-0d72-4359-8c97-fcaf26dd2dd0;HOURS
+c4c2ec3a-6f72-4cf5-a051-6d875dd60a59;e7587ac8-5b6f-4e80-b470-04cfaf4c934a;Hours open typical week
+c4c2ec3a-6f72-4cf5-a051-6d875dd60a59;e7587ac8-5b6f-4e80-b470-04cfaf4c934a;Hours open M-F after 5pm
+c4c2ec3a-6f72-4cf5-a051-6d875dd60a59;e7587ac8-5b6f-4e80-b470-04cfaf4c934a;Hours open Sat & Sun
+34a25892-94b9-4c88-81da-12f122b8ffab;7f650f17-c36a-42ac-bb3d-b65355ae02c7;Actual  Search Hours
+34a25892-94b9-4c88-81da-12f122b8ffab;7f650f17-c36a-42ac-bb3d-b65355ae02c7; Actual  Review/ Segregation Hours
+34a25892-94b9-4c88-81da-12f122b8ffab;7f650f17-c36a-42ac-bb3d-b65355ae02c7;Actual Legal Review Hours
+34a25892-94b9-4c88-81da-12f122b8ffab;7f650f17-c36a-42ac-bb3d-b65355ae02c7;TOTAL Actual SRS & Legal Review Hours
+34a25892-94b9-4c88-81da-12f122b8ffab;7f650f17-c36a-42ac-bb3d-b65355ae02c7;# of Search Hours Incurred for ALL Requests
+34a25892-94b9-4c88-81da-12f122b8ffab;7f650f17-c36a-42ac-bb3d-b65355ae02c7;# of Search Hours Incurred for COMPLEX Requests
+34a25892-94b9-4c88-81da-12f122b8ffab;7f650f17-c36a-42ac-bb3d-b65355ae02c7;# of Search Hours Incurred for  NONCOMPLEX, NONPERSONAL RECORD Requests
+34a25892-94b9-4c88-81da-12f122b8ffab;7f650f17-c36a-42ac-bb3d-b65355ae02c7;# of Search Hours Incurred for PERSONAL RECORD Requests
+34a25892-94b9-4c88-81da-12f122b8ffab;7f650f17-c36a-42ac-bb3d-b65355ae02c7;# of Review & Segregation Hours Incurred for ALL Requests
+34a25892-94b9-4c88-81da-12f122b8ffab;7f650f17-c36a-42ac-bb3d-b65355ae02c7;# of Review & Segregation Hours Incurred for COMPLEX Requests
+34a25892-94b9-4c88-81da-12f122b8ffab;7f650f17-c36a-42ac-bb3d-b65355ae02c7;# of Review & Segregation Hours Incurred for NONCOMPLEX, NONPERSONAL RECORD Requests
+34a25892-94b9-4c88-81da-12f122b8ffab;7f650f17-c36a-42ac-bb3d-b65355ae02c7;# of Review & Segregation Hours Incurred for PERSONAL RECORD Requests
+cbab9748-5348-4012-9203-a3e2cd89d512;2d1961eb-bd7f-4b39-b743-b5fd1ee44fa3;Actual  Search Hours
+cbab9748-5348-4012-9203-a3e2cd89d512;2d1961eb-bd7f-4b39-b743-b5fd1ee44fa3; Actual  Review/ Segregation Hours
+cbab9748-5348-4012-9203-a3e2cd89d512;2d1961eb-bd7f-4b39-b743-b5fd1ee44fa3;Actual Legal Review Hours
+cbab9748-5348-4012-9203-a3e2cd89d512;2d1961eb-bd7f-4b39-b743-b5fd1ee44fa3;TOTAL Actual SRS & Legal Review Hours
+cbab9748-5348-4012-9203-a3e2cd89d512;2d1961eb-bd7f-4b39-b743-b5fd1ee44fa3;# of Search Hours Incurred for ALL Requests
+cbab9748-5348-4012-9203-a3e2cd89d512;2d1961eb-bd7f-4b39-b743-b5fd1ee44fa3;# of Search Hours Incurred for COMPLEX Requests
+cbab9748-5348-4012-9203-a3e2cd89d512;2d1961eb-bd7f-4b39-b743-b5fd1ee44fa3;# of Search Hours Incurred for  NONCOMPLEX, NONPERSONAL RECORD Requests
+cbab9748-5348-4012-9203-a3e2cd89d512;2d1961eb-bd7f-4b39-b743-b5fd1ee44fa3;# of Search Hours Incurred for PERSONAL RECORD Requests
+cbab9748-5348-4012-9203-a3e2cd89d512;2d1961eb-bd7f-4b39-b743-b5fd1ee44fa3;# of Review & Segregation Hours Incurred for ALL Requests
+cbab9748-5348-4012-9203-a3e2cd89d512;2d1961eb-bd7f-4b39-b743-b5fd1ee44fa3;# of Review & Segregation Hours Incurred for COMPLEX Requests
+cbab9748-5348-4012-9203-a3e2cd89d512;2d1961eb-bd7f-4b39-b743-b5fd1ee44fa3;# of Review & Segregation Hours Incurred for NONCOMPLEX, NONPERSONAL RECORD Requests
+cbab9748-5348-4012-9203-a3e2cd89d512;2d1961eb-bd7f-4b39-b743-b5fd1ee44fa3;# of Review & Segregation Hours Incurred for PERSONAL RECORD Requests
+ac179ee9-7d32-4460-a1f5-53a9c51ffe34;374bc048-a182-42ae-8269-f5e9cf31bd9c;Comp Time Earned (Hours)
+ac179ee9-7d32-4460-a1f5-53a9c51ffe34;374bc048-a182-42ae-8269-f5e9cf31bd9c;Over Time Paid (Hours)
+b97b8c65-1a2a-4b3b-a0f4-fc59dcc8689b;eebc6615-e7bd-44dd-bbaa-76f253367689;AvgResponseHours
+832b3477-66ca-4817-adbe-e747ec152fcf;6c713693-2c0f-4ab8-8997-2443cfd2a7f3;duration_seconds
+f8299182-6da3-4549-b5a3-ca46f54843ca;cfeea76d-5e53-455f-befd-298a2dbdeee7;inspectionElapsedHours
+d9fa5550-51e2-4580-a861-2745bb1b9d07;beae9f6c-c9ad-4021-a76c-1ce2ccc5b6a7;SCHEDULED HOURS
+d9fa5550-51e2-4580-a861-2745bb1b9d07;beae9f6c-c9ad-4021-a76c-1ce2ccc5b6a7;TOTAL OVERTIME HOURS
+b90969bb-12fa-41ea-a618-5eda028f5a17;cc783fca-683d-4fed-a506-14e1523ab17d;Actual Search Hours
+b90969bb-12fa-41ea-a618-5eda028f5a17;cc783fca-683d-4fed-a506-14e1523ab17d; Actual Review/ Segregation Hours
+b90969bb-12fa-41ea-a618-5eda028f5a17;cc783fca-683d-4fed-a506-14e1523ab17d;Actual Legal Review Hours
+b90969bb-12fa-41ea-a618-5eda028f5a17;cc783fca-683d-4fed-a506-14e1523ab17d;TOTAL Actual SRS & Legal Review Hours
+b90969bb-12fa-41ea-a618-5eda028f5a17;cc783fca-683d-4fed-a506-14e1523ab17d;# of Search Hours Incurred for ALL Requests
+b90969bb-12fa-41ea-a618-5eda028f5a17;cc783fca-683d-4fed-a506-14e1523ab17d;# of Search Hours Incurred for COMPLEX Requests
+b90969bb-12fa-41ea-a618-5eda028f5a17;cc783fca-683d-4fed-a506-14e1523ab17d;# of Search Hours Incurred for  NONCOMPLEX, NONPERSONAL RECORD Requests
+b90969bb-12fa-41ea-a618-5eda028f5a17;cc783fca-683d-4fed-a506-14e1523ab17d;# of Search Hours Incurred for PERSONAL RECORD Requests
+b90969bb-12fa-41ea-a618-5eda028f5a17;cc783fca-683d-4fed-a506-14e1523ab17d;# of Review & Segregation Hours Incurred for ALL Requests
+b90969bb-12fa-41ea-a618-5eda028f5a17;cc783fca-683d-4fed-a506-14e1523ab17d;# of Review & Segregation Hours Incurred for COMPLEX Requests
+b90969bb-12fa-41ea-a618-5eda028f5a17;cc783fca-683d-4fed-a506-14e1523ab17d;# of Review & Segregation Hours Incurred for NONCOMPLEX, NONPERSONAL RECORD Requests
+b90969bb-12fa-41ea-a618-5eda028f5a17;cc783fca-683d-4fed-a506-14e1523ab17d;# of Review & Segregation Hours Incurred for PERSONAL RECORD Requests
+0354b8e8-4170-439f-b591-4603afc7926b;ab6e4975-7d54-4999-acb7-8ec105c7a6ba;MINUTES
+8302df62-ec58-48a1-abb5-e2b3152e72fb;4f78dc4e-d971-4df8-9d4b-7eb48acb65e8;311 Avg Call Wait Times (seconds)
+8302df62-ec58-48a1-abb5-e2b3152e72fb;4f78dc4e-d971-4df8-9d4b-7eb48acb65e8;311 Avg. Call Wait Time Change YOY (seconds)
+96c49dc3-a620-42b5-8b41-6897c3f09d85;c5daba20-1161-4110-9a5b-640ff4aaa2c7;Total Downtime (minutes)
+b2383bf0-71fc-4de6-a157-faa396086e0e;c2dc58d2-887f-499f-8de3-6474ceb82e20;inspectionElapsedHours
+32f5c44a-9fea-4d74-9d2c-3c86ca2114b8;d2a8768b-e78e-4a60-be63-88c311240576;Hours open typical week
+32f5c44a-9fea-4d74-9d2c-3c86ca2114b8;d2a8768b-e78e-4a60-be63-88c311240576;Hours open M-F after 5pm
+32f5c44a-9fea-4d74-9d2c-3c86ca2114b8;d2a8768b-e78e-4a60-be63-88c311240576;Hours open Sat & Sun
+634b0148-d818-4400-bc91-8c07f0464388;7c870ceb-6465-4829-9a06-7c833ea8ffed;Hours open typical week
+634b0148-d818-4400-bc91-8c07f0464388;7c870ceb-6465-4829-9a06-7c833ea8ffed;Hours open M-F after 5pm
+634b0148-d818-4400-bc91-8c07f0464388;7c870ceb-6465-4829-9a06-7c833ea8ffed;Hours open Sat & Sun
+90059aa5-c7f5-4c89-85cb-a3f1750b790d;f98da809-61a3-4232-9ab0-78002338d159;SCHEDULED HOURS
+28ff5e05-ea84-4637-a0e0-f36bb4edf298;1b979865-caa1-40cf-8569-8900a99b8dbd;Average Call to Door Interval (Minutes)
+3a027d05-0ddc-42a8-bc58-39b86a49d4c5;11be0c3d-eab1-49e8-942b-e99178ec7429;Paid Hours
+3a027d05-0ddc-42a8-bc58-39b86a49d4c5;11be0c3d-eab1-49e8-942b-e99178ec7429;Free Hours
+3a027d05-0ddc-42a8-bc58-39b86a49d4c5;11be0c3d-eab1-49e8-942b-e99178ec7429;Admin Hours
+2aee47e3-5f73-4627-97dc-ef7c0ae6dd89;7e81e3d5-21c7-4b8a-ab58-56868bd12df0;TargetHours
+2930f330-cc5f-4c06-b947-433311457b91;0ef7bafe-d247-4594-b2c3-428c518484c8;Hours_Operate
+28ed89a8-8df0-4e19-8a7d-acf4a407f9db;64a7a84e-6d67-42d4-b143-06b59d6a60b5;inspectionElapsedHours
+73101083-dc2d-43ac-b5f4-fbe3ff14e257;f472b94e-ad8d-43bd-9d20-fb1dc0fcb910;Average MVA Branch Office Customer Wait Time (in minutes) (FY)
+0ad45957-0998-487c-b796-21abb6fb6eae;9e3c14a4-78a5-4eef-a0f0-a0c997db52e3;Number Of Hour Worked
+fa3933f2-6f26-4c33-98db-3ccd7d5ff5fa;c863fc62-3091-44a2-858a-9d78f7e97b18;inspectionElapsedHours
+3f9b514a-3bc1-43c3-b903-1bf0a8af9298;c7d72079-5970-43a4-ac44-c49d0bc66596;HOURS
+3f9b514a-3bc1-43c3-b903-1bf0a8af9298;baa7dcbf-f34e-42d7-9567-bcf07839d115;Hours
+3f9b514a-3bc1-43c3-b903-1bf0a8af9298;5ac9e0c2-0354-4f51-930c-90018e1764ce;HOURS
+3f9b514a-3bc1-43c3-b903-1bf0a8af9298;4006a329-f7ff-4002-8a86-223a2eeb6f00;Hours
+a9df88f0-d923-4d11-8158-1699d6bdf636;f73c5f4b-9f70-402b-9fc2-42c79b36ebc3;SECONDS
+f04a6e20-8d8a-4bd4-b18d-62ff650ed309;9ccb3cb6-0e3a-41e4-ad6b-2be1ce6fe28d;Employee Hours
+a8507a50-518c-497a-acf4-1a76e4bfaff7;2e14d479-2c5c-4e3e-9824-e89773c628f8;Actual  SearchHours
+a8507a50-518c-497a-acf4-1a76e4bfaff7;2e14d479-2c5c-4e3e-9824-e89773c628f8; Actual  Review/ Segre-gation Hours
+a8507a50-518c-497a-acf4-1a76e4bfaff7;2e14d479-2c5c-4e3e-9824-e89773c628f8;ActualLegalReviewHours
+a8507a50-518c-497a-acf4-1a76e4bfaff7;2e14d479-2c5c-4e3e-9824-e89773c628f8;TOTAL Actual SRS & Legal ReviewHours
+a8507a50-518c-497a-acf4-1a76e4bfaff7;2e14d479-2c5c-4e3e-9824-e89773c628f8;# of Search Hours Incurred for ALL Requests
+a8507a50-518c-497a-acf4-1a76e4bfaff7;2e14d479-2c5c-4e3e-9824-e89773c628f8;# of Search Hours Incurred for COMPLEX Requests
+a8507a50-518c-497a-acf4-1a76e4bfaff7;2e14d479-2c5c-4e3e-9824-e89773c628f8;# of Search Hours Incurred for  NONCOMPLEX, NONPERSONAL RECORD Requests
+a8507a50-518c-497a-acf4-1a76e4bfaff7;2e14d479-2c5c-4e3e-9824-e89773c628f8;# of Search Hours Incurred for PERSONAL RECORD Requests
+a8507a50-518c-497a-acf4-1a76e4bfaff7;2e14d479-2c5c-4e3e-9824-e89773c628f8;# of Review & Segregation Hours Incurred for ALL Requests
+a8507a50-518c-497a-acf4-1a76e4bfaff7;2e14d479-2c5c-4e3e-9824-e89773c628f8;# of Review & Segregation Hours Incurred for COMPLEX Requests
+a8507a50-518c-497a-acf4-1a76e4bfaff7;2e14d479-2c5c-4e3e-9824-e89773c628f8;# of Review & Segregation Hours Incurred for NONCOMPLEX, NONPERSONAL RECORD Requests
+a8507a50-518c-497a-acf4-1a76e4bfaff7;2e14d479-2c5c-4e3e-9824-e89773c628f8;# of Review & Segregation Hours Incurred for PERSONAL RECORD Requests
+2f9648ba-c636-4776-ba1d-288a65db6ff6;e6f73011-c37f-4e66-b344-0e1dd05182d2;Hours open typical week
+2f9648ba-c636-4776-ba1d-288a65db6ff6;e6f73011-c37f-4e66-b344-0e1dd05182d2;Hours open M-F after 5pm
+2f9648ba-c636-4776-ba1d-288a65db6ff6;e6f73011-c37f-4e66-b344-0e1dd05182d2;Hours open Sat & Sun
+51438bf1-620e-4a1c-ab41-1e9e53e02b6c;77b3c763-a5db-4e9e-815d-74456c10ddef;AVERAGE TIME ON PAGE (SECONDS)
+409529ee-f60b-4b36-8744-0fa9b23d8f23;531216ee-4c17-41d7-bc22-a25c602cc93d;Hours open typical week
+409529ee-f60b-4b36-8744-0fa9b23d8f23;531216ee-4c17-41d7-bc22-a25c602cc93d;Hours open main outlet
+409529ee-f60b-4b36-8744-0fa9b23d8f23;531216ee-4c17-41d7-bc22-a25c602cc93d;Hours open M-F after 5pm
+409529ee-f60b-4b36-8744-0fa9b23d8f23;531216ee-4c17-41d7-bc22-a25c602cc93d;Hours open Sat & Sun
+ef62c2a0-8e5e-4bf5-a0cb-cae649c3a84a;09b879ae-66d9-45d9-8ea5-bc918c63db29;BillableHours
+7f030f6d-4d42-4f20-ab2e-5a395ca18cc7;65afba39-3e08-40d7-bff0-f23916093c9a;TotalHours
+4b3cae49-fb98-4bc1-a190-f98e964bb115;b762867a-cfa4-42db-a9bc-d10ee04a5415;inspectionElapsedHours
+435b78a0-df40-4a1d-b878-98a927401195;17c08a29-4606-4348-830d-e72ace736527;Actual  SearchHours
+435b78a0-df40-4a1d-b878-98a927401195;17c08a29-4606-4348-830d-e72ace736527; Actual  Review/ Segre-gation Hours
+435b78a0-df40-4a1d-b878-98a927401195;17c08a29-4606-4348-830d-e72ace736527;ActualLegalReviewHours
+435b78a0-df40-4a1d-b878-98a927401195;17c08a29-4606-4348-830d-e72ace736527;TOTAL Actual SRS & Legal ReviewHours
+435b78a0-df40-4a1d-b878-98a927401195;17c08a29-4606-4348-830d-e72ace736527;# of Search Hours Incurred for ALL Requests
+435b78a0-df40-4a1d-b878-98a927401195;17c08a29-4606-4348-830d-e72ace736527;# of Search Hours Incurred for COMPLEX Requests
+435b78a0-df40-4a1d-b878-98a927401195;17c08a29-4606-4348-830d-e72ace736527;# of Search Hours Incurred for  NONCOMPLEX, NONPERSONAL RECORD Requests
+435b78a0-df40-4a1d-b878-98a927401195;17c08a29-4606-4348-830d-e72ace736527;# of Search Hours Incurred for PERSONAL RECORD Requests
+435b78a0-df40-4a1d-b878-98a927401195;17c08a29-4606-4348-830d-e72ace736527;# of Review & Segregation Hours Incurred for ALL Requests
+435b78a0-df40-4a1d-b878-98a927401195;17c08a29-4606-4348-830d-e72ace736527;# of Review & Segregation Hours Incurred for COMPLEX Requests
+435b78a0-df40-4a1d-b878-98a927401195;17c08a29-4606-4348-830d-e72ace736527;# of Review & Segregation Hours Incurred for NONCOMPLEX, NONPERSONAL RECORD Requests
+435b78a0-df40-4a1d-b878-98a927401195;17c08a29-4606-4348-830d-e72ace736527;# of Review & Segregation Hours Incurred for PERSONAL RECORD Requests
+c40f4df9-44f8-4b22-9e04-38bff2c1d9dc;bce22413-8596-4448-b1f6-d29cbfb92fca;HOURS
+646bba58-3ae4-4f70-9874-8fabc581d8ce;f650498b-7cc9-4401-945d-f4389ad9e4dd;trip_duration_minutes
+a3026b82-8e25-4db7-994c-b6461834c597;8d53c982-89ce-47be-b9c7-7868264e58c3;Contact hours
+7dd2d1a7-f1b9-43e5-822d-c6279769fa5c;d64807d8-0d2c-4eae-aef7-27c381de2282;TreatmentHours
+d1a67106-8777-499b-b28c-f9978ec4199e;efab554a-bcc2-42ed-86bb-6b1b24d8635c;Actual Search Hours
+d1a67106-8777-499b-b28c-f9978ec4199e;efab554a-bcc2-42ed-86bb-6b1b24d8635c; Actual Review/ Segregation Hours
+d1a67106-8777-499b-b28c-f9978ec4199e;efab554a-bcc2-42ed-86bb-6b1b24d8635c;Actual Legal Review Hours
+d1a67106-8777-499b-b28c-f9978ec4199e;efab554a-bcc2-42ed-86bb-6b1b24d8635c;TOTAL Actual SRS & Legal Review Hours
+d1a67106-8777-499b-b28c-f9978ec4199e;efab554a-bcc2-42ed-86bb-6b1b24d8635c;# of Search Hours Incurred for ALL Requests
+d1a67106-8777-499b-b28c-f9978ec4199e;efab554a-bcc2-42ed-86bb-6b1b24d8635c;# of Search Hours Incurred for COMPLEX Requests
+d1a67106-8777-499b-b28c-f9978ec4199e;efab554a-bcc2-42ed-86bb-6b1b24d8635c;# of Search Hours Incurred for  NONCOMPLEX, NONPERSONAL RECORD Requests
+d1a67106-8777-499b-b28c-f9978ec4199e;efab554a-bcc2-42ed-86bb-6b1b24d8635c;# of Search Hours Incurred for PERSONAL RECORD Requests
+d1a67106-8777-499b-b28c-f9978ec4199e;efab554a-bcc2-42ed-86bb-6b1b24d8635c;# of Review & Segregation Hours Incurred for ALL Requests
+d1a67106-8777-499b-b28c-f9978ec4199e;efab554a-bcc2-42ed-86bb-6b1b24d8635c;# of Review & Segregation Hours Incurred for COMPLEX Requests
+d1a67106-8777-499b-b28c-f9978ec4199e;efab554a-bcc2-42ed-86bb-6b1b24d8635c;# of Review & Segregation Hours Incurred for NONCOMPLEX, NONPERSONAL RECORD Requests
+d1a67106-8777-499b-b28c-f9978ec4199e;efab554a-bcc2-42ed-86bb-6b1b24d8635c;# of Review & Segregation Hours Incurred for PERSONAL RECORD Requests

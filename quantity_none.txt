@@ -1,0 +1,1131 @@
+df101f9d-da28-45be-8f4f-ce9eae72efcc;fe5c37b5-0171-49e9-8090-35de59c540f3;PropertyGFABuilding(s)
+0d8ed40d-0dbe-4dce-8407-6a45167f0df9;40007dc0-e8c7-4d30-9c0d-c32c44b272b6;upper leg(s)
+0d8ed40d-0dbe-4dce-8407-6a45167f0df9;40007dc0-e8c7-4d30-9c0d-c32c44b272b6;hip(s)
+0d8ed40d-0dbe-4dce-8407-6a45167f0df9;40007dc0-e8c7-4d30-9c0d-c32c44b272b6;ankle(s)
+0d8ed40d-0dbe-4dce-8407-6a45167f0df9;40007dc0-e8c7-4d30-9c0d-c32c44b272b6;lower leg(s)
+0d8ed40d-0dbe-4dce-8407-6a45167f0df9;40007dc0-e8c7-4d30-9c0d-c32c44b272b6;knee(s)
+0d8ed40d-0dbe-4dce-8407-6a45167f0df9;40007dc0-e8c7-4d30-9c0d-c32c44b272b6;great toe(s)
+0d8ed40d-0dbe-4dce-8407-6a45167f0df9;40007dc0-e8c7-4d30-9c0d-c32c44b272b6;toe(s)
+8b298370-bb23-453d-9ed6-29b19efd69d7;b2c762a9-eb3d-4db4-b2fc-b070db0d6dc8;VRF Outdoor Model Number(s)
+b427a04d-3412-4e43-813f-2fc23280d720;2e82f8d6-6d05-4cf5-b784-deed01031f31;Person(s) in Family
+48bfb1a9-342f-49d4-a1cb-60d74a57c3a7;89047632-c426-4742-b981-3dd2ea6c1a12;sqmiles
+b71164b5-ac6e-43ea-b427-8a9f27047795;a483d25c-3a6d-4a1c-82e3-b3eb2f891c2f;SQMILES
+8a44265b-65ed-466f-9a02-6ed183b47d9a;8446dcc5-86c2-4147-8bf0-828e205a1763;SQMILES
+2f037d41-cdb6-47b6-8dfb-0f8c1f32e1a2;82c94816-6b85-4a43-91e8-17eb12c531df;sqmiles
+a0b28c7b-de45-426a-b367-3e15b2fe75fc;32d1ad9c-3c11-41a6-aefc-560b1c4c7bdb;SQMILES
+76887e62-1104-4df6-abca-c22c63dba3f4;50b638ed-3f67-4ae5-9fd9-c6603ba38711;sqmiles
+1b08b687-ef36-4157-9947-66672f999621;69ee58f3-e466-45bd-9420-2f35fbae4f83;SQMILES
+1906183e-dfe7-4947-bd09-9cdbad37382d;ce29f86d-762b-49d3-8552-f99d82c22835;SQMILES
+2ccd4605-5deb-4534-83f2-d3708e2b9672;2b99f4c8-495b-49e8-9ac0-a24d1e4cec17;SQMILES
+24ff2b5e-9fe3-4bf1-a3d2-333fda50cc85;bed2925d-a601-466b-9004-ef96fb9726ec;SQMILES
+649a8830-348e-422c-9322-67fdf63a37b3;3a594ef0-c533-4e46-b805-096b1b892704;Neighborhood_2010_SQMILES
+8ff7911a-df20-4b77-b0dd-bbeeba4be189;2499e81c-ae16-482a-b087-fee1a4d081a4;LandSqMile
+5b72a0c7-8bfd-4d5b-bcf6-3318cd9cd190;c9c2340d-995d-402e-b9ef-5a3ed88d4bb9;Number of Employees
+e9a8fb15-9d16-4471-8acc-b74967d2059e;477640af-329a-4739-911e-46a66ac3bbef;# of Days Open
+9921773c-0c3f-44de-af60-b315bb373213;5bb0c972-acf3-4b4d-839e-ad0cd1254a61;# of Virtual Servers
+4c8328a1-7417-430c-9cec-3a146958c191;50146d6b-526f-4290-bf80-f9046c71a23e;Cycle 1 Total Number of Health Deficiencies
+9db67003-3dad-4481-bcb6-ff1f67711918;17a64114-bc3a-4cfb-9bb9-1290ca81f9b0;# of City Employee Vanpool Seats Filled (Monthly)
+562dbd1c-92bf-484a-b413-ddb7ff51de47;ec363a9c-cfb0-4039-b6b7-f4ea9f8039fc;YOY BENCHMARK: # of call center calls answered (Monthly)
+907c7636-2a9c-49a2-9205-2db03cde7cbb;021cb72f-b62a-4d98-811e-05d17ff6774a;Number of Prescriptions
+061e7e94-825d-41d8-b59f-283b99a786e0;de56a131-995a-48f3-a3f3-30429a09cb36;2005 Number of Cases
+820f8bde-177e-4add-a442-3957fe018586;8d67327b-a336-43a5-aeb2-835224c5b245;Number of officers certified in the Basic Academy by the Iowa Law Enforcement Academy at Camp Dodge, Johnston, Iowa
+80f80d21-b331-4838-bb9a-0a58ecb21d3f;f8bb734c-a771-4630-aea5-26218c1c10df;Number of Settlement/Status Conferences Held
+29b231ce-5ee2-40e2-bfde-341a664a7066;9c257a58-4796-4dfa-9419-828cff80d34a;Number of Employees
+0c7357a9-05f5-4978-bb2c-0da04c024369;fb6156fa-6780-4360-9c54-dac8088e9e89;Target Sumulative Number of Systems Surveyed
+85322747-fe03-4a96-833d-ae3f62f554a4;779ccf2b-3b47-46ed-b184-a224e36add6f;Number of tax Payers
+773140be-a2ce-4566-9974-f1f79d71eff7;e87173f8-85c1-4124-a00b-e6c28360ce94;Ofc. Domestic Violence Avg. Number of Families Served per Day
+f6622b1f-93c8-4d29-aa5e-e1071d87c3c9;fb79b2b7-e913-4db9-a611-f9ae1e9a12f2;Total Number of Plants
+bfe5e504-1645-425b-b687-7f4fdab95434;08864e98-d8a0-4bcd-86d0-d522f81dda0d;Number of Boats
+1d679ce8-a52a-4a10-888b-659746be3df0;129c6328-0890-4047-8bf2-ca88b8b4117a;NUMBER OF SECTION 8 TRANSITION APARTMENTS
+1e2e4d3a-09fa-4d5c-83dc-c09dcc1fa153;62287207-c00a-4d27-83b3-8a85f056582f;NUMBER OF STUDENTS / SEATS FILLED
+5f3be00a-83ab-47b6-8033-e7d085b63f66;8c070735-1c94-4745-9d37-821915ef92eb;Number of Violations
+f31d8128-ce13-4a38-adf2-3597641a898d;702c585f-632d-4ba6-867c-921f394bbdf8;Target Number of Compliance Inspections
+2160be6b-1dd9-47b3-b9dc-7f9d91231195;43220f43-ae84-4560-8bf7-0841ac13d2a1;Number of Prescriptions
+a1ce71b4-816a-4703-af20-2fb4bb410804;58ddc942-7d0a-4ead-8f76-93a89107f9e4;NUMBER OF SALES
+6eeb4234-8251-451c-9e61-0ca841471d94;c7456ff6-ff17-4486-831c-4752f766c813;Number of Prescriptions
+399d1e78-c5ba-4fe5-b92c-9ade3bc783c2;d74b056c-e47f-4034-a698-cc6f45278738;Number of Taxpayers
+ee32dbdf-b8af-4568-b5dc-025cae7a79d8;4fac3831-94bc-4e63-9e59-c171c33a4271;Number of Taxpayers
+b9f396a5-8866-42a4-b21b-5139e6ab1291;e6a503f3-c711-40fd-8a46-f9123418fc83;Number of Dwelling units
+286dc9a2-e62e-4c8c-9ebe-d1d75d46fe0a;edea9ef4-a1fd-4f57-a077-185070c0587a;Number of Employees
+6c877eff-a059-4afe-a944-17bfd793dd47;85cee197-9749-4fe5-9f81-39c67e637a9b;Number of Students
+f3822503-5d5e-4cac-ab1c-c8c18847bc7e;9130e18b-f3ad-4950-b586-ec29f25c716a;Number of Outputs
+c10fc658-a8ea-4517-9619-fae3e3e8aef3;4450f124-5b66-4709-a1f2-dfd6ea72eb32;Number of Patients Included in  Kt/V Adult Hemodialysis Measure Score Achievement Period
+c44cc582-d650-4b9f-83d2-95f303ebe9f5;7c4bf749-a673-42e6-b5a9-f477ec1089b9;Number of Deaths
+29b3c20b-0563-47f4-8964-900dc1860fb3;6697ab0b-d79d-4d1d-ba45-2080b81d49c7;Number of events
+db9bb4f3-38c2-4173-bfe4-51cb3f450f4f;cab7b7d0-2ae3-47cf-9c7e-48bd13148818;Number of Prescriptions
+53632272-7f80-4b87-be5d-cc72970311ef;275935be-63ee-4bc6-89da-9910321f939c;Number of Hospitals Receiving this Range
+c19e8b81-0dee-4164-9698-ec7c949d8f07;6b41c748-ceff-4c18-a026-247ad5eb7aca;Number of Persons with Disabilities Receiving In-Home Care
+74443f7b-74e6-4bef-9cfe-0b4e75afb63a;26f1ef9e-c1d8-4314-9230-a30ffb9825d4;Number of Vacant Commercial Addresses
+f16500d3-1acb-4e77-9995-67df60910146;6b65ba29-281c-416f-a34d-d2524f5a8d10;# of audience members, visitors and participants for DCA-managed Community Arts programs (Annually FY)
+97bfe50a-5671-42ec-82be-b489387cf243;6ef85e97-a559-4f71-94f0-71dee0dfdc51;Number of Officers Decertified
+f42adaa8-6d4f-47ad-b22f-3bb92bf91889;0939fdb5-25b2-41cc-a771-cf2caff6f9d4;Number of Circles
+25899204-eb18-4ca3-8e96-fec8d5e3b7b1;9758d713-cda2-46e8-bef1-7d649c2276e4;Number of Rail Containers Moved
+7d7f3550-255b-4d25-b73b-cd53ea2cbaf2;d3b0520e-b521-4786-bd52-10a445a5da10;Number of Visits
+ba3db89b-d70c-4bf7-86f8-6c5e654a010b;43410b90-693d-4f21-b9ea-3b55413936b3;# of Fatalities
+067eb961-f4c7-4269-8355-7c7d04615692;a84d1500-ee83-4e73-bded-4cc93fbe6999;Number of Programs
+c6aa0b9f-685b-473f-9155-9f3972a4c821;aba12877-cc29-4a4c-94e0-b35442db4ee4;Number of Racks
+90fd470c-4d51-4cbf-9f3d-82b61b6df448;6bd7177e-25a3-4322-9f1c-149cc08549a1;Number of Prescriptions
+37f1921e-4d43-47e8-97ba-49125db5084d;a5e39a42-d955-43dd-9f2d-1d3392c42e4b;# of Dialysis Stations
+ccbf004b-0421-499b-b3d3-0c21d54039d7;5d0aaa9a-d114-498f-ba44-8caab131ec51;Cumulative # of street lights converted to LED (Annual FY)
+e6b4e903-0368-4281-91a3-1d0e755d160c;ea26ccdb-c20d-4604-aa65-03e7dee08057;# of Distinctions
+94ae9f96-91bd-4b83-8985-5d0a65724c2e;5b5aa471-d65e-4301-acd4-405fd54ddf77;NUMBER OF SALES
+c4c0d18d-b510-48b3-a1c1-69793f0540b0;1ce2834b-92c5-4827-a237-ec40102ade9e;Number of States Reporting
+88ace0ba-8426-45d7-a5d0-e3d3e5190ecf;964c7846-e29d-48fe-bd2b-cbef1e93b5da;Number of Premises Baited
+67f29c9d-9bdf-404f-8386-a0f9cf4257b3;3152fb23-d46a-4805-91a4-62cd096c945b;# of cohort Total Grads
+5f8fb8bc-05c1-4db2-93c8-2a99514c1664;2d99aacd-39d5-4ef5-b72c-fc48e1c29a02;Number of Traffic-Related Fatalities on all Roads in MD (CY)
+da65ebda-73e4-4427-8359-19fe45ac0c18;5dd18f60-3175-4634-a998-129bfb00ee05;Number of glass doors
+059b340d-51b9-4ccc-bd3a-d3b0b8261dbd;e6f8fca4-513b-4643-b06b-899bb417052d;Number of Abortions
+ac3100c6-589f-4568-8722-27b0d8592ab0;8f84779a-45c7-4df3-bb18-cdb2f45f13b1;Number of Perennial Streams
+6ce9adea-667f-40b7-9156-f7e9089d7f70;32daed99-4d23-4cfa-92a2-2f836e382e88;Number of Diabetes Deaths
+d7ef2b78-dbac-4f4a-8b98-60a43122145e;36dfb50f-de1f-4b63-8a1a-c3ed9722aac8;Total Number of Health Deficiencies
+6a739d75-2391-49fb-b019-746a8e4b9d5f;b88062ab-73f9-4170-a5c3-3142dc3b3acb;Number of Prescriptions
+2575d1dd-2164-46b0-adfc-e5c787ade6a2;5377cdc8-0b97-4a4f-8304-39580f1441dc;Number of Acute Hospital Readmissions
+2ee598e4-7700-4d2a-b6af-185da9b87e53;e9fe45ee-bf10-4df0-9926-91124af3d0ed;Number of Full Time Employees
+7fabbc65-206a-417c-88f6-206b4ae63112;3cea2a23-c45b-432e-a9f9-6d25c7402dce;Number of Rows
+4f9b32dd-e9da-47bc-bc7f-30ed03d22127;0129d4f1-6aa2-4e0f-957d-144b20d26726;Number of Doors
+6c5a81f3-a012-447e-a741-62a3bb4bdb4a;58c4b4ef-972c-4679-9b3a-b96d7e646cf0;Number of visitors to Griffith Observatory (Annually FY)
+6f4e84de-bff4-4c8e-8fe2-7d44a69399be;1394d73b-2337-4b1f-a14c-0935b8c71176;# of Youth Participation
+a59afc7b-4522-439d-b495-193fd525d5e5;fe6108ed-458a-416d-bab8-1b48d38454bb;Number of Affected Employees
+d54cddc4-b019-4adc-b328-23588f1f7d94;bf2fab37-ced6-4c03-913f-9e7887a58523;Number of Claims, Total
+e1512230-a575-43c3-b38d-9ddb5beab8d4;17435c61-0523-4842-b321-b7162b4e9aa7;Number of Easements
+78700a58-f7dd-4304-9c6c-331a09dcbc3e;c19bdaa8-29ea-4f79-98c3-c31a9fd02650;Number of Incidents
+050dd5ed-5565-43f5-a94f-131a298ba0b6;40729c85-18fc-4b73-8e7c-1015e4a0cf2f;Number of Taxpayers
+2bd9cd10-79b0-484b-9dca-e0aeca745d6c;3f081334-0220-4d6a-ac67-020634c432af;Number of Emergency Incidents with Valid Data
+67f0d25d-58b8-4162-b944-e4cdfe7bebcb;0af44712-2c35-4bdf-947a-0aeb4ff2860a;Number of Claims
+65c9c466-f8ab-4253-9e82-56b898fc07ce;e0d842e4-3cb5-4cf8-b704-3c35d62fc8bb;NUMBER OF PERSONS INJURED
+e37ca40d-9c39-4ecf-8bc3-0f166cb24f3e;9a834d93-6c1e-4587-a7d7-539f2f00da09;Adopted Budget - Number of Contracts
+bea94920-a4f7-49e8-a1ad-24b1f570d96e;661f987d-75c4-4d3a-bcf7-daba22370a6b;Number of Employees
+cfeabe56-7ce1-4ba2-ab78-e64f0346a21f;2ac904a8-318f-4599-a39d-a9b3ce8b0e0b;Number of Employees
+c2c80ec0-4f4a-480c-b7fb-96c9c1b42cc8;6755b29c-c669-4f61-9455-cc91ca511da4;Number of 2-Year Colleges
+601af691-5e13-440e-afbd-d4098e9ae73f;c621f7e5-eb88-4b14-9541-f28449e7b4fd;NUMBER OF SALES
+795abb62-cf99-4542-8865-caf589cedfdc;9f7b46ac-6e57-482a-af66-1fc75c710c29;# of Locations
+2ed0646b-6058-4c10-a346-4376e37f52c9;f5c8c5c0-4454-46bf-b809-2105279e7d71;# of Workdays to Complete
+ca6ae260-aaad-4bea-8511-808acfcfbda0;ddb71ed2-3dc5-4213-8c5f-0e5741733411;NUMBER OF STUDENTS / SEATS FILLED
+939bb18e-1a6a-4cd1-b64a-71e1f70a3518;ac96eac7-7203-4705-ac28-80418c2060b0;Total Number of Credits
+876ae758-61b8-4c82-812f-863b0a06420c;c3e9fb97-d05d-4a0f-80c2-eec2f60632d7;Number of Returns
+125d7518-4769-41f8-8290-4f2b338a7437;c3f158b3-9ada-418c-83a4-7bdfcb70927f;Provisional Number of Deaths
+a9447d33-25a9-47c6-97ca-592e382dfb00;4ed80f2a-c0bc-47a9-b203-dd453b5989c7;Number of City employees receiving in person or online disability rights training within designated time period (Monthly)
+969ba4a8-8b1f-4d38-bcb6-ae571efdd9e8;d66981e9-5423-4bdc-8561-ca4c0f2b0133;Number of Populations
+6d690feb-f864-444c-b8e1-4f687aab6301;30eec890-d87a-4835-b183-37ab3e1d00b0;Number of Power Run-ups
+ad10bb19-9b7d-45d5-9d2f-aedaf9dbe719;492791ac-4565-4469-91a0-8e69ee5f28e1;APTS Number of Recipients
+dbad9fdf-f455-47fc-98c1-5d4c3d864bc7;e7ac7043-dae8-4abb-b8a4-45b2085a6502;# of Tickets Issued
+ae57f480-8f51-4ba5-a5e5-7e60e8fb9b2a;eb9247be-261d-4e95-9011-a44c2623e370;Number of Patients Turned Away From City STI Clinics
+6cf9799f-7929-405e-bb6b-5f2a0437e7de;e62948b1-55b3-45b7-96fa-7743380bfe2e;# OF UNITS
+0079c5a4-21f5-42e9-b130-5b1c6f7f3692;e41b5332-f9f3-433f-95e2-7701104ba29f;# Of Positions
+ca5cd04e-82c1-43da-8a72-3ceac212cd7d;a80118b8-5a12-4bd2-87a5-1634c11021e1;# of Identical Boilers
+78b5790c-6f67-4b46-aad6-6a0f8d8df7f1;eadceeb6-2809-49fb-8ef2-060ba178c93b;Number of Sites
+5a3859b2-ece9-4e86-8ff0-c070878b6e58;d209b895-7715-4ee4-a897-3ec4898f9e78;Number of Jobs Created
+a76e0082-2b34-451d-b641-36042f8709b7;347950a2-3a80-46d2-be41-b5acc9ed19b0;Number of Applicants
+52ba4332-b674-41e8-ad70-6702072695dc;090a0033-82d0-4224-adb3-ed6c4387987d;Number of Employees
+f9220c0b-1b4d-4631-8d76-8ee8580a448b;ad059343-6eb1-497d-8aa1-2ce297388066;Number of Black Carts Delivered
+3ba89ae1-4655-44f5-b2f8-38241ab1a9c1;9b853db2-3c57-4195-9f01-9c3f10ff7c52;Number of Computers
+8e26acb3-a210-480f-a2ab-aa4d01845255;bb54ccf5-5125-4a23-a989-9ba619d0a154;Number of Primary Care patients
+d11238f0-e35b-4207-8a6c-d6b888cf0fb8;60045e8e-18e9-4e33-ac0f-5b8f370d0142;# of Comments
+4a858b6a-9d73-497f-a9d0-bf099d13ca50;cbd9bc13-5ab2-4c65-9f81-60a2e2044e2d;Number of unique visitors to the CBL portal web page
+fef36e8d-2e2d-435c-8643-a0e61b25bf9d;505a19be-1201-4151-af76-b8347d3ae07b;Number of Employees
+b5a9e7cb-324d-4df3-adb1-52f19ec7a56d;54528910-0c87-434b-bfc8-b32940625421;Number of Incidents with Valid Data
+68eaf94f-1066-4e90-a003-ce4939f71596;60a13af6-2c4e-4a4a-9a7a-7118da75a308;Number of firms completed the survey
+8e9a0aff-c333-45ea-837c-5e58a668fb8a;96b76aa2-450f-4d35-ae90-36e5c9a66d88;# of Incumbents
+463b6037-6626-4c62-b03b-b1346d001818;9304c7b0-3e5f-4893-aa30-66e6083990a5;Number of ARFF Responses
+1f7c8130-19c5-4e40-a542-88c4a3b8907b;9f7bc3d2-f154-481e-ac1a-acf7ae7b94e5;Number of Employees
+6e5e3f3c-866f-4ac0-b907-948995f89a10;5da1f486-acfa-46dd-a4b5-1ec8aae93b32;Number of Units
+26bfc048-1dfd-4509-bb01-e43d9d27de58;b5a535c6-6cde-4099-a0f3-a49365d86b4e;Number of children under six years of age with elevated blood lead levels (≥10 ug/dl)
+1a54bbdc-4167-4301-ad4e-f8fd98b64bd8;62109b17-0582-41e2-9116-e737df1ca93c;Average Number of Operators, Mon-Fri, (7:00AM-3:00PM)
+05c8865e-d3a2-4a2e-b576-3da811d0c4c0;4dd2e2b4-71bf-4533-80ad-4a65d9311a38;Number of Separate Buildings
+3102b059-11c4-4b7b-bb1c-31f24d70b265;f7a73894-d0a2-41e6-92a1-1dfe5546c777;Number of Prescriptions
+3a3d56b2-94a2-4b7f-afe8-0f522355d4b2;0e5d0110-4d2f-4886-9216-122f6041712d;Number of Employees
+8cf29b9c-d9f4-4901-89ac-006a83222b18;0eb011b4-fe2e-42ad-bf11-9a751282509b;Number of events
+10a3e588-cba0-4de7-8fd6-5aa7bc382070;0189c640-6345-47ee-878a-a7e4e682607e;2005 Number of Officers
+6106f211-6fb6-4864-a32b-4dc27ac8d2c5;17cbe7d8-cb9a-4e16-961b-d5e8d964ec34;Number of Taxpayers
+e4745ef4-51ff-4b5f-85a3-58e127ba82ab;ff25bfaf-f51b-4346-9980-c092be9f4974;F: # of Personal Records Requests
+67b083b4-4ff1-4aba-91b4-7570231f7db8;457b6446-4bbd-4fc3-bd0e-87bf5ad1b141;Number of Intercepts
+a788acec-b9e7-4e62-83ba-bcebc2dd6e22;89e3f0e1-0ed9-4e43-8d72-4c720ab99865;Number of Deaths
+11e78f43-350a-4944-963d-d03ff1a75863;e410bc58-bed5-429d-9c56-88854bb4105f;Number of Farms
+2ee7fcb1-8246-46a6-b03e-b0621bf77cc3;3096336e-8c87-4114-8f8f-69c38e7c19cc;# of Requests Received
+fb5077e0-5c2d-428f-940e-58f99ef7008d;0374895a-fd12-4b2b-a3b9-bd7f704fd914;Number of events
+02ed3e94-ecd1-43b6-ac6e-e5bbe9039b5c;4a89be3c-5c2d-4c2f-9b81-486f2d84d2c7;NUMBER OF CATCH BASIN CLEANED
+52475f76-dc0e-4f4d-a184-eb6988f4760e;f299e88d-9922-4941-b028-d63421fd0ca6;Number of All Returns
+8d28b32c-6003-48b7-af06-f6f3d1e257b2;1cc6f856-1d75-4e4f-a17c-ad31bb023a6a;Number of Buildings
+a66c0620-df90-4310-ad05-9249fbefc7dd;2402d368-db9a-439d-9df6-ccc4a44bebac;Number of EITC Recipients
+4c331015-c805-4052-a3b7-b7308c6db433;fde5428d-54de-4428-b4fd-26183dcf16dd;Total Number of Calls
+87d1a812-8970-4c62-b8d2-1558989e16eb;f96220ff-77f7-411e-8b42-81937a0b6f99;Number of Bids
+2071d147-4792-4d90-a1dc-b250f0889b8a;2c826273-f64c-4b67-8c4f-bdd925425cf9;Number of events
+f883744f-44ec-41c4-ace4-bd14ba4afcd0;c5f1c220-4a1a-490a-aeb1-d261d937358b;# of Shows
+a7e8508f-0311-4f6c-92db-3f6652d7d90c;e402bf1c-1c51-456b-b5ea-fa4d71898438;Number of Employment for Created Jobs
+3bd4000f-1c61-4e4f-a362-32ae28e9c6c8;1a190631-90e1-421a-a9f9-ec60c8fbf5a6;Number of events
+c4f337ea-b868-4414-b63b-8f96d0bf0b96;52a6e4bc-7240-4c33-be8b-d49e07a2e35c;Number of Group Practice members
+91ce6f31-b084-4d9b-b8d9-115a77dae0e1;07f5e643-5f8d-4002-9093-2909b74f924d;Violent: Number of Homicides
+7956ba76-2ea7-406a-bff2-98dc8361ffc6;e88dd90d-0a4a-4cc8-a75e-4c902deb1335;Number of Alarms
+edcea402-d3a4-48ac-86d3-5bcd234d2578;cbcdd246-6ced-4961-98ea-18adeded5a32;NUMBER OF PASSENGERS
+c3f96e40-92ef-4544-8de6-7dea3b6baca0;e80bef66-ddeb-4f0a-bf4f-38dda6a026db;Total number of patients
+1e87cced-08f9-47d3-bcc0-26863ae77de8;f6a6ec5b-101c-4806-8c2f-2587aeb8a79f;Number of Years Compliant
+a539a122-a312-449b-8cb8-f09e43c94066;678206fe-4d14-4b2e-940b-7c0164339503;Average number of days for payments to be processed and forwarded (Quarterly)
+da6306b2-4cd4-4389-8ea8-04384ec2d093;12e86773-094b-473a-a62e-1bb3213d48c7;Number of Taxpayers
+9d12b258-aece-4abc-bed8-0cecadcde3c8;3ba1fc51-2dd8-4ba9-af8e-f0a2f3d50977;Number of Children Served
+ece5c144-4ae2-4e70-b035-70d2ee72f556;a5ed3fa0-9415-4a5a-8d41-ed997ed5b17a;Number of Full Time Employees
+c9cd8d23-e64e-4b95-86d3-011043247d30;8f1a0569-799b-4d73-a5e1-a6d2ba253edf;Total Number of Grantees (FY2013)
+60670381-965e-4862-ac8e-001b578455fd;92fc517f-d955-41eb-a28f-88f2c6e8220b;Number of Taxpayers
+66441df7-81db-43ec-89ca-635c14385433;39fa5d1a-9521-4525-9a0b-b18581f76ae1;# of Projects Rated
+0c3a4e64-0292-44cc-b91d-d99fae15accd;bf946b5b-d8d5-4934-92fd-fddd66cfa985;Number of Prescriptions
+52327046-e359-4256-82a2-6aeb91dc35fe;4cee5092-1025-4fc7-8a8d-d230802438d8;2005 Number of Officers
+0b22e9f2-72a7-4ed7-859c-6d71cd81171f;2a5669e1-415f-454e-bc8e-53e1af10f40f;Number of Prescriptions
+386dd603-13a4-4af3-8300-dc7890068d5c;c0a3ecfb-a05c-4814-b3ca-911f8533a758;Floats - Number of Round Trips
+92a6d09c-d46f-494c-884b-4245c37837b3;4c489103-7001-42aa-b9eb-14dd092448d8;NUMBER OF STUDENTS / SEATS FILLED
+3c68781e-c458-421d-8958-4196759ef229;94039304-f4cc-41d9-a86e-86e0b64a359d;Number of Prescriptions Filled
+4ec69bca-7835-4c60-91e0-6a1a0f32cc5b;6ebde074-e504-44a9-8018-f1ea6394a081;# of DSL Providers
+949d3a76-b055-410c-a077-b474d689e617;77cfbfd8-f5d2-4b88-b45c-ef5f16c1e9b6;# OF GALLONS
+f897d340-48ac-4b39-baac-10ed59c656bf;0c614627-5e0f-4ccb-b6e8-017b28bcc78a;Number of Prescriptions
+08f66434-3652-4fb8-8cd6-e2f0df5b69a7;0db2c7db-65bc-4191-9976-73f1855a3002;# of Personal Records Requests
+ce2223c1-68cb-4f3c-b69a-b7aa9f2449ee;cd80f036-4d3f-4995-9d87-efcb0fea206c;Number of Violations
+687b4625-6fa7-434c-a5e7-b27320d04412;0d482739-7f76-40d0-8322-6f1b404d10de;NUMBER OF STUDENTS / SEATS FILLED
+5e55d845-c0c9-414e-a23a-87b61a1dcd2d;66f78bfe-87a1-4671-8d63-70c977976498;Number of Coastal Waters
+79c94c86-4876-4f23-8cc7-5dc0f1efb9c2;55739381-6334-49ea-85ab-c7d9336f1dd0;Number of competitive procurements valued in excess of $50,000 with 2 or more bids or proposals
+b0c1fbe8-6d6d-4c47-a6bb-b9473884edea;1edd5227-c528-4f1a-abc0-c9944b8efd63;Number of Permitted Outfalls
+d77afe89-11fc-4114-8186-55727f481690;b11bf22e-d75c-4d59-98f9-877e700324fa;Average Number of Days to Schedule Appointment
+34925530-27d5-4027-beb0-a732e4177895;297dc0c4-a98f-4e47-82fc-4796a1f487d3;Number of Employment for Created Jobs
+1a9bf07e-89bb-430b-a6a6-041b7dae22df;fab5e398-7020-4300-924a-6adad3498077;# of Bids Received
+ef13b33e-e83c-4a3b-ac60-9b6876a208c4;05ae7f39-3c38-4f0e-ae13-b5210fc47780;Total Number of Outlets
+f0f05217-1731-4877-b877-f8c1eef440dc;625a3fc2-e53b-4837-85cf-0920a96c0a2c;NUMBER OF SALES
+281c538f-b3a4-429a-816f-4acbb1b382da;8e9e939f-caaa-4117-b9b6-6221026e89b0;Number of Basic Exemptions
+5c477ae8-6565-4d00-8a91-7beb05be1f3e;5a061f5a-215f-4b92-a85a-3f951969f45c;Number of Births to Unmarried Women
+49eee0ee-4cdf-4a58-b535-cb9e4de6fc45;3a680b3f-ae48-4820-85c1-7b5cc3f277f4;Number of Students
+404c2640-5df1-45d3-9689-d1c9c81778bb;c6425afd-a5a6-4827-b862-28d4231359d8;Number of Zones
+5fe32b31-3e91-46ea-88ee-6f8561f672de;0d6954fd-564f-4bf8-b8a0-78fc67bc39e9;Total Number of Requests Processed in Fiscal Year
+4bd69328-85ab-4941-886d-e195474e1aa0;29a0a6e7-3df5-4ff4-9fa6-5aafd75e16c0;# of Residential Dwelling Units
+9abfd375-d2eb-41be-adb6-187c912efbcb;24ff8253-4bf5-4ecc-a353-f1ca55012d57;NUMBER OF SALES
+a80dbdd1-7b27-48bd-a57c-cb48e07aae0a;5908b05e-f3b7-422c-8e87-6c92774e5263;Number of Dwelling units
+ccc4821b-eef0-4aef-94fd-6f8af138ba00;1cc1bbaa-be96-4354-b21b-ad868f4c821a;# of Visitors
+38f0a92f-18d5-4677-b259-252d6c8d8595;56a0c954-202a-4dd6-90d9-e01e567f4eab;Total Number of Initial Lead Inspections Completed Per Month
+c8f93887-b585-41a6-b833-d7949ce1274e;dc3a09f9-427d-4bf5-ae9a-b9956463cd55;Number of Vehicles Involved
+c4fc3feb-0602-4e5b-9f26-1976aef4300a;37ecea7c-0d94-45c3-9ae6-b8c72f701f8d;Number of Nodes for Multi-node
+f85cfe38-6662-41c0-b68a-a98275c7c31d;71c4fb7b-5e7f-482f-ad89-da48f6cfea44;NUMBER OF CLASSES
+8ebbdbc2-315a-4d7f-a463-58f0393b7d25;42c5a04f-fa77-4e64-ab38-8cc60e5f1bf5;Spaces relative to number of Average Daily Riders (Weekday) Total lines
+63c50a36-0f2d-4085-bcab-db6b193caf8f;f8d2564d-f0ab-4d70-87b0-9265c3b19748;# of First UI Checks issued - Regular UI
+cea9fe6c-94c2-47e0-ab5e-6f40d39b3214;557fe803-b0f1-4203-82d1-8a46268e1020;# OF UNITS
+adee1564-bfce-48d9-bf81-841ad4cba9fb;9f1b38e2-a679-4ad5-9b00-1494e9f597ac;Number Of FTEs Before IDA Status
+60eb8f93-1589-46a2-bed5-ea856f961526;d082df7b-76ed-412f-ac10-dfccb5cbb568;2005 Number of Cases
+5da45f56-ab1b-47ef-b863-6aef4804104e;0864d21f-67fd-46f4-b63d-cb251a300ca7;Number of Populations in the ESUs/DPS
+4cb83dc1-a123-48f4-9204-9483a3a45843;e06fd3b1-47e0-42fe-9cc8-ff17f830c887;Number of America's Byways
+35293232-605e-477e-becc-850a97e282cd;1b000fca-8712-44cc-ad36-829f442e5a20;Number of Prescriptions
+c6e8ca10-3427-4060-afd5-523f895ea335;a9135483-946f-4e3e-9841-58055c760489;Number of Followers
+16ff6dcc-e553-47fb-9c9b-dda65f9fa843;72faae66-8889-4827-97ff-736aa2e03781;Number of Incidents with Valid Data
+c10dce5d-7b3a-453f-8c93-851ad96c69e5;1ba60240-ea5b-4e50-b138-18884fe3539b;Number of Appeals Received
+9f5b80ba-c12f-4bfc-928f-ce794e3857b7;f9a669cf-634f-4a95-9fb7-f302f3c7ff5a;Number of appliance units
+d201d9fa-121a-44d7-8557-5ea86d598fdf;49f267d8-4416-4949-812b-8f2789ebf1a8;Number of buses
+8952df70-c5a5-4ede-8251-b4a68b8214e7;4c0d16e0-2b24-40bd-ad32-b7b7def45997;Previous # of Trips
+a1f641b3-5ab9-40c5-839c-e32f72083bcf;634b30b7-efea-4930-ab09-cd8cb01348da;Number of Retail Locations
+f70d7f07-1337-4dd7-bf0d-1c14a9ea6170;8db85ad9-29fe-4f03-8d59-bc17b0ac6ea7;The total number of FOIL responses that included the release of data
+a3f708db-1372-4272-9430-e24ba5f975f7;aeb23682-a3b3-4ed8-b321-9916b8d35e53;Number of Business Establishments
+64ff4fc6-ae1d-4c2f-994e-63000e449559;3f689c47-9074-4856-953b-23f653d7fff4;# of Racks
+2615e86b-d5d0-41bd-9b66-3207abadcd33;61a34eb8-1761-4711-b31a-eed2d6b34fcd;# of Barriers
+d9659675-645a-4830-aee2-4a21f32f34c2;4664f562-ec19-4b7f-abe4-1e850040410e;# OF UNITS
+537d15ec-c09d-4c06-9028-a542781ddf09;3f2ee311-b224-4a7b-aca5-24c4b8da5b1b;# of tourists who took tours at the El Pueblo Monument (Annually FY)
+c5becb6e-9428-437e-adc2-0fc162575a2a;3dad4934-f9b1-44d3-ba00-eb3e87b579dd;Number of Pre-Hearing Conferences Held
+2a0bb408-bbf0-45d7-8a80-5f1a0c17afd6;ad17951d-198b-4be5-b144-051ff9704851;Number of completed Surveys
+1dcbcabe-4a60-4769-8873-0a3123ff2c19;a6867347-48a8-46ff-9b57-31a2c4414ada;Total Number of Candidates
+de26bbdc-4f3a-457d-bf17-8402346368b5;23cad104-2bb1-4305-8f6e-019abab98e52;Number of Employees
+85b02d99-171e-4fca-be5a-05da268f8069;fd47b222-247d-49e3-9c59-97e6f3bed6f2;Number of Glass Doors
+22b51469-57a7-4a88-8b70-360bb67251b4;ae58a49b-6e30-4c8c-8134-bcb9b0cf9526;# Officers Present When Shots Fired
+00e22210-b94b-4cf4-a30a-867dad6ff674;8e36e1ea-e014-4acd-9264-5601366f1a5b;Number of Water Heaters
+23cc81ea-e859-4fb6-9466-606b8a2d5376;3733de56-5ced-47d5-bbed-51eb9a608c78;Total Number of Investments
+379f4968-c416-4909-bd61-46fecca7de44;e99690ff-b340-45a3-9014-b1c5800832fd;NUMBER OF SESSIONS
+281cc76e-75a7-4b22-bdc1-d7191a97b0c5;fc10776c-a627-4508-a313-a50fa14663d0;Number of Taxpayers
+f6b4bc51-c141-48d9-9625-f9c687146cc1;30f84629-0244-4025-ac70-c2014f69bdf0;Number of Prescriptions
+0a34a76e-3fcc-45b6-9f7a-27549e0857df;a8b6e6be-d3cf-4d13-bd97-b5a3131a3e61;Number of Hearings
+5a3a90a9-c5a4-4a98-ac93-e5de91f050b7;16a0a966-fe6c-4d3c-b8bc-c959cf8762e6;Number of Prescriptions
+e946dc66-7ae8-4b1d-b14a-e0feb86179ca;3591a347-e1cd-4bd0-b623-925deafc8b72;NUMBER OF SALES
+a6116481-20f6-4594-8f27-6245b0793252;3d1285aa-6b47-4989-947d-26c9c5164b8a;Number of Client Visits Per Day
+851d580d-40f6-4dd4-a167-af34edf95643;d57f417d-1b5a-4b12-8b38-e7db915728f9;Number of Division Vehicles
+5a61f3ce-701b-48a1-8540-5f10ccaf608c;edd45b33-17e5-4a4f-bbed-565114d9c24f;Number of Dwelling units
+67b4467f-51f5-4c85-80c6-2468cf29fa82;52cd8552-61a9-4ee7-a434-c92189f80049;Number of Hospitals Receiving this  %Change
+f1b44f31-71e3-4ff3-9b7f-a9ee0fa65633;51bfadc2-8ffe-4841-9575-5c31e8a42bf4;Number of Populations with Sufficient Data
+66b1a0b1-bc08-4adc-bb48-3f6cd5c4178e;80bd5862-bb74-4183-8dd3-9b8644e2a8d9;Number of events
+d86ed130-de68-43d2-b8bd-0bde086a48be;da17043c-5e81-4e1e-bdc8-c87696b6a6e5;NUMBER OF CLASSES
+23a5c92b-ec29-4cac-b1c8-e91742f7afd4;cad4cdef-8f0e-48e9-addd-4d047681f032;Number of Customers
+bc560ef4-f010-4408-9706-71543f885af7;8404bf79-62a2-4d7f-a2aa-6b21f755d93d;Number of events
+a3b29f77-7fe5-4303-aa11-d5eec995e908;7d4f6388-e5b8-4b42-ae67-7bbdfcc96e88;# of Downloads
+de42368c-336f-475a-95df-844d691cf13b;77a2d683-4b79-42d2-b75a-3aa469ac923e;College Enrollment (number of students)
+01e2342a-9313-4be2-81ae-e35073ef63f9;698e9ecb-9105-4275-a01b-d0166e543493;Number of Employees
+c0ef3c97-0b2d-457d-8d47-f32c1f2d119e;c612406a-3b84-46a0-a7bf-9fd900eb3866;DOF Number of Buildings
+721ae901-cb92-43db-b9d0-7a018b5a1d14;b5b8483e-2894-4b2e-a5ea-b55d5d19c29f;Number of Employees
+22923e52-4e3d-4ed1-a2e0-457743e3a021;6bede325-2d8b-4535-8f5c-8fb914d1998a;Total Number of Beds
+0753d9fc-f1d8-4050-aef1-9ed31485aa15;2b1f7be3-f2fc-4aa6-a76d-18b42e42858c; NUMBER OF SALES
+d04c777d-173c-462d-9988-ebab1ab3c3bc;822873f5-a9df-48ad-9b69-31df31388c53;Number of events
+8c5d57dd-28db-44eb-a722-24cf1f718e47;795ae087-4c50-42fb-a33e-5d2174069615;Number of Years Sampled
+72a9bd80-8500-4744-83d9-a210ae11fdd1;1fc5126f-612a-4a74-8c83-aab3461b8f71;Number of Prescriptions
+1b2fd2e3-cdea-449e-b938-aa1357cfb848;2d196ac0-776b-4160-aa74-6088e8a08892;Estimated Number of Adults Had Diabetes
+a182d70e-694e-4fd7-ba53-0703f8020451;6b83cc59-6e65-443c-8b97-9300891c1333;Number of Occupants
+c72d7fb9-65aa-4d3c-8563-66652a95a488;8dad4d8c-0901-40c7-ad03-4c46a65066e2;Number of hospitals too few
+9a786fa7-9421-41d7-8252-d6c8345bea08;7aba8beb-d6a3-4d96-81d8-50748d228606;Number of lobbyist registrations and activity reports
+3a9c4b17-71e2-48f8-ac8d-3e8cfe6c0feb;d6334062-9525-4d70-b45d-afba16a84f19;NUMBER OF SALES
+f6c44e17-1579-46a4-ba5c-c50572a3054b;15a3e241-d2a7-4891-97a3-d6b56b2ec096;Number of Bedrooms
+14e1cdb0-50c7-4def-b671-fa64df85ecfc;e4b64861-994c-483f-b03d-b02f273a337b;Number of Customers
+7a780451-e9b3-49e6-a75a-747fbda3de86;a671fb25-b58b-445e-a351-3304d944f3e1;Number of Dwelling units
+92d56ad3-4349-4e49-8f68-eae91944b4be;565f5e4c-0ea7-4b99-94f5-681a21fcdedf;Number of Certified Beds
+1b1d8073-dd59-4155-ab14-76204a59eeba;6f7fdbff-7bf8-4213-a127-c6dc64bca282;Number of Tenants
+6713b2dd-d928-4891-aae9-e9c4af6c3e88;5875a34c-39f5-4746-9280-ff8ac24d5dc6;NUMBER OF SALES
+6518ca93-b30d-4e02-8756-355b6cf56053;7011c932-b55a-4281-9735-c63fb0104bf9;Number Of Subject Officers
+a23ced67-126f-42c4-b17c-83f6df21efb2;3d857811-2d05-4e2e-95eb-0ff53c9f31e6;Number of Seats in Scope / Design
+fd0022d8-a072-4dbb-a79b-1af39d1cab3b;4bd3793d-2122-49e3-9319-06c97b52bf63;Number of Stations
+aef7260c-76d5-498b-a73b-919772ba01d6;99b32c61-538d-4c94-ad5e-5017cad84b1e;DOF Number of Buildings
+7bb37592-47fe-4f69-b8b9-2321f7d35258;0e2d8f36-4482-48cb-974a-b8e27d94af42;Number of completed Surveys
+c122cc52-9242-41ff-8632-c80bbd4026e1;896a0443-611b-4c5a-90c9-2b8741631d22;Number of Prescriptions
+823970ee-ddf6-4f22-9099-629ae96bf761;c847b0f2-17d6-466b-9d54-336234538e57;Number of AP Exams Taken
+5ba18645-987c-4705-9983-90fc19723545;c4fc7143-7998-4dc2-8cdd-29a496db4dc3;Number of Outages
+97325862-7d59-4a2c-9999-443550f8b9c8;32ab218f-21cc-4f4f-820b-3d9bfc3dd356;# of Signs (Panel A)
+e8153e25-15c9-443b-a0ad-e9d9b7467752;7384a38f-c9c7-42ff-b24e-bd2e13b58736;Number of Populations with Sufficient Data
+7e94a8ab-dfa3-4efa-ae35-da6dcd6a18a5;bfc76edc-1d8f-42bb-adb9-d86c262a1359;Number of Hospitals Receiving this Range
+4431c008-8164-4d35-b1e3-df7e50f38a47;9b43b817-76d4-46c6-a069-793ee00e0e61;Cumulative # of streetlights converted to LED
+d5c9964b-0025-4a1e-bd10-eea64dee6431;0405db93-6e67-45b9-8b21-226ae23d9fd3;2005 Number of Officers
+4903c32d-b268-4130-9ffc-8d64deb089eb;15acf3fe-136f-4ecf-bc98-c50d915d0d2a;Number of Bathrooms
+b4c7effb-fe15-48c3-83be-e4e5ec6602f0;fac8911e-aed8-44aa-bd04-41fbad4cf95f;Number of Employees
+cb34e2dd-551b-4950-b7ea-2a3b94ea077f;7bcc34c6-db9a-4705-9e0a-ee8063d256fd;NUMBER OF Employees
+62c51c65-9902-4929-ac71-2faf8fde05ac;ba93ec22-5ced-45d7-8178-fb50a1694b9c;Number of Animals
+3187848d-53e6-460e-ad67-ccbe39b83d8b;b260aa00-4a96-4329-80a6-68563e3cf48b;Number of Violations
+157dd16f-cef5-4f60-afca-11d1de9765d6;d9170e2a-2d9b-44ca-8670-73ba44ba05e7;Average Number of Days to Approve Task Order Request (TOR)
+075d59e4-52e8-4bd0-96fa-89bc3f30f933;2dd0df91-d96d-4706-96b6-9f84c1cbb3d4;# of Fatalities
+6b3de5a6-5c4a-4b92-882b-3088e87e403c;02d61e2a-4ede-4610-a88e-49cd53113990;Number of Officers Trained
+61f9dfcc-d7da-484d-a1a2-fe24a5e79a35;2f7ba497-5358-40d4-9a13-92c4ed6cdc77;Total Number of Credits
+f46e0f59-199d-4519-a4ce-e2c5849d1485;a9ddced6-07e4-4685-a180-fc8ce3e488ca;Number of visitors using state parks (millions)
+8bf34d11-d554-4fde-ac36-8cd5032d3d79;113cd8c4-3549-4d8b-98d9-d5e4731c4215;Sealed Tickets Number of tickets
+667b7f39-8696-4e69-b523-40cade1f2ac6;bd5689f8-7116-4f0d-96f0-b6a4154d4135;Number Of Hours Worked
+35fe05d2-04a2-4c8d-a68d-c733aeb1d2fa;971bedca-22de-487c-a12d-7637fdbe0360;# of Buildings
+caa1a9b2-35df-4e79-a84b-d40365413402;87a1532c-fd2f-4347-9b07-d18373398c7f;Number of Units Assisted Living
+84b3f267-b0ae-4591-960e-c4988c3aa2bc;7c760169-1196-48d9-a281-979c98918d05;Number of Births
+9988e663-1af6-47b4-bfe9-78e170b91dd3;2efef4a2-ce61-4b35-bd72-d46388f3619d;Number of Students Taking Advanced Placement Exams
+13f3c417-fa07-4ca4-b090-e8bd8735560c;1be9ac0a-c80b-43be-a8fe-5d2823f327a8;Number of Facilities
+5f9f96ba-5c9c-4c81-b5ee-52c5aa6b0e84;8941f1df-fe31-4c1f-80ae-d27b472e8c27;NUMBER OF POTHOLES FILLED ON BLOCK
+e7c23165-3a7d-4eeb-8319-4fa557819d52;6273b733-f36d-4510-99af-4a46d698cb6d;Number of Guards
+6fb9e447-7277-44a5-b141-90312b4377d7;16faaaf1-fe05-4738-8f01-ecb748aab9c9;Number of Detainees
+a0ae56d1-f467-489b-a99c-5dd39bb931d5;2a78ec9a-2ab5-484a-94b6-6242534d7edc; Number of Credits
+76f2848f-c513-473d-9739-516625c0dac3;67a8d252-966d-4497-8d41-4d92974681f8;# of Workdays to Complete
+c6e9eb35-de83-408f-9ac4-92b3a8176003;4622be2d-9b2f-43d0-b12d-878fde84ee1f;Number of Inspections
+922da375-c45e-4886-9512-24164ed88d9b;a71f6529-1741-4354-aed2-9c8d8d8c2313;Number of events
+1e92fedd-b2a8-4fd7-96a4-8de9a6791bfa;d39454d8-5489-4f04-aab6-5d8f9953dddc;Number of client visits
+f4d328b9-0bcb-44e8-a26b-b8c4709ca593;74fe4d67-8a88-43bf-a3c4-92fbdc399849;Number of Employees
+ca160efe-d2b7-41af-95c1-e53b61a96136;7123d92b-d457-4db1-8d49-92b4f4c747d8;IIU - Cases Assigned: Investigations of Inmates: Number of Criminal Cases
+06bec77c-a04e-488d-ab22-fec927df7d30;dd77cf34-055c-49db-8786-2cbc7e5f9b37;MCIH: Number of Business Units
+3729b820-56f9-4bcf-9f8d-9de8e2d93965;4c79795c-aa9c-4356-a910-4bd837f83e4b;Number of Transactions
+8f2bc31f-06b3-4862-92df-562ac1feba0a;3e0edc10-241e-4bbf-a476-0d373eebd4c0;Number of Prescriptions
+de81cc98-c17a-47a4-9104-c8ca1195a31e;4a28863b-810e-4e2d-ac1b-f99a6774c98a;Number of Hospitals*
+d778a9de-1237-4c45-80fe-7c7e5b9432e8;957eb472-4137-4577-bfac-b149d556109f;Number of events
+4f9d8c3c-2692-4d36-be21-b814c1641068;a34576c5-6242-49ef-a246-f4760fc76eba;NUMBER OF CLASSES
+e4231098-001e-47e7-bf96-dc50b913a5c6;9b4c471f-fe54-49de-8c10-f637a4f4421b;Number of Prescriptions
+dc3be5fa-6115-4af2-9388-3486d3d69ee3;1b03e5a8-e8dd-4719-a65d-31275a30913c;Number of Violations
+63ef5d3b-5364-405c-bd59-0542dd568de0;114b92b6-8bd8-40c6-b085-665e45674a95;Number of events
+1fbde895-a7bb-48fb-a230-ba124af3ea14;65e00291-75e2-4d67-9953-b87ba2c98767;Number of events
+ad4bf813-3ec3-46c1-beaf-b9cc3a0c8feb;2eb8897b-d984-4cb7-922e-237920d5d5f9;Total Number of Callers
+683d7ff9-acaf-4d72-8edb-acffa7a0b7fa;6dc47064-1e66-4b7f-a8ee-e6af9450b5e8;Number of Spaces
+45811b22-31ca-4eb5-b366-d7c4c42e86d1;ac5de121-7c3b-45a4-b9cd-a2e7cabe2db3;Number of Claims, Zero Qualifying Children
+31a437b9-8b64-41a6-bc7d-2577b48e6d61;61bb15c2-90c1-4cea-b2c4-260aa5a222fe;# OF UNITS
+b210d2a8-47b4-48d9-9411-f966bd91fc2b;4573c2c2-8bfe-4f1b-9d47-3e17dd942981;Number of hospitals too few
+a7f967cc-a3d3-492b-8613-f2ff9f602026;b87e52f5-5fb2-4887-b009-13cb6c0152f7;2005 Number of Officers
+07c45ae0-5e3c-4031-87a2-023b0c813c34;2eaf5606-095a-462c-937e-2f5322afa65f;Number of calls
+502ffc21-599b-4e52-b3d6-7014a7706bc8;d8be01e6-374c-45bc-a63f-14a1fbb512cb;NUMBER OF SALES
+f0c34a44-20ac-4fd5-a9a6-6428619200d5;c6a97b3f-bfd2-4480-a95e-9b2cc4b18f2b;Number of events
+5fdb1bc4-3c79-4a8a-b703-efc994ddb987;0087c220-eebd-4dac-b4fd-c3e3f970d72a;Number of Floors
+8944ddd3-46f2-4cee-b2c9-a99821333f71;334cf52a-efcd-4b4c-87cb-dcc5de9339a8;Number of Buildings
+98e5e0d6-deb3-449c-881d-895a8333b6cf;10ce4dad-cc9e-4c01-aa19-124a7c451974;Annual Number of Public High School Graduates
+26744e5f-9cf8-44de-a41b-21217cdd6461;c898b837-02df-4e81-b360-bdb0ff9c244d;Number of Patents Issued per 100,000 Population
+9c2c0aff-1149-462e-b243-4a2b783cc26d;c1320789-8d48-4088-8a8d-b6c5022d80f0;Number of Hospitals Worse
+baa2d7f9-4238-4d1b-9125-a2a7cf4172e6;b4108f62-17f9-426f-8bcc-a191f76ce05a;Number of Taxpayers
+d51e0c8a-9153-4072-98d0-c8f52a9065fb;d799820a-77e7-44d8-bd66-2fe560413e1c;# of Personal Records Requests
+5608c74a-6a1d-43d4-8d55-48c605df6801;95038a33-4e9e-470e-84ca-2ca8d8b9ed77;Number of events
+a30bfca8-31ef-4f02-8298-2bff6aaa6fec;8acca515-f36a-4c81-bbf4-eff3ed3b0d38;number of images
+8372caa1-71a0-4aab-8643-a9022a3d239d;d978092b-7a6f-4d58-b2bc-1952d0aed185;# of Minority
+9aee61ef-9f55-4c82-bd4f-45852ae6ffcc;d47c6533-f11c-4a90-9a70-7ccbd066e1f4;Provisional Number of Live Births
+9e9db44c-f948-4eb3-9c5c-7d6c72194535;713808d3-3929-433d-a9fc-8f0d630596ca;Number of completed Surveys
+b79993f9-748d-4079-97a9-28b14f6032ff;45dcfa2c-4bb8-43b7-89ec-c8ac8042cad3;Number of Taxpayers
+9848b7af-b611-491e-be5b-7616956c47e2;25a63bed-898f-4390-abe2-464eec538f9b;Number of Taxable Conveyances
+c66ab4e5-d94f-4195-91ed-4fd032e22c41;54be2d65-8ce7-4a7a-819f-92b628f5aca4;NUMBER OF CLASSES
+027ee2c2-bfde-4475-b301-a674c95b0331;33acd165-6e70-4a80-8cda-669c4af1bef9;Number of Violations
+0e06de7f-de0a-4dda-a568-b1c40ac60216;8a836c5c-ccf4-4f3b-87c7-8c4ce86def83;Number Of Stories
+46902a96-7d5c-4eb9-9cd6-efeb5515f2c0;abce8297-0180-430a-91da-e2b6b25f9bd9;Number of Estabilshments
+10e82f7d-5bfd-4e74-b122-b8e691b4f9d6;9aa41ba5-940d-4166-8b6f-eefbbb8ce908;2005 Number of Officers
+4c23f944-e6a6-4e99-b59c-1949aab0366c;cbdb99ca-b839-4b34-b288-4992a561afa7;Number of Persons with Disabilities Successfully Employed
+c4c2ec3a-6f72-4cf5-a051-6d875dd60a59;e7587ac8-5b6f-4e80-b470-04cfaf4c934a;Number of events
+34a25892-94b9-4c88-81da-12f122b8ffab;7f650f17-c36a-42ac-bb3d-b65355ae02c7;# of Workdays to Complete
+4ac991e1-6ea4-472c-a31d-56c5a9e831fa;57994d32-7ffa-4ac7-bea3-c9aeda0a11cf;2005 Number of Allegations against Officers With Subbed FADO Allegation
+e092b2fa-58d2-4e66-abea-f432c2bbce4c;10b3089d-85ed-4781-a991-e6f1d95df1fc;Number of Hospitals Receiving this  %Change
+ce9dffba-6b79-4271-83f4-60c1f228f9d8;c06ba607-acde-486e-97fe-b7fbb4fd2be9; Number of Completed Surveys
+cbab9748-5348-4012-9203-a3e2cd89d512;2d1961eb-bd7f-4b39-b743-b5fd1ee44fa3;# of Personal Records Requests
+b1ade5ec-6c33-48bd-9c92-4507a08843c6;c7d0f83a-f27a-499e-951b-40be46efb5a8;Number of Prescriptions
+b0d32a08-2841-4ad2-a733-390a97031209;45c9b4ff-f166-4b3e-a2ee-ecb2320667b9;Number of Classified Incumbents
+e7f4c8fd-0922-4264-8d2f-36c7197fa8e3;762e3104-dae1-422f-a164-9c7301e336cf;Total number of users
+09080114-9056-4ebf-8715-a3da589d196d;32f88c8c-9c50-425d-aaf9-af7a58fe9dbe;Number of Disconnects for Non-Pay
+babaaaac-cf28-41c2-b197-c4538ba3ec7e;dce959dd-83d2-4bfc-b8f2-0883bf1fbc8f;Number of Employees
+87deff72-2ab9-4b95-942f-c66e3ba1a38c;44ae12b7-6ddd-4508-9b32-a6941b8c8597;Number of Stories
+171ab609-4826-4f16-b2fa-da04823cd946;22befb78-150e-49e7-9f02-1499c885fc0e;NUMBER OF SALES
+baeed003-57cc-42f7-9128-df3442ea371e;1f3f0105-bc9f-484c-9779-413c24c8de9b;Number of Buildings
+1fd753da-170b-48f8-9a0c-687548265160;9cd9dd0f-5b8b-4fe0-a5f4-5351e6b23a8e;Number of beneficiaries
+f141a603-fad7-4652-862c-57dc9ecaab92;b413e00c-d526-4b38-afca-beb0981242fe;Number of Officer Shooters
+5f64166b-701d-4f74-8a73-18570f2aeb9a;24e9513d-69c7-4165-b594-76af3745a40e;Number of Returns
+b90969bb-12fa-41ea-a618-5eda028f5a17;cc783fca-683d-4fed-a506-14e1523ab17d;# of Workdays to Complete
+5a7ba685-b716-425b-a7f1-2b90106572a2;e501265f-6153-4bbd-96ec-4b6792d651e9;Number of Males
+438bfa53-1e99-4084-8646-ddaae700b7ff;25a4fc94-dfc1-4afe-9cb1-6db387853e8e;2005 Number of Cases
+29f29853-34f0-466e-9550-1711b4453518;f1c72f56-d20b-4a60-a8f8-62c152400466;Number of Arrests
+f669a36f-3efb-4971-bdaf-70458be91d47;25438236-e039-409b-96a3-6313d7c6e954;Anticipated number of Contracts
+2cc7ed3b-ff1e-4c4e-9248-ae2c397a2ce5;5f5b1d4c-466a-481c-8f6f-a714b9a089cb;Number of Violations
+d1cc27ea-f055-4a57-ba35-f937e59b0b1c;02f98276-776b-4dd1-bda1-853c585832ce;Number of Filers
+8bac3c43-cdce-466c-a4f3-ce74ac61dbed;e835893a-3c3b-49b8-a2ec-c31eafc208ca;8 What is the average total number of people in the Carpool/Vanpool you selected above including yourself? (Select 'N/A' if not applicable.)
+d05fbdff-7aa8-430d-9558-39df187382db;beef2f04-5f97-41bd-ad70-0284b2e23607;Trans Number of PSUs Optimal Point
+1f83bf72-137d-4f4f-984e-3448cad287bb;ee23da4a-09be-406f-81fd-6f5ec1be4c86;# of Residential Building Permits
+7cefe286-5ee6-48ff-a631-23abe4aa8c32;f86dfb5d-8b1a-4dcb-9200-837c0ab9b73a;Number of Employees
+32f5c44a-9fea-4d74-9d2c-3c86ca2114b8;d2a8768b-e78e-4a60-be63-88c311240576;Number of events
+634b0148-d818-4400-bc91-8c07f0464388;7c870ceb-6465-4829-9a06-7c833ea8ffed;Number of events
+0870d4f1-7d23-472b-a8d9-3ccb7f5f7548;b575b91f-a2c9-4bb0-b3ce-d60f0e441d62;Number of Energy Performance Contracts Approved by the Board of Public Works
+9fb8899f-e024-4582-af54-5698de492ab8;eb5d107d-a741-42b1-986d-67b187b15f40;Number of Prescriptions
+458922ff-0097-4cd6-83f5-a3d2a315f591;2f29dc01-d64d-47dc-8733-16c07dc812cb;Number of Alarms
+c5fd0e12-a422-4ed3-8f25-37a97de66cea;42f4472d-9905-4b6c-abcd-930b19728631;Number of EITC Credits Claimed
+2bcc416d-b065-47e2-88da-8edca45fbe3a;f9f75157-fb5c-4248-9245-24a4da6b6d71;# OF UNITS
+67b50c35-a048-46c6-ad27-8491bdaeae01;06347990-7b60-4a90-87e0-fc52a48a48c7;Number of Lobbyists Trained
+7cd57728-4836-47b5-99f5-cbb8b40e9663;291828d6-69ce-45ce-a3c7-1242a517e768;Average Number of Children
+e212eb5b-41d4-4aa0-b0f9-174e6c54fd66;1864332b-003b-4629-b0ac-8e705f645fe7;Number of hospitals
+05147d5b-9f5e-456d-b248-66dbdf099390;33f91879-15d1-4c79-806f-b3cd6519e293;# of SRs
+cc7a328b-3b64-4e72-904c-79e40806a65c;53306f4d-4592-490d-a1c8-eebc3b3cb3d6;NUMBER OF SALES
+a2e47593-2682-43eb-92c3-6abc40aeacdf;711f09e8-2874-4fd0-aa84-3b82b14967ae;# of chicks
+a1315d71-9557-4cbc-88e6-825374beb48b;25b0b388-0c2a-4ea1-bb3a-7ebb173f6aee;Number of Housing Units Sold
+8147138e-01ae-4a3f-8bc2-16296ae9ba2c;5873ab1c-e790-4422-8845-fa0fc1da46d7;Number of Taxpayers
+b494c313-0527-442a-b2c5-2b59886f4634;d2415c62-a4b3-4fee-ba94-fb15cf2fe6c7;NUMBER OF SALES
+5f6ef4af-2725-40d9-9a87-c23135098f32;2ee9934a-1e43-4b00-b5da-08aa9465c626;Environmental Public Health - Drinking Water: Number of these people served by systems with no maximum contamination level violations
+7d3754e4-d21c-4b30-9649-5ec82526d813;168b111b-0469-4269-b440-0d5328451347;Number of Employees
+d22f2478-19ea-4d17-ab05-3cd8823f371b;84bb7bed-67aa-4699-a9a8-e4f4fcf334c2;NUMBER OF FIREARM TRANSFER INQUIRY REQUESTS
+aae4ae8e-dce9-4932-af2a-bfb2d0e013b2;f7ad7cb3-ee8e-4ab3-b0e1-905a7296c19b;Number of released inmates who are gainfully employed and pay any percentage of their current child support obligation on time
+aaa1aa65-fdf6-4dd1-bbed-548f5843e68b;913454b3-b438-45fa-a3a4-39d7869f74ed;Number of Prescriptions
+cecf4329-08be-4078-98c6-f02b15933891;f46405f7-6fee-4355-a62d-ca833235dd7c;# of completed clean water capital projects (Monthly)
+0818b4b3-4cbc-4f2b-a8c6-8b82572c8dff;c3a12f1e-82ef-4d03-baa0-ec4a945d8139;Number of Contract (s)
+42f9e8d2-dd71-4d00-80a8-df1c3659da2f;383dd3b9-6b83-497e-ac4c-8edb333942f5;Number of Chargers
+d0e3fb92-9a2f-46cb-8720-6c875d24bd8d;bb98cb5d-124d-4188-a785-31eb41712b80;Number of Bids or Proposals Received
+497b5311-39a4-4f59-81dd-8d4df43c0c3d;63b29834-bdb0-46aa-8f62-8fe845511ed3;Inpatient Number of Patients African American
+d88d310d-766f-4a7c-9e0e-cdb39e197f25;d6cc4302-e5d3-416d-bafe-f968a5a3382f;Number of Hospitals*
+4a69c96f-f600-4eda-95cb-857156a76f25;0c39914c-4002-4566-8396-d4e28dcb4052;Number of Animals
+10607b83-8fdf-411d-a33b-7dd973c442a7;f2f2960f-0ff3-4735-b5fb-b92ab22f72c8;NUMBER OF READS
+0ad45957-0998-487c-b796-21abb6fb6eae;9e3c14a4-78a5-4eef-a0f0-a0c997db52e3;Number Of Hour Worked
+0bb09336-8fcf-4383-8891-e250ec367502;92698c6b-0f08-47a3-9284-251074dae511;Number of Queries
+cf80cc2e-201b-4f68-8af8-b3174f2e0369;ecc6f0c7-9b8d-42f2-ba89-e8c7c0feb304;Number of Violations
+986261fa-ece5-4e76-a70e-2cfd52154a49;2bb184ab-a13d-43b1-ae69-717c77f6b2d7;Number of Electric Vehicles Registered in State
+d050cc3e-1058-443e-b6f2-8bd2c8b38872;7c9ab7b4-85d8-4d0b-94d1-444089476e7d;Number of Employment (created and/or retained) Jobs with Health Benefits
+a5025c15-6755-4743-b4f8-2a86578c370a;66048c0a-120e-4726-8c8e-c51190b29fc8;# of international conservation programs supported (Monthly)
+f0cf1cf9-ea81-4ae8-9bc5-f0c472e3be79;ecbe4d25-3ae1-4583-8eff-354d88a57984;Number of Employees
+6249e062-df14-49a5-b0e0-10020a5c5ec4;ad6e1880-192c-4734-bfe4-fcd1c6a7edad;Total # of Employees
+0bf19370-f743-45bc-a0db-8a4fdac7ea9a;a06a5f44-ce49-4941-a14f-20bb8541b60e;Number of Floors
+6f6c43e0-4800-4eb6-94bf-6cfb07d05ae4;130fb11f-fad5-459c-a77e-b20392275b84;Number of Basic Exemptions
+d38be60f-9e34-49b7-98d9-bc0819107413;0ba6a886-78f4-46cb-adc4-4f97ead5a7c8;Number of Employees
+37f99201-29ef-4fae-ad78-0826d2a1b89c;639edb30-ba1c-4d33-bd63-cd00347d8736;NUMBER OF PUBLIC DATASETS
+9b5af649-a463-49ce-aced-cf35de3ea724;7c3db110-9fbd-40a2-b283-882c51258e65;# of Council Files viewed (Monthly) via Website
+6b9bcc0b-bf4b-4faf-af8d-c8ca53764b46;407060e9-62b0-4926-8d39-5d60fdb85199;Number of Officers 2005
+c5f9777d-89a5-4574-b3e4-839c83d29b1d;e1420b58-c8b6-40e3-9ec7-e5f03fb5d0dc;Number of Loans
+8c609cea-2e2e-465b-bec6-04a5733398d9;39cb0c2e-87f4-4579-8b9c-b13e4a163803;Number of Employees
+dd7d99b0-a753-485c-9525-1ae00c6c5b9a;2f87b850-311e-4894-9c71-51cfe7bfb678;Number of 10/100/1000 Ethernet Ports
+e86ef2c9-d5bc-4553-bf41-f48945078867;baa0fa41-00d1-452f-a9f1-fac2c34c4646;2005 Number of Cases
+2e59092b-c9aa-48ab-80f5-fab766c122a7;6d0fef35-4c65-4487-93ed-27f56edaa826;Number of Systems Installed per 1,000 Customers
+07a54e72-d7d5-4aa7-ad29-e2c3b20587bb;f2c2838a-2737-41cf-a107-ee7cc24bb5ca;Number of Hearings Held
+a69bb876-be94-41c9-a405-9262eb49f5d0;8ae31110-1a36-4037-8ade-6ec4f4309027;Total Number of Credits
+3ba04e01-7826-4a11-a0c5-8383d1350559;10fd8aed-93f4-413e-a308-dc77af3dc88b;Number of Donations
+59d7a447-f18f-402d-b84a-6fb290198825;bb8716d5-d857-44da-b2cc-45e251b6f31a;Number of Requests
+f9e9de23-a83b-4c4c-b0cb-bc03a5e099b0;c86140b5-c2fb-49da-a1d3-75c1f1c8ddeb;Number of Contributions
+fc7fca27-5a30-4d7e-b6c0-e5ed4326a15c;82a39dc2-4a2f-43db-9b6f-2df177f4de06; NUMBER OF SALES
+17c24d3b-16aa-4703-b5ab-aae90020af7c;592048b4-d501-43b6-b9f6-3a7614183e3f;NUMBER OF CLASSES
+e8614a05-01d3-4033-9f5a-03dee3b5e71d;ea33a218-bd18-4cc6-9485-17dc3417cb72;Estimated Number of Attendees
+5b2c3019-512c-4271-8484-01311171fa80;bb909875-c82a-4fbc-82d3-f596631078de;# of Power Poles Installed
+ea8f2d31-f858-4831-96a4-f11883d9cd3a;9a0dbfe5-1f42-46e7-b064-08e381074fd9;Number of Populations with Sufficient Data
+c524d721-73d9-4553-9f48-9cc4d710ddb8;5301ba44-119d-475c-8971-bdc6e173299c;Number of All Returns
+0c8d5b05-29c5-4e2c-9f6b-348bbc12ae53;5fd6b928-7617-428d-b6c8-b42b06cbafb8;Number of Stations
+aaa05538-7d74-4cde-9eb8-95995eb8c6be;d821c06b-e9d7-4e0e-ab67-6ec8a9ca27af;Number of Calls
+38992896-d21f-4ff1-8d21-31a026314d48;3200ee82-cc90-4cd0-836e-7dcf7b6bd646;Size standards in number of employees
+dd9b82d1-060e-4540-9484-71d0a3da8314;eff3566c-99b6-4c03-89b1-c2e6268cc05d;Number of Customers
+d8c6bd89-8514-4727-8327-3c1885bbe49a;43c50118-1267-452c-8b7b-dfcdec00b06b;Number Of Hours Worked
+784b0b3e-73fe-4ea0-96fe-c9c94bbd3af3;41b8a1b2-cde7-4f3c-b755-68cccd8c8b0d;Number of Employees
+b8eb2dec-0564-4af9-b765-77320bd6c40c;76d6acb9-57b2-42de-8154-66bc27ca7b86;Number of Taxpayers
+cf0dd724-0028-4dbe-8657-7b22fb73c62d;baeb2305-d276-4668-bfd1-13ff9a0216b0;Number of Motion Hearings Held
+a6efbf19-14d1-4dea-8257-ba502d1b9fc4;4a0634a2-fad3-4581-ade7-015a6c62c072;Number of Tags Issued
+7f1ac1c4-5390-492f-ba85-2894d59e3d99;0639816c-8c54-472a-bd1e-308834513a72;Total Number of Cases
+df1e480c-3463-429d-bbe3-2cfbe520b6de;95a074d9-9fa2-4957-9596-29db7006f86b;Number of Taxpayers
+f94a52a7-9bd1-4913-bacf-13188c86371d;59d15262-6c65-4b66-9b7a-6ffdfed73108;Number of Hospitals Receiving this Range
+dc58639d-1233-4513-9818-c373bb612edc;5938f344-5d58-401e-8613-51350ce533fe;2009 Number of Subject Officers
+a8507a50-518c-497a-acf4-1a76e4bfaff7;2e14d479-2c5c-4e3e-9824-e89773c628f8;# of Workdays to Complete
+3fbd41d8-c58d-4ab5-a53f-5fe0e39f1180;2c264d8f-9c57-4393-bd6a-cbb512ec90d7;Number of Prescriptions
+9c9b9cab-3909-41c9-ad58-06124bd0e481;7616aa15-51cd-4fac-8605-38667c39c662;Number of Jobs or Training Slots
+c2a6cfd0-b984-4a05-abc9-5e8642503df1;55ee4a76-7b26-4fe0-9c3b-9636fde249c4;Number of Prescriptions
+99f07532-9189-4e14-93b3-6e5799238afd;6186643d-5bfc-4d1c-b322-3268df6c7bea;Total Number of Credits
+c4e29e49-4ac4-492f-8062-858cc677dbc4;7d31394d-010e-4fa6-a4e8-0907f9cf6017;Number of Projects
+67ab5c02-ea8c-4956-a9c1-0e0ab6c68f4f;c721be92-8afb-4b13-b609-5fc2e0bfa91f;Number of Responses
+38322a6b-0410-41c2-b13e-2ab644e95c38;0b82eff9-720c-4d8d-9f16-fe5076279d61;# OF UNITS
+6ec1cc4f-0437-46bf-b227-333b5afb9a4d;30a2a6a4-607a-4ec0-903a-b867f163b71a;Number of Persons with Disabilities Receiving Employment Services
+187c72a3-7b32-4f8b-b3d5-35892fb88d95;4b2b9753-bd40-45c3-af73-d777b1e4974e;Number of Arrests
+2f9648ba-c636-4776-ba1d-288a65db6ff6;e6f73011-c37f-4e66-b344-0e1dd05182d2;Number of events
+5fbb49f0-fbc9-411b-b6b2-f3fbc4073818;d609ecc0-9067-40b9-8a65-028460d1e48b;# of Animal Licenses Sold  (Monthly)
+4598b400-7ae3-4a3d-bc08-2e032bcee51a;4bb1ef9d-c136-411d-9423-055e7f6db274;Number of Prescriptions
+b8e376c4-698a-424e-a4ec-6b79d3e9f14c;41ca9194-a1cd-4d55-be93-6f687649ddce;Number Of Owner Operators Who Performed Work
+258e7a98-85ef-442a-b500-135f761fe6b4;978ba546-908c-46f2-a807-8dd822e286c8;C.A.M.A. SYSTEM DATA: Number of Dwelling Units (MDP Field: BLDG_UNITS. SDAT Field #239)
+efba32b5-d85f-4e28-b093-59babb37f689;7f99c5aa-6eb8-4509-b179-82d59a7fbbbe;Number of Violations
+8e8225db-1a0e-40cc-936b-9264e2296760;a7f6ff41-2d6c-4082-b119-e2f76746a080;Number of Vehicles that used Cash
+f8e1826f-7cc8-4e77-955b-100d43d917e1;9b68bcc0-eb6d-4729-9064-bfaeda574e4d;Number of completed Surveys
+a0ab4565-5541-418d-b786-391e49aa63f4;32a8dcdd-f730-47e9-961d-868da027ca4b;Number of Prescriptions
+f5d8c188-622b-41c6-b200-68a35eba6d9d;8b6f9528-fbea-449d-9bfd-05cebf7ca322;NUMBER OF SESSIONS
+a9dc37f3-244a-467f-acb0-f11c8772b5f7;9a2dc66e-9a49-4a24-8bbc-6cb24b176df8;Total # of Days
+1a407768-a884-4265-ad10-37526fa0ce9e;3b82fef4-9166-4091-b60e-b021cf134782;Number of Existing Stories
+2a59919e-272e-46ae-bdd6-932e5e642fcb;623777b3-09c5-4fef-809c-4db7c087fccf;Total Number of Credits
+c1dca54f-c4aa-4ae5-a1e7-5bcdabb42e37;722ec2c0-0149-4118-9f3f-52508e01dfb3;Number of IA Artists Engaged
+0115336b-5b60-480f-a6d6-d5539ff73ade;f2993ebb-47e4-493f-b090-e5d8ac097978;Number of Patients Included in  Kt/V Adult Hemodialysis Measure Score Achievement Period
+409529ee-f60b-4b36-8744-0fa9b23d8f23;531216ee-4c17-41d7-bc22-a25c602cc93d;Number of events
+189b03e7-3b3d-46fc-92c4-ca0480c65cf6;6de55b74-456a-4395-9428-c73659cf9773;Number of Taxpayers
+6ce68b31-5f3e-4306-89a1-e670de704205;827d2f7f-8b7a-44a2-832c-f7c51bb6dccf;# of Residential Dwelling Units
+6b9fe3ee-15dd-48a0-a6d4-e14cb5c3e3ad;452df33d-7273-43f6-ac64-125ecc601002;Number of identical boilers
+88dfcb3f-dc5e-4f45-a7ae-dff8d244d548;e728812b-78b9-48b6-957f-49d6a548e106;Number of Employees who have Filed
+aec9f63b-9c98-43bd-8646-5c15b78f9182;b235b3e2-2cc4-43a5-9e5d-9a2f54c5a051;# of Blocks Slurried
+9f2052e5-1bc1-490c-83e5-ae9fa2669670;236f9bb1-c7b8-45d6-aa3f-227aae6f0efc;Number of Stories Above Grade
+0e9aabaa-347e-4140-8894-7ee620835bd0;98d0cbe6-0942-41b7-8021-40875d396381;Number of Inspections Performed
+90b2b787-f812-4dbb-aaf7-9fb7c7fe19b0;049288d2-676b-4bf2-b66e-9e293969d3d4;Number of Prescriptions
+c0f19737-e610-4c56-b95f-48f753f73eef;ede64e40-e789-48fd-be3a-e1886df5683a;Number of deaths
+3e35c10c-43c5-4d4a-8caf-420fb268a81a;b8890075-6cef-4dc6-ba83-d4c5d64e5c48;# OF UNITS
+f546442c-19e0-46f2-bef5-57a3c65b47db;c69be13f-f6d5-4a5f-b1a9-029acd288fdf;2005 Number of Victims
+5b932677-2325-4f31-980a-23745b393393;cfc59d22-124d-482a-8a36-fc996cc11ebf;NUMBER OF EMPLOYEES
+c9052004-9aa4-4322-b2fc-a98b188a2a74;24772717-69d4-44d3-8a68-9aa40c1eceff;Number of Populations with Sufficient Data
+b75d0bb2-1aec-4fdb-af59-49152255b9b4;6f1239fe-2a6c-40f7-aad5-813294a501f3;Number of Employees
+86763f32-3ce6-4679-9fa1-684deb6e6d11;5a514c67-6f6e-43b2-bfb7-30018275db27;Total  Number of Motor Vehicle Crashes
+a42e12ad-a932-42cf-8c0e-0c965d76bb8b;3ff9202e-e26e-4d04-ab08-18371bd590c9;Number of Drivers Monitored
+913ccee2-8dca-430c-9e2f-2fbbd2b34fbb;ee8929da-fd1b-4e72-8810-e54e66db6250;Number of officers who attended
+70fabb42-8ff3-4147-b4c6-58e5a80ece08;62481ee6-e687-49d4-a534-ab9ca055dc3d;Average Number of Permanent Beds
+ce7c3404-d5a7-4c3c-ba44-612dcda1aa9c;04f1c855-aa5a-4d11-b95c-e5d6c4a6c734;# of Fatalities
+4c343718-1393-464f-a82e-c76688b3fb3e;decad70e-c089-4640-a0eb-8ed24a57250e;# of Attendees
+728cf5b6-ea99-4897-b0dc-cf7dff3b3dcf;18617b6d-07b6-4a9d-b42e-5585833fad61;Number of Visits
+ddea3893-c6b0-446a-9808-a892158d7348;8ec14723-899c-4159-90ce-06c2e9dbfe4c;Number of Tickets Issued
+cf5955fa-9c7a-4c77-9421-cd6ce4cf3636;acfee3e6-7276-4167-9b78-54de5640cb86;NUMBER OF CLASSES
+6949f956-acd6-4490-b442-4f96be041bf2;fa9ec40e-51ea-4c2d-a55a-88672c311dcf;Number of Business
+435b78a0-df40-4a1d-b878-98a927401195;17c08a29-4606-4348-830d-e72ace736527;# of Workdays to Complete
+a485de30-a0e2-4967-8045-9db14dcad24e;b8b50ea9-7000-4a71-92bb-7a6317625b11;Number of Stories:
+6926eea9-7e38-42a9-b3d4-e9d99ca330a3;7dd5e04a-c90b-4b4c-86da-840641f2359c;Number of Past Facilities
+2411e4b1-fb90-46d2-9bf9-013471398873;92fd861d-1369-4db6-8997-5bd3464a9e4b;NUMBER OF SALES
+a0b1c44d-e6ba-48e3-b933-83065897bffc;cdb0ebfb-3a5b-44b3-b474-a391894bab83;Number of Hospitals*
+b1a6a6c9-0139-4da5-8a62-52c4fd629468;03b9dfcd-72db-4b32-aef2-13f0a0ee8a08;Number of Completers within 150% Normal Completion Time (Numerator)
+f5e82ae7-25a9-443f-b01b-55cdef0e7b57;65dd3473-9ec4-4581-b8ff-b5e026be2eac;Number of Beds
+a1b2fbe1-d908-4d8b-a4e0-2fc8499e6e59;138e0a9b-c41a-46f5-b6f0-da74fcc67445;NUMBER OF SESSIONS
+470bf440-1246-49e4-9e1c-5b5fc9cac07d;1d4c2d40-828b-40b1-b832-d33f715f0001;Number of Violations
+8a455f6e-f2fa-4d47-8b51-dc628275ebe8;bcd17bad-b49e-4b92-8de2-0bd49d602724;NUMBER OF SESSIONS
+7c71fcb3-e5ec-4f9c-a5ed-8e61ed7dac2d;fc3a3d4c-ccd5-425d-bae9-8c2f4da8d575;NUMBER OF MOSQUITOES
+129b105c-7757-4923-a88c-951a075506d3;c4bf91b3-399e-46b5-891a-680fe6eefa5f;Number of Hospitals Worse
+d1a67106-8777-499b-b28c-f9978ec4199e;efab554a-bcc2-42ed-86bb-6b1b24d8635c;# of Workdays to Complete
+177d39c1-027a-4da4-a750-5060d81c02f2;72c761bb-6f4b-43fb-a251-badf6ce1e7b4;NUMBER OF EMPLOYEES
+f5858a3a-2413-4e25-a2ce-59b3931b78e5;ea63f13d-f86e-4409-ab9f-e06ed75b819b;Calendar Year
+7c71fcb3-e5ec-4f9c-a5ed-8e61ed7dac2d;fc3a3d4c-ccd5-425d-bae9-8c2f4da8d575;SEASON YEAR
+205b25d3-4354-46de-b5fc-84ca68cde7cc;bb6831b6-bfa8-4ad2-915d-ff3c02eb06bc;Fiscal Year
+0ab9ab70-d12d-447a-97e1-325445f5ff07;7d5d1020-f9bc-45e2-b91b-822214091a9b;Cohort Year
+88c44b75-f23e-4eb2-9da3-97dd2dcb5efb;32fe6934-b8cf-4cac-ac9b-7d895402d369;Registration Year
+193c5d6e-51b7-4397-a282-03b10f03b3a6;ee27c1a5-740a-4db5-9521-80c00fcb575d;MMWR Year
+f3c01814-2bd7-41f8-afd6-fbeb0e1feb9e;abd6e459-5df0-454a-890c-65b69e7b2465;Tax Year
+258e7a98-85ef-442a-b500-135f761fe6b4;978ba546-908c-46f2-a807-8dd822e286c8;Assessment Cycle Year (SDAT Field #399)
+ead3fa77-6e15-4d33-a2d5-4b75c25742c5;83aadef2-0a46-4dfb-a47e-28023e9390ef;ESA Listing Year
+10b4cb01-0df6-476d-b163-b14d4467b1b3;60286c41-f1fb-4296-9b18-009d38e70ed0;School Year
+524d54a4-8414-41fe-836e-24ea01fdef2e;57450fa8-e78e-40f6-866f-9e70e32cc038;Fiscal Year
+d65475e1-c657-4b3a-ad41-0f2cdccdc8e4;c0372064-5e56-47b7-a5b0-e5b151435ef3;Final Year
+00a200e4-cf30-48a5-b9b3-19bdb0d64571;f09e0e04-136d-44d9-acc9-605820ff39d6;FILING YEAR
+a90d43ed-8231-4799-a20b-5d111cb11a5d;d58c2110-1596-4de5-b12f-6c3f5596de88;School Year
+c1dca54f-c4aa-4ae5-a1e7-5bcdabb42e37;722ec2c0-0149-4118-9f3f-52508e01dfb3;Fiscal Year
+2683eb0b-790c-4415-a1fb-28d8c9452242;d6586b00-d4d8-4369-a674-5bf5d2a159c0;BRONX – COOPERATIVES COMPARABLE PROPERTIES – Year Built
+fc486e5b-9e5c-4d75-a509-b556ef31eacb;4b141630-bf67-4ac9-8b1e-df50f855cd1f;Cohort Year
+6b9fe3ee-15dd-48a0-a6d4-e14cb5c3e3ad;452df33d-7273-43f6-ac64-125ecc601002;Estimated retirement date of boiler (assuming 35 year average useful life)
+79655b88-6df5-4c99-86ce-6cf9c1c89cc9;62e61826-f33b-4b8f-8340-c56ac050b580; Calendar Year
+6ce1cf49-cb9b-43a4-9bfe-c4712aab6f4b;774342dc-a88d-4ec6-af3c-34701598c370;FISCAL YEAR
+3b25e41e-fc6e-4f38-92a9-db8616188822;079be661-40e8-4444-8714-8c6c1a7f43d5;Migration Year
+7d9f1316-989e-4db6-a246-315bf9997ace;36d6e1e7-8a02-4718-9a47-dee8e8fcd5fe;FISCAL YEAR   
+586ecc92-e7ec-4b07-9cdf-4fa70b7fcb0a;1eabae02-b801-4d0c-9220-09c79fe727d5;Migration Year
+d166729d-6bf2-4195-b6a2-e8ece7a6305b;11fb2191-95c4-41bb-973c-b3b5acd7228f;Fiscal Year
+97b4ebe7-df37-4530-8a9f-07dee99ca65a;e2609e0e-5add-4e0d-a969-13b9731672d8;Foreclosures previous year
+67c11ffb-a24b-46bc-a0e9-4064f3e875ec;6af714ac-8a9b-438a-a1ed-eaadc8c98acc;Fiscal Year
+88a9c577-90ec-446e-ae67-a1931ca210ec;ea102aa3-9e92-4b1d-a732-94b52cd7561b;Fiscal Year
+17b174b9-07f2-4325-a11c-da073868073f;a1c9d680-2830-43ae-a268-daa44c282b5c;Fiscal Year
+f64f6a21-520c-4141-a09e-c853c38a05f4;07a35401-42ab-432d-a831-86779a7a164f;Case Year
+743633e8-0e5c-4a49-87c3-9555b7317c05;398f0bbf-d9a1-4d5d-904c-907afae71566;FISCAL YEAR
+38636c99-5604-4978-99b9-3b51ff43130d;fc1c3fa4-9c81-468a-a66e-812d7ff7e01d;MMWR Year
+1f36751d-8776-4367-b105-a7f98cdf9f75;8c2a43ab-557c-4ce2-9fc6-0a802a419e50;Fiscal Year
+cbee6f21-111a-47e7-94e4-a099769f41f7;c18f7ee9-913e-44c2-bf63-e91b4bb9e22b;FISCAL YEAR
+e6845869-5bdb-4153-a587-5c244a8702dd;48eecbcd-e346-48ce-aefb-828fbd583371;Foreclosures previous year
+f8de7782-9a00-4d89-8434-a68a29e2b62e;06cc3d95-bd5b-4607-b5d8-3c0b14f21ff2;Model Year
+fd45095f-5bee-4e0b-8b41-3008de83618f;ecd0794a-c07c-48e7-ab6a-a063b99afc6a;Vehicle Year
+f5713195-45af-4735-a4ae-719382829917;515cc721-c4c6-4a42-a03c-a34369b04f79;MMWR Year
+87141da3-61ac-4263-8f0b-0e24e1189d53;ea55cc43-ebf2-4656-949f-d07451746d64;Fiscal Year Ending
+e0e513bd-01f6-43dd-a4f3-16590c686b9a;bcb113c0-834d-43c9-b8af-f883a4a3887d;Migration Year
+3e35c10c-43c5-4d4a-8caf-420fb268a81a;b8890075-6cef-4dc6-ba83-d4c5d64e5c48;FISCAL YEAR
+eadecb4f-499b-4ca0-b5f9-1b42ecbdd44c;65ef1dba-a3af-449c-86f6-db7841acbfc0;Vehicle Year
+649558b5-6a82-485d-aaef-fb26c0f76736;9b3fbedc-7fb3-4159-a6f2-f7c55b172151;Foreclosures previous year
+ba5f75b0-42ae-4306-ba75-f86487ae087f;d39a2759-9273-44ca-a9aa-b90e2a8c60f4;Fiscal Year 1
+1d31a429-4de1-4665-ad1c-8a217a3e4051;d42f9bd9-5200-46db-a3b6-9058edcbdfe6;Calendar Year
+b0c47334-6c24-43cd-8f1f-a71fa5b6ad49;150bc6c4-5ab1-42b6-b1a0-470e38a2af80;FFY Year
+14244e81-b9d0-452d-904e-b0f969ad3a57;6cff900c-e539-44cd-9df4-6b2faa67a0cd;Fiscal Year
+d44fd17d-d9a9-47a8-a1b5-88999aaa2b94;e653d4ce-5dfb-4894-a198-c8237a75b313;Fine Year
+5920d309-11a2-43f9-b8c0-d7a09c765273;82365657-68bb-456c-8d0b-4f72b5282274;Previous Year CYTD
+a26f3381-4a8a-4a6b-8fe4-b091edf2dede;8305d1bf-38d5-4b1c-b656-d9bc04ebfca2;Fiscal Year
+3548b49b-0173-4724-868d-722fe61d39c6;b60db918-ab3c-435c-9118-5793fcb4445a;MMWR YEAR
+77c84c43-1880-45cd-8cb8-46a626d2daec;fba5118f-5c1a-4f47-905e-56ade01b3083;Project Year
+af5ea733-7c47-426a-8294-456df66285f1;eb2d51bf-bf6a-4e7f-a290-0b001e1341bb;FISCAL YEAR OF PAYMENT
+0861e3b1-0d95-4821-bec1-e03583cf708e;92504ab7-eb8a-4653-9caa-dbb014faf295;Model Year
+4a43eb1b-c8e5-4d89-84bb-aa6bf0c69584;754621ed-450d-4d2b-bc03-c741842d49a9;Calendar Year
+b562a61e-3e57-4964-a10a-44242dc6ced4;cd765169-3791-430f-b55f-4142910aecdc;Nature Of Interest Lease Years Remaining
+90e43a29-f003-4483-804a-ef295a964ea1;6f12aebc-dd39-4152-b447-4b0b52e0785a;Grand List Year
+f1ca2fd5-1dc7-472c-aae2-fff844d03c9b;b423f435-fdad-4634-ac3a-69ace1a7804d;Fiscal Year
+b9a4afb5-e8c3-476c-b482-435f2490c67c;21d0beae-8093-440b-a7d1-07c8a2cfd417;FISCAL YEAR
+b65d3666-4456-4d9f-9424-c159a9e91241;cd00e43d-29d0-4aa8-8e44-95fe8bd2f3e1;BRONX CONDOMINIUM PROPERTY Year Built
+ac7312b6-1d24-47cf-abdd-ec7e24a7770b;d513b2bc-b4fb-4d6f-b086-63fad151e646;Fiscal Year
+18ed37fb-5bd0-4af3-802a-dee4b6df0fb8;be71a38c-2eb8-4dd5-81e3-3f9d04a9b4be;Calendar Year
+46299d93-7da9-4dac-980e-356bee3e366c;db8aa587-9c1d-425e-bbaf-71e458f6fb46;Fiscal Policy (Actual year)
+2b638ed4-2b98-4e6c-b450-80b407c81ead;be25a990-4fc1-4d8d-9491-571e8a45be49;BRONX – COOPERATIVES COMPARABLE PROPERTIES – Year Built
+79646ee4-9587-4758-a21e-766c6e6ba7a2;bc152a79-0a57-4182-8541-cba445721ac6;Reporting Year
+1fe3df46-11a3-425b-80c8-c7a561e15547;8a4f8241-b5c0-4d84-9c7d-517c8ed44159;QUEENS – COOPERATIVES COMPARABLE PROPERTIES – Year Built
+e121cd8d-b32f-4800-87b0-007091e312d3;c821338a-1b48-4444-918c-d18af1290ca2;Calendar Year
+eef779de-de10-4c9c-afdd-d6476a5ac66c;284608e0-c4e4-4997-b6f1-65f604e9807b;Fiscal Year
+6a4608ba-335a-4fd1-8970-1ad3dc73bfe2;5bec8d4d-4ef5-4db9-a3d1-d8da82b2572d;Fiscal Year
+71044079-7e85-4e79-8b53-5bae85190beb;8f098f98-d460-4ef5-a947-65731f95ce8f;Listing Year
+6926eea9-7e38-42a9-b3d4-e9d99ca330a3;7dd5e04a-c90b-4b4c-86da-840641f2359c; Year Organization Founded
+cb25c976-c00d-4156-baeb-62f1b5e1e940;481bdee0-c3c4-43ac-b150-1f3dd1010805;Fiscal Year
+1bb1f762-4522-4825-a9a1-43e7f066246c;6c1b1aa0-8947-4369-981d-de482243d7dc;Fiscal Year
+b1a6a6c9-0139-4da5-8a62-52c4fd629468;03b9dfcd-72db-4b32-aef2-13f0a0ee8a08;Cohort Year
+6de94e98-871d-4554-a77f-0f69c2c34e45;dafcec40-9bac-4a02-b668-4d13e16ab3a6;Reporting Year
+77c4b842-e1c4-46a5-a48e-d127b6c74b06;a379ef14-ee6b-4d01-8ae4-d8821933549b;Reporting Year
+37d83835-2124-4da9-82ec-a34bb864ab21;67bad17e-21c6-46cd-b22e-8745adc8ae68;SHAPE.AREA
+1a340915-c41f-4417-a385-2447a6238333;65c813af-4d60-42f0-87b9-e3050f4ba3a1;SHAPE_Area
+781fe207-f626-4a20-b201-79c8ff1fd2b0;76939a72-359c-4d77-a0c5-1155b80e33d6;Area
+39fae623-d115-4d99-b322-245490422d56;8538e3e5-f5db-4d05-8936-55ee70c8c2fd;SHAPE.AREA
+0645a3c5-ff32-46f8-a955-789d1b2b06a3;6ef636ab-f23c-4226-aaaf-e6921727a1a7;GIS_AREA
+4f7f0ae7-94d2-44ad-93c6-1fcb139d6a6e;1633fe3d-c62d-4975-9210-e519f0f3b310;SHAPESTArea
+f9988dee-1217-4f49-abc4-eb5c39bf7b89;6982742a-80f5-4331-b7a2-d14fce1e3074;SHAPEarea
+aa39b87b-b11a-45aa-9177-304b5172b7b2;9147aa39-2a0b-4877-955e-900dd495fbad;AREA_NEW
+3a368a51-89ec-4028-84bd-a030e81d75a7;5965456e-e782-4734-bbd9-830182e6648b;SHAPE_Area
+886582e8-d116-4a08-99ac-cc7d1c36e840;f62bab62-9def-4d07-a19a-1b04f3ee6282;SHAPEarea
+4f18e656-e3f4-4645-a3da-16a03ec52531;d50d1967-c3f0-4286-91fe-af446debb75d;area lmt
+674a3a39-4657-4e73-a818-bc870562f4c9;486bad20-cbc6-408a-bf66-9b0aca6766a2;AREA
+afd1f28f-916c-46a1-a2f2-d138e85bb50a;d66aa647-48a4-44c9-ace2-eee007e0b5d6;Shape_Area
+aa8cf640-54fa-46e8-a595-85173df8b6c5;912e5056-e374-4a79-83c0-ac48d09ece10;SHAPE_Area
+75bdf04f-83dd-4fa2-92d1-a72b65d47285;39c7bd9c-3284-48e2-8d5f-ee1956c4c10f;SHAPE_AREA
+05565cab-f599-4738-a729-53edce5d60f3;00bcc1d1-4a81-4514-8442-11915018feba;Community Area Number
+68072224-114e-4b61-9655-af13852a98ce;8725247b-654e-4735-a4fd-612493e86037;Shape__Area
+4f0f9366-0af9-4f93-acac-8685338b34fe;3f023757-380a-4ced-b2dd-b7fa73829e1d;shape_area
+603a0585-eba8-4561-82b3-b46353792743;5296ecce-4849-4686-a2ee-aa6ea1754f89;Shape_Area
+34c77449-3f5e-4f74-bd5f-3dc12282bb29;b625419f-03e8-4588-ae5d-f2d3abb3312b;Land Area (Square Miles) 2010
+52b3a3a5-5711-4eff-b2a6-c85d333f99d9;0c9bc8e0-d077-4ee5-81b9-6d5b17b2480d;PARKSBND_AREA
+1456181d-b0eb-4c1c-aa4e-4900fe1cbfa2;123be788-72aa-4adf-bfc8-d6099f5ee5b4;censusarea
+6110d6ef-12c5-4422-adb0-6748a8eeb5b7;f2ca0ff7-5da8-45ae-83fe-9ff0d1feb6cc;SHAPESTArea
+4e7c8b0d-b977-409d-abfe-ae85d5040718;9be42867-40f6-4064-8515-a5cd27f1ecf3;AREA
+e4edc439-f90b-454e-8781-c6df214ec99f;eff719fb-069b-4434-bbac-7619ebb8359c;AREA
+31e972a0-d527-4b94-9e6a-7664d3f64c43;cb262ee9-60b8-4e10-947e-94b909e61d48;SHAPE.AREA
+6df9c385-e4c8-4895-9255-fb0a804e82fb;379e1664-aebb-4776-bcfe-e48a0475be31;SHAPEarea
+67815500-4f9c-49f9-afec-fff70fba92ab;d94e4568-87b3-45c7-b96a-6af3c3a0a1c2;Area
+07eea919-714d-489b-b04e-82b067a81c16;71df0123-c66b-4b70-aacc-bf5bbdef98fd;SHAPESTArea
+17da8a38-fd13-461c-b0be-db74f02949d8;c3a31a10-53b4-4025-8e22-7dd4ea7998c3;Area
+bb5c57b1-fb90-4949-b930-5cb16fe27f1e;7413d971-98f2-4c02-90b1-ea87767e3951;SHAPEAREA
+b06f7174-5c3d-442a-b0da-553245116e73;6656c42f-966c-458a-9363-34ee8ac336d0;SHAPE_AREA
+50b1dc75-ba04-4425-861a-0abfe9d825ed;f3189b53-140c-483a-a033-b9be015e173c;Shape_Area
+0df9630e-649b-45ce-9b26-31822a20dcaa;523f07de-cb11-425c-acb9-10e5aa4f12e0;Area ID
+e942b54f-4ca8-4461-adf8-238f0b249625;9930c718-9616-4376-8ad8-73f3d114915e;build_ss_plan_area_1
+53208eb2-c88f-4041-9bf0-c1e8c6703c67;a98340ed-e077-4531-bcb9-138d6035417c;Shape_Area
+261a4cf8-a2f9-48de-b48e-d3bb39f871d8;d6815d6b-7fde-4a57-bb51-a528dd54bbfa;AREA_NMBR
+2bc21c9e-c937-4344-bac4-5121c85effee;2ead4d30-5338-4b46-92c1-58875bd0374c;Community Area Number
+ae78615e-adcf-4aef-9480-263ec2a3f958;9f24a7df-c442-4ccd-8e39-d3a36b7ebb8c;SHAPE_Area
+3fb6950a-2d6d-4e9e-a9fa-ba788351531d;1b387239-143f-4bdc-9f9b-e53ad7217607;AREA
+50cdd0ee-9882-4b1d-ae0a-de7a7a040d14;d08dc2af-6fde-479d-8c28-d860838d7773;SHAPE.AREA
+a2944b27-2c39-4ab3-89ea-69d06fde3427;5540af65-cb0a-4179-b32f-1b60965e9c4b;TOTAL SPECIAL SERVICE AREA TAX
+2ae44560-151e-4100-828f-251a97acdd37;de80b953-1554-454f-9b5a-57f79fc4b022;ShapeSTArea
+26de9c1f-765a-4476-ba8a-a8c997582700;e4a5b515-1136-4d8f-9d04-e8054bb43776;Shape__Area
+f5b2d6e6-f124-49bb-b3fd-324f22e6d853;081afb2d-cbe8-4cc1-bd50-ac8626fbea54;Shape_Area
+87e49323-4e54-423b-baee-ba9bd2390d92;080737b1-4da8-4550-af10-a1e17f18fbf1;Shape.STArea()
+3e013f5b-e5d3-4b41-a721-77fb861df158;94692437-7fd5-4ab2-b79c-e4954300391a;SHAPE.AREA
+41fa51a0-483b-4f59-9bb7-2135a1b0ee7a;bbe0c09b-2168-4bdc-b1f9-d68b88160f84;URBAN_AREA_ID
+7682f4ce-537a-496c-9e1e-a0aba319405a;94c203eb-bd43-4e3a-8cef-62ce982c0932;AREA
+49db52b8-3d4e-4701-8aa8-c6be19a77659;086cb5d4-f805-4c08-9800-5e47d7acbd18;SHAPESTArea
+a8978782-ccb7-44cb-9001-afb33f0f6a0e;74bcf932-5208-4500-9df9-7aa0d47c7181;SHAPE_AREA
+516935ee-1f82-4f65-ac05-a6dc53d77d56;8f24d87b-d58b-441c-b379-c44b61adaad0;ShapeSTArea
+99331a92-9f53-4f1c-80bc-4922b3811109;5557bfd4-127a-4a81-b53f-4dfe4260ed73;TRAFFIC_ENG_AREA
+ccbf930e-e7bc-4828-a472-ac781cd64dfe;800d66ab-e0e8-4454-b4cc-393543995204;SHAPESTArea
+e9974af7-39c4-41ef-ace8-3fbe424b07b4;d8e923df-7b88-4117-b292-f99c42716b4b;Shape.area
+05c8865e-d3a2-4a2e-b576-3da811d0c4c0;4dd2e2b4-71bf-4533-80ad-4a65d9311a38;Number of Smart Strips in Common Area
+dc64d98f-fa1e-443c-a36f-b1151c32e6c1;210afe52-5366-496c-9e62-6014c0a05562;Shape_Area
+cec4a1ed-1283-4233-b3a5-06c8db550a87;89122c16-9e51-4213-9788-6568ce39666b;AREA
+550b8cf5-923e-4c50-98d6-fc86a5afbda1;57f5b62a-9b62-4dfe-9c42-133daf58bd8c;Consumers in Rural Areas
+c9a434a2-8070-4dbf-a008-f0e64a89a541;351285dd-adfd-4986-b0ca-b0b2d222cbd8;HYDRO_AREAS_CM_TYPE
+5e760646-1e51-4cc0-91a4-78d1272c115e;d08365d3-84d8-4cc2-94e5-5e00b8ba5a69;Shape_Area
+676405a2-cc62-4036-abda-78a882940042;4cfd0893-8f95-4fe5-bcf3-8d3918d97fd8;Shape_Area
+0615eb23-897b-4cf2-908c-cbba1db44fb4;c5c6b510-0bed-4fa7-beab-6c4c86bc0094;Planning and Service Area
+d8b74f12-b62e-4b39-a34f-ec971f857b8f;a6c37b0e-1f28-4f45-b383-27813867bd5f;SHAPE_Area
+7e36b3a3-1292-4e52-bbdc-0400ee9c84d3;fac74efc-7a04-4882-840e-811209975ecf;AREA_SQFT
+b8653d89-b315-45da-ab18-0b1ac46855ed;f00cf899-f5e0-43d2-8b5b-c18959d315ce;AREA
+c00526a9-fb66-4139-b0dd-37405b0a6947;98b780e2-5de7-411c-9de4-e6e4995f0125;AREA
+e2e2aa70-7f2a-42bd-a9ea-50a4f14994b9;f83c4f4b-4495-4826-be22-ee3aa7237cda;Shape__Area
+a85ab040-44de-464c-8d66-bf5f94c14651;14add021-1401-4697-8db0-554e5a125a43;Area Type
+06420a86-1774-4927-bf40-ead7a6e86a52;699e6312-47bf-4790-ac95-bfa2e9e179fe;SHAPE_area
+78d336a7-d6db-478a-b4ef-e5006ec3f168;f9a4e5d6-6f01-4190-a23b-661ee64136ce;Community Area
+1b7606a6-8b1a-4f99-8471-b17f1c32e281;b745db39-e532-47a4-9814-c3dae6da1b79;SHAPE.AREA
+eb0188bd-5329-4fca-8835-a3c67cc1734d;12e5d335-96bc-4769-b0fd-fd863180c4a8;SHAPE.AREA
+75473b46-d249-4f13-a6f9-790e3b5530e3;b125f0fa-360f-4fa3-9b95-8ac7ac9227e9;GIS_AREA
+ba9c4714-8b64-480e-af83-f44848237b45;585ba915-9d8b-4d77-b82f-16aec0ee260f;area lmt
+c0ef3c97-0b2d-457d-8d47-f32c1f2d119e;c612406a-3b84-46a0-a7bf-9fd900eb3866;DOF Property Floor Area (Buildngs and Parking)(ft2)
+25f6ad01-21e5-4970-af75-a5415cb4ff2b;982f4eef-c286-4112-8438-45b1df942923;Downstream_Rest_Area_2
+d9611b0a-5d5b-41e2-a0c5-83e4e3a7b512;cb522d87-7d7d-49d2-847a-395ee522fa11;SHAPE_area
+f6543010-3a37-4652-921f-dc3e9fcc704d;532f9c0c-7799-43ca-98e1-adfe894c24e4;AnalysisArea
+f5470179-2376-4f6d-b08d-f9f20dce4394;62e921b6-0b37-4894-a069-0f1335da05ab;AREA
+6816147e-b8f2-4337-9449-e66686dd68b9;7e253e12-05bc-42c7-891b-c2c37d8ecb88;SHAPESTArea
+f1cd47ab-98c5-4826-ab58-f781b910566f;a9c3ea0c-ca98-4e66-8abc-2a9f6bc62455;GDB_ANRANR_ADMINGeologic_BDRK100K_poly_VTcontaxAREA
+a778247d-f12f-4f6d-a917-e029d9d8bac4;657e4d7a-99b8-400a-b7e1-39608c20d028;GDB_VCGIVCGI_ADMINBoundary_HOUS2012_polyAREA
+aef7260c-76d5-498b-a73b-919772ba01d6;99b32c61-538d-4c94-ad5e-5017cad84b1e;DOF Property Floor Area (Buildngs and Parking)(ft2)
+06fd213d-26a0-4300-ba9d-8e5d3ae593ec;1ee9fc6c-3aa2-4853-9dd6-322f4988f8a5;URBAN_AREA_CODE
+96fef85b-1793-44a2-9f4e-01096bf95713;d60f3501-b182-4440-b039-2cd3e70ddbae;AREA
+6db672da-699f-42a2-aaef-02e3a9d211ee;e0b86d3e-8a3b-4d49-8f11-1536b4f77e85;Total Resource Area (km^2) at 50m, Classes 3-7
+627de9ea-9f0b-4b01-b021-1ccceedaa168;d639fd83-3e7a-4c1e-a9f9-5ec1fd5070d4;URBAN_AREA_CODE
+dc8b52fd-770e-41b5-bd42-cce39a58f661;bf813a12-3e29-48fd-8b16-9e8ff310ac25;SHAPE_area
+97325862-7d59-4a2c-9999-443550f8b9c8;32ab218f-21cc-4f4f-820b-3d9bfc3dd356;Area (Panel A)
+4903c32d-b268-4130-9ffc-8d64deb089eb;15acf3fe-136f-4ecf-bc98-c50d915d0d2a;Property Area in Square Feet
+72dda8c9-2a77-4cca-b21c-23dd5220eb5e;038903dc-7854-49c3-8f3f-4120e1b9fe5b;grossFloorAreaSquareFeetQty
+77079816-9ed2-4eaf-824c-a50a9d3e450e;bc7af777-9b14-4c9b-8c7d-02e4c397f5e6;Shape.area
+73101083-dc2d-43ac-b5f4-fbe3ff14e257;f472b94e-ad8d-43bd-9d20-fb1dc0fcb910;Washington Metropolitan Area Transit Authority Ridership (Maryland Only) (FY)
+079b0b2f-dbd3-44a9-9f3a-83953a87c019;2cec6f23-18d2-47de-9ecb-57473e73996c;AREA
+d2a48290-3844-420f-aa84-66c5cff7da75;df4e32af-7a24-4993-b6e2-e29b3861e099;shape_area
+d6e0b461-ec90-43f5-bef5-320b2a9ba4d2;6cacd1a1-6bff-4c7c-9094-49188ea29f85;Area__
+794c7f70-1c9c-47d8-83a6-fe25caa65695;0e8bba20-6a73-4b4d-9cb5-dab79dd49899;AreaSqFt
+5d7f2ac0-0862-4281-af27-4eb5a16b8b58;5f81fd86-1685-4bac-a141-8b486814257e;Shape_Area
+782ff5a4-c0b3-4035-912f-05d765ee1120;2cdbf343-0b88-4a9a-b5dc-6b56a63103fa;AREA_SQFT
+75df7c11-17cb-4045-b0eb-da92a7c55245;5494df9d-7606-4913-ba82-79fe5b23323b;Community Area
+0420832b-e95b-4f58-95bf-836d42dc370f;27f38824-6a00-4087-937a-99ca3beec0e5;ShapeSTArea
+db1b49f5-87b6-467e-bc6f-f4d903321a4e;55865563-7394-4b4f-9c32-499025d1c39c;ENUMERATION_AREA
+1d21f152-d2dc-49c6-9087-a19027e12505;b8bddd97-8392-413e-a424-8caab7f7410e;AREA
+205ed4bc-2f88-45bf-964f-f0f5e5a9db69;0c775c2c-9517-4caf-9171-3ad581163776;Downstream_Rest_Area_1
+54106bdb-c5be-47da-a493-322575d25428;8c019e35-c6fc-4dbd-9ce8-a494a49df15d;Community Area
+7a7c4576-5c67-4012-a8fc-5a5d8d90cbf8;3c948da1-0e03-42e8-90f3-6dc7a49276c2;AREA
+2046329c-a8a2-4ee2-aa5d-0f5eda1e8027;bd392ada-8d7a-4cba-97c2-b50954367215;Community Area
+1a9b62b5-c3af-43ee-ac13-0433a835579c;73880f65-ad06-4729-9514-ed10a5ed56e1;LANDAREA
+35a95208-da38-44fa-9e47-066860a39e65;a3bfb1c9-74d5-4fab-b1a2-b6c9268e4edc;Community Area
+5ccb64bb-7891-419c-a490-4c8036dc6f65;0992915f-a5ae-4252-8da5-ecb75228a469;Shape__Area
+81982b73-5c7c-4d22-90ad-2f1b40d2cef4;edade514-5cdb-4c55-b4ff-70ae294d85c2;AREA
+d8c70f04-867f-4e57-8e96-0744a6f4af72;8ee86e7c-32a8-4a42-ba1a-7c2c80318bb3;SHAPE_Area
+4fb9f3f3-cd00-42de-b736-9cfd3de899ef;a191c812-28a6-4b53-8558-10dfd2a7e5bb;MapArea
+8ac66a69-3a96-44d2-bd6e-6808b42505a2;970f41dc-5d34-4cd3-8d16-ad7ad19ee2b5;Window Screen Area Recommended (sqft)
+86bc3db6-773b-4aa3-97c9-688a892594e3;4f9c2081-0fc5-431e-a559-f1f8df2a9a4b;AREA
+1f42f374-2fed-45b3-90ee-ab053d4b2b44;049b2ce0-1670-4b8f-85e0-d17a6c50b04d;MAINTENANCE_AREA
+f1ddff10-c7e1-485e-9eb2-906ea24d09ed;d330e980-0386-4910-905f-d138c2874372;SHAPE_Area
+448cd2c8-7a18-4b6e-bb06-6b4257131f9d;8bbcecf1-22a9-49d1-89ce-00dc60268f90;MAINTENANCE_AREA
+eeeb1a97-4114-4a8e-8e8b-8906e898a6fc;081bdafd-4584-42fd-8834-575aad45f902;URBAN_AREA_CODE
+10eb3b0a-5390-4854-b15a-16247c112660;ec499ecd-15b0-4a45-893c-1a7717b2e271;AREA_NAME
+848a104e-396f-477e-b86c-b965f6fc5222;64b76d65-db2c-45ab-944d-d49ce8c5d6b1;Inclusionary Low Income Floor Area
+1eabdd80-f424-435c-a5dc-59545ca9f95b;7b130915-5f43-4ce2-9b89-e1fee5fcf35d;SHAPEarea
+9fd12a13-62b9-4088-b6b9-8169bcc9da9f;f0e99bca-b4b4-43be-816b-6546b65090ba;SHAPEarea
+660ceaac-7cd9-434a-9a54-0e82c15bc51e;461a3c87-8c46-48a8-b58b-7458f162d0e5;Total Basin Area (acres)
+4f20b9e4-0eaf-411c-864c-50d324c65c5d;20eb4f43-1b04-4e56-be44-4072742d08a3;AREA
+d280b513-d229-4295-85fb-4bb334e4b7bc;f74eff8e-09ba-4729-9465-e6c406ad63ba;SHAPE_Area
+2daa33a5-6049-47ba-96fe-6c70368133e0;c297b139-33a9-42c3-a233-18e8c13050b9;ShapeSTArea
+258e7a98-85ef-442a-b500-135f761fe6b4;978ba546-908c-46f2-a807-8dd822e286c8;C.A.M.A. SYSTEM DATA: Structure Area (Sq.Ft.) (MDP Field: SQFTSTRC. SDAT Field #241)
+d165edeb-cf90-40fd-a248-6474cdf53152;c68f3b0d-f4d0-45c1-93f9-d45c754f2365;Boundary.Shape_Area
+d0d00207-d0ed-4963-a8fb-19105aee013a;e93c90af-af73-409f-9350-b156e7e1144b;AREA
+e20792dd-81e2-4e72-90d6-c1004cf69e7e;6d253aff-9711-44af-aa2f-eb25c805ca46;SF_AREA
+97c2029e-3cc9-4d36-821a-a6e0746d599f;1a22da56-5413-4351-9b4a-b8bc32aae0bf;MAINTENANCE_AREA
+6ce68b31-5f3e-4306-89a1-e670de704205;827d2f7f-8b7a-44a2-832c-f7c51bb6dccf;Floor Area-L.A. Zoning Code Definition
+6b9fe3ee-15dd-48a0-a6d4-e14cb5c3e3ad;452df33d-7273-43f6-ac64-125ecc601002;Total area of buildings on lot
+359dd0e5-8410-46d4-9b7d-545daa19420e;99b0a7c9-8e91-498e-8fdf-c1fcc518cafe;GDB_HMS_HMSADMIN_rtlogpts_AREA
+13550374-9b10-4ce7-94e9-8e82c56051dd;69a464dd-8f6e-4bc9-b083-fe0055ed730f;LandArea_SqMi
+a4f0bdfe-fdb3-43a8-b67f-835d5c3fdf54;34736ca9-f3a1-439d-be48-b4584da36b36;DBASIN_AREA_SQFT_NBR
+bbf83e9c-f82e-4068-aada-b38d870ea35e;ea04c543-a85d-4a09-bff6-1bb9f20c5c20;AREA
+225effd6-41d0-48b5-a1c8-f04c94e28c3d;4301ccee-9431-40cf-b0d5-3d5b2cad882b;ShapeSTArea
+e358abbe-87f2-4547-98b8-592ffc617348;decdf0d7-82d2-4774-814c-b31c8f2dd901;st_area_sh
+3de9da91-7e87-40f3-aa57-54ae3020ef8a;71ee95a5-030e-4c09-97a6-cdfa25a0f4c8;st_area_sh
+0c63005a-4092-4591-86f7-b3148a23a438;2016fa1c-7cc3-4414-bb13-55195dedc6d0;URBAN_AREA_CODE
+742b16a2-aaee-4489-935f-facff1ff49aa;2182f8ec-8e24-4d8f-8188-30d2305cffd8;Community Area
+f1287e70-504d-4ca8-84ae-184404a56451;0c748771-8f70-44b2-9b6d-d83cf951f220;AREA
+8e68d0ed-cf00-4c87-aa05-e4ec21dbf2db;9be01ca4-04ff-42ce-9fe6-24d96e3bd06a;AREA
+eac159c2-5058-4242-b025-0f300729c43e;9a615b16-5a6b-411f-adf1-15661856337e;Community Area
+e63a5c02-6720-452a-a185-b52dcffd816f;b8830958-98ad-4c9c-8ccf-2ad93602c2d3;Other Area Responses
+1cae9a17-304f-4756-a3e3-c4c9a3999ab7;394fa349-acf1-47cb-acb9-24cf374116fb;LANDAREA
+abcb73a6-d4db-4dd3-aaac-3e7c1feddbf6;cbabeff8-806d-4f8c-a79a-ff9cf43ee251;MAINTENANCE_AREA
+b1e77864-7467-4910-92bb-09ae661de277;820eafe7-2f3b-484a-a6cd-03d3f9e7a88e;AREA
+88244fc1-8c66-42f3-bd8e-7b86b5c6e439;bee0d3bc-5ec2-4b83-84a8-8f00bc6ec2f0;Community Area Number
+9950a4a4-1a75-41c3-866a-62bea1ee55af;420a567d-d861-43c7-b00f-e21975e6b484;SHAPE_area
+94734321-e439-4c65-8b99-3a94e9e0d3ca;dd7a63e8-2abe-4ab6-af86-44004ae8aadc;LANDAREA
+739ebfcd-5bed-4e62-bf76-69ac022522ed;d6a2ba81-c961-4666-b41d-0bc2a3c44dc4;SHAPE_AREA
+89f0b07c-a788-4e9e-ac28-4c40417dcb24;c5302ad9-5b02-4d2c-9bd1-172074cfbbc5;GDB_HMS_HMSADMIN_rtlogpts_AREA
+88c44b75-f23e-4eb2-9da3-97dd2dcb5efb;32fe6934-b8cf-4cac-ac9b-7d895402d369;Lobbyist Area Code
+f52e651d-fce9-4d9b-ba63-f0db9a668a6f;07eaadd1-9049-44ff-aea8-0a20fe3b8c60;GDB_VCGIVCGI_ADMINBoundary_SENA2012_polyAREA
+b6b97ddb-eed4-4e78-a024-cbc491a79b82;4ef49aec-5093-455b-87d2-a503836937f7;Q8 How long have you lived in the Austin area? (If less than one year, please enter 1 & please enter numerical number) - Open-Ended Response
+e25703cf-60c6-4ad4-a27a-373d2e93242a;b4e1a649-def0-49cb-a620-666b427e3f0a;WRIA_AREA_
+31aa76da-d8a7-4f26-b490-be16579c724c;d9494061-f5d7-480a-b489-429ce8e59a07;SHAPE.AREA
+04172a57-690f-4e72-b8e5-7a6bb6570b04;cfed4b9d-5ea9-4a22-9844-826fc563c5e5;Print Speed (ipm or mppm)
+5c393d60-0854-4330-b4fc-bead4ad66929;33210a1e-4471-4537-8dda-51f71fae5580;SPEEDLIMIT
+4fa45c7f-f428-477f-ad13-60560646558b;a4116fa3-bc27-4902-9b44-80cd84d29218;WindSpeed
+ee39d591-4830-46c7-b98a-e85111e9cae4;3ca50c84-3f75-4ad6-b6cc-0ff94d8a8fb6;SPEED
+414b1748-af00-4016-b5d7-0e15bb2938bb;ee338f0d-f6c6-4cbd-af2e-d01deac03582;SPEEDING
+39570f2e-842b-4e14-ab82-c8e477d8fd64;14ec1ae9-b58d-4f08-a157-5a0c09796204;SPEEDLIMIT
+64890aab-50bb-469c-89c6-ca97e1eb59fb;106cd261-4470-48c6-b2ef-0ae65bae28ae;AVG_WINDSPEED_MPH
+b2186681-68c3-416c-884c-81fa7e8bf864;6f60de05-18b0-4981-80c3-b53c8ac59cb6;SPEED_LIMIT
+698dace9-6f2a-48cd-b81b-77323d08f0ff;1407d038-e0f4-439b-9370-64d70253396b;SpeedLimit
+20c9886e-1d38-477f-bf83-cf57cd9dd0bf;7df4d598-04a1-4577-8208-b6d04458ab60;Category 0: Base Processor Speed Per Core (GHz)
+006c0fcf-7fd7-4381-851f-e82f07f4807c;fd566a3a-27af-45b9-b9a9-d40ade10b337;Snapshot Speed S1
+52780078-6efe-41f2-bf85-322432eedca3;f4bd144f-4c61-499e-977f-ab2f78250668;speed_miles_per_hour
+1bdccc34-9b29-4322-8bae-ef777b4ba0a3;c429ad36-5f77-40f8-b909-aecae6ea2109;FREIGHT_SPEED
+9d01c783-f4d1-46ab-a50b-b0fb7641e236;79153aeb-cb74-491d-8d96-f7929b6ef4a6;Wind Speed
+726568fa-1b1d-4886-8b0c-f6da9164ed8e;d690297e-fd89-4399-8081-bd56a5829cd6;SPEEDING
+daff1aeb-e24c-4158-a40a-6dcbb7c12747;b1f4b6ef-0533-4b73-88a1-c5c47a266731;speed
+e3b109e6-8281-43fc-9052-4223b03026d4;a34d84db-3c7f-42f0-9581-84bd262c9f61;Speed (RPM)
+57b8682e-81da-466e-845c-03bb3d624469;f63f7de5-5dbc-4cd7-b400-2bc63c241fc1;ROAD_SPEED
+69010c0f-aa25-419c-9a24-c81766c2e8de;476b58b3-1e20-40a2-aa59-fc314bf56610;Speed
+66d4c30b-e216-4656-9b0c-694eb9cda0c6;58bac46e-0eb3-44fc-9518-3f86e5311aaf;SPEEDING
+e79eaabf-bf2d-4aef-91c3-a76d7e3df1e7;a806c0bc-fe34-4bb5-94bb-2691b494b0e4;Avg Speed Answer (sec)
+7f74fb47-d080-4dcb-b238-3535d3d229df;06a7a84a-97ca-407d-8100-9ed469d264b7;Average Speed of Answer in Secs
+c4fc3feb-0602-4e5b-9f26-1976aef4300a;37ecea7c-0d94-45c3-9ae6-b8c72f701f8d;Processor Speed for Low-end Performance Configuration (GHz)
+28f0d7b6-9738-48da-b5f2-f96e91189b01;28d8a6d5-9c3d-4d98-b013-d561b714d627;SPEEDLIMIT
+ec00386b-92a3-4a9a-9f91-27520c03cf2b;7240da68-eebc-4b24-aed5-6ed281129eb6;highspeed
+2ab0a94f-b26b-4aee-9069-7e45a46cc626;e01817e0-e9ea-48ec-893d-c10f461eccdf;SPEED
+30ee6571-3470-4963-a717-f4abaf1cd4b5;0128d148-4cc5-4501-b774-1ce34f9ed892;Wind Speed
+1fd93e3f-533a-4c07-a061-346434bfc6c9;5646b20b-8bdb-46d4-a1a7-3c10bcbb1a52;SPEEDING
+bc27fb6e-9096-4ea5-be92-4642b498a43b;c30109c9-ec66-4014-9058-fbf4439c67d5;WIND_SPEED_MPH
+98b9d7f8-3e95-47b7-a385-28dea8fffc19;fd881cd9-e059-4356-91ec-86651cc1c02d; CURRENT_SPEED
+f97f93e3-bd04-4184-b015-255a887712d4;88a8944b-4ec0-433c-9504-0491a793f752;SPEEDLIMIT
+ebe8ba01-7054-4456-98ee-24e4de1114e4;fe51d8c9-b670-4759-a5cc-b59538326a67;Speed of baggage delivery
+0f2ad804-e83d-4a7c-9c2a-2d3bbfc7e845;1dd5f1d7-b692-4049-9f5d-11e79bf40cb5;FRA High-Speed Intercity Passenger Rail Grants
+1c139fc0-bec1-4515-b74c-abfea3acf6bb;87301109-ee4a-413d-aa2a-db21e8f1dd2f;SPEEDLIMIT
+229b1446-152e-4ed6-875c-9c4e2035fe59;4111f547-b22c-4265-8e6b-1281e7de0c05;SPEED
+afc6ffd4-b8b4-476b-ab6a-c225c45a36cd;c50154b5-86ea-4462-86ec-7fda0c85413e;Speed Limit
+1bbb603b-7ca1-46dc-9235-52a56e5905fc;84ae8032-b904-41ef-a856-e94faafd8787;average_speed_mph
+0354b8e8-4170-439f-b591-4603afc7926b;ab6e4975-7d54-4999-acb7-8ec105c7a6ba;SPEEDLMT
+4e496af2-b378-4e3e-82e0-64846133ef57;697835de-40fb-41a3-a7e6-a5c0b82d3676;Highway User Speed
+2697d58c-ac56-44a3-84a9-fbb39ce7c2b7;c9d3cd9a-63df-4f65-bd66-e1fb71679a3a;SPEED
+d05fbdff-7aa8-430d-9558-39df187382db;beef2f04-5f97-41bd-ad70-0284b2e23607;Trans Storage Device 1 Rated Speed (RPM)
+27d66aaa-c084-4f1e-9cb3-d5b709132d3f;54a870c9-4e7e-462b-a226-b5fb6169837f;SPEED_LIMIT_CAR
+34a77958-3d06-45e1-8215-0d5d12873ccc;f93207fe-869c-4614-9f7e-8dc2f3b494ea;SPEED
+7bf12a8b-00cd-4e42-87a6-66e440aff6ab;8caf0271-a1fb-410e-9707-c3cd2f56b4c1; CURRENT_SPEED
+71afa315-f855-4e64-837a-feec5aced5aa;3fba5311-1362-4764-856e-a5da72ede362;SPEED
+8b5ca3ef-4b05-42d3-86cd-99f257941016;1dd5bc0c-1f72-4929-8065-edd17607346e;SPEED
+96b4f97f-1099-49ab-8256-3fcb642a064b;39233e29-fc0d-482d-a231-d5e2dd9ab1fe;Speed
+30133bf8-fd95-45c2-be1b-60713e0080d1;eb0dbc3d-35ef-494f-bc15-22588316482d;SPEEDLIMIT
+cbc3dc13-b076-404b-b540-38d26e008a2d;2ed0e470-147f-4034-97fe-15ac3a488bd4;Max Advertised Downstream Speed (mbps)
+191fa773-686f-4ff5-844d-879d2943592f;f5acf638-f18d-4881-9e60-3ab395058795;Max Advertised Downstream Speed (mbps)
+81add88f-1dd0-4cab-872a-d7e5af07da36;d904cf68-bf93-49d5-b384-ce2f0ad6aba1;Estimated FTEs 03/31/2015
+fd84dba1-871c-450e-8c9c-0b9cf6ca6eb7;8474720a-44ee-4674-b09f-0741029e199e;20. Children/Youth Beneﬁting
+e4f9378b-7dff-4c97-aec6-3848c7dacac5;f689b6e6-41b4-4114-a037-f9392a0f2e8a;Recyclable materials disposed (pounds/person)
+00ef9d7c-bf7a-4afc-82e5-2b4ecce7eb2d;6a176cdd-b585-4a13-83d2-be3c09649849;Temporary/Seasonal
+f0fdd8be-3a1f-414b-a291-44e5942f4536;3ad3ca4a-2b10-4c1b-96de-468be0b21e57;Alkalinity (mg/L CaCO3)
+74f4332a-08e0-4fb9-b1e9-9d8f46e3d529;a0721d4b-ccce-4e8f-bd90-e5ce8620ee4a;Density
+1d679ce8-a52a-4a10-888b-659746be3df0;129c6328-0890-4047-8bf2-ca88b8b4117a;DENSITY
+34c77449-3f5e-4f74-bd5f-3dc12282bb29;b625419f-03e8-4588-ae5d-f2d3abb3312b;Population Density (Persons / Square Mile) 2010
+7460e0a3-bf84-463b-b32d-cdee5afa3a1e;337f78cb-7af8-42f9-84d7-159ce28d2e2f;Population Density (Persons / Square Mile) 2010
+01a23e7d-6009-42a8-9559-8802e3e5f028;e7a5f070-1b86-4b79-a538-34bdf37808f2;TC_Density
+8ebbdbc2-315a-4d7f-a463-58f0393b7d25;42c5a04f-fa77-4e64-ab38-8cc60e5f1bf5;Intersection Density (1 Mile Diameter)
+4b5b3236-197c-4f49-9f04-ffc38137763d;89e58e73-1acc-4b07-8645-ec1696572305;density_of_24h_asl_lessthanequal_5miles
+526808e5-7562-4fed-93d8-b5b3a7107e8a;3b492fb5-26a7-4c0c-bb50-cf6f50095e78;Density
+0299fa27-c8ed-43bf-b18b-0b2f4d296f93;b3f9bcee-0f76-47e6-8dfe-0fbaa5ff8721;Street Density (st. mi/area sq. mi)
+3ea86c03-825c-49f3-acb7-5f9c6c5640c9;8059526d-c26b-438b-9e06-1a19546f2709;Population Density (Persons / Square Mile) 2000
+052e863b-afdd-4a95-9d62-047947b6ccf0;ecb54df1-77c1-43cf-bc7f-f4def386546c;Hydraulic Head, assuming lower water density (m above ellipsoid)
+8ca4556e-d4ec-476c-a9c5-073925fec3bf;ddbec111-a991-492e-8014-828d930aead3;Density
+649a8830-348e-422c-9322-67fdf63a37b3;3a594ef0-c533-4e46-b805-096b1b892704;Street_Density__st__mi_area_sq_
+316cf241-73e6-4e43-8823-7ead1ae73cab;8c541948-e9cb-4bd1-a531-230972e239e7;Population Density 1900
+205ed4bc-2f88-45bf-964f-f0f5e5a9db69;0c775c2c-9517-4caf-9171-3ad581163776;density_of_24h_asl_lessthanequal_5miles
+660ceaac-7cd9-434a-9a54-0e82c15bc51e;461a3c87-8c46-48a8-b58b-7458f162d0e5;Population Density**** (persons/ sq. mi)
+3b25e41e-fc6e-4f38-92a9-db8616188822;079be661-40e8-4444-8714-8c6c1a7f43d5;Density
+586ecc92-e7ec-4b07-9cdf-4fa70b7fcb0a;1eabae02-b801-4d0c-9220-09c79fe727d5;Density
+96c82f96-b2cc-47ad-8c94-8e368d8d6780;fb95e6be-58d6-42c5-8207-d63f442a495b;Density Anomaly (g/cc)
+e0e513bd-01f6-43dd-a4f3-16590c686b9a;bcb113c0-834d-43c9-b8af-f883a4a3887d;Density
+1cf07054-8055-4120-9d79-eaa6a1b4e08f;a8404caf-c95a-4b31-bfa6-e3fc345df411;Page Views
+94b15082-9032-4eaf-95bc-1774e7b51c7e;64fb6891-ff1f-4393-a852-6c197ae07ff3;AGENCY #
+cc77aa30-0cc9-446c-8aaa-5729429bd94f;f7e5573a-b2ae-46d6-9670-8a0d9f1b5630;Youth Served Age 0-17 *
+ea3404a7-f49b-43e1-8252-1d613a786d5c;40853090-bde7-46aa-aaad-75b6f7a88817;Voting_Age
+e1452e00-ceb6-4901-816e-a361ac8c6d5c;06cb0454-4766-4501-8e81-4bcb06c01f29; AVERAGE SALE PRICE
+d7fc1187-f6ee-494d-985d-7898b3f74aea;2eb52f27-0728-48d7-9a70-b183342a477b; Management of companies and enterprises
+90cf6e64-dc39-4d81-a683-47e3737c9338;f1187ada-e407-49fa-be63-2794ab1ba6e4;DEEDPAGE
+907c7636-2a9c-49a2-9205-2db03cde7cbb;021cb72f-b62a-4d98-811e-05d17ff6774a;Package Size
+2189d6ea-e562-4a16-9252-9535fe3bffdf;e19afbf9-9701-4cee-b882-44d84c0a5b8a;Median Age at Death
+12bdb0aa-64c3-4430-a4ec-fa579ceb028e;a168a165-572d-4946-8918-f2c108e8e4b4;State Supplement-Aged
+381b13f3-787f-4be9-9feb-668abf232a94;34425c4d-62ce-411c-8fc1-343816640c67;Arson Structural Value_Damaged
+a5d82e1c-aa4a-479b-a0f1-c9c8ab16f485;75a4c455-375b-4419-a330-101cd236a230;involving Property Damage
+028a15b9-fc39-499e-8324-c59d4caeb597;dd176e1e-6b22-4f1a-9a06-47a1d97b17a3;Page From
+e1492810-eb22-482d-814c-15d2cd65b2fa;d9266e11-73fa-4e26-8f4e-cbe96d7958b4;Agency Number
+c1abc1a7-7b50-4702-8607-def6fcb3665b;1dbed5f1-4e0a-4209-8922-fbb91e5cbca0;Preexisting Zone Employment(annual average in authorization application)
+9306269a-6f74-47a4-bf25-3c8dd5507924;54190e3a-5996-4c75-8f65-6728e46b5a76;Agency Number
+3a49e041-2901-4da7-bf97-211a9ce08780;56072c69-7a83-466c-86ea-46836ba93d9a;Average Age
+c4bcc81c-96cd-4ab2-91cc-e7501c5ca77a;83a5fb7c-8846-469e-8dad-5923bfd53acd;Age
+f8624895-1a45-4d13-95e0-fd31decc96a3;9d326a18-e888-410a-b9aa-e82302dc20a5;Average
+5210ac02-3e3e-40a8-a447-37d5890341d5;be61172a-7df3-45aa-873f-efe1c8bae43c;AGENCY #
+c8c142a7-f691-48c0-8213-b8429b180bed;f62fb65f-844b-4b47-9434-e8d236164dca;Hagerstown
+57996cf0-36d6-40db-aeb2-2c9ffa1e58c2;11058e2b-2d30-4d2b-998a-9dfaa6aa693f;Population age 18-64
+d6c998d1-9347-4bc4-97fe-eaa2da305e9f;90ab23dd-95eb-4429-9614-45ef013ee3b2;Age
+34955404-17a7-45f0-b010-5f966e3d0d7f;e01146d0-867d-4644-a54b-784e8ec15715;Square Footage
+07ccd1de-cc40-4ed8-bf08-0421059c51ba;e38a409c-e019-48f8-88af-708eb71d0523;AGENCY
+06e7a5c4-9547-4e24-8415-0581abbc4e02;26ff6683-6814-43cb-b390-8544dff1f1ad;Current Age
+fab7a301-8117-4db3-bfb5-26c3f38e6b2a;1caec02a-0f77-464a-808f-5fa99d4c749b;fiscal Policy (Three year average)
+1cf6f64d-b5a4-4c75-906a-4eb5682f9355;e43cfee1-68e5-487e-8c76-566147e3a818;In-District Response Time Average (minutes)
+e4cbb7ec-c435-43a6-8b32-0798cd40a93c;802d38b3-ca58-4d30-a9ce-b0756a8e912b;Average Number of Children
+f966c7ba-4e3d-4360-a740-b341703884b6;3bbde8c5-3552-4448-9601-5f309a63c5d2;Square Footage
+c36b9de5-f12b-48ba-a42f-13f6e4d647b6;7a0f6aed-a808-406c-a0da-65eb3e695571;Acc_Average
+b56ca710-860c-47d2-b434-b504b908af82;114e60ff-1303-49d0-9fad-a17a0adf51fa;Issued For Agency Number
+fd5c1c40-6f26-4b9a-a057-47570a2b59ed;ab4fd573-8b64-4379-908a-b3a9d4d0561e;ACREAGE
+d267d6e1-a5d3-4f9e-9a8f-2cc51745e716;ba9dfe4f-6919-4c1c-aa07-ffc3472a8f89; Management of companies and enterprises
+d0efd4d4-f33e-4cf5-b379-496e0b25b5ce;01a281d5-fc94-4284-b692-6d7d9be35ca7;F/R Breakfast Program: Average Daily Participation
+8ad3eab5-14ce-47e8-83f1-cdd389ceeeb3;99fd98d4-9396-4b5a-9062-6e22b994a8cc;     Fuel Usage - Diesel
+ce782cf9-324e-4f08-8989-98908c6b9bd5;dabbf3eb-c33c-4457-8784-d87bde9f3156; Management of companies and enterprises
+1bdc422c-30b6-486d-acc3-e0e91ea34c22;3280ae1e-2913-4111-a77c-e3391cb09fac;Square Footage
+b36dd776-3e56-4727-b49e-02f93455e6ea;4fde5bc6-6966-4d2f-8681-72f632be7ac4;Agency Number
+26bb2e3b-988e-4ae7-baab-18635eec317d;12b54319-4e5c-46a4-9843-6192add2cf34;Officer Age
+c95bbf20-0505-4ed3-bb98-1671ffbb5fc1;da44fd57-09fd-4ea3-b746-fac5ee569cfb;Pageviews
+6a43df66-dd7a-472f-a622-1a87d55a8178;2b43a3b4-71c1-4ce3-8278-774fd80c8ec6;Average Household Size
+a0d010db-404c-425b-8891-d2de952f25cd;6963db12-08ff-4922-8a6e-180ed2815065;Voting_Age
+4f9d8c3c-2692-4d36-be21-b814c1641068;a34576c5-6242-49ef-a246-f4760fc76eba;AVERAGE CLASS SIZE
+d7cfb20a-b450-46a1-a6f1-b199ef1b5363;d7861a0f-cc6a-4528-89fb-1eead1bc59a2;Average Duration
+538a9db6-db25-43f0-969c-c26077d1a9e5;c1cbd261-61b9-4893-8b40-1dab510257f4;DRAINAGE_I
+2bb9042b-aa83-4d72-8589-47b89cf36212;d04ea309-7e7a-42d7-80e8-c22895eb5e4a;Cited Person Age
+e4231098-001e-47e7-bf96-dc50b913a5c6;9b4c471f-fe54-49de-8c10-f637a4f4421b;Package Size
+897fecd2-6f19-4273-b57a-4af26e177e75;c94f1f77-09ab-48d0-889d-e15bab2d6e70;Fuel Oil Usage (MMBTU)
+e8ecc43b-423d-4901-9a1e-227a3f0b6e00;cc57fdeb-70a2-47e5-a827-3cedcb327e07;disk-usage
+e0042f28-b209-4841-a414-5c8b81bdd1b4;7a68064d-1e2f-4fe2-9180-c620c745bbad;Acreage
+0686a712-e2c6-4327-93db-112fec55fbbd;92eed4c6-ec15-4e9b-b720-1b7abf4157eb;Marriages
+9f3e0bce-9a17-4ac0-a671-4bdda2f040e5;19834f8b-d1a9-40ea-89a6-2fe27a1356ee;Sample_Size
+5181edd4-6eb2-4821-9351-9897fa9c9fdb;21334df5-1652-4d1a-8635-772be6516f2a;Sample_Size
+f50b60f8-4219-4503-a21a-f57e08d43dc4;1a4d3263-97cb-4a85-b84c-69f55b62de56;AVG CLASS SIZE
+57a3cf9d-75c8-4348-abb1-fd74b951b616;181b7956-c992-424e-9cb1-8d2a33943401;Sample_Size
+891cbc4f-1cac-4343-a70e-f4cb1ba79f76;e042069c-df82-4345-87f3-1ca017e8474f;AveHHsize
+41bed05b-9691-4418-b9dd-dad58373b67f;4c680319-9882-4b5d-b1b6-0931fde6b0ef;Assessment Unit Size
+6b204c4b-fdca-42b1-ba94-8012a4256753;67e436c1-9622-4441-b486-1b1a88301dc3;FSIZE
+fc78103e-681a-4f43-9cb7-5ef858a0f75d;eae598ef-7c69-4a11-842b-15e63640739c;Sample_Size
+670767a1-3042-4fe4-a69d-f19fdee9a04e;bb67aeea-ce6d-4f91-92fc-c7688132a07c;Sample_Size
+b2fec698-9283-4a3d-abe8-504080ca7841;1f8b6397-9834-420d-b342-f76703207b5e;hhsize10
+8902c800-77b5-453d-8fbe-f538b9e0358a;36da5a11-05cd-4ec3-abcf-048f49bc15d2;Sample_Size
+165718a7-20cb-4d91-a492-603a4ce17fcb;e4ed0523-3277-46f4-b68a-17d90c5254a9;Sample_Size
+a41f4f2b-628a-4d12-bddf-292585332fd0;8669cda2-414f-47cd-857f-26441cdb17e9;Sample_Size
+e2b85a81-c090-48d3-8362-0399644b501f;c8d9bf3e-34da-4915-b895-8064516c0fa4;Sample_Size
+bee79129-2856-4769-bae0-2c0385ba61b7;127ca8bf-53da-4542-b1de-f43285cdabbc;Sample_Size
+0b22e9f2-72a7-4ed7-859c-6d71cd81171f;2a5669e1-415f-454e-bc8e-53e1af10f40f;Package Size
+92a6d09c-d46f-494c-884b-4245c37837b3;4c489103-7001-42aa-b9eb-14dd092448d8;SIZE OF SMALLEST CLASS
+10dc39c6-822b-4db3-9e35-c8e94a296eb2;8a178941-210e-4203-b0b9-9407bb1151b7;Sample_Size
+3b9cadb8-ed46-49e5-bf57-279ab8c6bebe;929bda80-778e-48d9-9e53-db19ff8d4b2d;Average Hshld Size
+8764b65a-b4c8-41e5-976b-7fd13bb2752b;7a04bfd4-0341-41cc-9eb2-55d149b8cc38;Sample Size
+687b4625-6fa7-434c-a5e7-b27320d04412;0d482739-7f76-40d0-8322-6f1b404d10de;AVERAGE CLASS SIZE
+149796a4-f6ff-48f3-b02e-cb14251677dd;3857a2f3-8671-402f-9e15-2060b8e90075;file_size_(bytes)
+57a09b8a-405f-4b81-8b5a-63de2d81fdee;45de2811-5d9d-4456-b73f-bc90c6349751;Family Size (1 ind.) Monthly Income
+5b9e0a17-a655-4219-bf8a-e8e093deba03;bb8ca49f-a234-4771-b6d5-bc54073824f9;BENCH_SIZE
+641bd630-f9d6-4d32-9333-615e6b5f6881;e15ba03c-c466-4034-ac65-c4a4743fbe25;Sample_Size
+f6b4bc51-c141-48d9-9625-f9c687146cc1;30f84629-0244-4025-ac70-c2014f69bdf0;Package Size
+5a3a90a9-c5a4-4a98-ac93-e5de91f050b7;16a0a966-fe6c-4d3c-b8bc-c959cf8762e6;Package Size
+199bdd07-23ba-44a9-a319-1a2e70d62133;beb72ed8-e595-4a51-a085-952c101c899c;Size
+28411485-ac2c-4017-8e68-5a9298ad69a3;f1db42a9-a112-40e4-8d08-06246cdc7a93;Sample_Size
+c627c3c9-ef7a-4de6-a26d-04e9f5deaee3;c9cf0719-c4f2-48ec-a1c8-0348e26bc1fb;SampleSize
+7736abd0-c1ba-44c2-acff-33ceab8bbc2e;2f3daa6a-f47c-45d7-b130-1f355530fc05;GROWSIZE
+cde600d8-d3d7-4b2b-a223-bba570f3cfea;f9d4fb58-e9a0-4142-ab21-449068b6effa;Average White Family Size
+72a9bd80-8500-4744-83d9-a210ae11fdd1;1fc5126f-612a-4a74-8c83-aab3461b8f71;Package Size
+b242d4f6-9b1e-4e91-a07f-8dfd9cd5fd95;d4efee6a-4a72-4bec-906e-a48af35d2fa1;Sample_Size
+22c25096-2ab7-40a6-bf65-10b6c2a7f802;4b5287de-e749-411b-931c-8245718d62ab;SIZE
+d74eeeb1-6b65-4be3-877f-b87386f92123;cf5b649b-c6d8-419c-9c40-1a8c2c0d80a9;FileSize[unit='byte']
+8aae5a7f-eae3-4ffb-b9dd-6cece0d446ef;97a6e48f-1c5a-4cb7-89af-cf50af3bde64;Max Class Size
+25c5cbaa-90d5-4ad1-acf1-49b2553b7b42;d3fe8b0b-4105-4e3a-a378-f8846e499305;Point Size
+a7e11742-efd9-4c9d-a33b-7f2ac8f16b88;33c1b391-733a-4420-9661-619b2689e0ca;hhsize10
+b1ade5ec-6c33-48bd-9c92-4507a08843c6;c7d0f83a-f27a-499e-951b-40be46efb5a8;Package Size
+2b747aa6-b2c2-4cb4-80f8-409a2ce571ff;e3bf94f9-124e-4911-bb97-f5bba5a7d978;Sample_Size
+8aa49c7c-3d96-4052-80dc-b75263f1d954;e07f0df7-4fc5-4d34-a439-deb3000d3073;ScreenSlotSize
+a0d6c38b-93a2-4a60-8651-a870cf07583c;0b14a8ad-f2dc-4ce8-be0d-47ab8eed7ec3;Sample_Size
+832b3477-66ca-4817-adbe-e747ec152fcf;6c713693-2c0f-4ab8-8997-2443cfd2a7f3;size_mb
+236972ea-9104-40c8-850a-971cf8aac73c;a8e6b202-fbd0-438f-9b2e-1710e8d83cc4;System Size (DC kW)
+f04a62dc-67e3-4927-88f6-86223b7ace2e;640def40-20a3-44cd-8ae7-3fb1a71b261a;Sample_Size
+d9b12ca5-cf71-4b49-81fe-e4a5ec268f38;4fa2cfac-a43f-4c7d-bf7b-f3fafe3f52bf;Sample_Size
+197ea083-b432-4c78-811f-28699506a5d4;865d4476-2555-44db-9ef9-fea19c85bb96;SampleSize
+42be5be2-5fa6-4754-a949-a441721c7729;3dbcb42f-b138-49e8-8bcf-4197691889cc;Sample_Size
+6461a258-0bbf-4a0b-9137-2a54a8f2aec3;43a7a1e5-faa6-413d-b042-8ee085ee0562;AVERAGE CLASS SIZE
+9fb8899f-e024-4582-af54-5698de492ab8;eb5d107d-a741-42b1-986d-67b187b15f40;Package Size
+81ac6ab5-d839-40a4-8b38-2c1c3b41e127;dc9af6a4-e706-428f-819a-e4db5489430a;COURT_SIZE
+c2602ab5-24f4-452e-a3ee-1e171316c4f3;0d8bed7a-9f8b-4761-9d32-c4c723ef7e3f;COURT_SIZE
+1f718530-1fbc-4a76-b415-3d7279cc0990;38115116-c32f-40d7-9371-3863e3facb34;lotSizeQty
+ec129027-ceaa-41b6-a9d3-09cd915b6728;536e1abc-c73a-4694-83c5-71e8bdf13fd3;Sample_Size
+eca876f5-a494-4edc-8588-4d2265e5fd17;6f053779-e64a-4be7-9aee-17a3d99067fe;Sample_Size
+7cd57728-4836-47b5-99f5-cbb8b40e9663;291828d6-69ce-45ce-a3c7-1242a517e768;Average Household Size
+564d6a31-9017-45a3-ba3f-bd78ea9e577f;493f5722-9fbf-4e57-9252-3808903a993e;INCREMENTSIZE
+fe6b591c-af4f-456d-b979-85774b47bcd8;63825461-d1ee-4ba0-bc22-22a3c6a687ed;COURT_SIZE
+9dbccb6e-ef3f-4b54-af59-928956e72b48;22c49582-10f6-471a-b9af-2fa261e2b7a6;Package Size
+6fa79d2d-de47-459d-9496-832a8b39436c;c0f02130-91b2-4019-842b-5fb97ad56b9b;Business Type / Enterprise Budget
+2b16954c-db1e-450f-9868-5cde095f0d16;96ca1b77-0b06-4ac8-9a26-0e2e32c14cea;Alternative fuel/technology vehicles
+cbd29cef-f95a-4014-a10f-4b5a21c72120;b2ce2a71-ce76-4c17-afff-21b9c863a79d;Annual Energy Use (kWh/yr)
+cedbe98e-b049-4e83-b0c2-e3c1d7a38bcf;5f4c87e1-5eca-49e4-81d6-9784ff94420b;Fitness Trail/Miles
+d7425428-2083-4b72-9d7a-d35ea8a2a086;84341f3d-1496-4618-9933-191ad3d84fdd;Trend (cfs/yr)
+80f80d21-b331-4838-bb9a-0a58ecb21d3f;f8bb734c-a771-4630-aea5-26218c1c10df;Number of Settlement/Status Conferences Held
+29f2dc3c-3dc2-42cc-90ac-1f32ea15dc08;72522570-8b3a-42e8-badc-7807aa98a446;Black/African-American
+cd0f9676-9139-4d66-af96-c943f3095c29;a9981b99-0514-49ea-945a-380da505f1e1;Application/Permit Number
+381b13f3-787f-4be9-9feb-668abf232a94;34425c4d-62ce-411c-8fc1-343816640c67;Robbery Gas/Service_Station Offenses
+5a16a3a5-af1c-48f6-8aa1-b7d748b5a7b8;e1eadeee-c2ea-4097-92cb-735b00d0a67a;Regents w/o Advanced - n
+e7f030ba-dec2-43c2-89cd-eb1f8d3e2cd2;38236e75-9d9e-4f1b-a929-4730eb7c7221;Visitor Center/ El Tranquilo Gallery
+a5d82e1c-aa4a-479b-a0f1-c9c8ab16f485;75a4c455-375b-4419-a330-101cd236a230;involving DUI/Alcohol
+8e15076e-8e54-493e-8865-c49a6e24b0aa;d06f0af0-f048-4b23-afcb-43c34e95bade;BSI/100 Pt. Months
+00c0a3e3-7f57-4d41-a1cc-c8cf3a847b28;efb16cbe-fc0c-4abe-947c-bf8e0229a884;exCa/exMg
+3a49e041-2901-4da7-bf97-211a9ce08780;56072c69-7a83-466c-86ea-46836ba93d9a;Black/African American
+21d1694c-3463-4eb6-812d-aaf021c9daa2;1dac5c53-3623-4e12-b1a5-1633debb362c;Building Name/Room Number
+e4cbb7ec-c435-43a6-8b32-0798cd40a93c;802d38b3-ca58-4d30-a9ce-b0756a8e912b;American Indian/Alaskan Native
+0828551b-2e4f-4f82-a18c-4558ae1dccbd;88d4e9eb-de53-479d-b36c-a60fbce2b0ad;Asphalt/Concrete mixed
+74f4332a-08e0-4fb9-b1e9-9d8f46e3d529;a0721d4b-ccce-4e8f-bd90-e5ce8620ee4a;Population/Stock Number
+04172a57-690f-4e72-b8e5-7a6bb6570b04;cfed4b9d-5ea9-4a22-9844-826fc563c5e5;Typical Electricity Consumption (TEC) (kWh/wk)
+d0efd4d4-f33e-4cf5-b379-496e0b25b5ce;01a281d5-fc94-4284-b692-6d7d9be35ca7;F/R Breakfast Program: Average Daily Participation
+03b1253b-265e-4967-b253-6d0fb735e590;0550b6cc-ee6f-4ce8-8aee-a65780911b9c;FY 05/06
+e79ea122-a0d3-401b-9966-1c5b4c15533d;9ab22084-35d2-4bca-971f-d1b327f8caf2;FY 10/ Actual
+1344f01d-8c5b-4e62-bf00-13f2e1b4e892;dc6e4970-ef71-4120-ba0c-a70360c09183;Avg Global PSP (therm-zen cor) [W/m^2]
+1d679ce8-a52a-4a10-888b-659746be3df0;129c6328-0890-4047-8bf2-ca88b8b4117a;AVG NO R/R PER APARTMENT
+1e2e4d3a-09fa-4d5c-83dc-c09dcc1fa153;62287207-c00a-4d27-83b3-8a85f056582f;NUMBER OF STUDENTS / SEATS FILLED
+e83ccb9e-6a33-4804-bdc5-ef596cfccf38;f9c333ad-ae4e-4dd5-a7fe-10fc501b979d;Seller/Purchaser/Tenant Postal Code
+c10fc658-a8ea-4517-9619-fae3e3e8aef3;4450f124-5b66-4709-a1f2-dfd6ea72eb32;Number of Patients Included in  Kt/V Adult Hemodialysis Measure Score Achievement Period
+cda05048-eef9-40e1-a88b-37e378b53902;347dd988-10d7-4d59-b325-fe5208308bd4;Award Number w/Amendments
+72d09979-5f36-47b6-8e87-6abd3a8e536a;c39e7ba6-2b77-4a0d-bb15-5fbb5659924b;M/V THEFT PER 100,000 PEOPLE
+c0c7a715-4df8-4225-a7f8-2267e8b78ed6;0c83d4ff-308f-41fe-90ad-bd0edb0a0e64;Estimated FTEs 03/31/2016
+7a131ced-1010-4484-a6f0-118bb59e011e;6fe1a433-c6e5-4811-9c9d-525385a0c179;Senior Citizen / Disabled
+03bf6554-9bb2-456f-837d-b2c9570c9edb;18b55cca-4f00-4451-87c8-977538b7874e;No. of Cluster / Spec Rms Reported +
+f33e00ef-eec5-4015-a00d-e9c8463af7b3;dca1eba4-e0b7-4562-8348-4ee7e28d4d36;Result TTHM (µg/L) (a)
+58cb3b7d-f234-4509-ab4b-2acf5cdd4bb8;2f9cc329-bea7-4855-aa5b-bcd4726ed8c9;Award Number w/Amendments
+d2567626-6d9b-4091-adef-8cb49fde0724;63fe781c-1146-44b9-b22f-d85d8df2d68f; u (true east m/s)
+eaacbb8e-4ad0-49bf-972d-2b4b73680ee8;db96e4b8-ef3a-4c5c-b446-51f11ff5fe30;Affordable Units Produced w/ Land Use Incentives
+c41d0776-48ac-4e35-8027-b6ed5e0cea10;dc4b17c0-0298-4aa2-8af0-2b2e9d36d84f;July 2015  Infant/Toddler ExemptProgram
+2629b6a1-c3c1-4466-b27b-0041ea2f96b8;d54ef649-1099-49c3-babd-30a4a419a425;Event Contact Position/Department
+2bf24efb-2dba-4075-98c4-f6f049f5f0e9;735a1d66-42b7-45a6-a561-34a12497ed56;Award Number w/Amendments
+b1cca0b4-6f49-43be-bb94-f337517c50de;5739ab49-c4f4-425f-89b9-0d9471b9e438;BLOCK/SQUARE NO
+37f1921e-4d43-47e8-97ba-49125db5084d;a5e39a42-d955-43dd-9f2d-1d3392c42e4b;Adult HD Kt/V data availability code
+b1f499c9-03cb-4d47-b29f-d8f863c0ef99;971c1b46-cace-40b4-9513-c0bbfe2808ee;Event description/details
+662c8be9-c136-43c2-bc0b-2139611dd006;12e4721f-4d5d-4c87-bc11-5e425411f1af;CTD (conductivity, temperature, depth profiler) Top Dissolved Oxygen (mg/L)
+c376fb7c-fc7b-4cd2-b8bb-5cc0efdc79dd;52f6a2a4-ed7a-4200-9079-94902f1f1fc2;PS/IS # BLDGS
+8dd7f38a-9781-4666-8791-3bc05ffc1d23;29344f65-60f0-4c92-bbf0-d2b92eaf83aa;     Restaurants, lunchrooms, delis w/o beer, wine, liquor (BWL)
+9cb87dc4-7546-4bfa-8e38-1883f99fd212;9d9a2f95-5a88-4924-a86d-db9047adebb5;HANDBALL/RAQUETBALL COURT
+2366f08e-fcb3-49b1-8db8-2de656201601;e92c1c02-a7ff-4540-9b8b-a7a8cfb5324a;Reported Portfolio Manager Site kBTU/sqft
+1ab7c598-b904-44b2-bdbd-9f5c5ab562f1;44318aef-39da-4a0f-a345-e216556c444a;Trend (cfs/yr)
+67f29c9d-9bdf-404f-8386-a0f9cf4257b3;3152fb23-d46a-4805-91a4-62cd096c945b;# of grads  Regents w/o Advanced
+12dd27bd-4bcd-49de-90d5-d30306c43d17;d483e754-cc08-41e4-9330-f7348eb54660;Service/Good Intent Call
+dee0fafd-ea83-48a2-b137-a5cb6cf3b96a;34bd1669-cecc-4a96-a3a0-5547a6c64e1e;15-19 mcg/dL
+da65ebda-73e4-4427-8359-19fe45ac0c18;5dd18f60-3175-4634-a998-129bfb00ee05;Number of Internal Ports and/or Access Holes
+ce2b382d-ad39-43ff-9bf3-50f5f513c4bb;ea6aa4cc-6c13-4047-bdf4-278828535460;Total PA Case Denials - Compliance Issues / Employment
+f3a12602-5609-4c3d-a55e-b851ebb41dcb;70305206-42a9-407f-b5de-005a15cbf8aa;Percent Other/Unknown
+fa8c39e6-0c06-43c1-bc78-9be260cdc539;bf43453a-5b4a-4976-a01a-44064e0ce228;Ehrlichiosis/Anaplasmosis§, Ehrlichia chaffeensis, Current week
+876baf53-ad41-4e7f-a6f8-0addbfdcddb8;6d0b05f3-c641-4a4e-9a66-3b6c8d291290;01L/R Departure
+eb8656fe-d8d6-40e2-a8e4-bf8524fd5ace;ca50bc3e-295e-4279-9d90-8a19889e7695;10-14 mcg/dL
+ea6f7d92-a515-4a6f-a68f-ba9fe6bc75fc;ef0bc645-e896-4527-910c-f117405518e0;Rate/1000 Unique Pts
+a208ba60-ba03-40d8-9857-53da222703f9;983823f9-0109-4377-85bd-743182a84028;2010 GHG Emissions Intensity (kgCO2e/ft²) †
+356715aa-d3c5-468d-a3e3-8716fee8abc2;bbb3419f-b80c-4363-870c-a413e39beba7;FY 2012 Target/ Projected
+60334525-5e22-49e9-a120-7020b1f7f96b;383aa43f-7cdb-4975-8629-9f19cc5437a8;Exempt for City/Town Purposes Exemption Count
+9f1479d4-d823-482d-acbb-e88f8c6ae18f;1ddcb0a1-e606-471e-802b-6592548455e0;M/V THEFT
+2575d1dd-2164-46b0-adfc-e5c787ade6a2;5377cdc8-0b97-4a4f-8304-39580f1441dc;# FQHC/RHC Users
+a50e2fac-fcbb-44ae-b398-518b36a979e6;024cd358-256f-45cf-9537-b9a62aad4550;ADDITIONAL DESCRIPTION OF SIZE/SPACE (TEXT AND NUMBER)
+8dd886c2-78a6-470f-b80e-fe5649859a51;14809fac-d8f2-4846-a69d-515197fcf683;Bldg Over/Under
+b2e008f4-8ed6-4182-ac0f-26986854aed7;5b0eddda-71ce-4478-90f6-446f5e1c1cae;2011 Site EUI (kBtu/ft2)
+253d4097-5e87-452d-8a66-4e682e97d95d;14d701c7-0379-4ae4-852e-9b5e59994e3a;10-14 mcg/dL
+44863dcb-7d2d-4f9d-8700-b8be1804447f;5cb915da-1d34-427f-af40-6d1e8ee9c97d;Race_Black/African American
+96891d04-b832-4fdc-9af4-195eef5d05d8;0c682785-0658-4e76-a166-3be8da410897;HECO/Oahu
+3ade8bd9-0516-4ee1-8c66-99737d3b324a;58049bbf-b127-4053-8f17-364383bfdea0;Likes/Followers/Visits/Downloads
+6e1519ae-1e23-471d-94f7-ce3cf2410583;432d5099-a991-41aa-8f56-4349f723188e;Hispanic/Latino
+7585f2d3-3c8a-49bd-a31b-919606b2c0cf;5cb3d9b9-1b1a-467b-8249-8db0af9cc757;Total Student 10/26
+4f18e656-e3f4-4645-a3da-16a03ec52531;d50d1967-c3f0-4286-91fe-af446debb75d;Special / Extraordinary Items
+54c4b430-77f4-42d9-a019-5a083655a6fc;203fb712-a64e-4e06-8cab-b3fb0b8d72c7; Barriers Removed/Altered
+48e2d452-476a-44af-a46a-b8ec9edb34b9;a8af7e86-4a8f-4597-b045-7123ae67cd11;City Council Ordinance/Resolution
+4ba87e80-92b5-4536-9871-ee660fcc6a96;ebc8261e-8736-4554-8d7a-b2baf8b80e8c;AWARD NUMBER W/AMENDMENTS
+c9434f9c-0db7-48c7-a7a0-71f7251dfb14;8377611d-f45b-426a-86fc-2839908995cf;Robbery Gas/Service_Station Offenses
+df11da3b-67a7-4644-a358-be9c5316ff2c;cb066f18-e16f-4995-a1ea-1d3aed1f2fcd;Efficiency (Energy Factor) (L/kWh)
+62aaacce-65a3-4297-a858-c530dd78fed0;31e54c3f-4565-4aa5-b4a8-11d70f886799;Barriers Removed/Altered
+16f8583e-52fa-41b4-88e3-17c1bc2570e8;3df74df3-47da-4fd5-a005-10970a845695;Average Days to Complete Rodent Baiting / Rat Complaint Requests
+e29a8ebf-fdfb-400e-b50a-e0721775b814;c254eabf-25dc-462a-9354-de6ebc10be60;Energy Use (kWh/day)
+e45d7510-6191-4b65-a144-db679c14752b;7ed4238d-bd3a-4523-ba4c-b298c51751fa;Hawaiian/Pacific Islander Rate
+2ed0646b-6058-4c10-a346-4376e37f52c9;f5c8c5c0-4454-46bf-b809-2105279e7d71; Actual  Review/ Segregation Hours
+6ca321e5-855e-4017-b36e-632c4682a271;26672480-9942-474b-b0b1-e19a850c4681;10-14 mcg/dL
+5c215e6a-87e1-4f14-a136-86070a58944b;52cd7255-a59e-4698-8679-c89f8bc84c07;Event Contact Position/Department
+ca6ae260-aaad-4bea-8511-808acfcfbda0;ddb71ed2-3dc5-4213-8c5f-0e5741733411;NUMBER OF STUDENTS / SEATS FILLED
+bc439d47-8dcc-43cf-8d1b-2b2e9697138d;c8fe8aac-c7e3-471d-b262-4e84287c6fc4;No. of Cluster / Spec Rms Reported +
+d2e1c2fe-d436-4598-b9b1-203a62d30bda;c675e48d-716f-498d-8c9e-e88097371acb;CF/Ord/Res No.
+b8f6e6c4-7733-43f0-af24-584b3348c9ba;4f3e8451-b008-4723-8ede-3dc62ee0c652;# COMPLAINT NOT RESPONDED W/IN 24
+a9447d33-25a9-47c6-97ca-592e382dfb00;4ed80f2a-c0bc-47a9-b203-dd453b5989c7;Number of clientele (unique/unduplicated) served (Annual-FY)
+750b0ed3-9be4-4363-abd2-60ac1a9854f1;a7e9c437-1370-4bfd-b28a-82cd5b626952;kWh/yr at 125°F outlet temp
+3417f78c-cdd6-4696-8e59-388ab0fcf511;85d47cd1-c25d-4e34-9618-39bf3a36efcb;Infant/Toddler Wrap-Around CDC Spaces (IT WA)
+d2ae98d2-3814-400d-8483-a5cdeac5a107;3e047b71-18da-409f-8875-c34981609e29;Water Consumption (gallons/hr)
+cbd29cef-f95a-4014-a10f-4b5a21c72120;b2ce2a71-ce76-4c17-afff-21b9c863a79d;Integrated Water Factor (IWF)
+381b13f3-787f-4be9-9feb-668abf232a94;34425c4d-62ce-411c-8fc1-343816640c67;Larceny Coin-operated_Machines Offenses
+381b13f3-787f-4be9-9feb-668abf232a94;34425c4d-62ce-411c-8fc1-343816640c67;Larceny Coin-operated_Machines Value_Stolen
+9c1acebe-53a1-4e61-b519-9ffbf6c95226;592690e4-f371-411f-b278-67a8b18a7411;Exonerated number
+0828551b-2e4f-4f82-a18c-4558ae1dccbd;88d4e9eb-de53-479d-b36c-a60fbce2b0ad;Total C&D Materials Generated
+90348bcc-07a4-4051-9750-38010794006d;ca2ea9d3-4da2-4070-9a1f-c72a96ca950c;Exonerated number
+fdd1f528-4dbe-472b-bc94-166df0fad8b0;728a39a3-2079-4b71-9057-cf74b379c6b0;Generated HUC
+dbe74c8c-651c-4c28-aedf-e768823d5939;a8726881-07bf-49fa-a19a-27517bbc4c89;Exonerated number
+472e338e-65b7-4947-977d-0716dee51676;4e671041-c95b-4474-a06c-e4d01316b4ff;Resident Generated
+1643cb2b-b88d-4ef9-bc54-c41ed7eed131;124e9a76-6c10-4281-aa72-7edddeed25db;Exonerated number
+c9434f9c-0db7-48c7-a7a0-71f7251dfb14;8377611d-f45b-426a-86fc-2839908995cf;Larceny Coin-operated_Machines Offenses
+c9434f9c-0db7-48c7-a7a0-71f7251dfb14;8377611d-f45b-426a-86fc-2839908995cf;Larceny Coin-operated_Machines Value_Stolen
+b1bbb133-722c-478f-b50a-511d98d3502f;d7c4e825-4ba3-4eaa-b5aa-79408dbe8fa6;DOC_ID (automatically generated contract ID number from FMS)
+e29a8ebf-fdfb-400e-b50a-e0721775b814;c254eabf-25dc-462a-9354-de6ebc10be60;Refrigerated Volume (cu. ft.)
+2b827488-0a92-4861-af33-d08593400131;c4d59bcb-c2fa-4337-bbc4-9802cd356b00;Larceny Coin-operated_Machines Offenses
+2b827488-0a92-4861-af33-d08593400131;c4d59bcb-c2fa-4337-bbc4-9802cd356b00;Larceny Coin-operated_Machines Value_Stolen
+c3f96e40-92ef-4544-8de6-7dea3b6baca0;e80bef66-ddeb-4f0a-bf4f-38dda6a026db;Separated
+9d12b258-aece-4abc-bed8-0cecadcde3c8;3ba1fc51-2dd8-4ba9-af8e-f0a2f3d50977;Agency Operated Boarding Home
+adf71f31-b20b-4973-bdab-6c17eeb137c5;b7b2f2cb-a7b7-4507-9ba7-c46275fc4fb6;Exonerated number
+d2a9484a-ad9b-45f8-abeb-6f18cd40fe6c;db282e39-a3f1-439d-b7aa-217a1d1c7f5a;Integrated PNI Goal 
+d2a9484a-ad9b-45f8-abeb-6f18cd40fe6c;db282e39-a3f1-439d-b7aa-217a1d1c7f5a;Segrated PHOS Goal 
+c0fb418e-75e4-489a-887f-0875989942c8;70593735-cbdd-4b79-adb9-912ca724a26b;Exonerated number
+4e3009d4-371d-40e5-baaf-716abedbe614;39ab24d8-485c-4987-bc3d-8bcf5cb7c710;Larceny Coin-operated_Machines Offenses
+4e3009d4-371d-40e5-baaf-716abedbe614;39ab24d8-485c-4987-bc3d-8bcf5cb7c710;Larceny Coin-operated_Machines Value_Stolen
+6e88e7d3-278e-4e1c-87a9-b6cf32abcc0d;1e7e98ba-9eef-437f-b7a3-e35861afc6ce;Exonerated number
+556430e5-7981-4303-a0d5-1ec3b0c6da7d;36b53b07-3e65-48f0-a1ae-c679f021f926;business_operated
+92a51287-63d7-4746-bfd3-810f2a4b0b6c;aa07260b-5e75-4d5c-a647-fa8942494662;DOC_ID (automatically generated contract ID number from FMS)
+4b07d949-e872-4581-8e83-de4eb2afd0bd;eed42228-bad7-40bc-929a-1bb4da558295;Exonerated number
+67db5a40-4940-4a62-ab75-094279bde69a;0af0dead-a9b9-444a-8761-722239fa54b5;Exonerated number
+2cd9d74b-b857-401b-9a89-0cf831488b9c;d985d61b-6bcb-4a89-9bc5-dabf3b81b5c0;Exonerated number
+b3265871-2f18-4034-965a-faebc2de4a43;4a1650f8-92bc-4597-958b-8d3cfe9e2e0c;Larceny Coin-operated_Machines Offenses
+b3265871-2f18-4034-965a-faebc2de4a43;4a1650f8-92bc-4597-958b-8d3cfe9e2e0c;Larceny Coin-operated_Machines Value_Stolen
+577019c3-66d2-49da-a141-a1ec844c4883;952f1c84-f688-42a1-be66-fa661267c84d;Exonerated number
+a60ed30b-a959-432b-8639-376270670ff5;5775915d-3cb8-4016-a850-59a82f6bf5aa;CHP Power Generated
+97933c6c-8a76-493b-a63b-6a4887ff0417;f6324ff6-0fe4-4d2f-9f60-163ed73bf7c7;Selfemployedworkersinownnotincorporatedbusiness
+62ca5dde-67af-404e-a556-f618fa14bd48;daae2eb9-f113-42d8-b883-eb6b1ad3733b;Exonerated number
+e5896edf-2e3c-4612-9de9-c4e375640661;d5fa5bfe-0fd1-42b1-af3e-1347132413b4;Rate
+d16d1738-f51b-4727-98ea-4faebe932f06;89189cff-0ad7-4f66-a557-5145d3e963c3;Star Rating for how patients rated overall care from agency
+6949f956-acd6-4490-b442-4f96be041bf2;fa9ec40e-51ea-4c2d-a55a-88672c311dcf;08 Unincorporated Public Utility
+6949f956-acd6-4490-b442-4f96be041bf2;fa9ec40e-51ea-4c2d-a55a-88672c311dcf;17 Cable / Incorporated
+6949f956-acd6-4490-b442-4f96be041bf2;fa9ec40e-51ea-4c2d-a55a-88672c311dcf;18 Cable / Unincorporated
+6949f956-acd6-4490-b442-4f96be041bf2;fa9ec40e-51ea-4c2d-a55a-88672c311dcf;22 Unincorporated Non-Utility Generator
+dbe067e9-e638-4b93-a82a-70f86f4fc2c5;2928d19b-a6ac-4d55-b394-645cc10962d9;Exonerated number
+54d5c91b-be0e-45bf-a0d3-5d64a20100c7;43cffde4-aa17-400f-8b1b-5adfee0c9173;Exonerated number
+80f80d21-b331-4838-bb9a-0a58ecb21d3f;f8bb734c-a771-4630-aea5-26218c1c10df;Number of Settlement/Status Conferences Held
+381b13f3-787f-4be9-9feb-668abf232a94;34425c4d-62ce-411c-8fc1-343816640c67;Robbery Gas/Service_Station Offenses
+381b13f3-787f-4be9-9feb-668abf232a94;34425c4d-62ce-411c-8fc1-343816640c67;Robbery Gas/Service_Station Value_Stolen
+74f4332a-08e0-4fb9-b1e9-9d8f46e3d529;a0721d4b-ccce-4e8f-bd90-e5ce8620ee4a;Population/Stock Number
+d2567626-6d9b-4091-adef-8cb49fde0724;63fe781c-1146-44b9-b22f-d85d8df2d68f; u (true east m/s)
+91-adef-8cb49fde0724;5ea38bb5-ca6d-4765-8aa4-cb86a79c56a9; v (true north m/s)
+eaacbb8e-4ad0-49bf-972d-2b4b73680ee8;db96e4b8-ef3a-4c5c-b446-51f11ff5fe30;Other Affordable Units (Includes County/State Financed)
+b1cca0b4-6f49-43be-bb94-f337517c50de;5739ab49-c4f4-425f-89b9-0d9471b9e438;BLOCK/SQUARE NO
+662c8be9-c136-43c2-bc0b-2139611dd006;12e4721f-4d5d-4c87-bc11-5e425411f1af;Bottom Sample Par uE/S (uE/S m2)
+9cb87dc4-7546-4bfa-8e38-1883f99fd212;9d9a2f95-5a88-4924-a86d-db9047adebb5;BASEBALL JR/SOFTBALL/T-BALL
+2366f08e-fcb3-49b1-8db8-2de656201601;e92c1c02-a7ff-4540-9b8b-a7a8cfb5324a;Reported Portfolio Manager Site kBTU/sqft
+a208ba60-ba03-40d8-9857-53da222703f9;983823f9-0109-4377-85bd-743182a84028;2011 Source EUI (kBtu/sq.ft.)
+a208ba60-ba03-40d8-9857-53da222703f9;983823f9-0109-4377-85bd-743182a84028;2013 Source EUI (kBtu/sq.ft.)
+a50e2fac-fcbb-44ae-b398-518b36a979e6;024cd358-256f-45cf-9537-b9a62aad4550;ADDITIONAL DESCRIPTION OF SIZE/SPACE (TEXT AND NUMBER)
+b2e008f4-8ed6-4182-ac0f-26986854aed7;5b0eddda-71ce-4478-90f6-446f5e1c1cae;2012 Weather Normalized Source EUI (kBtu/sq.ft)
+c9434f9c-0db7-48c7-a7a0-71f7251dfb14;8377611d-f45b-426a-86fc-2839908995cf;Robbery Gas/Service_Station Offenses
+c9434f9c-0db7-48c7-a7a0-71f7251dfb14;8377611d-f45b-426a-86fc-2839908995cf;Robbery Gas/Service_Station Value_Stolen
+239a4e83-f022-49af-ad89-055ec7f57284;1de0bea4-b7fc-4fdc-a1a7-505183326284;Community EUI (kWh/sqft/yr)
+8e26acb3-a210-480f-a2ab-aa4d01845255;bb54ccf5-5125-4a23-a989-9ba619d0a154;Number of HIV tests/specimens processed by the state lab
+2b827488-0a92-4861-af33-d08593400131;c4d59bcb-c2fa-4337-bbc4-9802cd356b00;Robbery Gas/Service_Station Offenses
+2b827488-0a92-4861-af33-d08593400131;c4d59bcb-c2fa-4337-bbc4-9802cd356b00;Robbery Gas/Service_Station Value_Stolen
+416c7939-7323-49c1-9c64-6d2825dd1ccf;229ff972-81a6-45fa-b3cf-cfae80388bdc;Water Use (gallons/sq. ft.)
+ee93689c-2511-4fe8-8c93-153790a4d2c8;e3921bd3-bffb-48e9-9614-2f3395c0aeae;Results Pageviews/Search
+0ea6f7db-45e9-4bdd-91d2-6544f3b7328a;dc08cadb-12f7-4fb0-9fd1-80b49580ea6f;Energy Use (Normalized Idle Energy) (Btu/h/sq. ft.)
+0ea6f7db-45e9-4bdd-91d2-6544f3b7328a;dc08cadb-12f7-4fb0-9fd1-80b49580ea6f;Energy Use (Normalized Idle Energy) (Watts/sq. ft.)
+526808e5-7562-4fed-93d8-b5b3a7107e8a;3b492fb5-26a7-4c0c-bb50-cf6f50095e78;Population/Stock Number
+31bcc2ba-72f4-4006-b028-32c756491ae2;12a7a081-0d8a-4796-88e1-2f2bceeda295;Community EUI (kWh/sqft/yr)
+df101f9d-da28-45be-8f4f-ce9eae72efcc;fe5c37b5-0171-49e9-8090-35de59c540f3;SiteEUI(kBtu/sf)
+4e3009d4-371d-40e5-baaf-716abedbe614;39ab24d8-485c-4987-bc3d-8bcf5cb7c710;Robbery Gas/Service_Station Offenses
+4e3009d4-371d-40e5-baaf-716abedbe614;39ab24d8-485c-4987-bc3d-8bcf5cb7c710;Robbery Gas/Service_Station Value_Stolen
+cf1a5d75-3953-4e5e-913d-3d68a81c3b93;38cef95c-7929-4c02-8d23-879736436699;2013 Site EUI (kBtu/sq.ft.)
+35fe05d2-04a2-4c8d-a68d-c733aeb1d2fa;971bedca-22de-487c-a12d-7637fdbe0360;Site EUI (kBtu/sq ft)
+35fe05d2-04a2-4c8d-a68d-c733aeb1d2fa;971bedca-22de-487c-a12d-7637fdbe0360;Source EUI (kBtu/sq ft)
+35fe05d2-04a2-4c8d-a68d-c733aeb1d2fa;971bedca-22de-487c-a12d-7637fdbe0360;Weather Normalized Site EUI (kBtu/sq ft)
+35fe05d2-04a2-4c8d-a68d-c733aeb1d2fa;971bedca-22de-487c-a12d-7637fdbe0360;Weather Normalized Source EUI (kBtu/sq ft)
+35fe05d2-04a2-4c8d-a68d-c733aeb1d2fa;971bedca-22de-487c-a12d-7637fdbe0360;GHG Intensity (kg CO2e/sq ft)
+5e4a8394-fe6d-4769-a086-fc5ce96caf01;9f234570-30a9-44a6-9b1f-d10d05eb452e;frequency (rad/s)
+04744077-5f7e-452b-a3cb-e674751cf35f;d3f7dc8b-bad5-42e0-be54-57b7f28955df;Community EUI (kWh/sqft/yr)
+aa75f2ca-0290-4bf6-8e84-d850ac398944;8cd8cb2a-0565-42d1-8187-b4534c8758a8;Doctoral Research/Scholarship Degrees
+ef6ce16e-77e1-4bf4-81e5-4b40a6290de9;1599b044-b68e-4ce6-9c4e-99bc091cf399;Population/Stock Number
+2b16e0f9-8da6-40e3-95fd-0e3f028666e9;66a4def1-26a8-41d4-b4ed-c008a0037ff2;Robbery Gas/Service_Station Offenses
+2b16e0f9-8da6-40e3-95fd-0e3f028666e9;66a4def1-26a8-41d4-b4ed-c008a0037ff2;Robbery Gas/Service_Station Value_Stolen
+ea7af7a8-8852-47a6-9257-d5413199997d;b3be6266-f317-4b61-964e-1cf35834fc2a;Weekly Train/Lightrail/Street Car Trips
+d51e4650-e631-4d48-aec9-fccdcd39d488;fb7d2a1b-96a5-4af5-a7d6-a79a61bdb284;Food Stamps/SNAP
+d51e4650-e631-4d48-aec9-fccdcd39d488;fb7d2a1b-96a5-4af5-a7d6-a79a61bdb284;% Food Stamps/SNAP
+5f6ef4af-2725-40d9-9a87-c23135098f32;2ee9934a-1e43-4b00-b5da-08aa9465c626;Communicable Disease - HIV/AIDS: HIV tests/specimens processed by the state lab and other DOH contracted labs
+5f6ef4af-2725-40d9-9a87-c23135098f32;2ee9934a-1e43-4b00-b5da-08aa9465c626;Communicable Disease: Clinical sample/specimens processed by the state lab for microbiological testing
+8ca4556e-d4ec-476c-a9c5-073925fec3bf;ddbec111-a991-492e-8014-828d930aead3;Population/Stock Number
+b3265871-2f18-4034-965a-faebc2de4a43;4a1650f8-92bc-4597-958b-8d3cfe9e2e0c;Robbery Gas/Service_Station Offenses
+b3265871-2f18-4034-965a-faebc2de4a43;4a1650f8-92bc-4597-958b-8d3cfe9e2e0c;Robbery Gas/Service_Station Value_Stolen
+1d7cb4e3-bf86-4ab9-b919-94a17305ce29;3dc0153c-86f8-4a91-9f65-f9e7fc933f62;Calculated kWh/sqft
+255d2933-790c-45a9-a4d8-32b6f4838309;228269f0-74e4-44ff-b2eb-e48127427447;WEP/Substance Abuse/Job Search
+255d2933-790c-45a9-a4d8-32b6f4838309;228269f0-74e4-44ff-b2eb-e48127427447;WEP/Substance Abuse/Training
+fbb477ea-d8ad-4257-adde-0bcfd83712fe;feaeb828-75ea-424d-b7f7-273c25f85294;Professional/Scientific/Tech. Services
+2582dd2d-66e5-4f64-9a0c-927b4d8fa086;b50a1a88-b1e6-4c88-b668-e4a43ada1707;Sick Days/Sick Leave State of Oklahoma
+2582dd2d-66e5-4f64-9a0c-927b4d8fa086;b50a1a88-b1e6-4c88-b668-e4a43ada1707;Sick Days/Sick Leave Market
+f5b56c9a-2180-4e81-8fe2-384016640d0b;15bc23b9-2cc6-40e5-a133-a0a24600ca95;Division/Section
+586ecc92-e7ec-4b07-9cdf-4fa70b7fcb0a;1eabae02-b801-4d0c-9220-09c79fe727d5;Population/Stock Number
+e0e513bd-01f6-43dd-a4f3-16590c686b9a;bcb113c0-834d-43c9-b8af-f883a4a3887d;Population/Stock Number
+582aa970-0de6-4318-a4b7-05f46b44eca0;604ea135-80db-45e2-a3bd-2c1037f6cb9a;Fixed/Shut Complaints
+00ef9d7c-bf7a-4afc-82e5-2b4ecce7eb2d;6a176cdd-b585-4a13-83d2-be3c09649849;Temporary/Seasonal
