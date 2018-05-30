@@ -12,14 +12,14 @@ The structure is shown below:
 
 	|___ data
 	   |___ dataset ID
-    		|___ CSV ID
-        		|___ data.csv
+            |___ CSV ID
+        	   |___ data.csv
         |___ dataset ID
-    		|___ CSV ID
-        		|___ data.csv
+    	   |___ CSV ID
+        	   |___ data.csv
         |___ dataset ID
-    		|___ CSV ID
-        		|___ data.csv
+    	   |___ CSV ID
+        	   |___ data.csv
         ......
                 
 In each of the six .txt files name starts with 'quantity', there is a list of dataset IDs, CSV IDs, and column names that consist of our dataset for training and testing for each quantity name.
