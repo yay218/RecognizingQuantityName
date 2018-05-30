@@ -15,10 +15,10 @@ The structure is shown below:
             |___ CSV ID
                 |___ data.csv
         |___ dataset ID
-    	    |___ CSV ID
+    	   |___ CSV ID
         	    |___ data.csv
         |___ dataset ID
-    	    |___ CSV ID
+    	   |___ CSV ID
         	    |___ data.csv
         ......
                 
