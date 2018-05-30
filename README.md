@@ -1,7 +1,7 @@
 Recognizing Quantity Names for Tabular Data
 ==========
 
-This is the Python code for recognizing quantity names for tabular data.
+This is the datasets and Python code for recognizing quantity names for tabular data.
 
 Prepare for the Dataset
 ------------------------
