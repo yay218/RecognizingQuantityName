@@ -11,7 +11,7 @@ In our experiment, we put all the datasets in a folder named 'data', and name th
 The structure is shown below:
 
 	|___ data
-	|___ dataset ID
+	   |___ dataset ID
     		|___ CSV ID
         		|___ data.csv
         |___ dataset ID
