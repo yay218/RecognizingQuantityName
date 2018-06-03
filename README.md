@@ -29,10 +29,11 @@ Run the Code
 There are two Python files in this repository, first run:
 
 	python feature_build.py
-This process is relatively slow, since it needs to parse all the datasets list in those txt files.
+This process is relatively slow, since it needs to parse all the datasets list in those text files.
 The index along with a message 'ok' will be printed if that dataset is successfully read. If only the index is printed, it means there's an error reading the dataset.
 
-After it is finished, run:
+After it is finished, six CSV files will be created containing the features of instances. Then run:
 
 	python cross_validation.py
+Since we have already provided six CSV files here, this command can also be run individually.
 The results will be printed then.
