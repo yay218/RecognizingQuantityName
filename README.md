@@ -36,4 +36,5 @@ After it is finished, six CSV files will be created containing the features of i
 
 	python cross_validation.py
 Since we have already provided six CSV files here, this command can also be run individually.
+
 The results will be printed then.
