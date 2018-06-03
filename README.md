@@ -5,7 +5,7 @@ This is the datasets and Python code for recognizing quantity names for tabular 
 
 Prepare for the Dataset
 ------------------------
-Since the size of datasets used in this experiments is too large, we share our datasets by providing a CSV file, which contains dataset ID, CSV ID, and download URL for each individual dataset in each row. 
+Since the size of datasets used in this experiments is too large, we share our datasets by providing a CSV file called id_url.csv, which contains dataset ID, CSV ID, and download URL for each individual dataset in each row. 
 In our experiment, we put all the datasets in a folder named 'data', and name the dataset folder as its dataset ID, and CSV file folder as its CSV ID. 
 
 The structure is shown below:
