@@ -1,7 +1,8 @@
 Recognizing Quantity Names for Tabular Data
 ==========
 
-This is the datasets and Python code for recognizing quantity names for tabular data.
+This is the datasets and Python code for **Recognizing Quantity Names for Tabular Data**. The paper can be found [here](http://ceur-ws.org/Vol-2127/paper1-datasearch.pdf). The presentation slides can be found [here](https://drive.google.com/file/d/1tHRPQPCGPon7IhUeJw6lOVkSQ_vRAfyp/view?usp=sharing).
+
 
 Prepare for the Dataset
 ------------------------
